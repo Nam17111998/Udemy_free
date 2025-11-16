@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-16T05:25:51Z",
-  "count": 47,
+  "updated_at": "2025-11-16T06:36:44Z",
+  "count": 48,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-course-for-beginner/?couponCode=1429C21F5E7B38DDF05B",
@@ -10,11 +10,18 @@
     },
     {
       "url": "https://www.udemy.com/course/advanced-excel-course-for-job-and-real-world/?couponCode=069E464199DC00901402",
-      "coupon_code": "069E464199DC00901402"
+      "coupon_code": "069E464199DC00901402",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/advanced-powerpoint-course-for-professional-and-job-success/?couponCode=6E0E56D227FDA48CBF58",
-      "coupon_code": "6E0E56D227FDA48CBF58"
+      "coupon_code": "6E0E56D227FDA48CBF58",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/customer-experience-management-cxm/?couponCode=J2RVIS_5",
+      "coupon_code": "J2RVIS_5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=B069A5FEF9D0A9750419",
@@ -24,21 +31,18 @@
     },
     {
       "url": "https://www.udemy.com/course/graphics-design-videoediting-course/?couponCode=16F769345EB9FC4524C0",
-      "coupon_code": "16F769345EB9FC4524C0"
+      "coupon_code": "16F769345EB9FC4524C0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=FF831BB6F6CD72DAB945",
-      "coupon_code": "FF831BB6F6CD72DAB945"
+      "coupon_code": "FF831BB6F6CD72DAB945",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/master-nodejs-from-beginner-to-full-stack-developer/?couponCode=74E495A7CA6C393994ED",
-      "coupon_code": "74E495A7CA6C393994ED"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/?couponCode=AF48EBC7549120D8768A",
-      "coupon_code": "AF48EBC7549120D8768A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg",
-      "title": "Microsoft Excel Data Analysis for Business & Finance"
+      "coupon_code": "74E495A7CA6C393994ED",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-beginner-to-expert/?couponCode=F3577CD61E6A03F83F1C",
@@ -54,11 +58,13 @@
     },
     {
       "url": "https://www.udemy.com/course/postgresql-for-developers-design-query-scale-databases/?couponCode=6B085C2CD7C54FC71F72",
-      "coupon_code": "6B085C2CD7C54FC71F72"
+      "coupon_code": "6B085C2CD7C54FC71F72",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-excel-data-analysis-course-step-by-step-guide/?couponCode=530EEE706E8CEEBEF18F",
-      "coupon_code": "530EEE706E8CEEBEF18F"
+      "coupon_code": "530EEE706E8CEEBEF18F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-and-pivot-tables/?couponCode=ED7DAC5FA817F526272D",
@@ -68,11 +74,19 @@
     },
     {
       "url": "https://www.udemy.com/course/the-complete-python-developer-from-zero-to-mastery/?couponCode=A22824A5CE7E15C761EB",
-      "coupon_code": "A22824A5CE7E15C761EB"
+      "coupon_code": "A22824A5CE7E15C761EB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/?couponCode=BA1F6623D649897D18DC",
-      "coupon_code": "BA1F6623D649897D18DC"
+      "coupon_code": "BA1F6623D649897D18DC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/?couponCode=AF48EBC7549120D8768A",
+      "coupon_code": "AF48EBC7549120D8768A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg",
+      "title": "Microsoft Excel Data Analysis for Business & Finance"
     },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-professionals/?couponCode=4953FBC7C42C587A7DC4",
