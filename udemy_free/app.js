@@ -1,5 +1,6 @@
 (() => {
   const API_URL = "api/courses.json";
+  const PAGE_SIZE = 50;
 
   const elements = {
     meta: document.getElementById("meta"),
@@ -8,9 +9,16 @@
     search: document.getElementById("search"),
     count: document.getElementById("count"),
     refresh: document.getElementById("refresh"),
+    pagination: document.getElementById("pagination"),
+    donateFab: document.getElementById("donateFab"),
+    donateModal: document.getElementById("donateModal"),
+    donateClose: document.getElementById("donateClose"),
+    donateBackdrop: document.getElementById("donateBackdrop"),
   };
 
   let allCourses = [];
+  let currentCourses = [];
+  let currentPage = 1;
 
   function formatUpdatedAt(updatedAt) {
     if (!updatedAt) return "Chưa có dữ liệu.";
@@ -39,20 +47,30 @@
     }
   }
 
-  function renderCourses(courses) {
+  function renderCoursesPage() {
     elements.courses.innerHTML = "";
-    if (!courses.length) {
+
+    if (!currentCourses.length) {
       elements.status.textContent =
         "Không có khóa học nào trong lần build hiện tại.";
       elements.count.textContent = "";
       return;
     }
 
+    const total = currentCourses.length;
+    const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+    if (currentPage > totalPages) currentPage = totalPages;
+    if (currentPage < 1) currentPage = 1;
+
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const end = start + PAGE_SIZE;
+    const pageItems = currentCourses.slice(start, end);
+
     elements.status.textContent = "";
-    elements.count.textContent = `${courses.length} khóa học`;
+    elements.count.textContent = `${total} khóa học (trang ${currentPage}/${totalPages})`;
 
     const fragment = document.createDocumentFragment();
-    courses.forEach((course) => {
+    pageItems.forEach((course) => {
       const card = document.createElement("article");
       card.className = "course";
 
@@ -88,21 +106,62 @@
     });
 
     elements.courses.appendChild(fragment);
+    renderPagination(totalPages);
+  }
+
+  function renderPagination(totalPages) {
+    if (!elements.pagination) return;
+    elements.pagination.innerHTML = "";
+
+    if (totalPages <= 1) {
+      return;
+    }
+
+    const prevBtn = document.createElement("button");
+    prevBtn.type = "button";
+    prevBtn.textContent = "Trang trước";
+    prevBtn.disabled = currentPage === 1;
+    prevBtn.addEventListener("click", () => {
+      if (currentPage > 1) {
+        currentPage -= 1;
+        renderCoursesPage();
+      }
+    });
+
+    const nextBtn = document.createElement("button");
+    nextBtn.type = "button";
+    nextBtn.textContent = "Trang sau";
+    nextBtn.disabled = currentPage === totalPages;
+    nextBtn.addEventListener("click", () => {
+      if (currentPage < totalPages) {
+        currentPage += 1;
+        renderCoursesPage();
+      }
+    });
+
+    const info = document.createElement("span");
+    info.className = "pagination-info";
+    info.textContent = `Trang ${currentPage} / ${totalPages}`;
+
+    elements.pagination.appendChild(prevBtn);
+    elements.pagination.appendChild(info);
+    elements.pagination.appendChild(nextBtn);
   }
 
   function applyFilter() {
     const term = elements.search.value.trim().toLowerCase();
     if (!term) {
-      renderCourses(allCourses);
-      return;
+      currentCourses = allCourses.slice();
+    } else {
+      currentCourses = allCourses.filter((course) => {
+        const text = `${course.url} ${course.coupon_code || ""} ${
+          course.title || ""
+        }`.toLowerCase();
+        return text.includes(term);
+      });
     }
-    const filtered = allCourses.filter((course) => {
-      const text = `${course.url} ${course.coupon_code || ""} ${
-        course.title || ""
-      }`.toLowerCase();
-      return text.includes(term);
-    });
-    renderCourses(filtered);
+    currentPage = 1;
+    renderCoursesPage();
   }
 
   async function loadCourses() {
@@ -114,10 +173,12 @@
       }
       const data = await res.json();
       allCourses = Array.isArray(data.courses) ? data.courses : [];
+      currentCourses = allCourses.slice();
       elements.meta.textContent = `Lần build gần nhất: ${formatUpdatedAt(
         data.updated_at
       )}`;
-      renderCourses(allCourses);
+      currentPage = 1;
+      renderCoursesPage();
     } catch (err) {
       console.error(err);
       elements.status.textContent =
@@ -136,6 +197,33 @@
     });
   }
 
+  function openDonateModal() {
+    if (!elements.donateModal) return;
+    elements.donateModal.hidden = false;
+  }
+
+  function closeDonateModal() {
+    if (!elements.donateModal) return;
+    elements.donateModal.hidden = true;
+  }
+
+  if (elements.donateFab) {
+    elements.donateFab.addEventListener("click", openDonateModal);
+  }
+
+  if (elements.donateClose) {
+    elements.donateClose.addEventListener("click", closeDonateModal);
+  }
+
+  if (elements.donateBackdrop) {
+    elements.donateBackdrop.addEventListener("click", closeDonateModal);
+  }
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      closeDonateModal();
+    }
+  });
+
   document.addEventListener("DOMContentLoaded", loadCourses);
 })();
-

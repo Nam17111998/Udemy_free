@@ -88,6 +88,118 @@ a:focus {
   color: #ffc27a;
 }
 
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.pagination button {
+  padding: 0.3rem 0.7rem;
+  border-radius: 4px;
+  border: 1px solid #333c5a;
+  background-color: #141a33;
+  color: #f5f5f5;
+  cursor: pointer;
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.pagination-info {
+  font-size: 0.85rem;
+  color: #cdd3ff;
+}
+
+.donate-modal {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.donate-modal[hidden] {
+  display: none;
+}
+
+.donate-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.donate-content {
+  position: relative;
+  max-width: 360px;
+  width: 90%;
+  background: #141a33;
+  border-radius: 8px;
+  padding: 1.25rem 1rem 1.5rem;
+  border: 1px solid #333c5a;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+  z-index: 1001;
+}
+
+.donate-title {
+  margin: 0 0 0.5rem;
+  font-size: 1.2rem;
+  color: #ffffff;
+}
+
+.donate-desc {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  color: #cdd3ff;
+}
+
+.donate-info-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+
+.donate-info-label {
+  font-weight: 600;
+  color: #aab2ff;
+  margin-right: 0.5rem;
+}
+
+.donate-qr {
+  margin-top: 0.75rem;
+  text-align: center;
+}
+
+.donate-qr img {
+  margin-top: 0.5rem;
+  max-width: 200px;
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid #262f4d;
+}
+
+.donate-close {
+  position: absolute;
+  right: 0.5rem;
+  top: 0.5rem;
+  border: none;
+  background: transparent;
+  color: #cdd3ff;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.donate-close:hover,
+.donate-close:focus {
+  color: #ffffff;
+}
+
 .courses {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -133,9 +245,32 @@ a:focus {
   color: #9ba2d1;
 }
 
+.donate-fab {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: none;
+  background: #e0245e;
+  color: #ffffff;
+  font-size: 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  z-index: 900;
+}
+
+.donate-fab:hover,
+.donate-fab:focus {
+  background: #ff416c;
+}
+
 @media (max-width: 600px) {
   .page-header h1 {
     font-size: 1.4rem;
   }
 }
-

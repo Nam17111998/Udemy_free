@@ -29,10 +29,13 @@
           type="search"
           placeholder="Tìm theo tên/slug hoặc coupon code..."
         />
+        <button id="refresh" type="button">Cập nhật danh sách</button>
         <span id="count" class="count"></span>
       </section>
 
       <section id="status" class="status"></section>
+
+      <nav id="pagination" class="pagination"></nav>
 
       <section id="courses" class="courses"></section>
     </main>
@@ -43,6 +46,58 @@
         được cập nhật tự động mỗi giờ bằng GitHub Actions.
       </p>
     </footer>
+
+    <button
+      id="donateFab"
+      class="donate-fab"
+      type="button"
+      aria-label="Ủng hộ / Donate"
+    >
+      ♥
+    </button>
+
+    <div id="donateModal" class="donate-modal" hidden>
+      <div id="donateBackdrop" class="donate-backdrop"></div>
+      <div
+        class="donate-content"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="donateTitle"
+      >
+        <button
+          id="donateClose"
+          class="donate-close"
+          type="button"
+          aria-label="Đóng"
+        >
+          <span aria-hidden="true">×</span>
+        </button>
+        <h2 id="donateTitle" class="donate-title">Ủng hộ / Donate</h2>
+        <p class="donate-desc">
+          Nếu bạn thấy công cụ này hữu ích, có thể ủng hộ tác giả qua chuyển khoản để tác giả có động lực tiếp tục phát triển các phần mềm:
+        </p>
+        <div class="donate-info-row">
+          <span class="donate-info-label">Ngân hàng:</span>
+          <span>MB</span>
+        </div>
+        <div class="donate-info-row">
+          <span class="donate-info-label">Số tài khoản:</span>
+          <span>99868686688</span>
+        </div>
+        <div class="donate-info-row">
+          <span class="donate-info-label">Tên tài khoản:</span>
+          <span>NGUYEN MAU NAM</span>
+        </div>
+        <div class="donate-qr">
+          <div class="donate-info-label">QR Code:</div>
+          <img
+            src="donate-qr.jpg"
+            alt="Mã QR chuyển khoản"
+            onerror="this.style.display='none'"
+          />
+        </div>
+      </div>
+    </div>
 
     <script src="app.js"></script>
   </body>

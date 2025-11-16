@@ -28,6 +28,10 @@ from bs4 import BeautifulSoup
 from cloudscraper import create_scraper
 
 
+# Fallback generic Udemy image if we cannot fetch per-course thumbnail
+DEFAULT_COURSE_IMAGE = "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+
+
 # Ensure we import udemy_enroller from the repo, not from site-packages
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
@@ -189,6 +193,10 @@ def _enrich_courses_with_meta(courses: List[Dict]) -> None:
         if course.get("image_url") and course.get("title"):
             continue
 
+        # Always ensure there is at least a generic image
+        if not course.get("image_url"):
+            course["image_url"] = DEFAULT_COURSE_IMAGE
+
         # Strip query string when fetching to avoid extra redirects
         try:
             parsed = urlparse(url)
@@ -201,6 +209,7 @@ def _enrich_courses_with_meta(courses: List[Dict]) -> None:
             resp = scraper.get(fetch_url, headers=headers, timeout=15)
             resp.raise_for_status()
         except Exception:
+            # If we can't fetch the page, keep the generic image and move on
             continue
 
         try:
