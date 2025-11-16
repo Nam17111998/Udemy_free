@@ -197,16 +197,9 @@ def _enrich_courses_with_meta(courses: List[Dict]) -> None:
         if not course.get("image_url"):
             course["image_url"] = DEFAULT_COURSE_IMAGE
 
-        # Strip query string when fetching to avoid extra redirects
-        try:
-            parsed = urlparse(url)
-            fetch_url = parsed._replace(query="").geturl()
-        except Exception:
-            fetch_url = url
-
         try:
             # Use cloudscraper to better handle anti-bot protections
-            resp = scraper.get(fetch_url, headers=headers, timeout=15)
+            resp = scraper.get(url, headers=headers, timeout=15)
             resp.raise_for_status()
         except Exception:
             # If we can't fetch the page, keep the generic image and move on
