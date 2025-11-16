@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Udemy Free Coupons - Static Feed</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <h1>Udemy Free Coupons</h1>
+      <p class="subtitle">
+        Danh sách các khóa Udemy đang miễn phí qua coupon, được lấy từ các site
+        chia sẻ coupon và build tĩnh để deploy lên GitHub Pages.
+      </p>
+      <p class="api-info">
+        API tĩnh (JSON): <code>./api/courses.json</code>
+      </p>
+      <p id="meta" class="meta"></p>
+    </header>
+
+    <main class="page-main">
+      <section class="controls">
+        <input
+          id="search"
+          type="search"
+          placeholder="Tìm theo tên/slug hoặc coupon code..."
+        />
+        <span id="count" class="count"></span>
+      </section>
+
+      <section id="status" class="status"></section>
+
+      <section id="courses" class="courses"></section>
+    </main>
+
+    <footer class="page-footer">
+      <p>
+        Dữ liệu được sinh từ thư viện <code>udemy_enroller</code> và có thể
+        được cập nhật tự động mỗi giờ bằng GitHub Actions.
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
+
