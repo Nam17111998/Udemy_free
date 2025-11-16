@@ -157,8 +157,8 @@ def _merge_courses(existing: List[Dict], scraped: List[Dict]) -> List[Dict]:
 
     max_total = 1000
     drop_batch = 100
-    if len(combined) >= max_total and len(combined) > drop_batch:
-        # Drop 100 oldest courses (from the end)
+    # Chỉ khi số lượng vượt quá 1000 mới cắt bớt 100 khóa cũ nhất (ở cuối danh sách)
+    if len(combined) > max_total and len(combined) > drop_batch:
         combined = combined[:-drop_batch]
 
     return combined
