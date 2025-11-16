@@ -25,6 +25,7 @@ from urllib.parse import parse_qs, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+from cloudscraper import create_scraper
 
 
 # Ensure we import udemy_enroller from the repo, not from site-packages
@@ -175,6 +176,8 @@ def _enrich_courses_with_meta(courses: List[Dict]) -> None:
         )
     }
 
+    scraper = create_scraper()
+
     for course in courses:
         if not isinstance(course, dict):
             continue
@@ -194,7 +197,8 @@ def _enrich_courses_with_meta(courses: List[Dict]) -> None:
             fetch_url = url
 
         try:
-            resp = requests.get(fetch_url, headers=headers, timeout=15)
+            # Use cloudscraper to better handle anti-bot protections
+            resp = scraper.get(fetch_url, headers=headers, timeout=15)
             resp.raise_for_status()
         except Exception:
             continue
@@ -259,4 +263,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
