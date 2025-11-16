@@ -7,6 +7,7 @@
     courses: document.getElementById("courses"),
     search: document.getElementById("search"),
     count: document.getElementById("count"),
+    refresh: document.getElementById("refresh"),
   };
 
   let allCourses = [];
@@ -55,8 +56,19 @@
       const card = document.createElement("article");
       card.className = "course";
 
+      const titleText = course.title || deriveTitleFromUrl(course.url);
+
+      if (course.image_url) {
+        const img = document.createElement("img");
+        img.className = "course-image";
+        img.src = course.image_url;
+        img.alt = titleText;
+        img.loading = "lazy";
+        card.appendChild(img);
+      }
+
       const title = document.createElement("h2");
-      title.textContent = deriveTitleFromUrl(course.url);
+      title.textContent = titleText;
       card.appendChild(title);
 
       const urlLink = document.createElement("a");
@@ -85,7 +97,9 @@
       return;
     }
     const filtered = allCourses.filter((course) => {
-      const text = `${course.url} ${course.coupon_code || ""}`.toLowerCase();
+      const text = `${course.url} ${course.coupon_code || ""} ${
+        course.title || ""
+      }`.toLowerCase();
       return text.includes(term);
     });
     renderCourses(filtered);
@@ -115,6 +129,12 @@
   elements.search.addEventListener("input", () => {
     applyFilter();
   });
+
+  if (elements.refresh) {
+    elements.refresh.addEventListener("click", () => {
+      loadCourses();
+    });
+  }
 
   document.addEventListener("DOMContentLoaded", loadCourses);
 })();

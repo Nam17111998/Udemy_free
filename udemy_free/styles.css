@@ -104,6 +104,15 @@ a:focus {
   gap: 0.4rem;
 }
 
+.course-image {
+  width: 100%;
+  border-radius: 6px;
+  object-fit: cover;
+  max-height: 180px;
+  margin-bottom: 0.4rem;
+  background-color: #050814;
+}
+
 .course h2 {
   margin: 0;
   font-size: 1rem;
