@@ -3,12 +3,12 @@
 This script reuses the existing scrapers in ``udemy_enroller.scrapers``
 to fetch coupon URLs and writes them to ``udemy_free/api/courses.json``.
 
-Tính năng:
-- Lấy các link coupon Udemy từ nhiều nguồn.
-- Giữ lại lịch sử các lần crawl, lọc bỏ URL trùng.
-- Danh sách mới nhất luôn nằm ở đầu (mới → cũ).
-- Khi tổng số khóa học >= 1000 thì tự động xóa 100 khóa cũ nhất ở cuối danh sách.
-- Bổ sung thêm thông tin ảnh và tiêu đề khóa học (nếu lấy được từ trang Udemy).
+Features:
+- Collect coupon URLs from multiple sources.
+- Keep history across runs, removing duplicate URLs.
+- Newest links appear at the top of the list.
+- When total courses >= 1000, drop 100 oldest entries (from the end).
+- Enrich courses with title and image_url scraped from the Udemy page.
 
 Intended usage:
   - Run locally:  ``python udemy_free/build_courses_json.py``
@@ -27,7 +27,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-# Bảo đảm ưu tiên dùng package udemy_enroller trong repo hiện tại
+# Ensure we import udemy_enroller from the repo, not from site-packages
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
@@ -69,7 +69,7 @@ async def _collect_courses(max_pages: Optional[int]) -> List[Dict]:
 
 
 def _load_existing_courses(path: Path) -> List[Dict]:
-    """Load existing courses from JSON file, if it exists."""
+    """Load existing courses from JSON file, if it exists, preserving metadata."""
     if not path.is_file():
         return []
 
@@ -96,52 +96,76 @@ def _load_existing_courses(path: Path) -> List[Dict]:
     return cleaned
 
 
-def _merge_courses(existing: List[Dict], new: List[Dict]) -> List[Dict]:
+def _merge_courses(existing: List[Dict], scraped: List[Dict]) -> List[Dict]:
     """
-    Merge danh sách cũ và mới với các quy tắc:
-    - Không thêm trùng URL.
-    - Các link mới nhất (vừa scrape) được xếp lên đầu.
-    - Khi tổng số phần tử >= 1000 thì xoá 100 link cũ nhất (ở cuối danh sách).
+    Merge existing and scraped course lists:
+    - No duplicate URLs.
+    - Preserve metadata (title, image_url, ...) from existing entries if present.
+    - Update coupon_code from scraped entries when available.
+    - Order: scraped URLs first (newest), then URLs only found in existing.
+    - If total >= 1000, drop 100 oldest entries (from the end).
     """
-    existing_urls = set()
-    combined: List[Dict] = []
+    url_to_course: Dict[str, Dict] = {}
 
-    # Thêm các link mới không trùng URL lên đầu (ưu tiên mới trước)
-    for item in new:
-        if not isinstance(item, dict):
-            continue
-        url = item.get("url")
-        if not url or url in existing_urls:
-            continue
-        existing_urls.add(url)
-        combined.append(item)
-
-    # Sau đó thêm các link cũ còn lại (không trùng)
+    # Start from existing data so we keep metadata
     for item in existing:
         if not isinstance(item, dict):
             continue
         url = item.get("url")
-        if not url or url in existing_urls:
+        if not url:
             continue
-        existing_urls.add(url)
-        combined.append(item)
+        url_to_course[url] = dict(item)
+
+    ordered_urls: List[str] = []
+    seen_urls = set()
+
+    # Scraped URLs come first; update coupon_code if needed
+    for item in scraped:
+        if not isinstance(item, dict):
+            continue
+        url = item.get("url")
+        if not url or url in seen_urls:
+            continue
+        seen_urls.add(url)
+        ordered_urls.append(url)
+
+        if url in url_to_course:
+            # Update coupon_code, keep other fields (title, image_url, ...)
+            if "coupon_code" in item and item["coupon_code"]:
+                url_to_course[url]["coupon_code"] = item["coupon_code"]
+        else:
+            url_to_course[url] = dict(item)
+
+    # Now append any URLs only present in existing
+    for item in existing:
+        if not isinstance(item, dict):
+            continue
+        url = item.get("url")
+        if not url or url in seen_urls:
+            continue
+        seen_urls.add(url)
+        ordered_urls.append(url)
+        if url not in url_to_course:
+            url_to_course[url] = dict(item)
+
+    combined = [url_to_course[url] for url in ordered_urls]
 
     max_total = 1000
     drop_batch = 100
     if len(combined) >= max_total and len(combined) > drop_batch:
-        # Xoá 100 link cũ nhất (cuối danh sách)
+        # Drop 100 oldest courses (from the end)
         combined = combined[:-drop_batch]
 
     return combined
 
 
-def _enrich_new_courses_with_meta(courses: List[Dict]) -> None:
+def _enrich_courses_with_meta(courses: List[Dict]) -> None:
     """
-    Bổ sung thêm thông tin từ trang Udemy:
-    - title: lấy từ meta og:title
-    - image_url: lấy từ meta og:image
+    Enrich courses with metadata from Udemy landing pages:
+    - title: from meta og:title
+    - image_url: from meta og:image
 
-    Chỉ áp dụng cho danh sách khóa học mới (đã lọc không trùng URL).
+    Only fetch for courses missing these fields to avoid unnecessary requests.
     """
     headers = {
         "User-Agent": (
@@ -152,11 +176,17 @@ def _enrich_new_courses_with_meta(courses: List[Dict]) -> None:
     }
 
     for course in courses:
+        if not isinstance(course, dict):
+            continue
         url = course.get("url")
         if not url:
             continue
 
-        # Loại bỏ query khi fetch để tránh redirect lặp lại
+        # Skip if we already have both fields
+        if course.get("image_url") and course.get("title"):
+            continue
+
+        # Strip query string when fetching to avoid extra redirects
         try:
             parsed = urlparse(url)
             fetch_url = parsed._replace(query="").geturl()
@@ -174,12 +204,10 @@ def _enrich_new_courses_with_meta(courses: List[Dict]) -> None:
         except Exception:
             continue
 
-        # Ảnh khóa học
         og_image = soup.find("meta", property="og:image")
         if og_image and og_image.get("content"):
             course["image_url"] = og_image.get("content")
 
-        # Tiêu đề khóa học
         og_title = soup.find("meta", property="og:title")
         if og_title and og_title.get("content"):
             course["title"] = og_title.get("content")
@@ -199,30 +227,25 @@ def main() -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     output_file = output_dir / "courses.json"
 
-    # Lấy danh sách vừa scrape
+    # Collect freshly scraped courses
     scraped_courses = asyncio.run(_collect_courses(max_pages=max_pages))
 
-    # Load dữ liệu cũ để giữ lịch sử và tránh trùng URL
+    # Load previous data to keep history and metadata
     existing_courses = _load_existing_courses(output_file)
-    existing_urls = {
-        c.get("url")
-        for c in existing_courses
-        if isinstance(c, dict) and c.get("url")
-    }
 
-    # Chỉ giữ những khóa mới chưa từng xuất hiện (theo URL)
-    new_courses = [
-        c
-        for c in scraped_courses
-        if isinstance(c, dict) and c.get("url") and c.get("url") not in existing_urls
-    ]
+    # Merge: newest (scraped) first, older below, no duplicate URLs
+    merged_courses = _merge_courses(existing_courses, scraped_courses)
 
-    # Bổ sung title và image_url cho các khóa mới (nếu lấy được)
-    if new_courses:
-        _enrich_new_courses_with_meta(new_courses)
-
-    # Trộn lại: mới ở trên, cũ ở dưới, lọc trùng, giới hạn tổng ~1000 và xoá 100 cũ nhất
-    merged_courses = _merge_courses(existing_courses, new_courses)
+    # Enrich all courses that still lack metadata
+    if merged_courses:
+        to_enrich = [
+            c
+            for c in merged_courses
+            if isinstance(c, dict)
+            and (not c.get("image_url") or not c.get("title"))
+        ]
+        if to_enrich:
+            _enrich_courses_with_meta(to_enrich)
 
     payload: Dict = {
         "updated_at": datetime.utcnow().isoformat(timespec="seconds") + "Z",
