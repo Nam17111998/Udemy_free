@@ -1,7 +1,12 @@
 {
-  "updated_at": "2025-11-17T13:37:42Z",
-  "count": 204,
+  "updated_at": "2025-11-17T14:27:57Z",
+  "count": 209,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-power-bi-expert-data-analysis-and-visualization/?couponCode=D168C8BBBDBC1FC1387B",
+      "coupon_code": "D168C8BBBDBC1FC1387B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/c-and-java-training-crash-course-2022/?couponCode=DE4A58ABE39B6DDB9EDA",
       "coupon_code": "DE4A58ABE39B6DDB9EDA",
@@ -10,7 +15,8 @@
     {
       "url": "https://www.udemy.com/course/computer-basics-and-it-fundamentals-for-beginners/?couponCode=43C5D7B25AB0C5EFE530",
       "coupon_code": "43C5D7B25AB0C5EFE530",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6497543_1e69_3.jpg",
+      "title": "Digital Skills 101 for Seniors & Vulnerable Adults"
     },
     {
       "url": "https://www.udemy.com/course/corporate-entrepreneurship/?couponCode=F7806F2D04F11AE4722F",
@@ -28,26 +34,10 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=17THNOV25",
-      "coupon_code": "17THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=4126B4D4F412A8961D77",
       "coupon_code": "4126B4D4F412A8961D77",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
       "title": "Transforme ton Intérieur en Environnement de Réussite"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=17THNOV25",
-      "coupon_code": "17THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=17THNOV25",
-      "coupon_code": "17THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
-      "title": "Financial Services - Overview of Retail Banking"
     },
     {
       "url": "https://www.udemy.com/course/javascript-for-beginners-complete-course/?couponCode=4A2790A9D40179A271C9",
@@ -55,14 +45,34 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/master-dns/?couponCode=729F19B24F4221B9956B",
-      "coupon_code": "729F19B24F4221B9956B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/lpic-1-ultimate-prep/?couponCode=369D2681927258B1B123",
+      "coupon_code": "369D2681927258B1B123",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6171551_01af_7.jpg",
+      "title": "Linux Mastery: LPIC-1 (101-500 and 102-500) Ultimate Prep"
     },
     {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=17THNOV25",
-      "coupon_code": "17THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/master-dns/?couponCode=729F19B24F4221B9956B",
+      "coupon_code": "729F19B24F4221B9956B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6702037_2b47_2.jpg",
+      "title": "DNS Server: Deploy, Manage, and Secure Your Network"
+    },
+    {
+      "url": "https://www.udemy.com/course/n8n-ai-agent-creation-guide/?couponCode=17NOVEMBER2025",
+      "coupon_code": "17NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6692461_9104_3.jpg",
+      "title": "N8N: AI Agent Creation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/pass-any-propfirm-funded-challenge-account-with-90-accuracy/?couponCode=FREEFORALLENJOY",
+      "coupon_code": "FREEFORALLENJOY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6514943_2f87.jpg",
+      "title": "Pass Any Propfirm Funded Challenge Account with 90% Accuracy"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-dax-mastery-advanced-formulas-and-data-analysis/?couponCode=65AC787094CBEAF5FD8E",
+      "coupon_code": "65AC787094CBEAF5FD8E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6144027_526a_2.jpg",
+      "title": "Power BI DAX Mastery: Advanced Formulas and Data Analysis"
     },
     {
       "url": "https://www.udemy.com/course/vivre-librement/?couponCode=2EA206D5E99392F834C5",
@@ -75,6 +85,30 @@
       "coupon_code": "AF2F8B7EAD185CA9C34E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6860025_1f3c_3.jpg",
       "title": "Liberté et efficacité : vivre du minimalisme en voyageant"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=17THNOV25",
+      "coupon_code": "17THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
+      "title": "Emotional Intelligence in Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=17THNOV25",
+      "coupon_code": "17THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
+      "title": "Financial Services - Basics of Business & Corporate Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=17THNOV25",
+      "coupon_code": "17THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
+      "title": "Financial Services - Overview of Retail Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=17THNOV25",
+      "coupon_code": "17THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=17THNOV25",
@@ -91,7 +125,8 @@
     {
       "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=17THNOV25",
       "coupon_code": "17THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
+      "title": "Financial Services: Introduction to ETFs"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=17THNOV25",
@@ -116,7 +151,8 @@
     {
       "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=17THNOV25",
       "coupon_code": "17THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242471_19f3.jpg",
+      "title": "Workplace Productivity - Supporting Others Through Change"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-business-analysts/?couponCode=D085435ADE7898EEC964",
@@ -185,7 +221,8 @@
     {
       "url": "https://www.udemy.com/course/safe-scaled-agile-framework/?couponCode=3B40FF486F1D31B45010",
       "coupon_code": "3B40FF486F1D31B45010",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5778316_fbd9.jpg",
+      "title": "SAFe (Scaled Agile Framework) Overview"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-html-course-2023/?couponCode=HTMLCOURSE52",
