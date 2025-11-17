@@ -1,7 +1,96 @@
 {
-  "updated_at": "2025-11-16T23:23:15Z",
-  "count": 102,
+  "updated_at": "2025-11-17T02:04:53Z",
+  "count": 117,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=94B379592B7E51619B67",
+      "coupon_code": "94B379592B7E51619B67",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-digital-strategy/?couponCode=96353794B749602ED5FF",
+      "coupon_code": "96353794B749602ED5FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5025626_2094_2.jpg",
+      "title": "Master in Digital Transformation Strategy & Digitalization"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=FB9AEF11926F05DA3E3A",
+      "coupon_code": "FB9AEF11926F05DA3E3A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4374892_4094_6.jpg",
+      "title": "Master in End to End Solutions Design and Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-become-a-successful-it-product-manager-product-mgmt/?couponCode=9D5C52012461CCC256EE",
+      "coupon_code": "9D5C52012461CCC256EE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5556034_89bf_3.jpg",
+      "title": "Master in Tech Product Management (IT)"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-become-a-successful-software-programming-developer/?couponCode=C0EBC9C2947D110075C9",
+      "coupon_code": "C0EBC9C2947D110075C9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5619030_e742_4.jpg",
+      "title": "Become a Successful Software Programming Developer/ Engineer"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=42545050D269C485C894",
+      "coupon_code": "42545050D269C485C894",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4976816_e82f.jpg",
+      "title": "Java And C++ Complete Course for Java And C++ Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=8F05FD4099CBB94C4C98",
+      "coupon_code": "8F05FD4099CBB94C4C98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4492974_5673_3.jpg",
+      "title": "Master in Product Design, Development and Prototyping"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-artificial-intelligence-ai/?couponCode=D314FC4333B83CC631D3",
+      "coupon_code": "D314FC4333B83CC631D3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5887150_f460_10.jpg",
+      "title": "Master in Artificial Intelligence (AI) Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=957370DC560AACE48262",
+      "coupon_code": "957370DC560AACE48262",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5977824_a024.jpg",
+      "title": "Master Business Analysis to become a Business Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-business-analytics/?couponCode=54F543CD9C0033DA0119",
+      "coupon_code": "54F543CD9C0033DA0119",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6323705_6a4b.jpg",
+      "title": "Master in Business Analytics for Business Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-data-analysis-and-analytics/?couponCode=974ED05C7B1E3EF414A0",
+      "coupon_code": "974ED05C7B1E3EF414A0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6528665_59f5.jpg",
+      "title": "Master in Data Analysis and Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/?couponCode=A3367FEE86069FDB04A2",
+      "coupon_code": "A3367FEE86069FDB04A2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6085431_4a5c.jpg",
+      "title": "Master in Generative AI (Artificial Intelligence) (Gen AI)"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-solution-architecture/?couponCode=74C961498AD99A6624D6",
+      "coupon_code": "74C961498AD99A6624D6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5820740_4a93.jpg",
+      "title": "Master in Solution Architecture"
+    },
+    {
+      "url": "https://www.udemy.com/course/operations_management/?couponCode=E4AD31E076B3CA07F26F",
+      "coupon_code": "E4AD31E076B3CA07F26F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5411158_9c7a.jpg",
+      "title": "Executive Diploma in Operations Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/software-development-engineering-excellence-master-course/?couponCode=F4FB7EC20AB097A5A676",
+      "coupon_code": "F4FB7EC20AB097A5A676",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663806_820c.jpg",
+      "title": "Master in Software Architecture, Engineering and Development"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=98C5B955CBDFA901EFBC",
       "coupon_code": "98C5B955CBDFA901EFBC",
@@ -83,7 +172,8 @@
     {
       "url": "https://www.udemy.com/course/supply-chain-management-beginners-to-advanced-professionals/?couponCode=9F77B5BBB11BD8BFAF76",
       "coupon_code": "9F77B5BBB11BD8BFAF76",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6539159_690e_2.jpg",
+      "title": "Supply Chain Management-Beginners to Advanced Professionals"
     },
     {
       "url": "https://www.udemy.com/course/write-article-content-for-seo-and-affiliate-marketing-course/?couponCode=869506B3EE233F513477",
