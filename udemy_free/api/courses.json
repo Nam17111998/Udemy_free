@@ -1,12 +1,30 @@
 {
-  "updated_at": "2025-11-17T04:33:25Z",
-  "count": 127,
+  "updated_at": "2025-11-17T05:27:56Z",
+  "count": 133,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-for-beginners/?couponCode=32F58EA5FA7EE3CE728A",
+      "coupon_code": "32F58EA5FA7EE3CE728A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5114558_ebfd_3.jpg",
+      "title": "Adobe Premiere Pro CC Video Editing  Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/apache-hive-interview-question-and-answer-100-faq/?couponCode=E44FE940E3DFF7AC7713",
+      "coupon_code": "E44FE940E3DFF7AC7713",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2066449_b86e_2.jpg",
+      "title": "Apache Hive Interview Question and Answer (100+ FAQ)"
+    },
     {
       "url": "https://www.udemy.com/course/canva-for-social-media-zero-to-hero-graphic-design-in-canva/?couponCode=045031AECE09E36D1495",
       "coupon_code": "045031AECE09E36D1495",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6092263_509c_2.jpg",
       "title": "Canva for Social Media: Zero to Hero Graphic Design in Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-microsoft-word-excel-powerpoint-course/?couponCode=96700C2592EBE84414C5",
+      "coupon_code": "96700C2592EBE84414C5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5100256_f721.jpg",
+      "title": "Complete Microsoft Word Excel PowerPoint Course"
     },
     {
       "url": "https://www.udemy.com/course/complete-nodejs-bootcamp-from-basics-to-advanced/?couponCode=9F8CDC2B9F22E7F4252F",
@@ -15,16 +33,16 @@
       "title": "Complete Node.js Bootcamp: From Basics to Advanced"
     },
     {
-      "url": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=7E24F053AD175C1F4A13",
-      "coupon_code": "7E24F053AD175C1F4A13",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6255701_c7a4_2.jpg",
-      "title": "Full AI Course 2025: ChatGPT, Gemini, Midjourney, Firefly"
-    },
-    {
       "url": "https://www.udemy.com/course/full-digital-marketing-course-seo-paid-ad-ga4-gtm-email/?couponCode=C5F5AFA3C58B8ACE7EDB",
       "coupon_code": "C5F5AFA3C58B8ACE7EDB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6256927_7f01.jpg",
       "title": "Full Digital Marketing Course 2025: SEO, Paid Ads, SMM, GTM!"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphics-design-and-video-editing-course-for-beginner/?couponCode=14C4154FF9FE85CA297A",
+      "coupon_code": "14C4154FF9FE85CA297A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5120828_a3e1_2.jpg",
+      "title": "Graphics Design and Video Editing Course for Beginner"
     },
     {
       "url": "https://www.udemy.com/course/know-your-basic-english-grammar/?couponCode=ENGLISH-GRAMMAR",
@@ -33,34 +51,10 @@
       "title": "English Grammar Mastery: Learn to Speak & Write"
     },
     {
-      "url": "https://www.udemy.com/course/master-in-artificial-intelligence-ai/?couponCode=D314FC4333B83CC631D3",
-      "coupon_code": "D314FC4333B83CC631D3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5887150_f460_10.jpg",
-      "title": "Master in Artificial Intelligence (AI) Engineering"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=957370DC560AACE48262",
-      "coupon_code": "957370DC560AACE48262",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5977824_a024.jpg",
-      "title": "Master Business Analysis to become a Business Analyst"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-in-business-analytics/?couponCode=54F543CD9C0033DA0119",
-      "coupon_code": "54F543CD9C0033DA0119",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6323705_6a4b.jpg",
-      "title": "Master in Business Analytics for Business Analyst"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-in-data-analysis-and-analytics/?couponCode=974ED05C7B1E3EF414A0",
-      "coupon_code": "974ED05C7B1E3EF414A0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6528665_59f5.jpg",
-      "title": "Master in Data Analysis and Analytics"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/?couponCode=A3367FEE86069FDB04A2",
-      "coupon_code": "A3367FEE86069FDB04A2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6085431_4a5c.jpg",
-      "title": "Master in Generative AI (Artificial Intelligence) (Gen AI)"
+      "url": "https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=NOV-2025-L1-C1",
+      "coupon_code": "NOV-2025-L1-C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2840688_d992_11.jpg",
+      "title": "Level 1 - Japanese Candlesticks Trading Mastery Program"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-with-formulas-and-vba/?couponCode=BE867DA15AC0DE97E0EC",
@@ -91,6 +85,48 @@
       "coupon_code": "87A30AA5535129B2790B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6076619_c91f_2.jpg",
       "title": "Social Media Video Editing with Canva, Capcut & Premiere Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-chatgpt-guide-from-zero-to-hero-2023/?couponCode=A8ACF52824BF44C6862C",
+      "coupon_code": "A8ACF52824BF44C6862C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5150426_5ee2.jpg",
+      "title": "The Complete ChatGPT Guide From Zero to Hero -  2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=7E24F053AD175C1F4A13",
+      "coupon_code": "7E24F053AD175C1F4A13",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255701_c7a4_2.jpg",
+      "title": "Full AI Course 2025: ChatGPT, Gemini, Midjourney, Firefly"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-artificial-intelligence-ai/?couponCode=D314FC4333B83CC631D3",
+      "coupon_code": "D314FC4333B83CC631D3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5887150_f460_10.jpg",
+      "title": "Master in Artificial Intelligence (AI) Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=957370DC560AACE48262",
+      "coupon_code": "957370DC560AACE48262",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5977824_a024.jpg",
+      "title": "Master Business Analysis to become a Business Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-business-analytics/?couponCode=54F543CD9C0033DA0119",
+      "coupon_code": "54F543CD9C0033DA0119",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6323705_6a4b.jpg",
+      "title": "Master in Business Analytics for Business Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-data-analysis-and-analytics/?couponCode=974ED05C7B1E3EF414A0",
+      "coupon_code": "974ED05C7B1E3EF414A0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6528665_59f5.jpg",
+      "title": "Master in Data Analysis and Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/?couponCode=A3367FEE86069FDB04A2",
+      "coupon_code": "A3367FEE86069FDB04A2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6085431_4a5c.jpg",
+      "title": "Master in Generative AI (Artificial Intelligence) (Gen AI)"
     },
     {
       "url": "https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=94B379592B7E51619B67",
