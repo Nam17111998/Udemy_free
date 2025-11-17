@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-17T02:04:53Z",
-  "count": 117,
+  "updated_at": "2025-11-17T03:53:08Z",
+  "count": 121,
   "courses": [
     {
       "url": "https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=94B379592B7E51619B67",
@@ -14,10 +14,14 @@
       "title": "Master in Digital Transformation Strategy & Digitalization"
     },
     {
-      "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=FB9AEF11926F05DA3E3A",
-      "coupon_code": "FB9AEF11926F05DA3E3A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4374892_4094_6.jpg",
-      "title": "Master in End to End Solutions Design and Development"
+      "url": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=7E24F053AD175C1F4A13",
+      "coupon_code": "7E24F053AD175C1F4A13",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-digital-marketing-course-seo-paid-ad-ga4-gtm-email/?couponCode=C5F5AFA3C58B8ACE7EDB",
+      "coupon_code": "C5F5AFA3C58B8ACE7EDB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/how-to-become-a-successful-it-product-manager-product-mgmt/?couponCode=9D5C52012461CCC256EE",
@@ -30,18 +34,6 @@
       "coupon_code": "C0EBC9C2947D110075C9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5619030_e742_4.jpg",
       "title": "Become a Successful Software Programming Developer/ Engineer"
-    },
-    {
-      "url": "https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=42545050D269C485C894",
-      "coupon_code": "42545050D269C485C894",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4976816_e82f.jpg",
-      "title": "Java And C++ Complete Course for Java And C++ Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=8F05FD4099CBB94C4C98",
-      "coupon_code": "8F05FD4099CBB94C4C98",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4492974_5673_3.jpg",
-      "title": "Master in Product Design, Development and Prototyping"
     },
     {
       "url": "https://www.udemy.com/course/master-in-artificial-intelligence-ai/?couponCode=D314FC4333B83CC631D3",
@@ -80,16 +72,44 @@
       "title": "Master in Solution Architecture"
     },
     {
-      "url": "https://www.udemy.com/course/operations_management/?couponCode=E4AD31E076B3CA07F26F",
-      "coupon_code": "E4AD31E076B3CA07F26F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5411158_9c7a.jpg",
-      "title": "Executive Diploma in Operations Management"
+      "url": "https://www.udemy.com/course/personal_productivity/?couponCode=25E2BECAA1DABE5EF0D3",
+      "coupon_code": "25E2BECAA1DABE5EF0D3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=A4800470736CAFF2B520",
+      "coupon_code": "A4800470736CAFF2B520",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/software-development-engineering-excellence-master-course/?couponCode=F4FB7EC20AB097A5A676",
       "coupon_code": "F4FB7EC20AB097A5A676",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5663806_820c.jpg",
       "title": "Master in Software Architecture, Engineering and Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=FB9AEF11926F05DA3E3A",
+      "coupon_code": "FB9AEF11926F05DA3E3A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4374892_4094_6.jpg",
+      "title": "Master in End to End Solutions Design and Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=42545050D269C485C894",
+      "coupon_code": "42545050D269C485C894",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4976816_e82f.jpg",
+      "title": "Java And C++ Complete Course for Java And C++ Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=8F05FD4099CBB94C4C98",
+      "coupon_code": "8F05FD4099CBB94C4C98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4492974_5673_3.jpg",
+      "title": "Master in Product Design, Development and Prototyping"
+    },
+    {
+      "url": "https://www.udemy.com/course/operations_management/?couponCode=E4AD31E076B3CA07F26F",
+      "coupon_code": "E4AD31E076B3CA07F26F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5411158_9c7a.jpg",
+      "title": "Executive Diploma in Operations Management"
     },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=98C5B955CBDFA901EFBC",
