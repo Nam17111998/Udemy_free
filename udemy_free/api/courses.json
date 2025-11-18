@@ -1,7 +1,86 @@
 {
-  "updated_at": "2025-11-18T04:31:46Z",
-  "count": 259,
+  "updated_at": "2025-11-18T05:26:46Z",
+  "count": 274,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=C0F1FD0AF087D8547CB3",
+      "coupon_code": "C0F1FD0AF087D8547CB3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=SUBHANALLAH_111825",
+      "coupon_code": "SUBHANALLAH_111825",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-java-programming-bootcamp-learn-to-code-in-java/?couponCode=DCEC647CEF61A9208E60",
+      "coupon_code": "DCEC647CEF61A9208E60",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/dart-mastery-become-a-dart-master-from-hero-to-zero-dart/?couponCode=2005BAAB82073EB45404",
+      "coupon_code": "2005BAAB82073EB45404",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-css-java-javascript-full-stack-programming-course/?couponCode=AAD011FABD8E49E09A9D",
+      "coupon_code": "AAD011FABD8E49E09A9D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/laravel-10-essentials-user-roles-permissions-with-spatie/?couponCode=6B4403F11FCB2605E76F",
+      "coupon_code": "6B4403F11FCB2605E76F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-basic-to-advanced-ultimate-excel-mastery/?couponCode=583716B99C761A74DB94",
+      "coupon_code": "583716B99C761A74DB94",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-visualization-with-charts-graphs/?couponCode=C516386705F3171B7535",
+      "coupon_code": "C516386705F3171B7535",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=SUBHANALLAH_1118125",
+      "coupon_code": "SUBHANALLAH_1118125",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-comprehensive-guide/?couponCode=4D670F8290ECEB6C726B",
+      "coupon_code": "4D670F8290ECEB6C726B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-coaching-and-mentoring/?couponCode=56D9C5EE696C241A1F7F",
+      "coupon_code": "56D9C5EE696C241A1F7F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-oop-a-complete-course-in-object-oriented-programming/?couponCode=9E3B61F045A4A5738081",
+      "coupon_code": "9E3B61F045A4A5738081",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6146277_cacb_2.jpg",
+      "title": "Python OOP: A Complete Course in Object Oriented Programming"
+    },
+    {
+      "url": "https://www.udemy.com/course/uiux-with-figma-and-adobe-xd/?couponCode=9224E669118ED4D86D96",
+      "coupon_code": "9224E669118ED4D86D96",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5463624_6dc8.jpg",
+      "title": "UIUX with Figma and Adobe XD"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-development-bootcamp-with-html-css-php-mysql-wordpress/?couponCode=0C536E1A2A296A244762",
+      "coupon_code": "0C536E1A2A296A244762",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5427554_4eab_2.jpg",
+      "title": "Web Development Bootcamp with HTML CSS PHP MySQL Wordpress"
+    },
+    {
+      "url": "https://www.udemy.com/course/youtube-masterclass-with-video-editing-and-graphics-design/?couponCode=6AA14A84D4072832AFB0",
+      "coupon_code": "6AA14A84D4072832AFB0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5466344_ac0f.jpg",
+      "title": "Youtube Masterclass With Video Editing and Graphics Design"
+    },
     {
       "url": "https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/?couponCode=511B217D5D360A31611A",
       "coupon_code": "511B217D5D360A31611A",
@@ -11,7 +90,8 @@
     {
       "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=91FF513FC97C89BBAE5D",
       "coupon_code": "91FF513FC97C89BBAE5D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173757_cf20.jpg",
+      "title": "Complete JavaScript Programming: From Novice to Expert"
     },
     {
       "url": "https://www.udemy.com/course/cssbootstrapjavascriptreact-overview-course-for-beginners/?couponCode=17E0FE2BCEBF5DA5B802",
@@ -22,7 +102,8 @@
     {
       "url": "https://www.udemy.com/course/excel-formulas-functions-basic-to-advanced/?couponCode=116076F1D5644F4A61EB",
       "coupon_code": "116076F1D5644F4A61EB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5689692_54e8_3.jpg",
+      "title": "Excel Formulas & Functions Basic to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/full-digital-marketing-course-2025-ppc-seo-smm-gtm-ga4/?couponCode=B8420E187B31AC4856EB",
@@ -45,7 +126,8 @@
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-powerpoint-create-stunning-presentation/?couponCode=E7088CD3A7CE3A60DF63",
       "coupon_code": "E7088CD3A7CE3A60DF63",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6100625_b9a9.jpg",
+      "title": "Mastering Microsoft PowerPoint: Create Stunning Presentation"
     },
     {
       "url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/?couponCode=2B9E64AFFC78D795371E",
