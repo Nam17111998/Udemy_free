@@ -1,7 +1,19 @@
 {
-  "updated_at": "2025-11-19T04:31:51Z",
-  "count": 423,
+  "updated_at": "2025-11-19T05:28:05Z",
+  "count": 427,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=6B153362F8EF3454107F",
+      "coupon_code": "6B153362F8EF3454107F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5382116_b978.jpg",
+      "title": "Adobe Premiere Pro Advanced Video Editing Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-graphics-design-bootcamp-beginner-to-advanced/?couponCode=C02CE9C6AD894D61CB5C",
+      "coupon_code": "C02CE9C6AD894D61CB5C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5401764_4279_2.jpg",
+      "title": "Complete Graphics Design Bootcamp Beginner to Advanced"
+    },
     {
       "url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/?couponCode=63B6F45CB5A3F803830A",
       "coupon_code": "63B6F45CB5A3F803830A",
@@ -9,16 +21,16 @@
       "title": "Computer Engineering Mastery: From Beginner to Expert!"
     },
     {
+      "url": "https://www.udemy.com/course/essentials-user-experience-design-adobe-xd-ui-ux-design/?couponCode=C7E07D2CD260BD6D4AC6",
+      "coupon_code": "C7E07D2CD260BD6D4AC6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5401788_18e8.jpg",
+      "title": "Essentials User Experience Design Adobe XD UI UX Design"
+    },
+    {
       "url": "https://www.udemy.com/course/excel-formulas-functions-beginner-to-expert-course/?couponCode=SUBHANALLAH_112125",
       "coupon_code": "SUBHANALLAH_112125",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4797002_127c_9.jpg",
       "title": "Excel - Formulas & Functions Beginner to Expert Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/excel-learn-excel-course-from-beginners-to-advanced/?couponCode=BISMILLAH-38",
-      "coupon_code": "BISMILLAH-38",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5679864_6dd1.jpg",
-      "title": "Excel - Learn Excel Course From Beginners to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-chief-technology-officer/?couponCode=9011E2E7E561E9C52801",
@@ -39,22 +51,16 @@
       "title": "Master PHP Programming: From Beginner to Advanced Developer"
     },
     {
-      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=BISMILLAH-22",
-      "coupon_code": "BISMILLAH-22",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6014988_095c_3.jpg",
-      "title": "Microsoft Excel : Mastering Data Analysis with Pivot Table"
+      "url": "https://www.udemy.com/course/mini-mba-in-technology-management-for-cio-cto/?couponCode=EEEDB6B14DF985E6A7D9",
+      "coupon_code": "EEEDB6B14DF985E6A7D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5743284_ac32.jpg",
+      "title": "Advanced Diploma in Technology Management"
     },
     {
       "url": "https://www.udemy.com/course/mongodb-the-complete-mongodb-developers-course/?couponCode=4F077E7CA3A37CD20EC3",
       "coupon_code": "4F077E7CA3A37CD20EC3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5999168_45c8_5.jpg",
       "title": "MongoDB - The Complete MongoDB Developers Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/powerpoint-microsoft-powerpoint-from-basic-to-advanced/?couponCode=BISMILLAH38",
-      "coupon_code": "BISMILLAH38",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5729682_a836.jpg",
-      "title": "PowerPoint - Microsoft PowerPoint From Basic to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/python-mastery-from-novice-to-ninja/?couponCode=13F1DAA144F359FE9719",
@@ -67,12 +73,6 @@
       "coupon_code": "ALHAMDULILLAH_112125",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4965774_88c7_8.jpg",
       "title": "The Complete SEO Guide: SEO For Beginner to Expert"
-    },
-    {
-      "url": "https://www.udemy.com/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/?couponCode=085954031DE659EA1AD3",
-      "coupon_code": "085954031DE659EA1AD3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6139833_c60f_2.jpg",
-      "title": "Rewrite Your Reality: 10x Your Writing Skills Effortlessly"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-javascript-developer-learn-modern-javascript/?couponCode=BA7A1FEA4EB6017DDA7E",
@@ -91,6 +91,30 @@
       "coupon_code": "F411D7834FAA225CDACF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5999242_9c7d.jpg",
       "title": "Understanding TypeScript For Beginner To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-learn-excel-course-from-beginners-to-advanced/?couponCode=BISMILLAH-38",
+      "coupon_code": "BISMILLAH-38",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5679864_6dd1.jpg",
+      "title": "Excel - Learn Excel Course From Beginners to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=BISMILLAH-22",
+      "coupon_code": "BISMILLAH-22",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6014988_095c_3.jpg",
+      "title": "Microsoft Excel : Mastering Data Analysis with Pivot Table"
+    },
+    {
+      "url": "https://www.udemy.com/course/powerpoint-microsoft-powerpoint-from-basic-to-advanced/?couponCode=BISMILLAH38",
+      "coupon_code": "BISMILLAH38",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5729682_a836.jpg",
+      "title": "PowerPoint - Microsoft PowerPoint From Basic to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/?couponCode=085954031DE659EA1AD3",
+      "coupon_code": "085954031DE659EA1AD3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6139833_c60f_2.jpg",
+      "title": "Rewrite Your Reality: 10x Your Writing Skills Effortlessly"
     },
     {
       "url": "https://www.udemy.com/course/python-and-django-framework-and-html-5-complete-course-2022/?couponCode=95A1BBBE7DC072757B2B",
