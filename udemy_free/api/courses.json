@@ -1,7 +1,92 @@
 {
-  "updated_at": "2025-11-19T02:02:41Z",
-  "count": 406,
+  "updated_at": "2025-11-19T03:47:58Z",
+  "count": 421,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/?couponCode=63B6F45CB5A3F803830A",
+      "coupon_code": "63B6F45CB5A3F803830A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-learn-excel-course-from-beginners-to-advanced/?couponCode=BISMILLAH-38",
+      "coupon_code": "BISMILLAH-38",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-chief-technology-officer/?couponCode=9011E2E7E561E9C52801",
+      "coupon_code": "9011E2E7E561E9C52801",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-cpp-programming-beginner-to-advanced/?couponCode=4897953447007030DB8C",
+      "coupon_code": "4897953447007030DB8C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=B92E443273E50CE35DBE",
+      "coupon_code": "B92E443273E50CE35DBE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=BISMILLAH-22",
+      "coupon_code": "BISMILLAH-22",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6014988_095c_3.jpg",
+      "title": "Microsoft Excel : Mastering Data Analysis with Pivot Table"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-the-complete-mongodb-developers-course/?couponCode=4F077E7CA3A37CD20EC3",
+      "coupon_code": "4F077E7CA3A37CD20EC3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5999168_45c8_5.jpg",
+      "title": "MongoDB - The Complete MongoDB Developers Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/powerpoint-microsoft-powerpoint-from-basic-to-advanced/?couponCode=BISMILLAH38",
+      "coupon_code": "BISMILLAH38",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5729682_a836.jpg",
+      "title": "PowerPoint - Microsoft PowerPoint From Basic to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-framework-and-html-5-complete-course-2022/?couponCode=95A1BBBE7DC072757B2B",
+      "coupon_code": "95A1BBBE7DC072757B2B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4972370_1c04.jpg",
+      "title": "Python And Django Framework And HTML 5 Stack Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-mastery-from-novice-to-ninja/?couponCode=13F1DAA144F359FE9719",
+      "coupon_code": "13F1DAA144F359FE9719",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5840414_06b8_2.jpg",
+      "title": "Python Mastery: From \"Novice to Ninja\""
+    },
+    {
+      "url": "https://www.udemy.com/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/?couponCode=085954031DE659EA1AD3",
+      "coupon_code": "085954031DE659EA1AD3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6139833_c60f_2.jpg",
+      "title": "Rewrite Your Reality: 10x Your Writing Skills Effortlessly"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-javascript-developer-learn-modern-javascript/?couponCode=BA7A1FEA4EB6017DDA7E",
+      "coupon_code": "BA7A1FEA4EB6017DDA7E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695975_d609_2.jpg",
+      "title": "The Complete JavaScript Developer: Learn Modern JavaScript"
+    },
+    {
+      "url": "https://www.udemy.com/course/think-like-a-machine-computer-architecture-unlocked/?couponCode=C02D5FA15C32600F1E02",
+      "coupon_code": "C02D5FA15C32600F1E02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6760561_3101.jpg",
+      "title": "Think Like a Machine: Computer Architecture Unlocked"
+    },
+    {
+      "url": "https://www.udemy.com/course/understanding-typescript-for-beginner-to-advanced/?couponCode=F411D7834FAA225CDACF",
+      "coupon_code": "F411D7834FAA225CDACF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5999242_9c7d.jpg",
+      "title": "Understanding TypeScript For Beginner To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/word-microsoft-word-from-basic-to-advanced/?couponCode=BISMILLAH_21",
+      "coupon_code": "BISMILLAH_21",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5983044_dd3a_2.jpg",
+      "title": "Word - Microsoft Word from Basic to Advanced"
+    },
     {
       "url": "https://www.udemy.com/course/ai-essentials-introduction-to-artificial-intelligence/?couponCode=17BD129A5C89C714F6B2",
       "coupon_code": "17BD129A5C89C714F6B2",
