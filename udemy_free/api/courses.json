@@ -1,7 +1,97 @@
 {
-  "updated_at": "2025-11-20T08:36:51Z",
-  "count": 598,
+  "updated_at": "2025-11-20T09:28:33Z",
+  "count": 613,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agentic-coding-full-stack-java-apps-with-cursor-and-copilot/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6737505_4a6f.jpg",
+      "title": "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-design/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6840805_aeb4.jpg",
+      "title": "AI-Powered Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-development-for-beginner-react-nextjs-nodejs/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6813953_b17a.jpg",
+      "title": "Full-Stack Development for Beginner: React, Next.js, Node.js"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-in-customer-support/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802701_2139.jpg",
+      "title": "Generative AI in Customer Support"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-generative-ai-leader-exam-complete-preparation-guide/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6785197_5f70_2.jpg",
+      "title": "Google Generative AI Leader Exam: Complete Preparation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-veo-ai-video-beginner-to-pro/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6798273_1511_2.jpg",
+      "title": "Google Veo: AI Video — Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-ethical-hacking-build-python-attack-defense-tools/?couponCode=D5ADB12B5A6643386012",
+      "coupon_code": "D5ADB12B5A6643386012",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4879144_3466_5.jpg",
+      "title": "Learn Ethical Hacking & Build Python Attack & Defense Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-figma-uiux-design-masterclass-from-beginner-to-pro/?couponCode=D10B83C474DA5A357001",
+      "coupon_code": "D10B83C474DA5A357001",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5854496_fe6b.jpg",
+      "title": "Learn Figma: UI/UX Design Masterclass From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-copilot-for-project-managers-hands-on-guide/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6815369_f436.jpg",
+      "title": "Microsoft Copilot for Project Managers: Hands-On Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/next-level-ai-skills-with-google-gemini-25/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6784937_0fb6.jpg",
+      "title": "Next Level AI Skills with Google Gemini 2.5"
+    },
+    {
+      "url": "https://www.udemy.com/course/nodejs-crash-course-build-a-rest-api-in-a-weekend/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6807399_ab5a.jpg",
+      "title": "Node.js Crash Course: Build a REST API in a Weekend"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-travel-agency-management-system/?couponCode=LARAVELTRAVEL96",
+      "coupon_code": "LARAVELTRAVEL96",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5481652_2d42.jpg",
+      "title": "PHP Laravel: Build Travel Agency Management System"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-beginners-guide-to-adobe-premiere-pro-edit-like-a-pro/?couponCode=0A053FB9EA0E8608DAF4",
+      "coupon_code": "0A053FB9EA0E8608DAF4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860314_8851.jpg",
+      "title": "The Beginner's Guide to Adobe Premiere Pro: Edit Like a Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-video-editing-bootcamp-from-beginning-to-expert/?couponCode=2C6EA630A1817318558D",
+      "coupon_code": "2C6EA630A1817318558D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5662243_d84b_2.jpg",
+      "title": "The Complete Video Editing Bootcamp from Beginning to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt/?couponCode=48670E203CA468DF84FD",
+      "coupon_code": "48670E203CA468DF84FD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6051745_d095.jpg",
+      "title": "Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=B8517A402DA09D2123FC",
       "coupon_code": "B8517A402DA09D2123FC",
