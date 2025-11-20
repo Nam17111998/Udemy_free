@@ -1,41 +1,108 @@
 {
-  "updated_at": "2025-11-20T19:21:38Z",
-  "count": 662,
+  "updated_at": "2025-11-20T20:31:14Z",
+  "count": 668,
   "courses": [
     {
       "url": "https://www.udemy.com/course/cloud-management-masterclass/?couponCode=4435C6DD2E3B9FB6330E",
       "coupon_code": "4435C6DD2E3B9FB6330E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6881181_21fb.jpg",
+      "title": "Cloud Management Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-amazon-afiliados/?couponCode=AMA-GR61",
       "coupon_code": "AMA-GR61",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5912020_88b2_2.jpg",
+      "title": "Cómo Crear una Página Web Para Amazon Afiliados 2025"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-inteligencia-artificial/?couponCode=TIENDA-IA67",
       "coupon_code": "TIENDA-IA67",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5835882_93c7_2.jpg",
+      "title": "Cómo Crear una Tienda Online con Inteligencia Artificial"
     },
     {
-      "url": "https://www.udemy.com/course/curso-basico-de-mailerlite-crea-automatizaciones-de-correo/?couponCode=MB-GRA58",
-      "coupon_code": "MB-GRA58",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/elementor-ia-crea-una-web-con-wordpress-y-elementor/?couponCode=ELEMENTOR-IA66",
-      "coupon_code": "ELEMENTOR-IA66",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/data-science-mastery-2025-excel-python-tableau/?couponCode=B6CFF48F24529EF2CC3A",
+      "coupon_code": "B6CFF48F24529EF2CC3A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6280017_ef41_2.jpg",
+      "title": "Data Science Mastery 2025: Excel, Python & Tableau"
     },
     {
       "url": "https://www.udemy.com/course/elementor-kits-crea-una-pagina-web-con-elementor-pro/?couponCode=ELE-KITS67",
       "coupon_code": "ELE-KITS67",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5834556_a532_2.jpg",
+      "title": "Elementor Kits: Crea una Página Web con Elementor Pro 2025"
     },
     {
       "url": "https://www.udemy.com/course/elevate-your-leadership-amplify-your-communication-skills/?couponCode=69F6761997E3EB2F90CF",
       "coupon_code": "69F6761997E3EB2F90CF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5901932_7a42_2.jpg",
+      "title": "Elevate Your Leadership, Amplify Your Communication Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/freelancingcareer/?couponCode=77B0F6E0AE6EA9B211FB",
+      "coupon_code": "77B0F6E0AE6EA9B211FB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6143377_9daf_4.jpg",
+      "title": "Freelancing Secrets: How to Build a Lucrative Career"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-social-media-marketing-brand-building-growth/?couponCode=2CCC7A6A736B752F1617",
+      "coupon_code": "2CCC7A6A736B752F1617",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5106238_d639_4.jpg",
+      "title": "Mastering Social Media Marketing: Brand Building & Growth"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-business-project-management/?couponCode=1C6E95F2E44B1314FAA6",
+      "coupon_code": "1C6E95F2E44B1314FAA6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906332_247f_2.jpg",
+      "title": "Professional Diploma in Business Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-pricing-analysis-and-management/?couponCode=A7B868060EA9C0D3EB0D",
+      "coupon_code": "A7B868060EA9C0D3EB0D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906780_4e0e.jpg",
+      "title": "Professional Diploma in Pricing Analysis and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-technical-project-management/?couponCode=654E13EEA3941F6D1F17",
+      "coupon_code": "654E13EEA3941F6D1F17",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906748_1dcf.jpg",
+      "title": "Professional Diploma in Technical Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=8CF3189B315CBA7B7367",
+      "coupon_code": "8CF3189B315CBA7B7367",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5429784_9725_2.jpg",
+      "title": "Python for Data Science with Assignments"
+    },
+    {
+      "url": "https://www.udemy.com/course/siteground-security-protege-tu-sitio-web-en-wordpress/?couponCode=SS-GRA61",
+      "coupon_code": "SS-GRA61",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5913606_2297_2.jpg",
+      "title": "Security Optimizer: Protege tu Sitio Web en WordPress 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-scm/?couponCode=CD3ACD996305A6376B58",
+      "coupon_code": "CD3ACD996305A6376B58",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6482983_b140_2.jpg",
+      "title": "Professional Diploma in Strategic Supply Chain Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/warehousemanagement/?couponCode=E02702EBE522E0710EA7",
+      "coupon_code": "E02702EBE522E0710EA7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180261_af84_2.jpg",
+      "title": "Professional Diploma in Warehouse Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-basico-de-mailerlite-crea-automatizaciones-de-correo/?couponCode=MB-GRA58",
+      "coupon_code": "MB-GRA58",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5958656_72ea_2.jpg",
+      "title": "Curso Básico de MailerLite: Crea Automatizaciones de Correo"
+    },
+    {
+      "url": "https://www.udemy.com/course/elementor-ia-crea-una-web-con-wordpress-y-elementor/?couponCode=ELEMENTOR-IA66",
+      "coupon_code": "ELEMENTOR-IA66",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5839962_c614.jpg",
+      "title": "Elementor IA: Crea una Web con WordPress y Elementor 2025"
     },
     {
       "url": "https://www.udemy.com/course/logo-design-ai-master-logo-design-with-ai-logo-design/?couponCode=9A91065767E58F93E492",
@@ -56,34 +123,16 @@
       "title": "NEBOSH IGC1 - Element 1: NEBOSH Health & Safety Management"
     },
     {
-      "url": "https://www.udemy.com/course/professional-diploma-in-business-project-management/?couponCode=1C6E95F2E44B1314FAA6",
-      "coupon_code": "1C6E95F2E44B1314FAA6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-technical-project-management/?couponCode=654E13EEA3941F6D1F17",
-      "coupon_code": "654E13EEA3941F6D1F17",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/siteground-migrator-migra-tu-web-con-wordpress-a-siteground/?couponCode=SM-GRA61",
       "coupon_code": "SM-GRA61",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/siteground-security-protege-tu-sitio-web-en-wordpress/?couponCode=SS-GRA61",
-      "coupon_code": "SS-GRA61",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/strategic-scm/?couponCode=CD3ACD996305A6376B58",
-      "coupon_code": "CD3ACD996305A6376B58",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5913794_0b00_2.jpg",
+      "title": "SiteGround Migrator: Migra tu Web con WordPress a SiteGround"
     },
     {
       "url": "https://www.udemy.com/course/canva-graphics-design-course-for-beginners-non-designers/?couponCode=6FE53CBEBCF58963EE38",
       "coupon_code": "6FE53CBEBCF58963EE38",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6604933_147e.jpg",
+      "title": "Canva Graphics Design Course For Beginners & Non Designers"
     },
     {
       "url": "https://www.udemy.com/course/graphic-design-ai-graphic-design-with-ai-complete-course/?couponCode=D223611A1565E523549D",
@@ -124,7 +173,8 @@
     {
       "url": "https://www.udemy.com/course/plumbing-design-ai-complete-plumbing-design-using-ai-chatgpt/?couponCode=6269FF240D80E9EDD7EF",
       "coupon_code": "6269FF240D80E9EDD7EF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6788599_e069.jpg",
+      "title": "Plumbing Design AI: COMPLETE Plumbing Design Using ChatGPT"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-finance-business-partner/?couponCode=0A7748AB54B6A284702E",
@@ -135,7 +185,8 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-product-owner/?couponCode=1B6AB0EC9920793DE857",
       "coupon_code": "1B6AB0EC9920793DE857",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906292_3828.jpg",
+      "title": "Professional Diploma of Product Owner"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-a-step-by-step-approach/?couponCode=2025-SQL",
