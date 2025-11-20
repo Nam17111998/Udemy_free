@@ -1,7 +1,86 @@
 {
-  "updated_at": "2025-11-20T06:38:44Z",
-  "count": 575,
+  "updated_at": "2025-11-20T07:26:15Z",
+  "count": 586,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=5785839E17AF72A8E87F",
+      "coupon_code": "5785839E17AF72A8E87F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-programming-made-easy-from-basics-to-advanced-concepts/?couponCode=CED4D481B60AAC8E795F",
+      "coupon_code": "CED4D481B60AAC8E795F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-for-beginners-create-stunning-visuals-design/?couponCode=7AED4A98553173170AD8",
+      "coupon_code": "7AED4A98553173170AD8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611692_4a85.jpg",
+      "title": "Canva for Beginners: Create Stunning Visuals Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-microsoft-excel-vba-learn-vba-for-become-expert/?couponCode=0AD45F0A231B156C2914",
+      "coupon_code": "0AD45F0A231B156C2914",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611696_6a1f.jpg",
+      "title": "Essential Microsoft Excel VBA: Learn VBA for become Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=04542627E585E30A9A98",
+      "coupon_code": "04542627E585E30A9A98",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/html5-masterclass-build-modern-and-mobile-friendly-websites/?couponCode=E9A334F486260A022EE4",
+      "coupon_code": "E9A334F486260A022EE4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-google-sheets-and-microsoft-excel-at-once-from-basic/?couponCode=CA16F104D3D05C0F7EF8",
+      "coupon_code": "CA16F104D3D05C0F7EF8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611690_575b.jpg",
+      "title": "Learn Google Sheets and Microsoft Excel at Once from Basic"
+    },
+    {
+      "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=60EBCC460C8822BC11CB",
+      "coupon_code": "60EBCC460C8822BC11CB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-for-beginners-excel-for-everyday-use/?couponCode=F312A961974F5ACE1135",
+      "coupon_code": "F312A961974F5ACE1135",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-presentation-pro/?couponCode=5124F00B04DDDB5FF184",
+      "coupon_code": "5124F00B04DDDB5FF184",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-digital-business-development/?couponCode=94B9FE016D77BEF797B2",
+      "coupon_code": "94B9FE016D77BEF797B2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5848466_1f34.jpg",
+      "title": "Professional Diploma in Digital Business Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-complete-guide-build-interactive-web-applications/?couponCode=FA051B0C3E2DF818A230",
+      "coupon_code": "FA051B0C3E2DF818A230",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=709C1E46745051C7109C",
+      "coupon_code": "709C1E46745051C7109C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=2B33B570FC0D95BB4E49",
+      "coupon_code": "2B33B570FC0D95BB4E49",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-bootstrap-5-course-modern-layouts-made-easy/?couponCode=393210D42B6F807DA52C",
+      "coupon_code": "393210D42B6F807DA52C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-sales-forecasting-market-analysis/?couponCode=NOV2REM",
       "coupon_code": "NOV2REM",
@@ -14,22 +93,10 @@
       "title": "Build On-Device AI"
     },
     {
-      "url": "https://www.udemy.com/course/canva-for-beginners-create-stunning-visuals-design/?couponCode=7AED4A98553173170AD8",
-      "coupon_code": "7AED4A98553173170AD8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5611692_4a85.jpg",
-      "title": "Canva for Beginners: Create Stunning Visuals Design"
-    },
-    {
       "url": "https://www.udemy.com/course/dify-course/?couponCode=NOV2REM",
       "coupon_code": "NOV2REM",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6503669_23be_2.jpg",
       "title": "Mastering Dify – Build AI-Powered Apps with Ease"
-    },
-    {
-      "url": "https://www.udemy.com/course/essential-microsoft-excel-vba-learn-vba-for-become-expert/?couponCode=0AD45F0A231B156C2914",
-      "coupon_code": "0AD45F0A231B156C2914",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5611696_6a1f.jpg",
-      "title": "Essential Microsoft Excel VBA: Learn VBA for become Expert"
     },
     {
       "url": "https://www.udemy.com/course/gen-ai-governance/?couponCode=NOV2REM",
@@ -48,12 +115,6 @@
       "coupon_code": "NOV2REM",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6446353_4133_2.jpg",
       "title": "Google NotebookLM"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-google-sheets-and-microsoft-excel-at-once-from-basic/?couponCode=CA16F104D3D05C0F7EF8",
-      "coupon_code": "CA16F104D3D05C0F7EF8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5611690_575b.jpg",
-      "title": "Learn Google Sheets and Microsoft Excel at Once from Basic"
     },
     {
       "url": "https://www.udemy.com/course/llm-hindi/?couponCode=NOV2REM",
@@ -84,12 +145,6 @@
       "coupon_code": "NOV2REM",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6505385_27ea_5.jpg",
       "title": "Presentations using Gen AI"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-digital-business-development/?couponCode=94B9FE016D77BEF797B2",
-      "coupon_code": "94B9FE016D77BEF797B2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5848466_1f34.jpg",
-      "title": "Professional Diploma in Digital Business Development"
     },
     {
       "url": "https://www.udemy.com/course/bootstrapping-business-without-money-investments-getting/?couponCode=CC5E86E4457E66A33B95",
