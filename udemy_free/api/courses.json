@@ -1,7 +1,96 @@
 {
-  "updated_at": "2025-11-20T05:26:58Z",
-  "count": 560,
+  "updated_at": "2025-11-20T06:38:44Z",
+  "count": 575,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-sales-forecasting-market-analysis/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-on-device-ai/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6485735_10a0_2.jpg",
+      "title": "Build On-Device AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-for-beginners-create-stunning-visuals-design/?couponCode=7AED4A98553173170AD8",
+      "coupon_code": "7AED4A98553173170AD8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611692_4a85.jpg",
+      "title": "Canva for Beginners: Create Stunning Visuals Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/dify-course/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6503669_23be_2.jpg",
+      "title": "Mastering Dify – Build AI-Powered Apps with Ease"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-microsoft-excel-vba-learn-vba-for-become-expert/?couponCode=0AD45F0A231B156C2914",
+      "coupon_code": "0AD45F0A231B156C2914",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611696_6a1f.jpg",
+      "title": "Essential Microsoft Excel VBA: Learn VBA for become Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/gen-ai-governance/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6414031_43f2_2.jpg",
+      "title": "GenAI Governance"
+    },
+    {
+      "url": "https://www.udemy.com/course/genai-cybersecurity-solutions-i/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6446339_319d_2.jpg",
+      "title": "GenAI Cybersecurity Solutions: OWASP Top 10 for LLM Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-notebooklm-sta/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6446353_4133_2.jpg",
+      "title": "Google NotebookLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-google-sheets-and-microsoft-excel-at-once-from-basic/?couponCode=CA16F104D3D05C0F7EF8",
+      "coupon_code": "CA16F104D3D05C0F7EF8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611690_575b.jpg",
+      "title": "Learn Google Sheets and Microsoft Excel at Once from Basic"
+    },
+    {
+      "url": "https://www.udemy.com/course/llm-hindi/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6312297_dca3.jpg",
+      "title": "Large Language Models"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-excel-a-comprehensive-guide-to-boost-you/?couponCode=A8DD7A923E9C63C9BA47",
+      "coupon_code": "A8DD7A923E9C63C9BA47",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611698_9d6c_4.jpg",
+      "title": "Mastering Microsoft Excel A Comprehensive Guide to Boost You"
+    },
+    {
+      "url": "https://www.udemy.com/course/partyrock/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6381451_cad7_3.jpg",
+      "title": "PartyRock by AWS: Build No-Code Generative AI Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/password-hacking-malware-security/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6309209_7a57_2.jpg",
+      "title": "Cybersecurity: Password Hacking and Malware security"
+    },
+    {
+      "url": "https://www.udemy.com/course/presentations-using-gen-ai/?couponCode=NOV2REM",
+      "coupon_code": "NOV2REM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6505385_27ea_5.jpg",
+      "title": "Presentations using Gen AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-digital-business-development/?couponCode=94B9FE016D77BEF797B2",
+      "coupon_code": "94B9FE016D77BEF797B2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5848466_1f34.jpg",
+      "title": "Professional Diploma in Digital Business Development"
+    },
     {
       "url": "https://www.udemy.com/course/bootstrapping-business-without-money-investments-getting/?couponCode=CC5E86E4457E66A33B95",
       "coupon_code": "CC5E86E4457E66A33B95",
@@ -11,12 +100,14 @@
     {
       "url": "https://www.udemy.com/course/business-development-sales-marketing-professional-diploma/?couponCode=D626A36B48AFFE4FD0B1",
       "coupon_code": "D626A36B48AFFE4FD0B1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5848270_95f6_3.jpg",
+      "title": "Business Development, Sales & Marketing Professional Diploma"
     },
     {
       "url": "https://www.udemy.com/course/ecommerce-weblog-report-generation-project-in-apache-spark/?couponCode=149BF03F4F0AC947E5A8",
       "coupon_code": "149BF03F4F0AC947E5A8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2354532_1cdb_2.jpg",
+      "title": "Learn Apache Spark to Generate Weblog Reports for Websites"
     },
     {
       "url": "https://www.udemy.com/course/entrepreneurship-ideas-market-analysis-competitors-place/?couponCode=BA54C336439713EC26CF",
@@ -27,12 +118,14 @@
     {
       "url": "https://www.udemy.com/course/essential-adobe-lightroom-course-for-photo-editing/?couponCode=9557BEEFDB4F2DDE0370",
       "coupon_code": "9557BEEFDB4F2DDE0370",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346426_982e_2.jpg",
+      "title": "Essential Adobe Lightroom Course for Photo Editing"
     },
     {
       "url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=90E39F4536492B76405A",
       "coupon_code": "90E39F4536492B76405A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346438_96d4.jpg",
+      "title": "Essential Microsoft PowerPoint Course for Everyone"
     },
     {
       "url": "https://www.udemy.com/course/grafana-masterclass-observability-monitoring-alerts/?couponCode=CD1C7C05F6E5CE86D0A3",
@@ -43,12 +136,14 @@
     {
       "url": "https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=DDABDF38C5AEED222216",
       "coupon_code": "DDABDF38C5AEED222216",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4205418_287e_2.jpg",
+      "title": "Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio"
     },
     {
       "url": "https://www.udemy.com/course/learn-t-shirt-design-with-adobe-photoshop-and-illustrator/?couponCode=366B5184D0695EDB8430",
       "coupon_code": "366B5184D0695EDB8430",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380122_bcb1.jpg",
+      "title": "Learn T-Shirt Design with Adobe Illustrator"
     },
     {
       "url": "https://www.udemy.com/course/machine-learning-solving-regression-using-gradient-descent/?couponCode=636D22AD7D1505B4668A",
