@@ -1,16 +1,102 @@
 {
-  "updated_at": "2025-11-20T07:26:15Z",
-  "count": 586,
+  "updated_at": "2025-11-20T08:36:51Z",
+  "count": 598,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=B8517A402DA09D2123FC",
+      "coupon_code": "B8517A402DA09D2123FC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5236430_f326_2.jpg",
+      "title": "Advanced Excel Course With Shortcuts Tips and Tricks for JOB"
+    },
+    {
+      "url": "https://www.udemy.com/course/apache-zeppelin-big-data-visualization-tool/?couponCode=54EB273C820E36174F93",
+      "coupon_code": "54EB273C820E36174F93",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2704742_a819_2.jpg",
+      "title": "Apache Zeppelin - Big Data Visualization Tool"
+    },
+    {
+      "url": "https://www.udemy.com/course/azure-for-beginners-portal-virtual-machine-and-compute/?couponCode=6CE09639BFF124EA8708",
+      "coupon_code": "6CE09639BFF124EA8708",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2075100_e558_4.jpg",
+      "title": "Microsoft Azure Administrator Complete Course: AZ-104 (2025)"
+    },
     {
       "url": "https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=5785839E17AF72A8E87F",
       "coupon_code": "5785839E17AF72A8E87F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6260351_a597.jpg",
+      "title": "Become a Hydra Expert: Advanced Brute Forcing Techniques"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-python-course-learn-from-beginner-to-advanced/?couponCode=516F91CFEFD5DA4468EB",
+      "coupon_code": "516F91CFEFD5DA4468EB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5854076_b7ff.jpg",
+      "title": "Complete Python Course: Learn From Beginner To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-vba-for-beginner-to-advanced/?couponCode=AE02A3BB33D485011782",
+      "coupon_code": "AE02A3BB33D485011782",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5433348_2f69.jpg",
+      "title": "Excel VBA for Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-word-a-comprehensive-guide-to-boost-you/?couponCode=93E073A6E16C6D1EC003",
+      "coupon_code": "93E073A6E16C6D1EC003",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5229322_0aa4_2.jpg",
+      "title": "Mastering Microsoft Word: A Comprehensive Guide to Boost You"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini/?couponCode=FC910AA11C897217AF84",
+      "coupon_code": "FC910AA11C897217AF84",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6815619_7008_4.jpg",
+      "title": "MS Office with AI - Word Excel PowerPoint ChatGpt Gemini"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-product-service-business-analyst/?couponCode=81A6AA96D37FDA6329ED",
+      "coupon_code": "81A6AA96D37FDA6329ED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5857530_ba72_2.jpg",
+      "title": "Professional Diploma of Product & Service Business Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-real-estate-business-expert/?couponCode=DAEFA5D27C55D7AB1F4D",
+      "coupon_code": "DAEFA5D27C55D7AB1F4D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5871066_e144.jpg",
+      "title": "Professional Diploma of Real Estate Business Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=709C1E46745051C7109C",
+      "coupon_code": "709C1E46745051C7109C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6311131_636f.jpg",
+      "title": "Recon Ninja: Advanced Info Gathering for Ethical Hackers"
+    },
+    {
+      "url": "https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=2B33B570FC0D95BB4E49",
+      "coupon_code": "2B33B570FC0D95BB4E49",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6372991_8faf.jpg",
+      "title": "Red Team Mastery: Advanced Offensive Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/?couponCode=E1D1B359592DFF6C5B11",
+      "coupon_code": "E1D1B359592DFF6C5B11",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5786672_2c3f.jpg",
+      "title": "The Complete C Programming Course for Basic to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/video-editing-with-chatgpt-adobe-premiere-pro-canva-capcut/?couponCode=B5B51481211DDCB73CC6",
+      "coupon_code": "B5B51481211DDCB73CC6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713845_7001.jpg",
+      "title": "Video Editing with ChatGPT Adobe Premiere Pro Canva CapCut"
+    },
+    {
+      "url": "https://www.udemy.com/course/webflow-for-beginners-create-your-first-website/?couponCode=90CF5AEE2DBDF4899271",
+      "coupon_code": "90CF5AEE2DBDF4899271",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611686_c2b0.jpg",
+      "title": "Webflow for Beginners: Create Your First Website"
     },
     {
       "url": "https://www.udemy.com/course/c-programming-made-easy-from-basics-to-advanced-concepts/?couponCode=CED4D481B60AAC8E795F",
       "coupon_code": "CED4D481B60AAC8E795F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849531_3ff3_2.jpg",
+      "title": "C++ Programming Made Easy: From Basics to Advanced Concepts"
     },
     {
       "url": "https://www.udemy.com/course/canva-for-beginners-create-stunning-visuals-design/?couponCode=7AED4A98553173170AD8",
@@ -27,12 +113,14 @@
     {
       "url": "https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=04542627E585E30A9A98",
       "coupon_code": "04542627E585E30A9A98",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6214531_ba5c_2.jpg",
+      "title": "Ethically Hack Human Mind: Social Engineering Fundamentals"
     },
     {
       "url": "https://www.udemy.com/course/html5-masterclass-build-modern-and-mobile-friendly-websites/?couponCode=E9A334F486260A022EE4",
       "coupon_code": "E9A334F486260A022EE4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849593_2e49_2.jpg",
+      "title": "HTML5 Masterclass: Build Modern and Mobile Friendly Websites"
     },
     {
       "url": "https://www.udemy.com/course/learn-google-sheets-and-microsoft-excel-at-once-from-basic/?couponCode=CA16F104D3D05C0F7EF8",
@@ -43,17 +131,20 @@
     {
       "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=60EBCC460C8822BC11CB",
       "coupon_code": "60EBCC460C8822BC11CB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5981806_11d8_2.jpg",
+      "title": "Metasploit from Scratch: Beginner to Professional"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-for-beginners-excel-for-everyday-use/?couponCode=F312A961974F5ACE1135",
       "coupon_code": "F312A961974F5ACE1135",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6764699_301f.jpg",
+      "title": "Microsoft Excel for Beginners: Excel for Everyday Use"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-presentation-pro/?couponCode=5124F00B04DDDB5FF184",
       "coupon_code": "5124F00B04DDDB5FF184",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790825_22c9_2.jpg",
+      "title": "Microsoft PowerPoint: From Beginner to Presentation Pro"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-digital-business-development/?couponCode=94B9FE016D77BEF797B2",
@@ -64,27 +155,20 @@
     {
       "url": "https://www.udemy.com/course/reactjs-complete-guide-build-interactive-web-applications/?couponCode=FA051B0C3E2DF818A230",
       "coupon_code": "FA051B0C3E2DF818A230",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=709C1E46745051C7109C",
-      "coupon_code": "709C1E46745051C7109C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=2B33B570FC0D95BB4E49",
-      "coupon_code": "2B33B570FC0D95BB4E49",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849329_133a.jpg",
+      "title": "React.js Complete Guide: Build Interactive Web Applications"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-bootstrap-5-course-modern-layouts-made-easy/?couponCode=393210D42B6F807DA52C",
       "coupon_code": "393210D42B6F807DA52C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6813793_1a7b_2.jpg",
+      "title": "The Complete Bootstrap 5 Course: Modern Layouts Made Easy"
     },
     {
       "url": "https://www.udemy.com/course/ai-sales-forecasting-market-analysis/?couponCode=NOV2REM",
       "coupon_code": "NOV2REM",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6346183_063b.jpg",
+      "title": "AI-Driven Sales Forecasting and Market Analysis"
     },
     {
       "url": "https://www.udemy.com/course/build-on-device-ai/?couponCode=NOV2REM",
