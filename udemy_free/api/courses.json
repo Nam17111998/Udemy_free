@@ -1,18 +1,18 @@
 {
-  "updated_at": "2025-11-20T09:28:33Z",
-  "count": 613,
+  "updated_at": "2025-11-20T10:29:22Z",
+  "count": 618,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/agentic-coding-full-stack-java-apps-with-cursor-and-copilot/?couponCode=20NOVEMBER2025",
-      "coupon_code": "20NOVEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6737505_4a6f.jpg",
-      "title": "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot"
-    },
     {
       "url": "https://www.udemy.com/course/ai-powered-design/?couponCode=20NOVEMBER2025",
       "coupon_code": "20NOVEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6840805_aeb4.jpg",
       "title": "AI-Powered Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-webapplication-penetration-testing-practical-cwapt/?couponCode=NOV_25_02",
+      "coupon_code": "NOV_25_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3489908_c2ac.jpg",
+      "title": "Complete Website Ethical Hacking and Penetration Testing"
     },
     {
       "url": "https://www.udemy.com/course/full-stack-development-for-beginner-react-nextjs-nodejs/?couponCode=20NOVEMBER2025",
@@ -51,16 +51,16 @@
       "title": "Learn Figma: UI/UX Design Masterclass From Beginner to Pro"
     },
     {
+      "url": "https://www.udemy.com/course/learn-t-shirt-design-with-photoshop-illustrator-and-canva/?couponCode=6CDFC23BABC8A5EA3B08",
+      "coupon_code": "6CDFC23BABC8A5EA3B08",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5739938_09c2_5.jpg",
+      "title": "Learn T-Shirt Design with Photoshop Illustrator and  Canva"
+    },
+    {
       "url": "https://www.udemy.com/course/microsoft-copilot-for-project-managers-hands-on-guide/?couponCode=20NOVEMBER2025",
       "coupon_code": "20NOVEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6815369_f436.jpg",
       "title": "Microsoft Copilot for Project Managers: Hands-On Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/next-level-ai-skills-with-google-gemini-25/?couponCode=20NOVEMBER2025",
-      "coupon_code": "20NOVEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6784937_0fb6.jpg",
-      "title": "Next Level AI Skills with Google Gemini 2.5"
     },
     {
       "url": "https://www.udemy.com/course/nodejs-crash-course-build-a-rest-api-in-a-weekend/?couponCode=20NOVEMBER2025",
@@ -69,16 +69,46 @@
       "title": "Node.js Crash Course: Build a REST API in a Weekend"
     },
     {
-      "url": "https://www.udemy.com/course/php-laravel-2023-build-travel-agency-management-system/?couponCode=LARAVELTRAVEL96",
-      "coupon_code": "LARAVELTRAVEL96",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5481652_2d42.jpg",
-      "title": "PHP Laravel: Build Travel Agency Management System"
+      "url": "https://www.udemy.com/course/professional-diploma-in-procurement-sourcing-supply-chains/?couponCode=16FF873BB0F6B8BB5E20",
+      "coupon_code": "16FF873BB0F6B8BB5E20",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5871124_28bf.jpg",
+      "title": "Professional Diploma in Procurement, Sourcing, Supply Chains"
     },
     {
       "url": "https://www.udemy.com/course/the-beginners-guide-to-adobe-premiere-pro-edit-like-a-pro/?couponCode=0A053FB9EA0E8608DAF4",
       "coupon_code": "0A053FB9EA0E8608DAF4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5860314_8851.jpg",
       "title": "The Beginner's Guide to Adobe Premiere Pro: Edit Like a Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-microsoft-excel-essential-comprehensive-guide/?couponCode=C9E529163B21A960E7B5",
+      "coupon_code": "C9E529163B21A960E7B5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5682086_df39_3.jpg",
+      "title": "The Ultimate Microsoft Excel: Essential Comprehensive Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-microsoft-word-essential-comprehensive-guide/?couponCode=32DE73CD4482C1D353AA",
+      "coupon_code": "32DE73CD4482C1D353AA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5713346_2215.jpg",
+      "title": "The Ultimate Microsoft Word: Essential Comprehensive Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/agentic-coding-full-stack-java-apps-with-cursor-and-copilot/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6737505_4a6f.jpg",
+      "title": "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/next-level-ai-skills-with-google-gemini-25/?couponCode=20NOVEMBER2025",
+      "coupon_code": "20NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6784937_0fb6.jpg",
+      "title": "Next Level AI Skills with Google Gemini 2.5"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-travel-agency-management-system/?couponCode=LARAVELTRAVEL96",
+      "coupon_code": "LARAVELTRAVEL96",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5481652_2d42.jpg",
+      "title": "PHP Laravel: Build Travel Agency Management System"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-video-editing-bootcamp-from-beginning-to-expert/?couponCode=2C6EA630A1817318558D",
