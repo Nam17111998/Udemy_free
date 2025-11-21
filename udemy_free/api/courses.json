@@ -1,81 +1,186 @@
 {
-  "updated_at": "2025-11-21T08:36:43Z",
-  "count": 744,
+  "updated_at": "2025-11-21T09:28:59Z",
+  "count": 759,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/blogging-and-influencer-marketing/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4793912_d862.jpg",
+      "title": "Blogging and Influencer Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatbot-marketing-course/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4651160_5b0e_3.jpg",
+      "title": "Grow your business with Chatbot Marketing!"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-data-engineers/?couponCode=6D026FFCBE31ABC5A033",
+      "coupon_code": "6D026FFCBE31ABC5A033",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6566645_459e.jpg",
+      "title": "ChatGPT for Data Engineers"
+    },
+    {
+      "url": "https://www.udemy.com/course/cold-marketing-strategy/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4989860_36d3.jpg",
+      "title": "Build Your Best Cold Email Strategy!"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3833784_12ca_9.jpg",
+      "title": "AI-Powered Digital Marketer. ChatGPT & 80+ AI tools to grow"
+    },
+    {
+      "url": "https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4204914_120f_4.jpg",
+      "title": "Email Marketing. Increase Sales With Email Marketing!"
+    },
+    {
+      "url": "https://www.udemy.com/course/etsy-promotion/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4999108_6e6d.jpg",
+      "title": "Etsy: The Ultimate Guide to Boosting Your Business"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-ads-launch-pro-advertising-campaigns/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4793900_b22f.jpg",
+      "title": "Facebook Ads 2025: Launch Your Best Advertising Campaign"
+    },
+    {
+      "url": "https://www.udemy.com/course/freelance-consulting-the-1-hour-course-for-beginners/?couponCode=7ACE23B42BD97F92460C",
+      "coupon_code": "7ACE23B42BD97F92460C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4154132_5434_2.jpg",
+      "title": "Freelance Consulting - The 1-Hour Course for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-ads-for-beginners-how-to-drive-sales-with-ppc/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4579874_c2b1_4.jpg",
+      "title": "Google Ads 2025: How to Drive Sales With PPC!"
+    },
+    {
+      "url": "https://www.udemy.com/course/midjourney-comprehensive/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5491812_d0e9.jpg",
+      "title": "Midjourney For Beginners: Creating Visuals Using AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/research-methodologies-in-strategy-and-product-development/?couponCode=506899361FB14CDA4490",
+      "coupon_code": "506899361FB14CDA4490",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5927296_d156.jpg",
+      "title": "Research Methodologies in Strategy and Product Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/shopify-complete-guide/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5672308_9867.jpg",
+      "title": "Shopify: Your Essential Guide to E-commerce Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=21NOVEMBER2025",
+      "coupon_code": "21NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3967614_a9a9_8.jpg",
+      "title": "AI-Powered Social Media Marketing: ChatGPT and 100 AI Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-leadership-mastery-course/?couponCode=381E506F489B738B728A",
+      "coupon_code": "381E506F489B738B728A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3755396_34ff_3.jpg",
+      "title": "The Complete Leadership Mastery Course"
+    },
     {
       "url": "https://www.udemy.com/course/agile-project-management-genman/?couponCode=D96073B70FD72DBF604F",
       "coupon_code": "D96073B70FD72DBF604F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3533698_42a6.jpg",
+      "title": "Agile Project Management: Agile, Scrum, Kanban & XP"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-product-management-genman/?couponCode=B129C06943A772EE6946",
       "coupon_code": "B129C06943A772EE6946",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5591170_5618_2.jpg",
+      "title": "ChatGPT for Product Management & Innovation"
     },
     {
       "url": "https://www.udemy.com/course/data-security-in-the-age-of-generative-ai/?couponCode=14B3BED921AF58A369B7",
       "coupon_code": "14B3BED921AF58A369B7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6876481_ea6f_3.jpg",
+      "title": "Data Security in the age of Generative AI"
     },
     {
       "url": "https://www.udemy.com/course/developing-business-partnerships/?couponCode=9CECEA6585345832BEC6",
       "coupon_code": "9CECEA6585345832BEC6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6348871_30e6.jpg",
+      "title": "Developing Business Partnerships: The Complete Guide"
     },
     {
       "url": "https://www.udemy.com/course/ethical-ai-genman/?couponCode=27607C16D1B50DEE7BF7",
       "coupon_code": "27607C16D1B50DEE7BF7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6864351_c0f2.jpg",
+      "title": "Ethical AI for the Workplace: Safe, Smart & Responsible Use"
     },
     {
       "url": "https://www.udemy.com/course/fintech-innovations/?couponCode=4A5B6313634902047553",
       "coupon_code": "4A5B6313634902047553",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643717_dfca_2.jpg",
+      "title": "Fintech Innovations: AI, Blockchain & Digital Payments"
     },
     {
       "url": "https://www.udemy.com/course/hr-masterclass-genman/?couponCode=437DD7FD07CEA19B1D4B",
       "coupon_code": "437DD7FD07CEA19B1D4B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6206461_cc76_3.jpg",
+      "title": "HR Masterclass: Complete Guide to Human Resource Management"
     },
     {
       "url": "https://www.udemy.com/course/inclusive-product-development-design-for-product-managers/?couponCode=A15E26E5FC97BAD48F81",
       "coupon_code": "A15E26E5FC97BAD48F81",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6744723_8109.jpg",
+      "title": "Inclusive Product Development & Design for Product Managers"
     },
     {
       "url": "https://www.udemy.com/course/jira-with-atlassian-intelligence-ai-rovo/?couponCode=82741B9C89757ABADE03",
       "coupon_code": "82741B9C89757ABADE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3748046_151c.jpg",
+      "title": "Mastering Jira® with Atlassian® Intelligence (AI) & Rovo®"
     },
     {
       "url": "https://www.udemy.com/course/non-tech-product-management/?couponCode=CB90EE9F22C69AF874CF",
       "coupon_code": "CB90EE9F22C69AF874CF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5120564_52a9.jpg",
+      "title": "Product Management Masterclass for Business Professionals"
     },
     {
       "url": "https://www.udemy.com/course/preventing-insider-trading-global/?couponCode=48B02D4948C22F30AD77",
       "coupon_code": "48B02D4948C22F30AD77",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5338122_515d.jpg",
+      "title": "Preventing and Addressing Insider Trading in the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/product-growth/?couponCode=15BD435FEF73CA2C7C22",
       "coupon_code": "15BD435FEF73CA2C7C22",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6696753_1fdc.jpg",
+      "title": "Complete Product Growth Guide: Metrics to Strategy"
     },
     {
       "url": "https://www.udemy.com/course/product-portfolio-management/?couponCode=50602C9F9DF3E83B3877",
       "coupon_code": "50602C9F9DF3E83B3877",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6510495_508a.jpg",
+      "title": "Product Portfolio Management Essentials for Product Managers"
     },
     {
       "url": "https://www.udemy.com/course/project-manager-skillpath/?couponCode=E5C2D2FBCC8CF57FB72E",
       "coupon_code": "E5C2D2FBCC8CF57FB72E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6808411_89e6_3.jpg",
+      "title": "Project Manager Skillpath: Agile, Scrum, SAFe® & Jira®"
     },
     {
       "url": "https://www.udemy.com/course/scaled-agile-framework-safe-genman/?couponCode=342A857AB6516F15E9D1",
       "coupon_code": "342A857AB6516F15E9D1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5761916_f2d4_2.jpg",
+      "title": "Introduction to Scaled Agile Framework® (Latest SAFe® 6.0)"
     },
     {
       "url": "https://www.udemy.com/course/become-a-data-scientist/?couponCode=NOVGIFT",
