@@ -1,16 +1,102 @@
 {
-  "updated_at": "2025-11-21T06:40:17Z",
-  "count": 719,
+  "updated_at": "2025-11-21T07:26:59Z",
+  "count": 729,
   "courses": [
     {
       "url": "https://www.udemy.com/course/become-a-data-scientist/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5254956_406a_3.jpg",
+      "title": "Become a Data Scientist: SQL, Tableau, ML & DL [4-in-1]"
+    },
+    {
+      "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=D49D90DB52837395B8CE",
+      "coupon_code": "D49D90DB52837395B8CE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-science-skillpath/?couponCode=NOVGIFT",
+      "coupon_code": "NOVGIFT",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5254954_4462_2.jpg",
+      "title": "Data Science Skillpath: SQL, ML, Looker Studio & Alteryx"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=7A7E935BF9B3675E8342",
+      "coupon_code": "7A7E935BF9B3675E8342",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3727022_0856_6.jpg",
+      "title": "Management Consulting Skills Mastery 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-presentation-mckinsey/?couponCode=618295D5B5DA2A156594",
+      "coupon_code": "618295D5B5DA2A156594",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3970622_e2ea_5.jpg",
+      "title": "Management Consulting Presentation Essential Training 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=06DB8D4A26EE9926658D",
+      "coupon_code": "06DB8D4A26EE9926658D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3726964_07e4_3.jpg",
+      "title": "Management Consulting Essential Training 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/object-detection-from-zero-to-hero/?couponCode=4DA84BAE491267026BC",
+      "coupon_code": "4DA84BAE491267026BC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761811_b0ab.jpg",
+      "title": "Object Detection From Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-of-executive-business-assistant/?couponCode=C4F39208E47E24E6CE0B",
+      "coupon_code": "C4F39208E47E24E6CE0B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5918176_2f67.jpg",
+      "title": "Professional Certificate of Executive Business Assistant"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-of-secretary/?couponCode=F8C0EA31E60D8B8BDD7D",
+      "coupon_code": "F8C0EA31E60D8B8BDD7D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917850_6c1f.jpg",
+      "title": "Professional Certificate of Secretary"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=3F4BCA6D8814776BBC21",
+      "coupon_code": "3F4BCA6D8814776BBC21",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3852530_370a_6.jpg",
+      "title": "The Complete SAP Analytics Cloud Course 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-bi-bo/?couponCode=E9A27812D9741A4AE589",
+      "coupon_code": "E9A27812D9741A4AE589",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3743036_a561_5.jpg",
+      "title": "SAP BusinessObjects Essential Training 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-commerce-cloud-hybris/?couponCode=85A07D1530A4BF49D6D8",
+      "coupon_code": "85A07D1530A4BF49D6D8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6154895_1b81_3.jpg",
+      "title": "SAP Commerce Cloud Bootcamp 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-s4hana-cloud-s4-erp/?couponCode=1B618ABEABA57891F1CA",
+      "coupon_code": "1B618ABEABA57891F1CA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6494157_edc8_3.jpg",
+      "title": "SAP S/4HANA Cloud Public Edition for Absolute Beginners 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-s4hana-erp/?couponCode=A028460E45530392C80E",
+      "coupon_code": "A028460E45530392C80E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4768966_c12d.jpg",
+      "title": "The Ultimate SAP S/4HANA Course 2025: From Zero to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/tableau-vs-google-looker/?couponCode=NOVGIFT",
+      "coupon_code": "NOVGIFT",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5254958_592e_3.jpg",
+      "title": "Tableau vs Google Looker for Enterprise Data Visualization"
     },
     {
       "url": "https://www.udemy.com/course/business-analysis-hindi/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5480962_bf08.jpg",
+      "title": "Business Analysis Essentials - Excel, Power BI & Statistics"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-office-productivity/?couponCode=NOVGIFT",
@@ -21,64 +107,50 @@
     {
       "url": "https://www.udemy.com/course/chatgpt-in-hindi-complete-chatgpt-guide/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5619088_9755_2.jpg",
+      "title": "Learn ChatGPT: Complete ChatGPT guide"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-starttech/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=D49D90DB52837395B8CE",
-      "coupon_code": "D49D90DB52837395B8CE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5649630_643f.jpg",
+      "title": "Mastering ChatGPT: All ChatGPT Features and Functions"
     },
     {
       "url": "https://www.udemy.com/course/data-analytics-for-project-management/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/data-science-skillpath/?couponCode=NOVGIFT",
-      "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5807618_5269.jpg",
+      "title": "Data Analytics for Project Management"
     },
     {
       "url": "https://www.udemy.com/course/gpts-customized-version-of-chatgpt/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5882198_f5a1.jpg",
+      "title": "GPTs: Customized version of ChatGPT for Professional Use"
     },
     {
       "url": "https://www.udemy.com/course/machine-learning-with-tensorflow-on-google-cloud/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5559506_db3c_2.jpg",
+      "title": "Machine Learning with TensorFlow on Google Cloud"
     },
     {
       "url": "https://www.udemy.com/course/power-bi-and-tableau-for-data-visualization/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5751864_56f1_2.jpg",
+      "title": "Power BI and Tableau for Data Visualization [2-in-1 Bundle]"
     },
     {
       "url": "https://www.udemy.com/course/power-bi-for-hr/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5703944_f431.jpg",
+      "title": "Power BI for HR: Visualize HR data using Power BI"
     },
     {
       "url": "https://www.udemy.com/course/power-bi-in-hindi/?couponCode=NOVGIFT",
       "coupon_code": "NOVGIFT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-of-secretary/?couponCode=F8C0EA31E60D8B8BDD7D",
-      "coupon_code": "F8C0EA31E60D8B8BDD7D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5917850_6c1f.jpg",
-      "title": "Professional Certificate of Secretary"
-    },
-    {
-      "url": "https://www.udemy.com/course/tableau-vs-google-looker/?couponCode=NOVGIFT",
-      "coupon_code": "NOVGIFT",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5254958_592e_3.jpg",
-      "title": "Tableau vs Google Looker for Enterprise Data Visualization"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5467770_1427_2.jpg",
+      "title": "Power BI for Data Visualization"
     },
     {
       "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=5334BAFAEC134974336F",
