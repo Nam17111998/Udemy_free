@@ -1,81 +1,138 @@
 {
-  "updated_at": "2025-11-22T10:25:25Z",
-  "count": 912,
+  "updated_at": "2025-11-22T11:19:36Z",
+  "count": 919,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/50-tips-for-new-managers-your-quick-start-guide/?couponCode=30TIPSNOV&ra",
+      "coupon_code": "30TIPSNOV",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6686965_d0df_5.jpg",
+      "title": "30 tips for New Managers - Your quick Start Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/active-directory-sites-and-replication/?couponCode=7F15F60B7DF7374C68F5",
+      "coupon_code": "7F15F60B7DF7374C68F5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2379778_aba8_4.jpg",
+      "title": "Active Directory:  Sites and Replication with a Lab"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-python-automation-for-excel-and-accounting/?couponCode=889D588D0292C692A1F1",
       "coupon_code": "889D588D0292C692A1F1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6614157_b5ee.jpg",
+      "title": "Advanced Python Automation for Excel and Accounting"
     },
     {
-      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_102",
-      "coupon_code": "AR_FREE_102",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?couponCode=3735614AC2848F88751A",
+      "coupon_code": "3735614AC2848F88751A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6501521_9cab_5.jpg",
+      "title": "Build 11  JavaScript Application and Web JavaScript BootCamp"
     },
     {
       "url": "https://www.udemy.com/course/complete-python-automation-bootcamp-automation-masterclass/?couponCode=C556CB5C053D697235E6",
       "coupon_code": "C556CB5C053D697235E6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6612567_fa03.jpg",
+      "title": "Complete Python Automation Bootcamp - Automation MasterClass"
     },
     {
       "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_99",
       "coupon_code": "AR_FREE_99",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
     },
     {
       "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_100",
       "coupon_code": "AR_FREE_100",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
+      "title": "Essentials for PyQGIS: Python for Geospatial Automation"
     },
     {
       "url": "https://www.udemy.com/course/executive-certificate-in-sales-management/?couponCode=F40B55E0DF7088CC7314",
       "coupon_code": "F40B55E0DF7088CC7314",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992344_c0b5.jpg",
+      "title": "Executive Certificate in Sales Management"
     },
     {
-      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/?couponCode=AR_FREE_106",
-      "coupon_code": "AR_FREE_106",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/introduction-to-business-and-data-analysis/?couponCode=5B93C61FD55B9EB2EDF3",
+      "coupon_code": "5B93C61FD55B9EB2EDF3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6011380_ea0b.jpg",
+      "title": "Business Data Analysis: The Strategic Thinking Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/master-full-stack-web-development-with-games-and-application/?couponCode=8446AE8D8DD9D327E21F",
       "coupon_code": "8446AE8D8DD9D327E21F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6616915_f73a_2.jpg",
+      "title": "Master Full Stack Web Development With Games and Application"
     },
     {
       "url": "https://www.udemy.com/course/master-python-for-data-science-machine-learning-automation/?couponCode=27E02ED046BADC880B1A",
       "coupon_code": "27E02ED046BADC880B1A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6857715_6d33.jpg",
+      "title": "Master Python for Data Science, Machine Learning, Automation"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_101",
-      "coupon_code": "AR_FREE_101",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_103",
-      "coupon_code": "AR_FREE_103",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/mastering-video-editing-with-ai-chatgpt-for-content-creators/?couponCode=B8E28EDF3F3071C4D6F8",
+      "coupon_code": "B8E28EDF3F3071C4D6F8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6577113_15af.jpg",
+      "title": "Mastering Video Editing with AI ChatGPT for Content Creators"
     },
     {
       "url": "https://www.udemy.com/course/purpose-driven-leadership-t/?couponCode=17THNOV25&ra",
       "coupon_code": "17THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4866896_05d0_2.jpg",
+      "title": "Purpose Driven Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-mobile-app-development-build-8-mobile-application/?couponCode=C0E8DCFFE8AA0B3620AD",
+      "coupon_code": "C0E8DCFFE8AA0B3620AD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6576193_f0bd_2.jpg",
+      "title": "Python Mobile App Development: Build 8+ Mobile Application"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-software-application-games-automation-development/?couponCode=30AB915808CDA35FF2CD",
+      "coupon_code": "30AB915808CDA35FF2CD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6457931_5336.jpg",
+      "title": "Python Software, Application, Games, Automation  Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_102",
+      "coupon_code": "AR_FREE_102",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
+      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/?couponCode=AR_FREE_106",
+      "coupon_code": "AR_FREE_106",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6823217_2c07.jpg",
+      "title": "Geospatial AI: Deep Learning for Satellite Imagery"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_101",
+      "coupon_code": "AR_FREE_101",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
+      "title": "Django Essentials: Build and Deploy Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_103",
+      "coupon_code": "AR_FREE_103",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
+      "title": "Programming for Scientific Research with Python and R"
     },
     {
       "url": "https://www.udemy.com/course/python-for-gis-automation/?couponCode=AR_FREE_97",
       "coupon_code": "AR_FREE_97",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6762543_37bf.jpg",
+      "title": "Python for GIS Automation and Geospatial Applications"
     },
     {
       "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_104",
       "coupon_code": "AR_FREE_104",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
+      "title": "Python for Scientific Research"
     },
     {
       "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_105",
       "coupon_code": "AR_FREE_105",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
+      "title": "R for Researchers: From Basics to Advanced Analysis"
     },
     {
       "url": "https://www.udemy.com/course/canva-for-graphics-design-and-video-editing-masterclass/?couponCode=BC5BA3301D67790E2BF4",
