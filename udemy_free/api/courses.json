@@ -1,12 +1,24 @@
 {
-  "updated_at": "2025-11-23T05:26:18Z",
-  "count": 994,
+  "updated_at": "2025-11-23T06:37:13Z",
+  "count": 1000,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/build-product-management-deliverable-portfolio-using-chatgpt/?couponCode=0371CF8375D241BC19C6",
+      "coupon_code": "0371CF8375D241BC19C6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5724784_611c_2.jpg",
+      "title": "ChatGPT for Business Analysts"
+    },
     {
       "url": "https://www.udemy.com/course/canva-rockstar-design-like-a-pro-for-social-media-success/?couponCode=BISMILLAH_19",
       "coupon_code": "BISMILLAH_19",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6031266_690c_2.jpg",
       "title": "Canva Rockstar: Design Like a Pro for Social Media Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-managers/?couponCode=2AF0EACCB574DD132884",
+      "coupon_code": "2AF0EACCB574DD132884",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6477577_0599.jpg",
+      "title": "ChatGPT for Product Management"
     },
     {
       "url": "https://www.udemy.com/course/complete-guide-in-html-css-build-responsive-website/?couponCode=DBBE10C701C52ACED4F9",
@@ -15,28 +27,22 @@
       "title": "Complete Guide in HTML & CSS - Build Responsive Website"
     },
     {
-      "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=F0CDC98A676AA4AF34AC",
-      "coupon_code": "F0CDC98A676AA4AF34AC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg",
-      "title": "CSS, JavaScript And PHP Complete Course For Beginners"
-    },
-    {
       "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=9BB29F482BB00DF0DB6E",
       "coupon_code": "9BB29F482BB00DF0DB6E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3972018_b05f.jpg",
       "title": "HTML 5,Python,Flask Framework All In One Complete Course"
     },
     {
-      "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=0FDF232698A425CB0006",
-      "coupon_code": "0FDF232698A425CB0006",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6118139_f59a.jpg",
-      "title": "Introdução à Gestão"
+      "url": "https://www.udemy.com/course/learn-italian-language-italian-for-beginners/?couponCode=BEGINFREENOV25",
+      "coupon_code": "BEGINFREENOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5943692_fc0e_3.jpg",
+      "title": "Learn Italian Language - Italian for Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=763BBD2D9EA7BD454AD0",
-      "coupon_code": "763BBD2D9EA7BD454AD0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5022262_24b2.jpg",
-      "title": "Java And C++ And PHP Crash Course All in One For Beginners"
+      "url": "https://www.udemy.com/course/learn-italian-language-italian-for-intermediate/?couponCode=INTERFREENOV25",
+      "coupon_code": "INTERFREENOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6048741_d676_3.jpg",
+      "title": "Learn Italian Language - Italian for Intermediate"
     },
     {
       "url": "https://www.udemy.com/course/master-c-language-c-programming-language-for-beginners/?couponCode=A2258078335D145A12C5",
@@ -69,6 +75,42 @@
       "title": "NumPy, Pandas, & Python for Data Analysis: A Complete Guide"
     },
     {
+      "url": "https://www.udemy.com/course/presentations-with-chatgpt-aece/?couponCode=2705DDCB44B5CEF0641C",
+      "coupon_code": "2705DDCB44B5CEF0641C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6363967_434c.jpg",
+      "title": "Presentations with ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-the-complete-course-for-success/?couponCode=8FC6D4B8BB608B133301",
+      "coupon_code": "8FC6D4B8BB608B133301",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6151001_aa1b.jpg",
+      "title": "Python Programming: The Complete Course for Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/safe-general-overview-course/?couponCode=95FDA664724B1EC15644",
+      "coupon_code": "95FDA664724B1EC15644",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6048331_349b_2.jpg",
+      "title": "SAFe®: General Overview course"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=F0CDC98A676AA4AF34AC",
+      "coupon_code": "F0CDC98A676AA4AF34AC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg",
+      "title": "CSS, JavaScript And PHP Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=0FDF232698A425CB0006",
+      "coupon_code": "0FDF232698A425CB0006",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6118139_f59a.jpg",
+      "title": "Introdução à Gestão"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=763BBD2D9EA7BD454AD0",
+      "coupon_code": "763BBD2D9EA7BD454AD0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5022262_24b2.jpg",
+      "title": "Java And C++ And PHP Crash Course All in One For Beginners"
+    },
+    {
       "url": "https://www.udemy.com/course/passive-income-playbook-ai-tools-automation-more/?couponCode=0D4D3DC850869D8550D3",
       "coupon_code": "0D4D3DC850869D8550D3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6930717_1048_3.jpg",
@@ -79,12 +121,6 @@
       "coupon_code": "00EAA5F66436E50FB44D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6117081_c03c_2.jpg",
       "title": "Professional Certificate in Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-programming-the-complete-course-for-success/?couponCode=8FC6D4B8BB608B133301",
-      "coupon_code": "8FC6D4B8BB608B133301",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6151001_aa1b.jpg",
-      "title": "Python Programming: The Complete Course for Success"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?couponCode=F6A9760C50E4BECB2244",
