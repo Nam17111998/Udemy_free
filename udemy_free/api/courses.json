@@ -1,7 +1,12 @@
 {
-  "updated_at": "2025-11-23T02:22:46Z",
-  "count": 984,
+  "updated_at": "2025-11-23T03:59:43Z",
+  "count": 990,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/complete-guide-in-html-css-build-responsive-website/?couponCode=DBBE10C701C52ACED4F9",
+      "coupon_code": "DBBE10C701C52ACED4F9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=F0CDC98A676AA4AF34AC",
       "coupon_code": "F0CDC98A676AA4AF34AC",
@@ -15,10 +20,9 @@
       "title": "Diploma: Human Resources, Compensation & Benefits Management"
     },
     {
-      "url": "https://www.udemy.com/course/fundamentals1/?couponCode=C75BF79926F6746CC651",
-      "coupon_code": "C75BF79926F6746CC651",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6870005_3ae1_2.jpg",
-      "title": "Fundamentals of Marketing and Brand Management Masterclass"
+      "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=9BB29F482BB00DF0DB6E",
+      "coupon_code": "9BB29F482BB00DF0DB6E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=0FDF232698A425CB0006",
@@ -33,10 +37,14 @@
       "title": "Java And C++ And PHP Crash Course All in One For Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/love-after-baby/?couponCode=A9103AE91C3BA221D7BB",
-      "coupon_code": "A9103AE91C3BA221D7BB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6675457_e6eb_2.jpg",
-      "title": "Love After Baby: Reconnecting as a Couple Post-Parenthood"
+      "url": "https://www.udemy.com/course/master-c-language-c-programming-language-for-beginners/?couponCode=A2258078335D145A12C5",
+      "coupon_code": "A2258078335D145A12C5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-pandas-python-for-data-analysis-a-complete-guide/?couponCode=424D1C3FD312D97988BD",
+      "coupon_code": "424D1C3FD312D97988BD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/object-detection-from-zero-to-hero/?couponCode=FDC767C741C1E27873C7",
@@ -45,16 +53,56 @@
       "title": "Object Detection From Zero to Hero"
     },
     {
-      "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=26655FE07797510A87A2",
-      "coupon_code": "26655FE07797510A87A2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6160617_f212_4.jpg",
-      "title": "Professional Diploma in Odd Jobs: Skills for Every Situation"
-    },
-    {
       "url": "https://www.udemy.com/course/passive-income-playbook-ai-tools-automation-more/?couponCode=0D4D3DC850869D8550D3",
       "coupon_code": "0D4D3DC850869D8550D3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6930717_1048_3.jpg",
       "title": "Passive Income Playbook: AI Tools, Automation & More"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-management/?couponCode=00EAA5F66436E50FB44D",
+      "coupon_code": "00EAA5F66436E50FB44D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6117081_c03c_2.jpg",
+      "title": "Professional Certificate in Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-the-complete-course-for-success/?couponCode=8FC6D4B8BB608B133301",
+      "coupon_code": "8FC6D4B8BB608B133301",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?couponCode=F6A9760C50E4BECB2244",
+      "coupon_code": "F6A9760C50E4BECB2244",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/?couponCode=824BA6CDB498C38A3D5B",
+      "coupon_code": "824BA6CDB498C38A3D5B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg",
+      "title": "Unleash Your Full Potential: Learn English Now!"
+    },
+    {
+      "url": "https://www.udemy.com/course/using-the-jobs-to-be-done-jtbd-methodology-q/?couponCode=C3CFC7161E783C846587",
+      "coupon_code": "C3CFC7161E783C846587",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6810619_5b1e.jpg",
+      "title": "Using the Jobs To Be Done (JTBD) Methodology"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals1/?couponCode=C75BF79926F6746CC651",
+      "coupon_code": "C75BF79926F6746CC651",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6870005_3ae1_2.jpg",
+      "title": "Fundamentals of Marketing and Brand Management Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/love-after-baby/?couponCode=A9103AE91C3BA221D7BB",
+      "coupon_code": "A9103AE91C3BA221D7BB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6675457_e6eb_2.jpg",
+      "title": "Love After Baby: Reconnecting as a Couple Post-Parenthood"
+    },
+    {
+      "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=26655FE07797510A87A2",
+      "coupon_code": "26655FE07797510A87A2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6160617_f212_4.jpg",
+      "title": "Professional Diploma in Odd Jobs: Skills for Every Situation"
     },
     {
       "url": "https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=3D37870AEFCECA540F54",
@@ -69,28 +117,10 @@
       "title": "Postgraduate Diploma in Supply Chain Engineering Management"
     },
     {
-      "url": "https://www.udemy.com/course/professional-certificate-in-management/?couponCode=00EAA5F66436E50FB44D",
-      "coupon_code": "00EAA5F66436E50FB44D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6117081_c03c_2.jpg",
-      "title": "Professional Certificate in Management"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-certificate-in-operations-management/?couponCode=FB52D7FFB30F6456F5B2",
       "coupon_code": "FB52D7FFB30F6456F5B2",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6111257_784b_2.jpg",
       "title": "Professional Certificate in Operations Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/?couponCode=824BA6CDB498C38A3D5B",
-      "coupon_code": "824BA6CDB498C38A3D5B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg",
-      "title": "Unleash Your Full Potential: Learn English Now!"
-    },
-    {
-      "url": "https://www.udemy.com/course/using-the-jobs-to-be-done-jtbd-methodology-q/?couponCode=C3CFC7161E783C846587",
-      "coupon_code": "C3CFC7161E783C846587",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6810619_5b1e.jpg",
-      "title": "Using the Jobs To Be Done (JTBD) Methodology"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-inteligencia-artificial/?couponCode=PAGINA-IA79",
