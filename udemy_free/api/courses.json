@@ -1,7 +1,12 @@
 {
-  "updated_at": "2025-11-24T13:40:17Z",
-  "count": 976,
+  "updated_at": "2025-11-24T14:28:14Z",
+  "count": 980,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-certificate-in-financial-analysis-and-management/?couponCode=EA7B0A28F3A83BEFCE3F",
+      "coupon_code": "EA7B0A28F3A83BEFCE3F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
@@ -23,11 +28,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=24THNOV25",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -39,6 +39,50 @@
     },
     {
       "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=24THNOV25",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5039256_a322_3.jpg",
+      "title": "Fundamentals of Financial Services"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-transform-your-life-practical-ways/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-for-embedded-systems-with-arm-ethos-u-npu/?couponCode=671CC74D3C6D6CDEAA94",
+      "coupon_code": "671CC74D3C6D6CDEAA94",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=24THNOV25",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-real-estate-management-system/?couponCode=LARAREALESTATE64",
+      "coupon_code": "LARAREALESTATE64",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/purpose-driven-leadership-t/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4866896_05d0_2.jpg",
+      "title": "Purpose Driven Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=24THNOV25",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
+      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
@@ -55,28 +99,10 @@
       "title": "Managing Social Anxiety in the Workplace"
     },
     {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=24THNOV25",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
-      "title": "Mental Health for the Workplace"
-    },
-    {
-      "url": "https://www.udemy.com/course/purpose-driven-leadership-t/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4866896_05d0_2.jpg",
-      "title": "Purpose Driven Leadership"
-    },
-    {
       "url": "https://www.udemy.com/course/special-education-inclusion/?couponCode=5C2F8F241FF62D227435",
       "coupon_code": "5C2F8F241FF62D227435",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5893372_7148_3.jpg",
       "title": "Certificate in Special Education Inclusion in Schools (SEND)"
-    },
-    {
-      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=24THNOV25",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
-      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=24THNOV25",
@@ -113,12 +139,6 @@
       "coupon_code": "24THNOV25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
       "title": "Financial Stewardship for Decision Makers and Leaders"
-    },
-    {
-      "url": "https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5039256_a322_3.jpg",
-      "title": "Fundamentals of Financial Services"
     },
     {
       "url": "https://www.udemy.com/course/investing-in-africa-key-factors-for-investors-to-consider/?couponCode=24THNOV25&ra",
