@@ -1,12 +1,18 @@
 {
-  "updated_at": "2025-11-24T17:26:55Z",
-  "count": 908,
+  "updated_at": "2025-11-24T18:39:15Z",
+  "count": 912,
   "courses": [
     {
       "url": "https://www.udemy.com/course/ai-agents-with-openai-agentkit-hands-on-guide/?couponCode=24NOVEMBER2025",
       "coupon_code": "24NOVEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6861611_1c6e_5.jpg",
       "title": "OpenAI AgentKit: Build AI Agents & Automate Workflows"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-cyber-security-mastery/?couponCode=8224381E393A8D6B61D7",
+      "coupon_code": "8224381E393A8D6B61D7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6356153_3475.jpg",
+      "title": "AI & Cyber Security Mastery 2025"
     },
     {
       "url": "https://www.udemy.com/course/chat-gpt-for-content-creation/?couponCode=24NOVEMBER2025",
@@ -21,10 +27,10 @@
       "title": "Docker Deep Dive: Build, Ship, and Run Containers"
     },
     {
-      "url": "https://www.udemy.com/course/facebook-marketing-course-for-beginners/?couponCode=24NOVEMBER2025",
-      "coupon_code": "24NOVEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4339022_5254_3.jpg",
-      "title": "Facebook Marketing 2025. Promote Your Business on Facebook!"
+      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
+      "title": "Financial Services - Basics of Business & Corporate Banking"
     },
     {
       "url": "https://www.udemy.com/course/frameworks-for-it-managers/?couponCode=63DC7EDF8AD7A9DEF1F9",
@@ -39,6 +45,60 @@
       "title": "Google Analytics 4 (GA4) Certification. How to Pass the Exam"
     },
     {
+      "url": "https://www.udemy.com/course/link-building-course/?couponCode=24NOVEMBER2025",
+      "coupon_code": "24NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4660302_7ec0_6.jpg",
+      "title": "Link building. Build links that boost the site traffic!"
+    },
+    {
+      "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6210279_19fd.jpg",
+      "title": "Managing Social Anxiety in the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/market-research-competitive-analysis-executive-certificate/?couponCode=E91A4A3F16A075CFFD2D",
+      "coupon_code": "E91A4A3F16A075CFFD2D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6510181_0ab4_2.jpg",
+      "title": "Market Research & Competitive Analysis Executive Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/nodejs-crash-course-build-a-rest-api-in-a-weekend/?couponCode=24NOVEMBER2025",
+      "coupon_code": "24NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6807399_ab5a.jpg",
+      "title": "Node.js Crash Course: Build a REST API in a Weekend"
+    },
+    {
+      "url": "https://www.udemy.com/course/personal-growth-affirmations-and-taking-action/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4917622_0aae_2.jpg",
+      "title": "Personal Growth - Affirmations and Taking Action"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-ai-chatbot-built-with-chatgpt-and-gemini-ai/?couponCode=24NOVEMBER2025",
+      "coupon_code": "24NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6309795_1522_5.jpg",
+      "title": "React.js AI Chatbot built with ChatGPT, Gemini and DeepSeek"
+    },
+    {
+      "url": "https://www.udemy.com/course/sales-and-service-data-analysis-and-analytics-expert-certificate/?couponCode=45937C103F9DA103995B",
+      "coupon_code": "45937C103F9DA103995B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6477559_dccd.jpg",
+      "title": "Sales & Service Data Analysis & Analytics Expert Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/upgrade-your-social-media-presence-with-chat-gpt/?couponCode=24NOVEMBER2025",
+      "coupon_code": "24NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5672296_4b02.jpg",
+      "title": "Upgrade Your Social Media with ChatGPT and 20+ AI Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-marketing-course-for-beginners/?couponCode=24NOVEMBER2025",
+      "coupon_code": "24NOVEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4339022_5254_3.jpg",
+      "title": "Facebook Marketing 2025. Promote Your Business on Facebook!"
+    },
+    {
       "url": "https://www.udemy.com/course/instagram-marketing-practical-course/?couponCode=24NOVEMBER2025",
       "coupon_code": "24NOVEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4339012_afc0_6.jpg",
@@ -51,46 +111,16 @@
       "title": "Introduction to Risk Management - Decision Makers & Leaders"
     },
     {
-      "url": "https://www.udemy.com/course/link-building-course/?couponCode=24NOVEMBER2025",
-      "coupon_code": "24NOVEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4660302_7ec0_6.jpg",
-      "title": "Link building. Build links that boost the site traffic!"
-    },
-    {
-      "url": "https://www.udemy.com/course/nodejs-crash-course-build-a-rest-api-in-a-weekend/?couponCode=24NOVEMBER2025",
-      "coupon_code": "24NOVEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6807399_ab5a.jpg",
-      "title": "Node.js Crash Course: Build a REST API in a Weekend"
-    },
-    {
-      "url": "https://www.udemy.com/course/reactjs-ai-chatbot-built-with-chatgpt-and-gemini-ai/?couponCode=24NOVEMBER2025",
-      "coupon_code": "24NOVEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6309795_1522_5.jpg",
-      "title": "React.js AI Chatbot built with ChatGPT, Gemini and DeepSeek"
-    },
-    {
       "url": "https://www.udemy.com/course/reputation_management/?couponCode=24NOVEMBER2025",
       "coupon_code": "24NOVEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5036684_87dc.jpg",
       "title": "Reputation Management: Take Control of Your Company's Image"
     },
     {
-      "url": "https://www.udemy.com/course/sales-and-service-data-analysis-and-analytics-expert-certificate/?couponCode=45937C103F9DA103995B",
-      "coupon_code": "45937C103F9DA103995B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6477559_dccd.jpg",
-      "title": "Sales & Service Data Analysis & Analytics Expert Certificate"
-    },
-    {
       "url": "https://www.udemy.com/course/seo-strategy/?couponCode=24NOVEMBER2025",
       "coupon_code": "24NOVEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4084798_d86f_8.jpg",
       "title": "SEO Strategy 2025. SEO training to Unleash Career Potential!"
-    },
-    {
-      "url": "https://www.udemy.com/course/upgrade-your-social-media-presence-with-chat-gpt/?couponCode=24NOVEMBER2025",
-      "coupon_code": "24NOVEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5672296_4b02.jpg",
-      "title": "Upgrade Your Social Media with ChatGPT and 20+ AI Tools"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-correos-corporativos-con-dominio-propio-en-gmail/?couponCode=CORREOS-GR102",
@@ -319,12 +349,6 @@
       "coupon_code": "24THNOV25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
       "title": "Empathy and Emotional Intelligence for Project Managers"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
-      "title": "Financial Services - Basics of Business & Corporate Banking"
     },
     {
       "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=24THNOV25&ra",
