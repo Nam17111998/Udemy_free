@@ -1,7 +1,97 @@
 {
-  "updated_at": "2025-11-25T16:36:43Z",
-  "count": 958,
+  "updated_at": "2025-11-25T17:26:30Z",
+  "count": 973,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-kanban/?couponCode=2587F38CD034F3D088CE",
+      "coupon_code": "2587F38CD034F3D088CE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3704956_8552.jpg",
+      "title": "Agile Kanban: Kanban for Software Development Teams"
+    },
+    {
+      "url": "https://www.udemy.com/course/anti-corruption-and-anti-bribery/?couponCode=57A4B661BB330EEFE7A4",
+      "coupon_code": "57A4B661BB330EEFE7A4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6258401_4fe2.jpg",
+      "title": "Anti-Corruption and Anti-Bribery Training for Professionals"
+    },
+    {
+      "url": "https://www.udemy.com/course/employee-recognition-program/?couponCode=D38E7072CBE1D55B7284",
+      "coupon_code": "D38E7072CBE1D55B7284",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5453786_d980.jpg",
+      "title": "Mastering Employee Recognition: Development & Implementation"
+    },
+    {
+      "url": "https://www.udemy.com/course/fintech-innovations/?couponCode=CC2574D7460C7252761D",
+      "coupon_code": "CC2574D7460C7252761D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643717_dfca_2.jpg",
+      "title": "Fintech Innovations: AI, Blockchain & Digital Payments"
+    },
+    {
+      "url": "https://www.udemy.com/course/gratitude-w/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4794422_c40e_5.jpg",
+      "title": "Gratitude"
+    },
+    {
+      "url": "https://www.udemy.com/course/inclusive-product-development-design-for-product-managers/?couponCode=32289E1783EAAB0587A4",
+      "coupon_code": "32289E1783EAAB0587A4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6744723_8109.jpg",
+      "title": "Inclusive Product Development & Design for Product Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/prevention-of-insider-trading-india-regulations/?couponCode=7220BAF93CF06B4CB635",
+      "coupon_code": "7220BAF93CF06B4CB635",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5331620_20b0_4.jpg",
+      "title": "Prevention of Insider Trading: India Regulations"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-growth/?couponCode=6D552C2FD2D4E0826AAD",
+      "coupon_code": "6D552C2FD2D4E0826AAD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6696753_1fdc.jpg",
+      "title": "Complete Product Growth Guide: Metrics to Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-in-human-resources-phr/?couponCode=B59B09F42E2EB887243B",
+      "coupon_code": "B59B09F42E2EB887243B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6032796_504d_2.jpg",
+      "title": "Professional in Human Resources® (PHR®): Certification Prep"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-basics-genman/?couponCode=DB306992C8C6C91A11F9",
+      "coupon_code": "DB306992C8C6C91A11F9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5842382_a796.jpg",
+      "title": "Project Management Basics for Non-Project Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-manager-skillpath/?couponCode=F268844C8741CB7D7230",
+      "coupon_code": "F268844C8741CB7D7230",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6808411_89e6_3.jpg",
+      "title": "Project Manager Skillpath: Agile, Scrum, SAFe® & Jira®"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-managers-project-sponsors/?couponCode=90481A18787843678477",
+      "coupon_code": "90481A18787843678477",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5951368_aeb9_2.jpg",
+      "title": "Working with Project Managers & Project Sponsors"
+    },
+    {
+      "url": "https://www.udemy.com/course/reskilling-organization/?couponCode=4AF05C16EAAD53E58AFA",
+      "coupon_code": "4AF05C16EAAD53E58AFA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6303859_d617.jpg",
+      "title": "Reskilling Your Organization: Build a Future-Ready Workforce"
+    },
+    {
+      "url": "https://www.udemy.com/course/scrum-genman/?couponCode=8B76539DE6C2962AC111",
+      "coupon_code": "8B76539DE6C2962AC111",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3584300_6463_3.jpg",
+      "title": "The Complete Scrum Guide for Scrum Masters and Agile Teams"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-javascript-course-from-zero-to-expert-o/?couponCode=24BBD27384862D143574",
+      "coupon_code": "24BBD27384862D143574",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638532_1c7a.jpg",
+      "title": "The Complete JavaScript Course: From Zero to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/como-crear-un-blog-de-exito-paso-a-paso/?couponCode=BLOG-GR85",
       "coupon_code": "BLOG-GR85",
@@ -53,7 +143,8 @@
     {
       "url": "https://www.udemy.com/course/cyber-security-and-artificial-intelligence-risk-course/?couponCode=B1D24F665746758DA958",
       "coupon_code": "B1D24F665746758DA958",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6908677_e274_2.jpg",
+      "title": "Cyber security and Artificial Intelligence Risk Course"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=24THNOV25&ra",
