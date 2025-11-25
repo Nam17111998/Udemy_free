@@ -1,16 +1,96 @@
 {
-  "updated_at": "2025-11-25T11:24:25Z",
-  "count": 929,
+  "updated_at": "2025-11-25T12:56:58Z",
+  "count": 933,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5297378_1508_2.jpg",
+      "title": "Authentic Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=D5E83AC056DF8D6E0099",
+      "coupon_code": "D5E83AC056DF8D6E0099",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4280734_2d17.jpg",
+      "title": "CSS Complete Course For Beginners"
+    },
     {
       "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=24THNOV25&ra",
       "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5967346_dd34.jpg",
+      "title": "Developing successful Professional Relationships"
     },
     {
       "url": "https://www.udemy.com/course/digital-first-marketing-management-professional-certificate/?couponCode=EBA0F0F3F4DF13949B2A",
       "coupon_code": "EBA0F0F3F4DF13949B2A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583773_dc60.jpg",
+      "title": "Digital-First Marketing Management Professional Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
+      "title": "Empathy and Emotional Intelligence for Project Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-excel-vba-macros-automate-daily-tasks-in-minutes/?couponCode=2CBC1BC4477370BE44F7",
+      "coupon_code": "2CBC1BC4477370BE44F7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6848943_65c3.jpg",
+      "title": "Hands On Excel VBA Macros: Automate Daily Tasks in Minutes"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-r-programming-build-real-world-data-projects/?couponCode=58942BDDB8DA57A85124",
+      "coupon_code": "58942BDDB8DA57A85124",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6759761_fa28_4.jpg",
+      "title": "Hands-On R Programming: Build Real World Data Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-transform-your-life-practical-ways/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4912620_d57d.jpg",
+      "title": "How to Transform Your Life - practical ways"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=7CEDA55E16127F46E4F0",
+      "coupon_code": "7CEDA55E16127F46E4F0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4200228_c917_2.jpg",
+      "title": "Javascript Practicals Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/leadership-how-to-become-a-thought-leader-in-your-industry/?couponCode=55A32FF238ADA1F96DA8",
+      "coupon_code": "55A32FF238ADA1F96DA8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583865_094f.jpg",
+      "title": "How to Become a Thought Leader in Your Industry"
+    },
+    {
+      "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6210279_19fd.jpg",
+      "title": "Managing Social Anxiety in the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/nextjs-build-dynamic-fast-scalable-web-applications/?couponCode=718DFC21D1CC09C4A639",
+      "coupon_code": "718DFC21D1CC09C4A639",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761541_dcde_3.jpg",
+      "title": "Next.js: Build Dynamic, Fast & Scalable Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-data-analysis-and-data-science/?couponCode=1886B901E37C41095060",
+      "coupon_code": "1886B901E37C41095060",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581245_e1e8_2.jpg",
+      "title": "Python for Data analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/?couponCode=68A0E39FC833F14F424B",
+      "coupon_code": "68A0E39FC833F14F424B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6758057_2d7b.jpg",
+      "title": "The Modern JavaScript Course: Build Interactive Websites"
+    },
+    {
+      "url": "https://www.udemy.com/course/vigilant-leadership/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4866882_461e_4.jpg",
+      "title": "Vigilant Leadership"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=24THNOV25",
@@ -49,66 +129,40 @@
       "title": "Financial Stewardship for Decision Makers and Leaders"
     },
     {
-      "url": "https://www.udemy.com/course/hands-on-excel-vba-macros-automate-daily-tasks-in-minutes/?couponCode=2CBC1BC4477370BE44F7",
-      "coupon_code": "2CBC1BC4477370BE44F7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/hands-on-r-programming-build-real-world-data-projects/?couponCode=58942BDDB8DA57A85124",
-      "coupon_code": "58942BDDB8DA57A85124",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6210279_19fd.jpg",
-      "title": "Managing Social Anxiety in the Workplace"
-    },
-    {
       "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
       "title": "Mental Health for the Workplace"
     },
     {
-      "url": "https://www.udemy.com/course/nextjs-build-dynamic-fast-scalable-web-applications/?couponCode=718DFC21D1CC09C4A639",
-      "coupon_code": "718DFC21D1CC09C4A639",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-for-data-analysis-and-data-science/?couponCode=1886B901E37C41095060",
-      "coupon_code": "1886B901E37C41095060",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/?couponCode=68A0E39FC833F14F424B",
-      "coupon_code": "68A0E39FC833F14F424B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
+      "title": "Empathy and Emotional Intelligence for Project Managers"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
+      "title": "Financial Services: Introduction to ETFs"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
+      "title": "Introduction to Financial Controls"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865814_bd91_4.jpg",
+      "title": "Introduction to Risk Management - Decision Makers & Leaders"
     },
     {
       "url": "https://www.udemy.com/course/leadership-for-successful-project-management-and-delivery/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066383_427f.jpg",
+      "title": "Leadership for Successful Project Management and Delivery"
     },
     {
       "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=24THNOV25",
@@ -405,12 +459,6 @@
       "title": "Build your Personal Portfolio Website"
     },
     {
-      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
-      "title": "Empathy and Emotional Intelligence for Project Managers"
-    },
-    {
       "url": "https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=CE93B5944FBB46DBBA9B",
       "coupon_code": "CE93B5944FBB46DBBA9B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5238908_582c.jpg",
@@ -535,12 +583,6 @@
       "coupon_code": "4B079B915315956BB97F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6685093_3e37.jpg",
       "title": "Ultimate Shopify Dropshipping 2025: Start Selling Online!"
-    },
-    {
-      "url": "https://www.udemy.com/course/vigilant-leadership/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4866882_461e_4.jpg",
-      "title": "Vigilant Leadership"
     },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-hr-hrm-excellence/?couponCode=C94D1F9377D64E593326",
@@ -991,12 +1033,6 @@
       "coupon_code": "24THNOV25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5039256_a322_3.jpg",
       "title": "Fundamentals of Financial Services"
-    },
-    {
-      "url": "https://www.udemy.com/course/how-to-transform-your-life-practical-ways/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4912620_d57d.jpg",
-      "title": "How to Transform Your Life - practical ways"
     },
     {
       "url": "https://www.udemy.com/course/machine-learning-for-embedded-systems-with-arm-ethos-u-npu/?couponCode=671CC74D3C6D6CDEAA94",
