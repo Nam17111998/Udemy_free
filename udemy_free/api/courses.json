@@ -1,17 +1,22 @@
 {
-  "updated_at": "2025-11-25T10:32:22Z",
-  "count": 922,
+  "updated_at": "2025-11-25T11:24:25Z",
+  "count": 929,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-first-marketing-management-professional-certificate/?couponCode=EBA0F0F3F4DF13949B2A",
+      "coupon_code": "EBA0F0F3F4DF13949B2A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
       "title": "Emotional Intelligence in Leadership"
-    },
-    {
-      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=24THNOV25",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=24THNOV25",
@@ -32,11 +37,6 @@
       "title": "Financial Services - Funds Flow Optimization Concepts"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=24THNOV25",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
@@ -47,6 +47,53 @@
       "coupon_code": "24THNOV25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
       "title": "Financial Stewardship for Decision Makers and Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-excel-vba-macros-automate-daily-tasks-in-minutes/?couponCode=2CBC1BC4477370BE44F7",
+      "coupon_code": "2CBC1BC4477370BE44F7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-r-programming-build-real-world-data-projects/?couponCode=58942BDDB8DA57A85124",
+      "coupon_code": "58942BDDB8DA57A85124",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6210279_19fd.jpg",
+      "title": "Managing Social Anxiety in the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=24THNOV25",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/nextjs-build-dynamic-fast-scalable-web-applications/?couponCode=718DFC21D1CC09C4A639",
+      "coupon_code": "718DFC21D1CC09C4A639",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-data-analysis-and-data-science/?couponCode=1886B901E37C41095060",
+      "coupon_code": "1886B901E37C41095060",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/?couponCode=68A0E39FC833F14F424B",
+      "coupon_code": "68A0E39FC833F14F424B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=24THNOV25",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=24THNOV25",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=24THNOV25",
@@ -62,18 +109,6 @@
       "url": "https://www.udemy.com/course/leadership-for-successful-project-management-and-delivery/?couponCode=24THNOV25",
       "coupon_code": "24THNOV25",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6210279_19fd.jpg",
-      "title": "Managing Social Anxiety in the Workplace"
-    },
-    {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=24THNOV25",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
-      "title": "Mental Health for the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=24THNOV25",
