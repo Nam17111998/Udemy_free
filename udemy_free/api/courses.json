@@ -1,41 +1,138 @@
 {
-  "updated_at": "2025-11-26T08:36:07Z",
-  "count": 945,
+  "updated_at": "2025-11-26T09:31:32Z",
+  "count": 957,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/academicresearch/?couponCode=ENDOFMONTHOFFER4",
+      "coupon_code": "ENDOFMONTHOFFER4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6629617_f5de.jpg",
+      "title": "How to write an Academic Research Paper"
+    },
+    {
+      "url": "https://www.udemy.com/course/aspen-plus-course/?couponCode=8AD105E660373A63C41B",
+      "coupon_code": "8AD105E660373A63C41B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935721_b68c_3.jpg",
+      "title": "Aspen Plus V14 - Shell and Tube Heat Exchangers"
+    },
+    {
+      "url": "https://www.udemy.com/course/auditing-iso-270012022-organizational-controls/?couponCode=B53EC012A5729B48C4C3",
+      "coupon_code": "B53EC012A5729B48C4C3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6732593_e4a3.jpg",
+      "title": "Auditing ISO 27001:2022 – Organizational Controls"
+    },
+    {
+      "url": "https://www.udemy.com/course/auditing-iso-270012022-people-controls/?couponCode=0698AACBABC6437306A7",
+      "coupon_code": "0698AACBABC6437306A7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6764379_3c14_2.jpg",
+      "title": "Auditing ISO 27001:2022 – People Controls"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificate-in-neuromarketing-consumer-psychology/?couponCode=0BBB0ED81C1B16F103B0",
+      "coupon_code": "0BBB0ED81C1B16F103B0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6832413_cdc2_2.jpg",
+      "title": "Certificate in Neuromarketing & Consumer Psychology"
+    },
+    {
+      "url": "https://www.udemy.com/course/codeigniter-4-for-2023-build-real-estate-management-system/?couponCode=CIREALESTATE80",
+      "coupon_code": "CIREALESTATE80",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5574530_8c35.jpg",
+      "title": "CodeIgniter 4: Build Real Estate Management System"
+    },
+    {
+      "url": "https://www.udemy.com/course/drsamfcc/?couponCode=ENDOFMONTHOFFER2",
+      "coupon_code": "ENDOFMONTHOFFER2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4457712_23d3.jpg",
+      "title": "دورة مختصرة عن العملات الرقمية المشفرة"
+    },
+    {
+      "url": "https://www.udemy.com/course/drsamwpcv/?couponCode=ENDOFMONTHOFFER1",
+      "coupon_code": "ENDOFMONTHOFFER1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3820932_792c.jpg",
+      "title": "كتابة سيرة ذاتية احترافية"
+    },
+    {
+      "url": "https://www.udemy.com/course/finance-career-paths-find-your-ideal-role/?couponCode=SHUBHAM-UP",
+      "coupon_code": "SHUBHAM-UP",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6670797_8b4b_5.jpg",
+      "title": "Finance Career Paths: Find Your Ideal Role & Succeed"
+    },
+    {
+      "url": "https://www.udemy.com/course/fire-safety-for-construction-education-and-care-workers/?couponCode=4F0E6143AE2AEE1BDAF4",
+      "coupon_code": "4F0E6143AE2AEE1BDAF4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6928263_29ba.jpg",
+      "title": "Fire Safety for Construction, Education and Care Workers"
+    },
+    {
+      "url": "https://www.udemy.com/course/materialproduction/?couponCode=5C5C7B90BE98D77C2978",
+      "coupon_code": "5C5C7B90BE98D77C2978",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5737582_74ba_2.jpg",
+      "title": "Material Production and Educational Curriculum Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/shred-the-fretboard-guitar-master-course/?couponCode=BEB88555B67497491221",
+      "coupon_code": "BEB88555B67497491221",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6118247_5de8.jpg",
+      "title": "SHRED THE FRETBOARD! GUITAR MASTER COURSE"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-beginners-guide-to-bash-scripting-and-automation/?couponCode=91B51785F69CDE76D2C5",
+      "coupon_code": "91B51785F69CDE76D2C5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5729506_f6ef_2.jpg",
+      "title": "The Beginner's Guide to Bash Scripting and Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/vigilant-leadership/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4866882_461e_4.jpg",
+      "title": "Vigilant Leadership"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-capcut-from-beginner-to-motion-graphics-master/?couponCode=40F03716A932B3992E1E",
       "coupon_code": "40F03716A932B3992E1E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6041422_34f7.jpg",
+      "title": "Advanced Capcut: From Beginner to Motion Graphics Master"
     },
     {
       "url": "https://www.udemy.com/course/canva-masterclass-social-media-t-shirt-video-edit-motion/?couponCode=31A51C1B5FDCD6324195",
       "coupon_code": "31A51C1B5FDCD6324195",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6000606_3b08_3.jpg",
+      "title": "Canva Masterclass: Social Media, T-Shirt, Video Edit, Motion"
     },
     {
       "url": "https://www.udemy.com/course/complete-goal-achievement-course-personal-success-goals/?couponCode=A3CA0FAEA641506DF9CA",
       "coupon_code": "A3CA0FAEA641506DF9CA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3264174_e2d8_2.jpg",
+      "title": "Complete Goal Achievement Course - Personal Success Goals"
     },
     {
       "url": "https://www.udemy.com/course/complete-google-slides-course-create-stunning-slides/?couponCode=17780A547F41D9862AEA",
       "coupon_code": "17780A547F41D9862AEA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3349434_aebe_2.jpg",
+      "title": "Complete Google Slides Course - Create Stunning Slides"
     },
     {
       "url": "https://www.udemy.com/course/digital-transformation-in-hr-leveraging-ai-analytics/?couponCode=9E5DEBFA5F176DA09FB4",
       "coupon_code": "9E5DEBFA5F176DA09FB4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6814631_985b_2.jpg",
+      "title": "Digital Transformation in HR: Leveraging AI & Analytics"
     },
     {
       "url": "https://www.udemy.com/course/excel-data-insights-power-query-pivot-analysis-and-visuals/?couponCode=54BBD8002E9CA0977B2E",
       "coupon_code": "54BBD8002E9CA0977B2E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790885_6fd8_2.jpg",
+      "title": "Excel Data Insights: Power Query Pivot Analysis and Visuals"
     },
     {
       "url": "https://www.udemy.com/course/excel-microsoft-excel-formulas-and-functions-for-beginners/?couponCode=A1302C00A03687F21749",
       "coupon_code": "A1302C00A03687F21749",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753127_83f4_2.jpg",
+      "title": "Excel - Microsoft Excel Formulas and Functions For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=24THNOV25&ra",
@@ -46,37 +143,38 @@
     {
       "url": "https://www.udemy.com/course/microsoft-excel-101-excel-from-beginners-to-advanced/?couponCode=D6C194248DCEE9ED9034",
       "coupon_code": "D6C194248DCEE9ED9034",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6766177_ba31_3.jpg",
+      "title": "Microsoft Excel 101- Excel From Beginners to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/?couponCode=A4B85550637FB751FE1E",
       "coupon_code": "A4B85550637FB751FE1E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg",
+      "title": "Microsoft Excel Data Analysis for Business & Finance"
     },
     {
       "url": "https://www.udemy.com/course/python-for-everyone-master-the-basics-of-programming/?couponCode=0EF594A54FA3724C6E90",
       "coupon_code": "0EF594A54FA3724C6E90",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-beginners-guide-to-bash-scripting-and-automation/?couponCode=91B51785F69CDE76D2C5",
-      "coupon_code": "91B51785F69CDE76D2C5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6000744_a2a9_3.jpg",
+      "title": "Python for Everyone Master the Basics of Programming"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-google-docs-course/?couponCode=A5A5600B091F79805F9C",
       "coupon_code": "A5A5600B091F79805F9C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3349204_f522_3.jpg",
+      "title": "Mastering Google Docs: A Comprehensive Google Docs Course"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-google-sheets-course-google-spreadsheet-tips/?couponCode=EDDD0AD22B6AE42D8BE3",
       "coupon_code": "EDDD0AD22B6AE42D8BE3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3349302_11b4_2.jpg",
+      "title": "The Complete Google Sheets Course - Google Spreadsheet Tips"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-social-media-video-editing-masterclass/?couponCode=DFE1AAFB97C85A2C5C03",
       "coupon_code": "DFE1AAFB97C85A2C5C03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6012036_bb33.jpg",
+      "title": "The Complete Social Media Video Editing Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=8FE00FDDF041DE4649CB",
@@ -487,12 +585,6 @@
       "title": "Machine Learning for Embedded Systems with ARM Ethos-U NPU"
     },
     {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
-      "title": "Mental Health for the Workplace"
-    },
-    {
       "url": "https://www.udemy.com/course/pgd-in-scom/?couponCode=92912BB30475A0ACC0BA",
       "coupon_code": "92912BB30475A0ACC0BA",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6609829_4ec7_2.jpg",
@@ -875,12 +967,6 @@
       "coupon_code": "718DFC21D1CC09C4A639",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6761541_dcde_3.jpg",
       "title": "Next.js: Build Dynamic, Fast & Scalable Web Applications"
-    },
-    {
-      "url": "https://www.udemy.com/course/vigilant-leadership/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4866882_461e_4.jpg",
-      "title": "Vigilant Leadership"
     },
     {
       "url": "https://www.udemy.com/course/python-for-data-analysis-and-data-science/?couponCode=1886B901E37C41095060",
