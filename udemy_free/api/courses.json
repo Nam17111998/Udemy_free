@@ -1,7 +1,17 @@
 {
-  "updated_at": "2025-11-27T05:28:22Z",
-  "count": 948,
+  "updated_at": "2025-11-27T06:41:01Z",
+  "count": 956,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/canva-for-social-media-graphic-design-and-video-editing/?couponCode=7A4E33B7DD4EE2136A87",
+      "coupon_code": "7A4E33B7DD4EE2136A87",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=7409C048F31983EDAC09",
+      "coupon_code": "7409C048F31983EDAC09",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/copywriting_businesswriting/?couponCode=70254F2852858F2D8541",
       "coupon_code": "70254F2852858F2D8541",
@@ -9,10 +19,72 @@
       "title": "Professional Diploma in Copywriting and Business Writing"
     },
     {
+      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
+      "title": "Emotional Intelligence in Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-after-effects-from-beginner-to-motion-master/?couponCode=F7453C0FC8E9F2F7DF2F",
+      "coupon_code": "F7453C0FC8E9F2F7DF2F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/excel-formulas-functions-beginner-to-expert-course/?couponCode=ALHAMDULILLAH_112725",
       "coupon_code": "ALHAMDULILLAH_112725",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4797002_127c_9.jpg",
       "title": "Excel - Formulas & Functions Beginner to Expert Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/financemanagement/?couponCode=F8691A39E3CCDE453749",
+      "coupon_code": "F8691A39E3CCDE453749",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphic-design-masterclass-adobe-photoshop-illustrator-indesign-canva/?couponCode=1EFD25750968E973F78F",
+      "coupon_code": "1EFD25750968E973F78F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-adobe-premiere-pro-cc-from-beginner-to-pro-editor/?couponCode=C31A4E6A42BCC23CE847",
+      "coupon_code": "C31A4E6A42BCC23CE847",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-bootcamp-the-complete-programming-course-with-mysql/?couponCode=DE451DF7081FCA9C7B78",
+      "coupon_code": "DE451DF7081FCA9C7B78",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173981_30e7_2.jpg",
+      "title": "PHP Bootcamp: The Complete Programming Course With MYSQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=3270B7586313974BB281",
+      "coupon_code": "3270B7586313974BB281",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2861796_b954.jpg",
+      "title": "Python And Django Framework For Beginners Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-a-step-by-step-programming-course/?couponCode=20138EABA229911E8ED6",
+      "coupon_code": "20138EABA229911E8ED6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173779_c69c.jpg",
+      "title": "Python Programming: A Step-by-Step Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=SUBHANALLAH_112725",
+      "coupon_code": "SUBHANALLAH_112725",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4965774_88c7_8.jpg",
+      "title": "The Complete SEO Guide: SEO For Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4785722_1b39_5.jpg",
+      "title": "Strategic Partnerships and Collaborations"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5560346_69f1_3.jpg",
+      "title": "Workplace Stress Management Strategies"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=24THNOV25&ra",
@@ -57,40 +129,16 @@
       "title": "Productivity - Focus, Concentration & Performance Strategies"
     },
     {
-      "url": "https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=3270B7586313974BB281",
-      "coupon_code": "3270B7586313974BB281",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/2861796_b954.jpg",
-      "title": "Python And Django Framework For Beginners Complete Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=SUBHANALLAH_112725",
-      "coupon_code": "SUBHANALLAH_112725",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4965774_88c7_8.jpg",
-      "title": "The Complete SEO Guide: SEO For Beginner to Expert"
-    },
-    {
       "url": "https://www.udemy.com/course/securing-the-budget-for-your-project-with-a-winning-pitch-deck/?couponCode=7A14FC6CAE2D6FAB87C3",
       "coupon_code": "7A14FC6CAE2D6FAB87C3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5201664_eedb_5.jpg",
       "title": "Executive Diploma in Business Presenting Skills"
     },
     {
-      "url": "https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4785722_1b39_5.jpg",
-      "title": "Strategic Partnerships and Collaborations"
-    },
-    {
       "url": "https://www.udemy.com/course/womens-leadership/?couponCode=06792516386375D680E4",
       "coupon_code": "06792516386375D680E4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5205546_ef41_2.jpg",
       "title": "Women Leaders Executive Programme"
-    },
-    {
-      "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5560346_69f1_3.jpg",
-      "title": "Workplace Stress Management Strategies"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-risk-management-in-financial-services/?couponCode=24THNOV25&ra",
@@ -1207,12 +1255,6 @@
       "coupon_code": "CD37683F75272BF2E32A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6627259_626f.jpg",
       "title": "Business Strategy & Innovation Frameworks"
-    },
-    {
-      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
-      "title": "Emotional Intelligence in Leadership"
     },
     {
       "url": "https://www.udemy.com/course/full-cycle-product-marketing/?couponCode=B02297C7BCB2836B2333",
