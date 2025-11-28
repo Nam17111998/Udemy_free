@@ -1,7 +1,97 @@
 {
-  "updated_at": "2025-11-27T23:24:17Z",
-  "count": 938,
+  "updated_at": "2025-11-28T02:01:30Z",
+  "count": 951,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/blue-prism-beginners-course-step-by-step/?couponCode=NOV100",
+      "coupon_code": "NOV100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4817670_0b9b.jpg",
+      "title": "Blue Prism Foundation Course Step By Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/?couponCode=656E8E2863A5AD0EE9DD",
+      "coupon_code": "656E8E2863A5AD0EE9DD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4548492_0942.jpg",
+      "title": "CSS, Bootstrap ,JavaScript, Web Development Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-digital-strategy/?couponCode=4F91B0A44ED3FA7F425F",
+      "coupon_code": "4F91B0A44ED3FA7F425F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5025626_2094_2.jpg",
+      "title": "Master in Digital Transformation Strategy & Digitalization"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=A29FD4CE66FE8E35BDE9",
+      "coupon_code": "A29FD4CE66FE8E35BDE9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4374892_4094_6.jpg",
+      "title": "Master in End to End Solutions Design and Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=24THNOV25&ra",
+      "coupon_code": "24THNOV25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4925880_ceba.jpg",
+      "title": "Fundamentals of  Successful Leadership - Leading with Impact"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-php-complete-course/?couponCode=1299B874112E345EEA21",
+      "coupon_code": "1299B874112E345EEA21",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5025724_f9f4.jpg",
+      "title": "Java And PHP Complete Course For Java And PHP Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=381EF49ADA4AB0F2BC7E",
+      "coupon_code": "381EF49ADA4AB0F2BC7E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4492974_5673_3.jpg",
+      "title": "Master in Product Design, Development and Prototyping"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-solution-architecture/?couponCode=AA93B82F35AC72032B91",
+      "coupon_code": "AA93B82F35AC72032B91",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5820740_4a93.jpg",
+      "title": "Master in Solution Architecture"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-listening-to-transform-your-relationships/?couponCode=D17BA6F709E8D858080B",
+      "coupon_code": "D17BA6F709E8D858080B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6436865_9128_2.jpg",
+      "title": "Master listening to transform your relationships"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-generative-ai/?couponCode=95BD9B8DF08A5D5AE50B",
+      "coupon_code": "95BD9B8DF08A5D5AE50B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6156103_3445.jpg",
+      "title": "Mastering Generative AI: LLM Apps, LangChain, RAG & Chatbots"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-power-automate-desktop-course-zero-to-expert-2/?couponCode=NOV100",
+      "coupon_code": "NOV100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4113334_ae3b_4.jpg",
+      "title": "Microsoft Power Automate Desktop - Zero to Expert : Part 2"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-power-automate-with-ai-builder/?couponCode=NOV100",
+      "coupon_code": "NOV100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4070756_1f63_2.jpg",
+      "title": "Advanced RPA - Microsoft Power Automate With AI Builder"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-automate-desktop-course-intelligent-automation/?couponCode=NOV100",
+      "coupon_code": "NOV100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4249192_4d74_7.jpg",
+      "title": "RPA:Microsoft Power Automate Desktop:Intelligent Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/timeboxing-for-boosting-productivity-efficiency/?couponCode=CFAC44296F467F2FC3DB",
+      "coupon_code": "CFAC44296F467F2FC3DB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6150435_3138_4.jpg",
+      "title": "Timeboxing for Enhanced Productivity: A Practical Guide"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-creative-leaders/?couponCode=19B6BA75590106A227E0",
       "coupon_code": "19B6BA75590106A227E0",
@@ -19,11 +109,6 @@
       "coupon_code": "24THNOV25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
       "title": "Financial Services - Basics of Business & Corporate Banking"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/how-to-transform-your-life-practical-ways/?couponCode=24THNOV25&ra",
@@ -1698,12 +1783,6 @@
       "coupon_code": "B77E18D8E3F884AE7243",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5100256_f721.jpg",
       "title": "Complete Microsoft Word Excel PowerPoint Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=24THNOV25&ra",
-      "coupon_code": "24THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4925880_ceba.jpg",
-      "title": "Fundamentals of  Successful Leadership - Leading with Impact"
     },
     {
       "url": "https://www.udemy.com/course/graphics-design-and-video-editing-course-for-beginner/?couponCode=4B5B985AA997D0964530",
