@@ -1,12 +1,22 @@
 {
-  "updated_at": "2025-11-29T10:27:02Z",
-  "count": 944,
+  "updated_at": "2025-11-29T11:20:43Z",
+  "count": 950,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advertising-strategy-step-by-step/?couponCode=EAC102E70185FF0F5E1C",
+      "coupon_code": "EAC102E70185FF0F5E1C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/build-with-google-ai-apps-videos-stunning-visuals/?couponCode=C1F542C8645621C0B4C4",
       "coupon_code": "C1F542C8645621C0B4C4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6826181_a344.jpg",
       "title": "Build with Google AI: Apps, Videos & Stunning Visuals"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-management-and-analysis-for-basic-to-expert-level/?couponCode=6BC5AE9789E1741ECD6F",
+      "coupon_code": "6BC5AE9789E1741ECD6F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/excel-from-zero-to-pro/?couponCode=EXCELFREE2911",
@@ -33,10 +43,24 @@
       "title": "Executive Diploma in Strategy and Innovation"
     },
     {
-      "url": "https://www.udemy.com/course/mini-mba-in-marketing-public-relations-and-advertising/?couponCode=A556ECEEDF2F932A66EC",
-      "coupon_code": "A556ECEEDF2F932A66EC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5772158_14e5.jpg",
-      "title": "Advanced Program in Marketing"
+      "url": "https://www.udemy.com/course/executive-diploma-of-vice-president-chief-innovation-officer/?couponCode=DA6E9411B3DF35B8FFA6",
+      "coupon_code": "DA6E9411B3DF35B8FFA6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-vice-president-chief-operating-officer/?couponCode=F753706347DF6FFD102B",
+      "coupon_code": "F753706347DF6FFD102B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-complete-excel-from-beginner-to-advanced/?couponCode=17D79473C022F5A11E01",
+      "coupon_code": "17D79473C022F5A11E01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-beginner-to-expert/?couponCode=680A583CE27E83C02717",
+      "coupon_code": "680A583CE27E83C02717",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/php-codeigniter-4-build-travel-agency-management-system/?couponCode=CITRAVELANDTOURS32",
@@ -45,28 +69,40 @@
       "title": "PHP CodeIgniter 4: Build Travel Agency Management System"
     },
     {
-      "url": "https://www.udemy.com/course/powerpoint-business-presentations-with-chatgpt-generative-ai/?couponCode=4F584AB95BEB07954840",
-      "coupon_code": "4F584AB95BEB07954840",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6228933_eea6.jpg",
-      "title": "PowerPoint Business Presentations with ChatGPT Generative AI"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-in-advertising-and-public-relations/?couponCode=342F6CFDEC279F2C7922",
       "coupon_code": "342F6CFDEC279F2C7922",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5806940_f60d.jpg",
       "title": "Professional Diploma in Advertising and Public Relations"
     },
     {
-      "url": "https://www.udemy.com/course/professional-diploma-in-business-english-and-communications/?couponCode=C85E9532336D20D4CEDC",
-      "coupon_code": "C85E9532336D20D4CEDC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5770034_0156.jpg",
-      "title": "Professional Diploma in Business English and Communications"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-in-customer-relationship-management-crm/?couponCode=765155ADFF06EE176BC1",
       "coupon_code": "765155ADFF06EE176BC1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5817384_15a5_2.jpg",
       "title": "Professional Diploma in Customer Relationship Management CRM"
+    },
+    {
+      "url": "https://www.udemy.com/course/senior-executive-business-management-and-leadership-program/?couponCode=9B1EB17947F0145FF97B",
+      "coupon_code": "9B1EB17947F0145FF97B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5813848_4e04.jpg",
+      "title": "Senior Executive Business Management and Leadership Program"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-marketing-public-relations-and-advertising/?couponCode=A556ECEEDF2F932A66EC",
+      "coupon_code": "A556ECEEDF2F932A66EC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5772158_14e5.jpg",
+      "title": "Advanced Program in Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/powerpoint-business-presentations-with-chatgpt-generative-ai/?couponCode=4F584AB95BEB07954840",
+      "coupon_code": "4F584AB95BEB07954840",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6228933_eea6.jpg",
+      "title": "PowerPoint Business Presentations with ChatGPT Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-business-english-and-communications/?couponCode=C85E9532336D20D4CEDC",
+      "coupon_code": "C85E9532336D20D4CEDC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5770034_0156.jpg",
+      "title": "Professional Diploma in Business English and Communications"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-life-coaching-business-mentorship/?couponCode=AA85E57AED173BBA6300",
@@ -85,12 +121,6 @@
       "coupon_code": "NUMPY_FREE_NOV28",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5429576_b2e8_3.jpg",
       "title": "Numpy For Data Science - Real Time Coding Exercises"
-    },
-    {
-      "url": "https://www.udemy.com/course/senior-executive-business-management-and-leadership-program/?couponCode=9B1EB17947F0145FF97B",
-      "coupon_code": "9B1EB17947F0145FF97B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5813848_4e04.jpg",
-      "title": "Senior Executive Business Management and Leadership Program"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/?couponCode=7A9D9BF1C75F0E335243",
