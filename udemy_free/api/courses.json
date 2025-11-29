@@ -1,13 +1,7 @@
 {
-  "updated_at": "2025-11-29T15:25:11Z",
-  "count": 961,
+  "updated_at": "2025-11-29T16:31:50Z",
+  "count": 966,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/advertising-strategy-step-by-step/?couponCode=EAC102E70185FF0F5E1C",
-      "coupon_code": "EAC102E70185FF0F5E1C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6705039_0121_2.jpg",
-      "title": "Advertising Strategy Step by Step"
-    },
     {
       "url": "https://www.udemy.com/course/agile-scrum-your-path-to-psm-certification/?couponCode=42695B132253E48D69F0",
       "coupon_code": "42695B132253E48D69F0",
@@ -21,10 +15,25 @@
       "title": "Master Canva AI & Magic Studio: Design Faster and Better"
     },
     {
+      "url": "https://www.udemy.com/course/create-blog-on-wordpress-hindi/?couponCode=BLACKFRIDAY2025",
+      "coupon_code": "BLACKFRIDAY2025",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=A3015B0CE9D90F1DE66C",
       "coupon_code": "A3015B0CE9D90F1DE66C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4280734_2d17.jpg",
       "title": "CSS Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-platforms-and-ecosystems-business-and-partnership/?couponCode=BC8EC671E657B19C9D69",
+      "coupon_code": "BC8EC671E657B19C9D69",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ecommerce-website-in-wordpress-hindi/?couponCode=BLACKFRIDAY2025",
+      "coupon_code": "BLACKFRIDAY2025",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/entrepreneurship-and-business-essentials/?couponCode=B39C7298044F86249850",
@@ -39,12 +48,6 @@
       "title": "Entrepreneurship and Business Motivation"
     },
     {
-      "url": "https://www.udemy.com/course/excel-data-management-and-analysis-for-basic-to-expert-level/?couponCode=6BC5AE9789E1741ECD6F",
-      "coupon_code": "6BC5AE9789E1741ECD6F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6636437_6c62.jpg",
-      "title": "Excel Data Management and Analysis for Basic to Expert Level"
-    },
-    {
       "url": "https://www.udemy.com/course/excel-for-financial-modeling-valuation-the-complete-guide/?couponCode=7CE2A2E6AC2812AE7182",
       "coupon_code": "7CE2A2E6AC2812AE7182",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6847477_16f6_3.jpg",
@@ -55,6 +58,46 @@
       "coupon_code": "368D30F43377B0C38BEB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5831800_1240.jpg",
       "title": "Executive Diploma of CIO Chief Information Officer"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-modeling-with-generative-ai-t/?couponCode=C6123B9150557D327337",
+      "coupon_code": "C6123B9150557D327337",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-nodejs-from-beginner-to-full-stack-developer/?couponCode=0DB6950F827EDB5F2C29",
+      "coupon_code": "0DB6950F827EDB5F2C29",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761607_265e_3.jpg",
+      "title": "Master Node.js: From Beginner to Full-Stack Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/responsive-design-with-css3-create-mobile-friendly-webpages/?couponCode=6A7EFDD6E2554FEBD699",
+      "coupon_code": "6A7EFDD6E2554FEBD699",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849563_f60c_2.jpg",
+      "title": "Responsive Design with CSS3: Create Mobile Friendly Webpages"
+    },
+    {
+      "url": "https://www.udemy.com/course/seo-based-content-writing/?couponCode=BLACKFRIDAY2025",
+      "coupon_code": "BLACKFRIDAY2025",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-python-developer-from-zero-to-mastery/?couponCode=A1FE29A2CA730516D877",
+      "coupon_code": "A1FE29A2CA730516D877",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6759741_1b39_3.jpg",
+      "title": "The Complete Python Developer: From Zero to Mastery"
+    },
+    {
+      "url": "https://www.udemy.com/course/advertising-strategy-step-by-step/?couponCode=EAC102E70185FF0F5E1C",
+      "coupon_code": "EAC102E70185FF0F5E1C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6705039_0121_2.jpg",
+      "title": "Advertising Strategy Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-management-and-analysis-for-basic-to-expert-level/?couponCode=6BC5AE9789E1741ECD6F",
+      "coupon_code": "6BC5AE9789E1741ECD6F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6636437_6c62.jpg",
+      "title": "Excel Data Management and Analysis for Basic to Expert Level"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-vice-president-chief-innovation-officer/?couponCode=DA6E9411B3DF35B8FFA6",
@@ -73,24 +116,6 @@
       "coupon_code": "DCD0DD65AC674C5A2D83",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6655287_cec4_7.jpg",
       "title": "CapCut & Google Veo 3: Cinematic AI Video Mastery"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-nodejs-from-beginner-to-full-stack-developer/?couponCode=0DB6950F827EDB5F2C29",
-      "coupon_code": "0DB6950F827EDB5F2C29",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6761607_265e_3.jpg",
-      "title": "Master Node.js: From Beginner to Full-Stack Developer"
-    },
-    {
-      "url": "https://www.udemy.com/course/responsive-design-with-css3-create-mobile-friendly-webpages/?couponCode=6A7EFDD6E2554FEBD699",
-      "coupon_code": "6A7EFDD6E2554FEBD699",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6849563_f60c_2.jpg",
-      "title": "Responsive Design with CSS3: Create Mobile Friendly Webpages"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-python-developer-from-zero-to-mastery/?couponCode=A1FE29A2CA730516D877",
-      "coupon_code": "A1FE29A2CA730516D877",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6759741_1b39_3.jpg",
-      "title": "The Complete Python Developer: From Zero to Mastery"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-strategy-and-innovation/?couponCode=A215891EC3A10D9F4FEA",
