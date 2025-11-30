@@ -1,18 +1,18 @@
 {
-  "updated_at": "2025-11-30T22:25:40Z",
-  "count": 942,
+  "updated_at": "2025-11-30T23:24:49Z",
+  "count": 948,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/30-days-of-angular/?couponCode=6490456BC081DF421D7A",
+      "coupon_code": "6490456BC081DF421D7A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6400299_0620_6.jpg",
+      "title": "30 Days of Angular: Build 30 Projects with Angular"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=B56ECD41D13E649D4D80",
       "coupon_code": "B56ECD41D13E649D4D80",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6194967_151b.jpg",
       "title": "Advanced Program in Business and Entrepreneurship"
-    },
-    {
-      "url": "https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=A8560CFBD058D412625B",
-      "coupon_code": "A8560CFBD058D412625B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6142065_e635.jpg",
-      "title": "Business & Science Method, Analysis & Research Methodologies"
     },
     {
       "url": "https://www.udemy.com/course/certificado-profissional-em-gestao-de-projetos/?couponCode=37200A45BFBD1547D4A4",
@@ -23,7 +23,8 @@
     {
       "url": "https://www.udemy.com/course/certificate-in-business-and-operations-management-excellence/?couponCode=84F64E4802D8B45A15A8",
       "coupon_code": "84F64E4802D8B45A15A8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6248035_c1c7.jpg",
+      "title": "Certificate in Business & Operations Management Excellence"
     },
     {
       "url": "https://www.udemy.com/course/certificate-of-leadership-excellence-in-business-management/?couponCode=02B2E89E4222F097CFB7",
@@ -32,26 +33,28 @@
       "title": "Certificate of Leadership Excellence in Business Management"
     },
     {
-      "url": "https://www.udemy.com/course/diploma-in-digital-transformation-and-operational-excellence/?couponCode=474E8E7F20F7DBF29626",
-      "coupon_code": "474E8E7F20F7DBF29626",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/code-play-javascript-game-projects/?couponCode=FC6033B162C6B9BD0E79",
+      "coupon_code": "FC6033B162C6B9BD0E79",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637119_b242_7.jpg",
+      "title": "Code & Play: JavaScript Game Projects"
     },
     {
-      "url": "https://www.udemy.com/course/executive-certificate-in-digital-transformation/?couponCode=244C4BB2C882FADDE6E8",
-      "coupon_code": "244C4BB2C882FADDE6E8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6156323_644d_2.jpg",
-      "title": "Executive Certificate in Digital Transformation"
+      "url": "https://www.udemy.com/course/digital-transformation-customer-experience-management-cxm/?couponCode=7ADC9399BCF4CEAD9C62",
+      "coupon_code": "7ADC9399BCF4CEAD9C62",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6261253_f25f.jpg",
+      "title": "Digital Transformation & Customer Experience Management CXM"
+    },
+    {
+      "url": "https://www.udemy.com/course/diploma-in-digital-transformation-and-operational-excellence/?couponCode=474E8E7F20F7DBF29626",
+      "coupon_code": "474E8E7F20F7DBF29626",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242723_b925_2.jpg",
+      "title": "Diploma in Digital Transformation and Operational Excellence"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-and-artificial-intelligence-ai-for-leaders/?couponCode=14D0BA4C37C992AB72BF",
       "coupon_code": "14D0BA4C37C992AB72BF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/?couponCode=0140BE733427E85AC2E7",
-      "coupon_code": "0140BE733427E85AC2E7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6131097_b544_4.jpg",
-      "title": "GIT, GitLab, GitHub Fundamentals for Software Developers"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6247569_39b6_2.jpg",
+      "title": "Generative AI and Artificial Intelligence (AI) for Leaders"
     },
     {
       "url": "https://www.udemy.com/course/human-resources-expert-employee-relations-and-engagement/?couponCode=13029F162C9F1414F088",
@@ -60,10 +63,10 @@
       "title": "Human Resources Expert: Employee Relations and Engagement"
     },
     {
-      "url": "https://www.udemy.com/course/leadershipdiploma/?couponCode=38C5C0DEF0B1BA2EFA88",
-      "coupon_code": "38C5C0DEF0B1BA2EFA88",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6241057_a04c.jpg",
-      "title": "Professional Diploma in Leadership"
+      "url": "https://www.udemy.com/course/marketing-and-customer-experience-management-cxm-excellence/?couponCode=E4E86099188B575D61C4",
+      "coupon_code": "E4E86099188B575D61C4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6249413_d2b4_2.jpg",
+      "title": "Marketing & Customer Experience Management CXM Excellence"
     },
     {
       "url": "https://www.udemy.com/course/ms-system-center-intro-to-virtual-machine-manager/?couponCode=83E695F90F199214E991",
@@ -72,15 +75,52 @@
       "title": "Server Virtualization with Hyper-V and System Center"
     },
     {
+      "url": "https://www.udemy.com/course/product-development-customer-experience-management-diploma/?couponCode=F0C79D36C01F53C90534",
+      "coupon_code": "F0C79D36C01F53C90534",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6234815_9ea4.jpg",
+      "title": "Product Development & Customer Experience Management Diploma"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-marketing-and-development-go-to-market-strategy/?couponCode=7AE94CE082E2A79C4F4C",
+      "coupon_code": "7AE94CE082E2A79C4F4C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6252799_37be.jpg",
+      "title": "Product Marketing: Advanced Go-to-Market (GTM) Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-project-workshop-html-css-in-action/?couponCode=DA4353C158E6F9C117E2",
+      "coupon_code": "DA4353C158E6F9C117E2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742285_9835_9.jpg",
+      "title": "Web Project Workshop: 20+ HTML & CSS Websites in Action"
+    },
+    {
+      "url": "https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=A8560CFBD058D412625B",
+      "coupon_code": "A8560CFBD058D412625B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6142065_e635.jpg",
+      "title": "Business & Science Method, Analysis & Research Methodologies"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-digital-transformation/?couponCode=244C4BB2C882FADDE6E8",
+      "coupon_code": "244C4BB2C882FADDE6E8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6156323_644d_2.jpg",
+      "title": "Executive Certificate in Digital Transformation"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/?couponCode=0140BE733427E85AC2E7",
+      "coupon_code": "0140BE733427E85AC2E7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6131097_b544_4.jpg",
+      "title": "GIT, GitLab, GitHub Fundamentals for Software Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/leadershipdiploma/?couponCode=38C5C0DEF0B1BA2EFA88",
+      "coupon_code": "38C5C0DEF0B1BA2EFA88",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241057_a04c.jpg",
+      "title": "Professional Diploma in Leadership"
+    },
+    {
       "url": "https://www.udemy.com/course/procurementandscm/?couponCode=6BE36613149506A47396",
       "coupon_code": "6BE36613149506A47396",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6118667_2363_4.jpg",
       "title": "Mastering Procurement and Supply Chain Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/product-development-customer-experience-management-diploma/?couponCode=F0C79D36C01F53C90534",
-      "coupon_code": "F0C79D36C01F53C90534",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/projectmanagementdiploma/?couponCode=CE08C70A3EE80C1A0431",
