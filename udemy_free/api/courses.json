@@ -1,7 +1,97 @@
 {
-  "updated_at": "2025-11-30T13:31:28Z",
-  "count": 981,
+  "updated_at": "2025-11-30T14:24:14Z",
+  "count": 994,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/complete-java-programming-bootcamp-learn-to-code-in-java/?couponCode=C43D47FBF55892B59560",
+      "coupon_code": "C43D47FBF55892B59560",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6150997_dd97_2.jpg",
+      "title": "Complete Java Programming Bootcamp: Learn to Code in Java"
+    },
+    {
+      "url": "https://www.udemy.com/course/global-wealth-management-account-opening-onboarding-kyc/?couponCode=150FD58D57C2FA503628",
+      "coupon_code": "150FD58D57C2FA503628",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6054509_54ef.jpg",
+      "title": "Global Wealth Management: Account Opening, Onboarding, KYC"
+    },
+    {
+      "url": "https://www.udemy.com/course/iso-27001-preparing-for-surveillance-audits-step-by-step/?couponCode=62126FA142B150F2061E",
+      "coupon_code": "62126FA142B150F2061E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6821567_1356.jpg",
+      "title": "ISO 27001: Preparing for Surveillance Audits — Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/iso-270012022-in-1h-b/?couponCode=EBB5A0337B83664D61D3",
+      "coupon_code": "EBB5A0337B83664D61D3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6325795_9947.jpg",
+      "title": "ISO 27001:2022 in 1H"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-masterclass-beginner-to-master/?couponCode=FDFEC70A22F5E54D633D",
+      "coupon_code": "FDFEC70A22F5E54D633D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638204_76bd.jpg",
+      "title": "Java Programming Masterclass - Beginner to Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-react-react-crash-course-with-mini-projects/?couponCode=06E5B4D5F1521EE114A5",
+      "coupon_code": "06E5B4D5F1521EE114A5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5654544_49bd_2.jpg",
+      "title": "Mastering React: React Crash Course with Mini Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/?couponCode=2AB1D2303B76C93DA30C",
+      "coupon_code": "2AB1D2303B76C93DA30C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663784_d3d0_2.jpg",
+      "title": "NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-owner-certification-exam-prep/?couponCode=BAED67172141F4A9AE20",
+      "coupon_code": "BAED67172141F4A9AE20",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255575_1c65.jpg",
+      "title": "Product Owner Exam Prep"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-financial-analysis/?couponCode=041AA7C6EB22E7B2A740",
+      "coupon_code": "041AA7C6EB22E7B2A740",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6110779_ed82.jpg",
+      "title": "Professional Certificate in Financial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-aviation-airlines-air-transportation-airports/?couponCode=1BAE3ED7E973D110FA4F",
+      "coupon_code": "1BAE3ED7E973D110FA4F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6038622_9308_2.jpg",
+      "title": "Diploma in Aviation, Airlines, Air Transportation & Airports"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-the-complete-course-for-success/?couponCode=0D7303A8F49D6D25DBF9",
+      "coupon_code": "0D7303A8F49D6D25DBF9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6151001_aa1b.jpg",
+      "title": "Python Programming: The Complete Course for Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-the-complete-reactjs-course-for-beginners/?couponCode=507C0F3DB03C285CC49B",
+      "coupon_code": "507C0F3DB03C285CC49B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5679234_657a.jpg",
+      "title": "ReactJs - The Complete ReactJs Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/scrum-master-certification-exam-prep/?couponCode=B84495F46B3BBAFA1EE1",
+      "coupon_code": "B84495F46B3BBAFA1EE1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255563_8c44_2.jpg",
+      "title": "Scrum Master Certification Prep"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-mysql-postgresql-mongodb-all-in-one-database-course/?couponCode=370F0C34BF8BBC4672E9",
+      "coupon_code": "370F0C34BF8BBC4672E9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119595_498e.jpg",
+      "title": "SQL, MYSQL, POSTGRESQL & MONGODB: All-in-One Database Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-python-bootcamp-from-zero-to-expert/?couponCode=6BAFE17DEF20BEBDDE73",
+      "coupon_code": "6BAFE17DEF20BEBDDE73",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663772_24d8_5.jpg",
+      "title": "The Complete Python Bootcamp from Zero to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/ai-cybersecurity-learnit/?couponCode=NOVEMBER_FREE3_2025",
       "coupon_code": "NOVEMBER_FREE3_2025",
@@ -33,12 +123,6 @@
       "title": "Executive Certificate in Business Management"
     },
     {
-      "url": "https://www.udemy.com/course/iso-27001-preparing-for-surveillance-audits-step-by-step/?couponCode=62126FA142B150F2061E",
-      "coupon_code": "62126FA142B150F2061E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6821567_1356.jpg",
-      "title": "ISO 27001: Preparing for Surveillance Audits — Step by Step"
-    },
-    {
       "url": "https://www.udemy.com/course/java-best-practices-learnit/?couponCode=NOVEMBER_FREE3_2025",
       "coupon_code": "NOVEMBER_FREE3_2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5853316_3240_4.jpg",
@@ -67,12 +151,6 @@
       "coupon_code": "FC4FCDEFC635D6272615",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6037222_7c09_3.jpg",
       "title": "Professional Certificate in Regulatory Compliance"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-aviation-airlines-air-transportation-airports/?couponCode=1BAE3ED7E973D110FA4F",
-      "coupon_code": "1BAE3ED7E973D110FA4F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6038622_9308_2.jpg",
-      "title": "Diploma in Aviation, Airlines, Air Transportation & Airports"
     },
     {
       "url": "https://www.udemy.com/course/qa-qc-metrics-kpis-learnit/?couponCode=NOVEMBER_FREE3_2025",
