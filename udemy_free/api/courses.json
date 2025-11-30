@@ -1,7 +1,85 @@
 {
-  "updated_at": "2025-11-29T23:24:34Z",
-  "count": 999,
+  "updated_at": "2025-11-30T02:21:41Z",
+  "count": 911,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=525D195D744266D4105B",
+      "coupon_code": "525D195D744266D4105B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cursor-ai-build-apps/?couponCode=D74008F17E03C5E82D12",
+      "coupon_code": "D74008F17E03C5E82D12",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-engineering-management/?couponCode=4D1084A244D7FC844628",
+      "coupon_code": "4D1084A244D7FC844628",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916698_7788.jpg",
+      "title": "Executive Diploma in Engineering Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-human-resources-strategy/?couponCode=890F2F84E998248813A9",
+      "coupon_code": "890F2F84E998248813A9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-strategic-management/?couponCode=83842AE81B2F0E833F60",
+      "coupon_code": "83842AE81B2F0E833F60",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916746_5964.jpg",
+      "title": "Executive Diploma in Strategic Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=201B864240ABB4F2CAAF",
+      "coupon_code": "201B864240ABB4F2CAAF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-construction-management/?couponCode=6E6A2BD4C57D8E239606",
+      "coupon_code": "6E6A2BD4C57D8E239606",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-digital-business-unit-economics/?couponCode=22EDD603C8A2DA452FDA",
+      "coupon_code": "22EDD603C8A2DA452FDA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-procurement-and-purchasing/?couponCode=5CD2B54C1DF16292D8B7",
+      "coupon_code": "5CD2B54C1DF16292D8B7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-of-agile-and-scrum-business-analyst/?couponCode=41AF3373F9BA222CAF3C",
+      "coupon_code": "41AF3373F9BA222CAF3C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916838_a9f9.jpg",
+      "title": "Professional Certificate of Agile and Scrum Business Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-of-executive-business-assistant/?couponCode=DF099F68ABE776AB1ABD",
+      "coupon_code": "DF099F68ABE776AB1ABD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-of-secretary/?couponCode=048BAE1B5C5AF721F9BD",
+      "coupon_code": "048BAE1B5C5AF721F9BD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-administration-management/?couponCode=6005524C73034619C0AD",
+      "coupon_code": "6005524C73034619C0AD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/research-methodologies-in-strategy-and-product-development/?couponCode=FB8BE3278173BCD23D1B",
+      "coupon_code": "FB8BE3278173BCD23D1B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/vivre-librement/?couponCode=225FF60AA35260428602",
+      "coupon_code": "225FF60AA35260428602",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/accounting-for-fixed-assets-and-depreciation/?couponCode=469C18EE23D78C9B2132",
       "coupon_code": "469C18EE23D78C9B2132",
@@ -33,18 +111,6 @@
       "title": "DCF Valuation: Complete Course with Startup Valuation Case."
     },
     {
-      "url": "https://www.udemy.com/course/executive-diploma-in-engineering-management/?couponCode=4D1084A244D7FC844628",
-      "coupon_code": "4D1084A244D7FC844628",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5916698_7788.jpg",
-      "title": "Executive Diploma in Engineering Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/executive-diploma-in-strategic-management/?couponCode=83842AE81B2F0E833F60",
-      "coupon_code": "83842AE81B2F0E833F60",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5916746_5964.jpg",
-      "title": "Executive Diploma in Strategic Management"
-    },
-    {
       "url": "https://www.udemy.com/course/internal-auditing-principles-practices-and-applications/?couponCode=A6FC7F88901741F35922",
       "coupon_code": "A6FC7F88901741F35922",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6532433_dc16.jpg",
@@ -55,12 +121,6 @@
       "coupon_code": "52EE47C275DDC0DE922C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5916556_daf2.jpg",
       "title": "Professional Certificate in Office Administration Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-of-agile-and-scrum-business-analyst/?couponCode=41AF3373F9BA222CAF3C",
-      "coupon_code": "41AF3373F9BA222CAF3C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5916838_a9f9.jpg",
-      "title": "Professional Certificate of Agile and Scrum Business Analyst"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-government-public-sector-technology/?couponCode=EE3A555DB5BFE0E505D9",
@@ -5395,606 +5455,6 @@
       "coupon_code": "6994888C612194BDF641",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4307547_4455_5.jpg",
       "title": "Effective Verbal and Nonverbal Communication Skills"
-    },
-    {
-      "url": "https://www.udemy.com/course/excellence-in-problem-solving/?couponCode=840834D6822293E2DAB7",
-      "coupon_code": "840834D6822293E2DAB7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4335064_a032_4.jpg",
-      "title": "Creative Problem Solving, Logical & Critical Thinking Skill"
-    },
-    {
-      "url": "https://www.udemy.com/course/ia-para-operaciones-estrategicas-de-rr-hh-es/?couponCode=51C8043D93673F19381B",
-      "coupon_code": "51C8043D93673F19381B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6929733_afe0.jpg",
-      "title": "IA para operaciones estratégicas de RR. HH. [ES]"
-    },
-    {
-      "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=693AED5EDE619497C58A",
-      "coupon_code": "693AED5EDE619497C58A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6919079_3c72.jpg",
-      "title": "AGI Systems and Alignment Professional Certificate"
-    },
-    {
-      "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=4E6D425555CD43983752",
-      "coupon_code": "4E6D425555CD43983752",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6916045_bf00.jpg",
-      "title": "Artificial Intelligence Journey: Beginner to Pro"
-    },
-    {
-      "url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/?couponCode=0A4F81EF4E5DB9FB55E6",
-      "coupon_code": "0A4F81EF4E5DB9FB55E6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6131097_b544_4.jpg",
-      "title": "GIT, GitLab, GitHub Fundamentals for Software Developers"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-project-management/?couponCode=7ACD2D6F123F3E0CF84A",
-      "coupon_code": "7ACD2D6F123F3E0CF84A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6129411_42a2.jpg",
-      "title": "Professional Certificate in Project Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/build-product-management-deliverable-portfolio-using-chatgpt/?couponCode=0371CF8375D241BC19C6",
-      "coupon_code": "0371CF8375D241BC19C6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5724784_611c_2.jpg",
-      "title": "ChatGPT for Business Analysts"
-    },
-    {
-      "url": "https://www.udemy.com/course/canva-rockstar-design-like-a-pro-for-social-media-success/?couponCode=BISMILLAH_19",
-      "coupon_code": "BISMILLAH_19",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6031266_690c_2.jpg",
-      "title": "Canva Rockstar: Design Like a Pro for Social Media Success"
-    },
-    {
-      "url": "https://www.udemy.com/course/chatgpt-for-product-managers/?couponCode=2AF0EACCB574DD132884",
-      "coupon_code": "2AF0EACCB574DD132884",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6477577_0599.jpg",
-      "title": "ChatGPT for Product Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-guide-in-html-css-build-responsive-website/?couponCode=DBBE10C701C52ACED4F9",
-      "coupon_code": "DBBE10C701C52ACED4F9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5641604_e106.jpg",
-      "title": "Complete Guide in HTML & CSS - Build Responsive Website"
-    },
-    {
-      "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=9BB29F482BB00DF0DB6E",
-      "coupon_code": "9BB29F482BB00DF0DB6E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3972018_b05f.jpg",
-      "title": "HTML 5,Python,Flask Framework All In One Complete Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-italian-language-italian-for-beginners/?couponCode=BEGINFREENOV25",
-      "coupon_code": "BEGINFREENOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5943692_fc0e_3.jpg",
-      "title": "Learn Italian Language - Italian for Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-italian-language-italian-for-intermediate/?couponCode=INTERFREENOV25",
-      "coupon_code": "INTERFREENOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6048741_d676_3.jpg",
-      "title": "Learn Italian Language - Italian for Intermediate"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-c-language-c-programming-language-for-beginners/?couponCode=A2258078335D145A12C5",
-      "coupon_code": "A2258078335D145A12C5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5618828_4904.jpg",
-      "title": "Mastering C Language - C Programming For Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-google-docs-complete-google-docs-course/?couponCode=BISMILLAH-38",
-      "coupon_code": "BISMILLAH-38",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5640234_3186.jpg",
-      "title": "Mastering Google Docs - Complete Google Docs Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-formulas-functions-with-charts-graphs/?couponCode=BISMILLAH-23",
-      "coupon_code": "BISMILLAH-23",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5992188_a650_2.jpg",
-      "title": "Microsoft Excel: Formulas & Functions with Charts & Graphs"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-the-complete-excel-data-analysis-course/?couponCode=BISMILLAH-22",
-      "coupon_code": "BISMILLAH-22",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5988750_aa46_2.jpg",
-      "title": "Microsoft Excel - The Complete Excel Data Analysis Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/numpy-pandas-python-for-data-analysis-a-complete-guide/?couponCode=424D1C3FD312D97988BD",
-      "coupon_code": "424D1C3FD312D97988BD",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6150987_e84f.jpg",
-      "title": "NumPy, Pandas, & Python for Data Analysis: A Complete Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/presentations-with-chatgpt-aece/?couponCode=2705DDCB44B5CEF0641C",
-      "coupon_code": "2705DDCB44B5CEF0641C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6363967_434c.jpg",
-      "title": "Presentations with ChatGPT"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-programming-the-complete-course-for-success/?couponCode=8FC6D4B8BB608B133301",
-      "coupon_code": "8FC6D4B8BB608B133301",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6151001_aa1b.jpg",
-      "title": "Python Programming: The Complete Course for Success"
-    },
-    {
-      "url": "https://www.udemy.com/course/safe-general-overview-course/?couponCode=95FDA664724B1EC15644",
-      "coupon_code": "95FDA664724B1EC15644",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6048331_349b_2.jpg",
-      "title": "SAFe®: General Overview course"
-    },
-    {
-      "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=F0CDC98A676AA4AF34AC",
-      "coupon_code": "F0CDC98A676AA4AF34AC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg",
-      "title": "CSS, JavaScript And PHP Complete Course For Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=0FDF232698A425CB0006",
-      "coupon_code": "0FDF232698A425CB0006",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6118139_f59a.jpg",
-      "title": "Introdução à Gestão"
-    },
-    {
-      "url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=763BBD2D9EA7BD454AD0",
-      "coupon_code": "763BBD2D9EA7BD454AD0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5022262_24b2.jpg",
-      "title": "Java And C++ And PHP Crash Course All in One For Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/passive-income-playbook-ai-tools-automation-more/?couponCode=0D4D3DC850869D8550D3",
-      "coupon_code": "0D4D3DC850869D8550D3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6930717_1048_3.jpg",
-      "title": "Passive Income Playbook: AI Tools, Automation & More"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-management/?couponCode=00EAA5F66436E50FB44D",
-      "coupon_code": "00EAA5F66436E50FB44D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6117081_c03c_2.jpg",
-      "title": "Professional Certificate in Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?couponCode=F6A9760C50E4BECB2244",
-      "coupon_code": "F6A9760C50E4BECB2244",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5634496_f8b0_4.jpg",
-      "title": "The Ultimate SQL Bootcamp : Go From Zero to Hero"
-    },
-    {
-      "url": "https://www.udemy.com/course/diploma-human-resources-compensation-benefits-management/?couponCode=4BD01DBE1AB81DF1CF92",
-      "coupon_code": "4BD01DBE1AB81DF1CF92",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6111707_3082.jpg",
-      "title": "Diploma: Human Resources, Compensation & Benefits Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/object-detection-from-zero-to-hero/?couponCode=FDC767C741C1E27873C7",
-      "coupon_code": "FDC767C741C1E27873C7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6761811_b0ab.jpg",
-      "title": "Object Detection From Zero to Hero"
-    },
-    {
-      "url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/?couponCode=824BA6CDB498C38A3D5B",
-      "coupon_code": "824BA6CDB498C38A3D5B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg",
-      "title": "Unleash Your Full Potential: Learn English Now!"
-    },
-    {
-      "url": "https://www.udemy.com/course/using-the-jobs-to-be-done-jtbd-methodology-q/?couponCode=C3CFC7161E783C846587",
-      "coupon_code": "C3CFC7161E783C846587",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6810619_5b1e.jpg",
-      "title": "Using the Jobs To Be Done (JTBD) Methodology"
-    },
-    {
-      "url": "https://www.udemy.com/course/fundamentals1/?couponCode=C75BF79926F6746CC651",
-      "coupon_code": "C75BF79926F6746CC651",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6870005_3ae1_2.jpg",
-      "title": "Fundamentals of Marketing and Brand Management Masterclass"
-    },
-    {
-      "url": "https://www.udemy.com/course/love-after-baby/?couponCode=A9103AE91C3BA221D7BB",
-      "coupon_code": "A9103AE91C3BA221D7BB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6675457_e6eb_2.jpg",
-      "title": "Love After Baby: Reconnecting as a Couple Post-Parenthood"
-    },
-    {
-      "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=26655FE07797510A87A2",
-      "coupon_code": "26655FE07797510A87A2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6160617_f212_4.jpg",
-      "title": "Professional Diploma in Odd Jobs: Skills for Every Situation"
-    },
-    {
-      "url": "https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=3D37870AEFCECA540F54",
-      "coupon_code": "3D37870AEFCECA540F54",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4308301_b239.jpg",
-      "title": "CyberSecurity Bootcamp: The Ultimate Beginner's Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/pgdinscem/?couponCode=F65951C26DBACBAC9768",
-      "coupon_code": "F65951C26DBACBAC9768",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6669423_321e_2.jpg",
-      "title": "Postgraduate Diploma in Supply Chain Engineering Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-operations-management/?couponCode=FB52D7FFB30F6456F5B2",
-      "coupon_code": "FB52D7FFB30F6456F5B2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6111257_784b_2.jpg",
-      "title": "Professional Certificate in Operations Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-en-elementor-desde-cero-hasta-experto/?couponCode=MASTER-GR89",
-      "coupon_code": "MASTER-GR89",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5375370_6a03_2.jpg",
-      "title": "Máster en Elementor 2025, ¡Desde Cero Hasta Experto!"
-    },
-    {
-      "url": "https://www.udemy.com/course/artificial-intelligence-machine-learning-requirements-2/?couponCode=DISCUDEMY.COM",
-      "coupon_code": "DISCUDEMY.COM",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6921981_b344.jpg",
-      "title": "Artificial Intelligence & Machine Learning Requirements (2)"
-    },
-    {
-      "url": "https://www.udemy.com/course/global-wealth-management-account-opening-onboarding-kyc/?couponCode=4A2CAAE35104A7B0B40D",
-      "coupon_code": "4A2CAAE35104A7B0B40D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6054509_54ef.jpg",
-      "title": "Global Wealth Management: Account Opening, Onboarding, KYC"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-mongodb-fast-under-1-hour-from-an-expert-2026/?couponCode=DISCUDEMY.COM",
-      "coupon_code": "DISCUDEMY.COM",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6917047_d766.jpg",
-      "title": "Learn MongoDB  Fast Under 1 Hour From an Expert (2026)"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-financial-analysis/?couponCode=31AE384F805EB77A7FB5",
-      "coupon_code": "31AE384F805EB77A7FB5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6110779_ed82.jpg",
-      "title": "Professional Certificate in Financial Analysis"
-    },
-    {
-      "url": "https://www.udemy.com/course/artificial-intelligence-machine-learning-requirements-1/?couponCode=DISCUDEMY.COM",
-      "coupon_code": "DISCUDEMY.COM",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6921323_4ec7.jpg",
-      "title": "Artificial Intelligence & Machine Learning Requirements (1)"
-    },
-    {
-      "url": "https://www.udemy.com/course/canva-social-media-video-editing-masterclass-edit-like-a-pro/?couponCode=C2F3845D17802B0D9525",
-      "coupon_code": "C2F3845D17802B0D9525",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6703445_8247.jpg",
-      "title": "Canva Social Media Video Editing MasterClass Edit Like a Pro"
-    },
-    {
-      "url": "https://www.udemy.com/course/capcut-canva-masterclass-graphic-design-with-video-edit/?couponCode=8BED9E2BDCC3E467D6B1",
-      "coupon_code": "8BED9E2BDCC3E467D6B1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6704861_1997.jpg",
-      "title": "CapCut and Canva Masterclass Graphic Design With Video Edit"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-capcut-for-social-media-video-editing-masterclass/?couponCode=10A05ACDBCF12EF8EC07",
-      "coupon_code": "10A05ACDBCF12EF8EC07",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6705629_f72d_3.jpg",
-      "title": "Complete CapCut for Social Media Video Editing MasterClass"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-pcep-python-certification-course-beginner-friendly/?couponCode=A56E32AF8D903AC58101",
-      "coupon_code": "A56E32AF8D903AC58101",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6922633_a6ea.jpg",
-      "title": "Complete PCEP Python Certification Course Beginner Friendly"
-    },
-    {
-      "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=11388196B2C8AA6BAB9B",
-      "coupon_code": "11388196B2C8AA6BAB9B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4202336_b8f3_5.jpg",
-      "title": "Object Oriented Programming in C++  &  Interview Preparation"
-    },
-    {
-      "url": "https://www.udemy.com/course/graphic-design-masterclass-master-illustrator-photoshop/?couponCode=FD07755285151AC3EF71",
-      "coupon_code": "FD07755285151AC3EF71",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5832228_0be6.jpg",
-      "title": "Graphic Design Masterclass: Master Illustrator & Photoshop"
-    },
-    {
-      "url": "https://www.udemy.com/course/iso-42001-annex-a-controls-explained/?couponCode=E32FA0B726F8B08E74A0",
-      "coupon_code": "E32FA0B726F8B08E74A0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6748555_274a_2.jpg",
-      "title": "ISO 42001 Annex A Controls Explained"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/?couponCode=66E3FE79BA3189754553",
-      "coupon_code": "66E3FE79BA3189754553",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg",
-      "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-regulatory-compliance-in-finance/?couponCode=D658795E368CEF6AC80A",
-      "coupon_code": "D658795E368CEF6AC80A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6037222_7c09_3.jpg",
-      "title": "Professional Certificate in Regulatory Compliance"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-aviation-airlines-air-transportation-airports/?couponCode=5364BBF16D8C4A0E4706",
-      "coupon_code": "5364BBF16D8C4A0E4706",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6038622_9308_2.jpg",
-      "title": "Diploma in Aviation, Airlines, Air Transportation & Airports"
-    },
-    {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=17THNOV25&ra",
-      "coupon_code": "17THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
-      "title": "Mental Health for the Workplace"
-    },
-    {
-      "url": "https://www.udemy.com/course/body-language-non-verbal-communication-for-leaders-d/?couponCode=9CCCB7EFF5252359BF88",
-      "coupon_code": "9CCCB7EFF5252359BF88",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6528501_caed.jpg",
-      "title": "Body Language / Non-Verbal Communication for Leaders"
-    },
-    {
-      "url": "https://www.udemy.com/course/chatgpt-ai-to-self-publish-a-bestselling-book-in-24-hours/?couponCode=A76D47371F1235D4901E",
-      "coupon_code": "A76D47371F1235D4901E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5104494_64e0_2.jpg",
-      "title": "ChatGPT to Self-Publish a Bestselling Book in 24 Hours"
-    },
-    {
-      "url": "https://www.udemy.com/course/executive-certificate-in-business-management/?couponCode=0E539D27739DEDF48A9F",
-      "coupon_code": "0E539D27739DEDF48A9F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6028692_bb85.jpg",
-      "title": "Executive Certificate in Business Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/public-speaking-for-beginners-speak-with-confidence/?couponCode=9754F6F7C6E0DE5F5243",
-      "coupon_code": "9754F6F7C6E0DE5F5243",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6530995_3f09.jpg",
-      "title": "Public Speaking for Beginners: Speak with Confidence"
-    },
-    {
-      "url": "https://www.udemy.com/course/work-life-balance-mastery-for-career-and-life-success/?couponCode=87802D7DF52CD3D101FB",
-      "coupon_code": "87802D7DF52CD3D101FB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6541479_6e37.jpg",
-      "title": "Work-Life Balance Mastery for Career and Life Success"
-    },
-    {
-      "url": "https://www.udemy.com/course/clinical-nutrition-and-dietetics/?couponCode=B9E27EFF3F7DA42625B1",
-      "coupon_code": "B9E27EFF3F7DA42625B1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5367664_8e6a.jpg",
-      "title": "Clinical Nutrition and Dietetics"
-    },
-    {
-      "url": "https://www.udemy.com/course/currency-management-for-small-businesses-corporates/?couponCode=17THNOV25&ra",
-      "coupon_code": "17THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5581978_25ad_2.jpg",
-      "title": "Currency Management for Small Businesses & Corporates"
-    },
-    {
-      "url": "https://www.udemy.com/course/recombinant-dna-technology-genetic-engineering/?couponCode=674F9A15C7F471E3F2AF",
-      "coupon_code": "674F9A15C7F471E3F2AF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4982304_e82d.jpg",
-      "title": "Recombinant DNA Technology & Genetic Engineering"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-moons-resting-place-a-low-poly-blender-scene/?couponCode=BLACK_FRIDAY.",
-      "coupon_code": "BLACK_FRIDAY.",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6905681_5fad.jpg",
-      "title": "The Moon’s Resting Place: A Low Poly Blender Scene"
-    },
-    {
-      "url": "https://www.udemy.com/course/antigens-the-structure-function-and-immune-response/?couponCode=FEF72C07BB6A59CDAC1C",
-      "coupon_code": "FEF72C07BB6A59CDAC1C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6615913_bc83.jpg",
-      "title": "Antigens: The Structure, Function, and Immune Response"
-    },
-    {
-      "url": "https://www.udemy.com/course/clinical-embryology-techniques/?couponCode=00B7DD1A8C3AD51BEA60",
-      "coupon_code": "00B7DD1A8C3AD51BEA60",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5729380_7729.jpg",
-      "title": "Clinical Embryology Techniques"
-    },
-    {
-      "url": "https://www.udemy.com/course/clinical-pharmacology-therapeutics-online-course/?couponCode=12B2DD0D57EFCF9B617F",
-      "coupon_code": "12B2DD0D57EFCF9B617F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6668463_0d35.jpg",
-      "title": "Clinical Pharmacology & Therapeutics Online Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/computer-aided-drug-design-and-discovery/?couponCode=8E2C89E996ECAAA77B5F",
-      "coupon_code": "8E2C89E996ECAAA77B5F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5519248_054f_2.jpg",
-      "title": "Computer-Aided Drug Design and Discovery"
-    },
-    {
-      "url": "https://www.udemy.com/course/food-microbiology-probiotics/?couponCode=DF095774E2D733B1CFDC",
-      "coupon_code": "DF095774E2D733B1CFDC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5067784_9840.jpg",
-      "title": "Food Microbiology & Probiotics"
-    },
-    {
-      "url": "https://www.udemy.com/course/genetic-engineering-and-its-applications/?couponCode=BC155189EF0810312BAF",
-      "coupon_code": "BC155189EF0810312BAF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4910342_4400.jpg",
-      "title": "Genetic Engineering and Its Applications"
-    },
-    {
-      "url": "https://www.udemy.com/course/microbiome-online-course/?couponCode=1B451C816851A886715D",
-      "coupon_code": "1B451C816851A886715D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5785194_7bde_2.jpg",
-      "title": "Microbiome Online Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/pharmaceutical-production-management-course/?couponCode=36ED15FF50E1EBAD86F6",
-      "coupon_code": "36ED15FF50E1EBAD86F6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5821808_b818.jpg",
-      "title": "Pharmaceutical Production Management Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/pharmacovigilance-course/?couponCode=55180858CC07FC38CDA0",
-      "coupon_code": "55180858CC07FC38CDA0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5521094_9c66.jpg",
-      "title": "Pharmacovigilance Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/plant-cell-tissue-culture-course/?couponCode=0F13F6A62B99559C6F06",
-      "coupon_code": "0F13F6A62B99559C6F06",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5819282_e172.jpg",
-      "title": "Plant Cell & Tissue Culture Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/secrets-of-dna-and-its-manipulation/?couponCode=DE035AA63D356D247A94",
-      "coupon_code": "DE035AA63D356D247A94",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4888852_5110_3.jpg",
-      "title": "Secrets of DNA and Its Manipulation"
-    },
-    {
-      "url": "https://www.udemy.com/course/drug-regulatory-affair/?couponCode=D5625C27630D01D4796E",
-      "coupon_code": "D5625C27630D01D4796E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5179664_0290.jpg",
-      "title": "Drug Regulatory Affair"
-    },
-    {
-      "url": "https://www.udemy.com/course/50-tips-for-new-managers-your-quick-start-guide/?couponCode=30TIPSNOV&ra",
-      "coupon_code": "30TIPSNOV",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6686965_d0df_5.jpg",
-      "title": "30 tips for New Managers - Your quick Start Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/active-directory-sites-and-replication/?couponCode=7F15F60B7DF7374C68F5",
-      "coupon_code": "7F15F60B7DF7374C68F5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/2379778_aba8_4.jpg",
-      "title": "Active Directory:  Sites and Replication with a Lab"
-    },
-    {
-      "url": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?couponCode=3735614AC2848F88751A",
-      "coupon_code": "3735614AC2848F88751A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6501521_9cab_5.jpg",
-      "title": "Build 11  JavaScript Application and Web JavaScript BootCamp"
-    },
-    {
-      "url": "https://www.udemy.com/course/decision-making-for-leaders-and-managers/?couponCode=BDCB2AEBBD8A0C99968A",
-      "coupon_code": "BDCB2AEBBD8A0C99968A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6011408_208c.jpg",
-      "title": "Decision Making for Leaders and Managers"
-    },
-    {
-      "url": "https://www.udemy.com/course/executive-certificate-in-sales-management/?couponCode=F40B55E0DF7088CC7314",
-      "coupon_code": "F40B55E0DF7088CC7314",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5992344_c0b5.jpg",
-      "title": "Executive Certificate in Sales Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduction-to-business-and-data-analysis/?couponCode=5B93C61FD55B9EB2EDF3",
-      "coupon_code": "5B93C61FD55B9EB2EDF3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6011380_ea0b.jpg",
-      "title": "Business Data Analysis: The Strategic Thinking Masterclass"
-    },
-    {
-      "url": "https://www.udemy.com/course/linux-terminal-basics-rus/?couponCode=538C1EBAD6A88A244480",
-      "coupon_code": "538C1EBAD6A88A244480",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5928220_a191_5.jpg",
-      "title": "Linux с нуля до сертификата"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-video-editing-with-ai-chatgpt-for-content-creators/?couponCode=B8E28EDF3F3071C4D6F8",
-      "coupon_code": "B8E28EDF3F3071C4D6F8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6577113_15af.jpg",
-      "title": "Mastering Video Editing with AI ChatGPT for Content Creators"
-    },
-    {
-      "url": "https://www.udemy.com/course/mysql-basics-ru/?couponCode=7E3476FAD64DB858D08C",
-      "coupon_code": "7E3476FAD64DB858D08C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5929080_eaee_3.jpg",
-      "title": "SQL практикум для начинающих и продолжающих (полный курс)"
-    },
-    {
-      "url": "https://www.udemy.com/course/purpose-driven-leadership-t/?couponCode=17THNOV25&ra",
-      "coupon_code": "17THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4866896_05d0_2.jpg",
-      "title": "Purpose Driven Leadership"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-mobile-app-development-build-8-mobile-application/?couponCode=C0E8DCFFE8AA0B3620AD",
-      "coupon_code": "C0E8DCFFE8AA0B3620AD",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6576193_f0bd_2.jpg",
-      "title": "Python Mobile App Development: Build 8+ Mobile Application"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-software-application-games-automation-development/?couponCode=30AB915808CDA35FF2CD",
-      "coupon_code": "30AB915808CDA35FF2CD",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6457931_5336.jpg",
-      "title": "Python Software, Application, Games, Automation  Development"
-    },
-    {
-      "url": "https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=17THNOV25&ra",
-      "coupon_code": "17THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4785722_1b39_5.jpg",
-      "title": "Strategic Partnerships and Collaborations"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-basics-of-linux-command-line/?couponCode=AAA00DC427AF71ADCF29",
-      "coupon_code": "AAA00DC427AF71ADCF29",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4933128_80a0_3.jpg",
-      "title": "Linux Command Line: From Zero to Hero"
-    },
-    {
-      "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=17THNOV25&ra",
-      "coupon_code": "17THNOV25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5560346_69f1_3.jpg",
-      "title": "Workplace Stress Management Strategies"
-    },
-    {
-      "url": "https://www.udemy.com/course/advanced-python-automation-for-excel-and-accounting/?couponCode=889D588D0292C692A1F1",
-      "coupon_code": "889D588D0292C692A1F1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6614157_b5ee.jpg",
-      "title": "Advanced Python Automation for Excel and Accounting"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-python-automation-bootcamp-automation-masterclass/?couponCode=C556CB5C053D697235E6",
-      "coupon_code": "C556CB5C053D697235E6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6612567_fa03.jpg",
-      "title": "Complete Python Automation Bootcamp - Automation MasterClass"
-    },
-    {
-      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_99",
-      "coupon_code": "AR_FREE_99",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
-      "title": "Essentials for ArcPy: Python for Geospatial Automation"
-    },
-    {
-      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_100",
-      "coupon_code": "AR_FREE_100",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
-      "title": "Essentials for PyQGIS: Python for Geospatial Automation"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-full-stack-web-development-with-games-and-application/?couponCode=8446AE8D8DD9D327E21F",
-      "coupon_code": "8446AE8D8DD9D327E21F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6616915_f73a_2.jpg",
-      "title": "Master Full Stack Web Development With Games and Application"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-python-for-data-science-machine-learning-automation/?couponCode=27E02ED046BADC880B1A",
-      "coupon_code": "27E02ED046BADC880B1A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6857715_6d33.jpg",
-      "title": "Master Python for Data Science, Machine Learning, Automation"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_102",
-      "coupon_code": "AR_FREE_102",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
-      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
-    },
-    {
-      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/?couponCode=AR_FREE_106",
-      "coupon_code": "AR_FREE_106",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6823217_2c07.jpg",
-      "title": "Geospatial AI: Deep Learning for Satellite Imagery"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_101",
-      "coupon_code": "AR_FREE_101",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
-      "title": "Django Essentials: Build and Deploy Real-World Apps"
-    },
-    {
-      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_103",
-      "coupon_code": "AR_FREE_103",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
-      "title": "Programming for Scientific Research with Python and R"
     }
   ]
 }
