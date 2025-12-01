@@ -1,7 +1,97 @@
 {
-  "updated_at": "2025-12-01T02:30:23Z",
-  "count": 961,
+  "updated_at": "2025-12-01T04:15:01Z",
+  "count": 974,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-certificate-in-customer-experience-management/?couponCode=CE12A92E67669C482C77",
+      "coupon_code": "CE12A92E67669C482C77",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6362575_6b46_2.jpg",
+      "title": "Advanced Certificate in Customer Experience Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-in-marketing-introduction-to-chatgpt-ai-marketing/?couponCode=52C06FCA13E623B7A0A7",
+      "coupon_code": "52C06FCA13E623B7A0A7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6186251_2da1_2.jpg",
+      "title": "2025 AI Mastery: Learn ChatGPT, Midjourney, Firefly, Gemini"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-midjourney-23-proven-methods-to-earn-with-ai/?couponCode=CA57AC945545BF1E3FA6",
+      "coupon_code": "CA57AC945545BF1E3FA6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6158605_c6df_2.jpg",
+      "title": "Master AI Tools in 2025: ChatGPT, Midjourney, Gemini Firefly"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-guide-to-numpy-pandas-scipy-matplotlib-seaborn/?couponCode=7CFD52DDA781368D111B",
+      "coupon_code": "7CFD52DDA781368D111B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6708323_257b_2.jpg",
+      "title": "Complete Guide to NumPy, Pandas, SciPy, Matplotlib & Seaborn"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-quality-data-management-data-governance-certificate/?couponCode=1BE11D28C91C4B2C8776",
+      "coupon_code": "1BE11D28C91C4B2C8776",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6406727_798e.jpg",
+      "title": "Data Quality, Data Management & Data Governance Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/glp-1-gip-drugsozempic-wegovy-obesity-diabetes-therapy/?couponCode=51B0A5D86E96F17C8913",
+      "coupon_code": "51B0A5D86E96F17C8913",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6805305_6255_3.jpg",
+      "title": "GLP-1 & GIP Drugs:Ozempic, Wegovy-Obesity & Diabetes Therapy"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-ads-masterclass-2021-all-campaign-creations/?couponCode=D42717EFCF5D09C1DF55",
+      "coupon_code": "D42717EFCF5D09C1DF55",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4069002_ce90_3.jpg",
+      "title": "Google Ads MasterClass 2025 - All Campaign Builds & Features"
+    },
+    {
+      "url": "https://www.udemy.com/course/lean-quality-management-six-sigma-continuous-improvement/?couponCode=AF4647372288C628AE71",
+      "coupon_code": "AF4647372288C628AE71",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6408335_2e49.jpg",
+      "title": "Lean & Quality Management, Six Sigma, Continuous Improvement"
+    },
+    {
+      "url": "https://www.udemy.com/course/linkedin-ads-masterclass-2023-all-campaigns-features/?couponCode=D84F141551A4D2C653E1",
+      "coupon_code": "D84F141551A4D2C653E1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5104122_3f39_3.jpg",
+      "title": "LinkedIn Ads MasterClass 2025 - All Campaigns & Features"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-sql-and-sql-for-data-analysis/?couponCode=08B6B566AFC4F295CACE",
+      "coupon_code": "08B6B566AFC4F295CACE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6358693_a332.jpg",
+      "title": "Professional Certificate in SQL and SQL for Data Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-methodologies-agile-scrum-and-pmp/?couponCode=4E444F716A31189561FF",
+      "coupon_code": "4E444F716A31189561FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6362573_2f2e.jpg",
+      "title": "Project Management Methodologies: Agile, Scrum, and PMP"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-build-and-deploy-your-own-applications/?couponCode=CFDA6A10053F0403793A",
+      "coupon_code": "CFDA6A10053F0403793A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6509823_1c8a.jpg",
+      "title": "Python Programming: Build and Deploy Your Own Applications."
+    },
+    {
+      "url": "https://www.udemy.com/course/the-shopify-dropshipping-course-start-selling-online-today/?couponCode=878721C3C02A34594805",
+      "coupon_code": "878721C3C02A34594805",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6521065_ba07_2.jpg",
+      "title": "Shopify Dropshipping Course 2025: Start Selling Online Today"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-google-tag-manager-course-beginner-to-advanced/?couponCode=97179C4EC08D7E98D7DB",
+      "coupon_code": "97179C4EC08D7E98D7DB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6078549_bb96.jpg",
+      "title": "The Ultimate Google Tag Manager Course: Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=5DA8893BE96FCC4A1B17",
+      "coupon_code": "5DA8893BE96FCC4A1B17",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
+      "title": "User Interviews & User Onboarding"
+    },
     {
       "url": "https://www.udemy.com/course/30-days-of-angular/?couponCode=6490456BC081DF421D7A",
       "coupon_code": "6490456BC081DF421D7A",
@@ -75,22 +165,10 @@
       "title": "How to make right career choices & choosing one for success"
     },
     {
-      "url": "https://www.udemy.com/course/professional-certificate-in-sql-and-sql-for-data-analysis/?couponCode=08B6B566AFC4F295CACE",
-      "coupon_code": "08B6B566AFC4F295CACE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6358693_a332.jpg",
-      "title": "Professional Certificate in SQL and SQL for Data Analysis"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-in-program-management/?couponCode=256B0A5AE6BED2B6C196",
       "coupon_code": "256B0A5AE6BED2B6C196",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6318915_a125_3.jpg",
       "title": "Professional Diploma in Program Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=5DA8893BE96FCC4A1B17",
-      "coupon_code": "5DA8893BE96FCC4A1B17",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
-      "title": "User Interviews & User Onboarding"
     },
     {
       "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=B56ECD41D13E649D4D80",
