@@ -1,7 +1,12 @@
 {
-  "updated_at": "2025-12-01T19:27:29Z",
-  "count": 932,
+  "updated_at": "2025-12-01T20:28:12Z",
+  "count": 935,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-powered-data-and-product-masterclass/?couponCode=A5F53FD1789E633A28CD",
+      "coupon_code": "A5F53FD1789E633A28CD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-strategy-transformation-for-executive-leaders/?couponCode=AI_NOV_03",
       "coupon_code": "AI_NOV_03",
@@ -9,10 +14,9 @@
       "title": "AI Strategy & Transformation for Executive Leaders"
     },
     {
-      "url": "https://www.udemy.com/course/brain-computer-interface-with-deep-learning/?couponCode=6804F5C36EAE59E1875E",
-      "coupon_code": "6804F5C36EAE59E1875E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6082337_b988_4.jpg",
-      "title": "Brain computer interface with deep learning"
+      "url": "https://www.udemy.com/course/business-strategy-and-innovation-frameworks/?couponCode=7938423587A7470FDB86",
+      "coupon_code": "7938423587A7470FDB86",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/deep-reinforcement-learning-using-python/?couponCode=DB6A486123317F1E81A3",
@@ -21,16 +25,16 @@
       "title": "Deep Reinforcement Learning using python 2025"
     },
     {
+      "url": "https://www.udemy.com/course/executive-program-in-resilient-leadership/?couponCode=0D797D50F8FE03ED7305",
+      "coupon_code": "0D797D50F8FE03ED7305",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6663577_007d.jpg",
+      "title": "Executive Program in Resilient Leadership"
+    },
+    {
       "url": "https://www.udemy.com/course/full-cycle-product-marketing/?couponCode=07D6BC5DE0584A8F43D4",
       "coupon_code": "07D6BC5DE0584A8F43D4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6612315_ce11.jpg",
       "title": "Full-Cycle Product Marketing"
-    },
-    {
-      "url": "https://www.udemy.com/course/high-impact-sales-management-strategy-and-sales-operations/?couponCode=9538ACD7743D62F638AA",
-      "coupon_code": "9538ACD7743D62F638AA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6603147_af44_2.jpg",
-      "title": "High-Impact Sales Management, Strategy and Sales Operations"
     },
     {
       "url": "https://www.udemy.com/course/iso-90012015-in-1h-b/?couponCode=C5DE92533D3FF1285894",
@@ -55,12 +59,6 @@
       "coupon_code": "TALLYDEC01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5416482_4f49_3.jpg",
       "title": "Tally Prime Basic to Advance with GST, Payroll, TDS & more"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-business-management-certificate/?couponCode=07D920E5EF6EC0872E08",
-      "coupon_code": "07D920E5EF6EC0872E08",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6599913_5f7a_4.jpg",
-      "title": "Professional Business Management Certificate"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-risk-management-arabic-version/?couponCode=053BF200D6298F67602E",
@@ -91,6 +89,24 @@
       "coupon_code": "B56A61715F39D723A016",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6603151_1652.jpg",
       "title": "Strategic Digital Transformation for Business Growth"
+    },
+    {
+      "url": "https://www.udemy.com/course/brain-computer-interface-with-deep-learning/?couponCode=6804F5C36EAE59E1875E",
+      "coupon_code": "6804F5C36EAE59E1875E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6082337_b988_4.jpg",
+      "title": "Brain computer interface with deep learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/high-impact-sales-management-strategy-and-sales-operations/?couponCode=9538ACD7743D62F638AA",
+      "coupon_code": "9538ACD7743D62F638AA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6603147_af44_2.jpg",
+      "title": "High-Impact Sales Management, Strategy and Sales Operations"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-business-management-certificate/?couponCode=07D920E5EF6EC0872E08",
+      "coupon_code": "07D920E5EF6EC0872E08",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6599913_5f7a_4.jpg",
+      "title": "Professional Business Management Certificate"
     },
     {
       "url": "https://www.udemy.com/course/bit-integrations-como-automatizar-tareas-en-wordpress/?couponCode=BIT-INT10",
