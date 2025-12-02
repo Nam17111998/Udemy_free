@@ -1,81 +1,171 @@
 {
-  "updated_at": "2025-12-02T03:55:19Z",
-  "count": 983,
+  "updated_at": "2025-12-02T04:36:58Z",
+  "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/android-apps-development-masterclass-build-2-apps-java/?couponCode=42DF4F68E346F0B80F55",
+      "coupon_code": "42DF4F68E346F0B80F55",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=9139A2FB926F1B55432C",
+      "coupon_code": "9139A2FB926F1B55432C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-product-owner/?couponCode=A72CCAA753B0FDABD8FE",
+      "coupon_code": "A72CCAA753B0FDABD8FE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/etabs-from-zero-to-hero/?couponCode=6319AD731392910CDFA0",
+      "coupon_code": "6319AD731392910CDFA0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-autocad-2d/?couponCode=3771CE11876708C71BD7",
+      "coupon_code": "3771CE11876708C71BD7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-bar-bending-schedule-in-autocad-excel/?couponCode=D295A7A1B5B31CA16F35",
+      "coupon_code": "D295A7A1B5B31CA16F35",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-chess-in-hindi-zero-to-master-level/?couponCode=6EB2BE39B663EF6995F9",
+      "coupon_code": "6EB2BE39B663EF6995F9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-dynamo-in-revit-zero-to-hero-in-hindi/?couponCode=F393FF2F72D7DED90958",
+      "coupon_code": "F393FF2F72D7DED90958",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-javascript-by-creating-10-practical-projects/?couponCode=126E65E607BA31ACB678",
+      "coupon_code": "126E65E607BA31ACB678",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-microsoft-excel-from-zero-to-hero/?couponCode=236951CA980EF8CE48D8",
+      "coupon_code": "236951CA980EF8CE48D8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-staad-pro-from-zero-to-hero-hindi/?couponCode=9EC2921852C1290EC581",
+      "coupon_code": "9EC2921852C1290EC581",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-android-application-build-3-applications-from-scratch/?couponCode=AF4CC2EC0541EF989555",
+      "coupon_code": "AF4CC2EC0541EF989555",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-javascript-by-building-10-projects-from-scratch/?couponCode=3C66A1FCBAA33DAE4989",
+      "coupon_code": "3C66A1FCBAA33DAE4989",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/modeling-rending-interior-office-project-in-revit/?couponCode=FFC8E5D3D27902272C7B",
+      "coupon_code": "FFC8E5D3D27902272C7B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantity-surveying-building-estimate/?couponCode=089ED0167FE3D8F4C4AD",
+      "coupon_code": "089ED0167FE3D8F4C4AD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/capcut-for-social-media-video-editing-beginner-to-pro/?couponCode=DAEC2F5B6D9FEA6BBD11",
       "coupon_code": "DAEC2F5B6D9FEA6BBD11",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6070501_477e_2.jpg",
+      "title": "Capcut for Social Media Video Editing | Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/complete-nodejs-bootcamp-from-basics-to-advanced/?couponCode=E259BAB423EEF07951FC",
       "coupon_code": "E259BAB423EEF07951FC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6696081_61f0_3.jpg",
+      "title": "Complete Node.js Bootcamp: From Basics to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/dp-900-azure-data-fundamentals-codaming/?couponCode=70FC98004992EA01CB52",
       "coupon_code": "70FC98004992EA01CB52",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6854657_82a0_5.jpg",
+      "title": "DP-900 Azure Data Fundamentals Practice Exam Questions 2025"
     },
     {
       "url": "https://www.udemy.com/course/excel-vba-learn-visual-basic-macros-beginner-to-advanced/?couponCode=7E5CF4D984CE99D12D90",
       "coupon_code": "7E5CF4D984CE99D12D90",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6024162_d56b_3.jpg",
+      "title": "Excel VBA - Learn Visual Basic Macros | Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=7A04E3BEA8EE3A085BB3",
       "coupon_code": "7A04E3BEA8EE3A085BB3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5800130_dfbb.jpg",
+      "title": "Learn AngularJS Course for Beginners to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-with-formulas-and-vba/?couponCode=03248BDBC0731836F881",
       "coupon_code": "03248BDBC0731836F881",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6095875_9df5_3.jpg",
+      "title": "Microsoft Excel Data Analysis with Formulas and VBA"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-with-formulas-functions/?couponCode=D2D50C3431F160C46F93",
       "coupon_code": "D2D50C3431F160C46F93",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5994066_cdaf.jpg",
+      "title": "Microsoft Excel Pivot Tables With Formulas & Functions"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=E76E11DA99B71BC56B1E",
       "coupon_code": "E76E11DA99B71BC56B1E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg",
+      "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro"
     },
     {
       "url": "https://www.udemy.com/course/postgraduate-diploma-in-office-administration-management/?couponCode=D138FD1C373188649FBF",
       "coupon_code": "D138FD1C373188649FBF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4559658_8ef3_3.jpg",
+      "title": "Professional Diploma in Office Administration Management"
     },
     {
       "url": "https://www.udemy.com/course/postgresql-bootcamp-complete-beginner-to-advanced-course/?couponCode=A84C9E26F61196AC0782",
       "coupon_code": "A84C9E26F61196AC0782",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6008692_3c52.jpg",
+      "title": "PostgreSQL Bootcamp : Complete Beginner to Advanced Course"
     },
     {
       "url": "https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=2F1EA4EC6F077E330A0A",
       "coupon_code": "2F1EA4EC6F077E330A0A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3434032_8b2b_2.jpg",
+      "title": "Python Complete Course For Python Beginners"
     },
     {
       "url": "https://www.udemy.com/course/python-programming-a-step-by-step-programming-course/?couponCode=5EDB52BE0B718B36EC1B",
       "coupon_code": "5EDB52BE0B718B36EC1B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173779_c69c.jpg",
+      "title": "Python Programming: A Step-by-Step Programming Course"
     },
     {
       "url": "https://www.udemy.com/course/social-media-graphics-design-and-video-editing-with-canva/?couponCode=FFADE969F975B85D325E",
       "coupon_code": "FFADE969F975B85D325E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6038488_d144_5.jpg",
+      "title": "Social Media Graphics Design and Video Editing with Canva"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-javascript-developer-learn-modern-javascript/?couponCode=8D410F3EAFD5ADCB2065",
       "coupon_code": "8D410F3EAFD5ADCB2065",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695975_d609_2.jpg",
+      "title": "The Complete JavaScript Developer: Learn Modern JavaScript"
     },
     {
       "url": "https://www.udemy.com/course/ultimate-microsoft-excel-with-data-analysis-vba-macros/?couponCode=C0F6B592241BC16B7821",
       "coupon_code": "C0F6B592241BC16B7821",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6070613_12d8_5.jpg",
+      "title": "Ultimate Microsoft Excel With Data Analysis & VBA Macros"
     },
     {
       "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=CAE1B3BFD16D17976BF3",
