@@ -1,7 +1,85 @@
 {
-  "updated_at": "2025-12-02T17:29:21Z",
-  "count": 981,
+  "updated_at": "2025-12-02T18:42:37Z",
+  "count": 993,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-tools-for-non-tech-creators/?couponCode=581E73F5A61274D1DC61",
+      "coupon_code": "581E73F5A61274D1DC61",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-cloudways/?couponCode=CLOUD-GR32",
+      "coupon_code": "CLOUD-GR32",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-google-adsense/?couponCode=GOOGLEA-GR35",
+      "coupon_code": "GOOGLEA-GR35",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-una-agencia-de-viajes/?couponCode=WPTE-GR32",
+      "coupon_code": "WPTE-GR32",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-hacer-anuncios-efectivos-en-tiktok-ads/?couponCode=TIKTOK-GR38",
+      "coupon_code": "TIKTOK-GR38",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-migrar-un-sitio-web-wordpress-a-cloudways/?couponCode=MIG-CLO19",
+      "coupon_code": "MIG-CLO19",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/copywriting_businesswriting/?couponCode=2F52E00DA9F7DCEC590D",
+      "coupon_code": "2F52E00DA9F7DCEC590D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-blocksy-el-mejor-tema-gratis-para-wordpress/?couponCode=BLOCKSY-GR32",
+      "coupon_code": "BLOCKSY-GR32",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/drupal-for-beginners-course/?couponCode=5EB90E006DDD9AE19BFD",
+      "coupon_code": "5EB90E006DDD9AE19BFD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5616788_4b45.jpg",
+      "title": "Drupal For Beginners - Master Drupal Quickly"
+    },
+    {
+      "url": "https://www.udemy.com/course/drupal-masterclass/?couponCode=D96DB34C4D10A9B768CA",
+      "coupon_code": "D96DB34C4D10A9B768CA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1894054_b286_3.jpg",
+      "title": "Drupal For Absolute Beginners (2025)"
+    },
+    {
+      "url": "https://www.udemy.com/course/fastpixel-mejora-la-velocidad-de-carga-en-wordpress/?couponCode=FP-GRA19",
+      "coupon_code": "FP-GRA19",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/humanresourceshrm/?couponCode=06B3363F2188FA3B5F67",
+      "coupon_code": "06B3363F2188FA3B5F67",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-wordpress-in-hindi/?couponCode=88B3B62FF760DB28F9ED",
+      "coupon_code": "88B3B62FF760DB28F9ED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5563620_cbec_4.jpg",
+      "title": "सीखें WordPress हिन्दी में"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-analysis-bootcamp-pandas-seaborn-and-plotly/?couponCode=DFF054BD5A295BB2942E",
+      "coupon_code": "DFF054BD5A295BB2942E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-scm/?couponCode=61450B10D8418B5DF531",
+      "coupon_code": "61450B10D8418B5DF531",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/agile-enterprise-architecture/?couponCode=49E99554BC65EFF173A2",
       "coupon_code": "49E99554BC65EFF173A2",
@@ -19,18 +97,6 @@
       "coupon_code": "JAIHANUMAN",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5090530_8cda_2.jpg",
       "title": "How to Create Blog On WordPress - Full A-Z Course (Hindi)"
-    },
-    {
-      "url": "https://www.udemy.com/course/drupal-for-beginners-course/?couponCode=5EB90E006DDD9AE19BFD",
-      "coupon_code": "5EB90E006DDD9AE19BFD",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5616788_4b45.jpg",
-      "title": "Drupal For Beginners - Master Drupal Quickly"
-    },
-    {
-      "url": "https://www.udemy.com/course/drupal-masterclass/?couponCode=D96DB34C4D10A9B768CA",
-      "coupon_code": "D96DB34C4D10A9B768CA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/1894054_b286_3.jpg",
-      "title": "Drupal For Absolute Beginners (2025)"
     },
     {
       "url": "https://www.udemy.com/course/ecommerce-website-in-wordpress-hindi/?couponCode=01DEC25",
@@ -55,12 +121,6 @@
       "coupon_code": "4A66936ECBBC9E0B96CC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3569891_acf2_5.jpg",
       "title": "Learn JavaScript Programming In Hindi"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-wordpress-in-hindi/?couponCode=88B3B62FF760DB28F9ED",
-      "coupon_code": "88B3B62FF760DB28F9ED",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5563620_cbec_4.jpg",
-      "title": "सीखें WordPress हिन्दी में"
     },
     {
       "url": "https://www.udemy.com/course/sap-abap-on-hana-j/?couponCode=ABAPONHANA01",
