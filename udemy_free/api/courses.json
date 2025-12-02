@@ -1,91 +1,186 @@
 {
-  "updated_at": "2025-12-01T23:26:11Z",
-  "count": 955,
+  "updated_at": "2025-12-02T02:06:48Z",
+  "count": 968,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/advanced-supply-chain-master-optimisation-ai-strategies/?couponCode=76D5916D1793EEE4C61A",
-      "coupon_code": "76D5916D1793EEE4C61A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=CAE1B3BFD16D17976BF3",
       "coupon_code": "CAE1B3BFD16D17976BF3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-digital-marketing-master-seo-ads-sales/?couponCode=4F50777E28BC74F31C52",
-      "coupon_code": "4F50777E28BC74F31C52",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/applied-ai-foundations-8-week-professional-course/?couponCode=41E596A178851042B0FD",
-      "coupon_code": "41E596A178851042B0FD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=075A71C0C20DAEC3DB6E",
-      "coupon_code": "075A71C0C20DAEC3DB6E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6834655_6933_2.jpg",
+      "title": "Agentic AI: Building the Next Generation of Smart Agents"
     },
     {
       "url": "https://www.udemy.com/course/certificate-in-neuromarketing-consumer-psychology/?couponCode=3B8FD96E2E351608323D",
       "coupon_code": "3B8FD96E2E351608323D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6832413_cdc2_2.jpg",
+      "title": "Certificate in Neuromarketing & Consumer Psychology"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-data-analyst-foundations-course/?couponCode=460DE1AF52C1175F7620",
+      "coupon_code": "460DE1AF52C1175F7620",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6758921_a291.jpg",
+      "title": "Certified Data Analyst Foundations Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-data-engineering-foundation-course/?couponCode=E60E7C0C8854155B7C2F",
+      "coupon_code": "E60E7C0C8854155B7C2F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6766877_f8b6_4.jpg",
+      "title": "Data Engineer Foundations: Build Modern Data Systems"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=4656C1D76B4B8DC1CAA8",
+      "coupon_code": "4656C1D76B4B8DC1CAA8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5032410_a449.jpg",
+      "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/deep-learning-specialization-advanced-ai-architectures/?couponCode=906948C3A4357253E3DC",
+      "coupon_code": "906948C3A4357253E3DC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6785809_5f88_2.jpg",
+      "title": "Deep Learning Specialization: Advanced AI, Hands on Lab"
+    },
+    {
+      "url": "https://www.udemy.com/course/digitisation/?couponCode=87E18321F2AFED04E1E7",
+      "coupon_code": "87E18321F2AFED04E1E7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4480366_71d4.jpg",
+      "title": "Professional Diploma in Digitalization of Retail Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=854EC7C4DC3177A226EF",
+      "coupon_code": "854EC7C4DC3177A226EF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255701_c7a4_2.jpg",
+      "title": "Full AI Course 2025: ChatGPT, Gemini, Midjourney, Firefly"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-paid-ads-course-google-facebook-microsoft-linkedin/?couponCode=A09467CAAAD303B4BA70",
+      "coupon_code": "A09467CAAAD303B4BA70",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5671688_5f55_2.jpg",
+      "title": "11 Ads Platforms in 1 Course 2025: Learn Paid Advertising!"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-llms-foundations-from-basics-to-application/?couponCode=2A6A101C9D7490BC6B54",
+      "coupon_code": "2A6A101C9D7490BC6B54",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6797231_ab5d_2.jpg",
+      "title": "Generative AI & LLMs Foundations: From Basics to Application"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-ads-masterclass-2025-all-features-campaign-setups/?couponCode=5B915F81720085AA5210",
+      "coupon_code": "5B915F81720085AA5210",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681185_bc68.jpg",
+      "title": "Google Ads MasterClass 2025: All Features & Campaign Setups"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-php-complete-course/?couponCode=A0E3CB63C0EFCCB4721B",
+      "coupon_code": "A0E3CB63C0EFCCB4721B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5025724_f9f4.jpg",
+      "title": "Java And PHP Complete Course For Java And PHP Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-ai-foundations-course/?couponCode=E3EACAB9A158A6FB1759",
+      "coupon_code": "E3EACAB9A158A6FB1759",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6777123_c064_2.jpg",
+      "title": "Machine Learning & AI Foundations Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/marketing-analytics-for-beginners/?couponCode=FE1AC617D56F160003D9",
+      "coupon_code": "FE1AC617D56F160003D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6729963_0b98.jpg",
+      "title": "Marketing Analytics for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/tableau-bi-masterclass-create-actionable-dashboards/?couponCode=43425BF012D116D58432",
+      "coupon_code": "43425BF012D116D58432",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6856781_c5d9.jpg",
+      "title": "The Complete Tableau BI Masterclass 2025: Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-supply-chain-master-optimisation-ai-strategies/?couponCode=76D5916D1793EEE4C61A",
+      "coupon_code": "76D5916D1793EEE4C61A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6719791_a520.jpg",
+      "title": "Advanced Supply Chain: Master Optimisation & AI Strategies"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-digital-marketing-master-seo-ads-sales/?couponCode=4F50777E28BC74F31C52",
+      "coupon_code": "4F50777E28BC74F31C52",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6746061_ee3e.jpg",
+      "title": "AI Digital Marketing: Master SEO, Ads & Sales"
+    },
+    {
+      "url": "https://www.udemy.com/course/applied-ai-foundations-8-week-professional-course/?couponCode=41E596A178851042B0FD",
+      "coupon_code": "41E596A178851042B0FD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6810199_db56_2.jpg",
+      "title": "Applied AI Foundations: 8-Week Professional Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=075A71C0C20DAEC3DB6E",
+      "coupon_code": "075A71C0C20DAEC3DB6E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6916045_bf00.jpg",
+      "title": "Artificial Intelligence Journey: Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/?couponCode=6958EE8CCF3AEFD2021F",
       "coupon_code": "6958EE8CCF3AEFD2021F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891327_151d_2.jpg",
+      "title": "Complete RAG Bootcamp: Build, Optimize, and Deploy AI Apps"
     },
     {
       "url": "https://www.udemy.com/course/data-science-ai-mastery-100-days-to-career-success/?couponCode=3D2B68ADE09285C66D31",
       "coupon_code": "3D2B68ADE09285C66D31",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818091_ce55_3.jpg",
+      "title": "Data Science & AI Mastery: 100 Days to Career Success"
     },
     {
       "url": "https://www.udemy.com/course/data-science-ai-mastery-from-basics-to-deployment/?couponCode=117E098D871CD6783CC6",
       "coupon_code": "117E098D871CD6783CC6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6824767_6877_2.jpg",
+      "title": "Data Science & AI Mastery: From Basics to Deployment"
     },
     {
       "url": "https://www.udemy.com/course/decision-making-psychology-emotional-intelligence/?couponCode=8D2AF08D11B1B4C1BF53",
       "coupon_code": "8D2AF08D11B1B4C1BF53",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802433_3851.jpg",
+      "title": "Decision Making Psychology & Emotional Intelligence"
     },
     {
       "url": "https://www.udemy.com/course/devenir-freelance-nomade/?couponCode=90A40E5B182BC3758D4E",
       "coupon_code": "90A40E5B182BC3758D4E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6097319_b9b9_3.jpg",
+      "title": "DEVENIR FREELANCE NOMADE : Vivre de sa passion librement"
     },
     {
       "url": "https://www.udemy.com/course/digital-transformation-in-hr-leveraging-ai-analytics/?couponCode=509A310E15F052911C52",
       "coupon_code": "509A310E15F052911C52",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6814631_985b_2.jpg",
+      "title": "Digital Transformation in HR: Leveraging AI & Analytics"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-engineering-with-openai-anthropic/?couponCode=B083A622E36D20A6732A",
       "coupon_code": "B083A622E36D20A6732A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6901057_e04e.jpg",
+      "title": "Generative AI Engineering with OpenAI, Anthropic"
     },
     {
       "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=8908BBCE2C4C3DD2A1C5",
       "coupon_code": "8908BBCE2C4C3DD2A1C5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6022786_dbe8_2.jpg",
+      "title": "ÉVITER L'ÉCHEC : Le système qui maximalise la réussite"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-ai-in-office-administration/?couponCode=9909666AB137E617CCCE",
       "coupon_code": "9909666AB137E617CCCE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6746063_6c47_2.jpg",
+      "title": "Professional Certificate: AI in Office Administration"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-customer-experience/?couponCode=5E7847C48F0389BC421B",
       "coupon_code": "5E7847C48F0389BC421B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6665295_a70e.jpg",
+      "title": "AI-Powered Customer Experience (CX)"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-data-and-product-masterclass/?couponCode=A5F53FD1789E633A28CD",
       "coupon_code": "A5F53FD1789E633A28CD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6665293_55cd_4.jpg",
+      "title": "AI-Powered Data & Product Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/ai-strategy-transformation-for-executive-leaders/?couponCode=AI_NOV_03",
@@ -96,7 +191,8 @@
     {
       "url": "https://www.udemy.com/course/business-strategy-and-innovation-frameworks/?couponCode=7938423587A7470FDB86",
       "coupon_code": "7938423587A7470FDB86",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6627259_626f.jpg",
+      "title": "Business Strategy & Innovation Frameworks"
     },
     {
       "url": "https://www.udemy.com/course/deep-reinforcement-learning-using-python/?couponCode=DB6A486123317F1E81A3",
@@ -107,7 +203,8 @@
     {
       "url": "https://www.udemy.com/course/executive-program-in-advanced-feminine-leadership/?couponCode=380D812640911F8B42BB",
       "coupon_code": "380D812640911F8B42BB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668409_bbc8.jpg",
+      "title": "Executive Program in Advanced Feminine Leadership"
     },
     {
       "url": "https://www.udemy.com/course/executive-program-in-resilient-leadership/?couponCode=0D797D50F8FE03ED7305",
@@ -130,7 +227,8 @@
     {
       "url": "https://www.udemy.com/course/ms-project-from-zero-to-pro/?couponCode=MSPROJECT0112",
       "coupon_code": "MSPROJECT0112",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5879042_4292_2.jpg",
+      "title": "Microsoft Project from Zero to Pro بروجكت من الصفر للاحتراف"
     },
     {
       "url": "https://www.udemy.com/course/powerpoint-design-bootcamp-build-15-stunning-presentations/?couponCode=3B5FB26231971AEF0B5A",
@@ -147,7 +245,8 @@
     {
       "url": "https://www.udemy.com/course/strategic-esg-and-sustainability-in-business-operations/?couponCode=19A3F7D4B2D918F06F52",
       "coupon_code": "19A3F7D4B2D918F06F52",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6712013_364e.jpg",
+      "title": "Strategic ESG and Sustainability in Business Operations"
     },
     {
       "url": "https://www.udemy.com/course/master-sap-successfactors-employee-central/?couponCode=DECEMBER01",
