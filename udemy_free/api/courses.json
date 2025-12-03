@@ -1,7 +1,97 @@
 {
-  "updated_at": "2025-12-03T03:54:03Z",
-  "count": 920,
+  "updated_at": "2025-12-03T04:36:05Z",
+  "count": 935,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-interpersonal-skills-excellence/?couponCode=9D36E05CC4BF72A09218",
+      "coupon_code": "9D36E05CC4BF72A09218",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6789369_cce8_2.jpg",
+      "title": "AI for Interpersonal Skills  Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-problem-solving-excellence/?couponCode=13A5630FDF385CADEAE8",
+      "coupon_code": "13A5630FDF385CADEAE8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767201_d0f3.jpg",
+      "title": "AI for 8D Problem Solving Skill Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-time-management-excellence/?couponCode=89DF4A9CFAE984CF1A72",
+      "coupon_code": "89DF4A9CFAE984CF1A72",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6845821_c8a2.jpg",
+      "title": "AI for Time Management Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-verbal-non-verbal-communication-excellence/?couponCode=89A5B1F0EBB5351B6B32",
+      "coupon_code": "89A5B1F0EBB5351B6B32",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742017_64c1.jpg",
+      "title": "AI for Verbal & Non-Verbal Communication Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=D9322A284CE0BB0F05CF",
+      "coupon_code": "D9322A284CE0BB0F05CF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119481_61ba.jpg",
+      "title": "C, C++ and PHP: Comprehensive Programming Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-leadership-y/?couponCode=0E26D4F6C36AF52398A6",
+      "coupon_code": "0E26D4F6C36AF52398A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5067188_36b8_3.jpg",
+      "title": "Excellence in Leadership and Leadership Development Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-time-management/?couponCode=9743C709455AB0D72DAD",
+      "coupon_code": "9743C709455AB0D72DAD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4879530_1ffe_4.jpg",
+      "title": "Master Effective Time Management for Personal Productivity"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-fundamentals-course-for-beginners/?couponCode=441E26E62060CE3C19A7",
+      "coupon_code": "441E26E62060CE3C19A7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638424_41f4.jpg",
+      "title": "Java Fundamentals Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-game-theory/?couponCode=910917F93CD228E2DA57",
+      "coupon_code": "910917F93CD228E2DA57",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6031262_db9e_4.jpg",
+      "title": "Master in Game Theory"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-systems-thinking/?couponCode=3303988F261813E13327",
+      "coupon_code": "3303988F261813E13327",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5940178_c358.jpg",
+      "title": "Master in Systems Thinking"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-complexity/?couponCode=9C7B5307A37CE342EC98",
+      "coupon_code": "9C7B5307A37CE342EC98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5295094_5cf0.jpg",
+      "title": "Mastering Complexity in Problem Solving and Decision Making"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-cypress-automatizacion-de-pruebas-end-to-end-avan/?couponCode=LASTC1",
+      "coupon_code": "LASTC1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6908195_934e_2.jpg",
+      "title": "Mastering Cypress: Automatización de Pruebas End-to-End Avan"
+    },
+    {
+      "url": "https://www.udemy.com/course/personality-development-for-a-successful-management-career/?couponCode=F271A5DE0262A3C16DE3",
+      "coupon_code": "F271A5DE0262A3C16DE3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5374588_92df_2.jpg",
+      "title": "Personality Development for a Successful Career and Life"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=B0B4A32DB2B8A7DF31BA",
+      "coupon_code": "B0B4A32DB2B8A7DF31BA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119559_527e.jpg",
+      "title": "Python & Java: Master Backend & Frontend Web Developments"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-python-bootcamp-from-zero-to-expert/?couponCode=1E19FCF4B06F67E25037",
+      "coupon_code": "1E19FCF4B06F67E25037",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663772_24d8_5.jpg",
+      "title": "The Complete Python Bootcamp from Zero to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/canva-rockstar-design-like-a-pro-for-social-media-success/?couponCode=C10F810BA853C5A0EA7F",
       "coupon_code": "C10F810BA853C5A0EA7F",
@@ -10,7 +100,8 @@
     {
       "url": "https://www.udemy.com/course/complete-mysql-bootcamp-learn-sql-step-by-step/?couponCode=A126317CF4D5133ADBE3",
       "coupon_code": "A126317CF4D5133ADBE3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6707335_cf68_2.jpg",
+      "title": "Complete MySQL Bootcamp: Learn SQL Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=04735426314608679CAB",
@@ -21,7 +112,8 @@
     {
       "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=F0847CBEFA965C79C047",
       "coupon_code": "F0847CBEFA965C79C047",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886376_a387_2.jpg",
+      "title": "Django Masterclass: Get Started With Django Web Development"
     },
     {
       "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_109",
@@ -32,52 +124,62 @@
     {
       "url": "https://www.udemy.com/course/excel-charts-graphs-master-class-excel-charts-graphs/?couponCode=018D9FB5F7304FFE5809",
       "coupon_code": "018D9FB5F7304FFE5809",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5982646_3a79_2.jpg",
+      "title": "Excel Charts & Graphs: Master Class Excel Charts & Graphs"
     },
     {
       "url": "https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/?couponCode=88C318F9189A964C523F",
       "coupon_code": "88C318F9189A964C523F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173817_8c19_2.jpg",
+      "title": "Master Java, Python, C & C++: All-in-One Programming Course"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-formulas-functions-with-charts-graphs/?couponCode=9EC23111CF065D77D96F",
       "coupon_code": "9EC23111CF065D77D96F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992188_a650_2.jpg",
+      "title": "Microsoft Excel: Formulas & Functions with Charts & Graphs"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-the-pivot-table-masterclass/?couponCode=A4F494A797B64EDA16AF",
       "coupon_code": "A4F494A797B64EDA16AF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5990836_ab6f_3.jpg",
+      "title": "Microsoft Excel Pivot Tables: The Pivot Table Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-office-training-master-excel-powerpoint-word/?couponCode=1B39CC5619A8C4EA7C0F",
       "coupon_code": "1B39CC5619A8C4EA7C0F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6014740_0383_5.jpg",
+      "title": "Microsoft Office Training : Master Excel, PowerPoint & Word"
     },
     {
       "url": "https://www.udemy.com/course/python-101-complete-python-programming-step-by-step-guide/?couponCode=5A3AB95ADDC6255E4433",
       "coupon_code": "5A3AB95ADDC6255E4433",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709303_f812_2.jpg",
+      "title": "Python 101: Complete Python Programming Step by Step Guide"
     },
     {
       "url": "https://www.udemy.com/course/python-for-beginners-course-/?couponCode=06622C412E0F6FBC7DC2",
       "coupon_code": "06622C412E0F6FBC7DC2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3378022_637b.jpg",
+      "title": "Python And Flask Framework Complete Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/python-mastery-the-complete-web-programming-course/?couponCode=FB4833BD2452F80B9A9F",
       "coupon_code": "FB4833BD2452F80B9A9F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173959_c9b3_2.jpg",
+      "title": "Python Mastery: The Complete Web Programming Course"
     },
     {
       "url": "https://www.udemy.com/course/responsive-web-design-with-css-a-complete-css-guide/?couponCode=6B406161E091C030EE00",
       "coupon_code": "6B406161E091C030EE00",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709411_19ad_2.jpg",
+      "title": "Responsive Web Design with CSS: A Complete CSS Guide"
     },
     {
       "url": "https://www.udemy.com/course/word-microsoft-word-from-basic-to-advanced/?couponCode=BAC56A49432504D43100",
       "coupon_code": "BAC56A49432504D43100",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5983044_dd3a_2.jpg",
+      "title": "Word - Microsoft Word from Basic to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_112",
