@@ -1,81 +1,186 @@
 {
-  "updated_at": "2025-12-03T08:38:01Z",
-  "count": 975,
+  "updated_at": "2025-12-03T09:32:55Z",
+  "count": 990,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-osint-find-anything-search-investigate-online/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602047_55b9_2.jpg",
+      "title": "OSINT: Find Anything, Search & Investigate Online [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/building-resilient-teams-overcome-challenges-together/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6606501_be25_2.jpg",
+      "title": "How to organize effictive Team Building activities [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/chief-marketing-officer/?couponCode=C48BE4AC128CA2B64345",
+      "coupon_code": "C48BE4AC128CA2B64345",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5353320_1dc5.jpg",
+      "title": "CMO Chief Marketing Officer Executive Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/gen-z-hr-mastery-hire-engage-retain-zoomers-generation/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6599125_1170_2.jpg",
+      "title": "How to prepare the company for Generation Z and Alpha  [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/headhunting-and-executive-search-for-recruiters/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6608565_8630_2.jpg",
+      "title": "Headhunting and Executive Search for Recruiters [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/high-volume-hiring-mastery-recruit-faster-and-smarter/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6591867_9f01_2.jpg",
+      "title": "High-Volume Hiring + Recruitment, Mass Selection Fast [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-consultant-build-audit-and-optimize-hr-systems/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589497_b005_2.jpg",
+      "title": "HR Consultant: Build, Audit, and Optimize HR Systems [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/kpi-development-for-hr-build-effective-performance-systems/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6597549_c17b_2.jpg",
+      "title": "How to develop KPI based on Critical Success Factors [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-cross-cultural-communication-in-global-teams/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6593255_0623_2.jpg",
+      "title": "Mastering Cross-Cultural Communication in Global Teams [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/mentorship-training-become-a-skilled-and-trusted-mentor/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6601111_7481_2.jpg",
+      "title": "Mentorship Training: Become a Skilled Trusted Mentor [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-teams-training-work-smarter-communicate-better/?couponCode=FREEMSTEAM",
+      "coupon_code": "FREEMSTEAM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6948555_cdb6.jpg",
+      "title": "Microsoft Teams Training: Work Smarter, Communicate Better"
+    },
+    {
+      "url": "https://www.udemy.com/course/online-training-for-employees-internal-online-learning/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6608241_3959_2.jpg",
+      "title": "Online Training for Employees: Internal Online Learning [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/organizational-development-transform-teams-and-strategy-od/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6596091_6853_2.jpg",
+      "title": "Organizational Development: Transform Teams + Strategy [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/performance-rewards-kpi-based-recognition-system-design/?couponCode=PAPAHR_DEC_I",
+      "coupon_code": "PAPAHR_DEC_I",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6591395_ee8c_2.jpg",
+      "title": "Performance Rewards KPI-Based Recognition System Design [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/synchro-4d-pro-planning-and-4d-simulation-english/?couponCode=ALHAMDULLAH",
+      "coupon_code": "ALHAMDULLAH",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6815875_e3e0_2.jpg",
+      "title": "SYNCHRO 4D Pro BIM Construction Scheduling & 4D Planning"
+    },
     {
       "url": "https://www.udemy.com/course/cco-liderazgo-exito-y-experiencia-del-cliente-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6694005_94f6_3.jpg",
+      "title": "CCO: Liderazgo, Éxito y Experiencia del Cliente [ES]"
     },
     {
       "url": "https://www.udemy.com/course/ceos-hr-toolkit-2025-hiring-onboarding-and-strategy/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6697885_cba1_2.jpg",
+      "title": "HR Toolkit and Playbook for CEO and Managers [EN]"
     },
     {
       "url": "https://www.udemy.com/course/coaching-de-carrera-cv-empleo-y-crecimiento-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6694687_02c6_2.jpg",
+      "title": "Coaching de Carrera: CV, Empleo y Crecimiento [ES]"
     },
     {
       "url": "https://www.udemy.com/course/consultor-de-rrhh-auditoria-y-mejora-de-sistemas-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689109_0fba_2.jpg",
+      "title": "Consultor de RRHH: Auditoría y Mejora de Sistemas [ES]"
     },
     {
       "url": "https://www.udemy.com/course/diseno-organizacional-estructuras-agiles-y-escalables-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6692093_b781_2.jpg",
+      "title": "Diseño Organizacional: Estructuras Ágiles y Escalables [ES]"
     },
     {
       "url": "https://www.udemy.com/course/dominio-de-la-estrategia-de-gestion-del-talento-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6699049_57f3_3.jpg",
+      "title": "Dominio de la estrategia de gestión del talento [ES]"
     },
     {
       "url": "https://www.udemy.com/course/estrategia-de-marca-empleadora-y-reclutamiento-2025-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6694029_95b8_2.jpg",
+      "title": "Estrategia de Marca Empleadora y Reclutamiento | 2026 [ES]"
     },
     {
       "url": "https://www.udemy.com/course/financial-literacy-for-business-efficiency-driven-strategy/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6729957_3a23_2.jpg",
+      "title": "Efficiency-Driven Business Finances by CIMA CertPM, Phd [EN]"
     },
     {
       "url": "https://www.udemy.com/course/formacion-y-desarrollo-con-ia-generativa-en-rr-hh-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6687033_ee7b_2.jpg",
+      "title": "Formación y Desarrollo con IA Generativa en RR. HH. [ES]"
     },
     {
       "url": "https://www.udemy.com/course/formador-corporativo-aprende-facilitacion-efectiva-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6688781_2df0_2.jpg",
+      "title": "Formador Corporativo: Aprende Facilitación Efectiva [ES]"
     },
     {
       "url": "https://www.udemy.com/course/gestion-de-procesos-de-negocio-bpm-y-mapas-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6687065_9cb8_2.jpg",
+      "title": "Gestión de Procesos de Negocio (BPM) y Mapas [ES]"
     },
     {
       "url": "https://www.udemy.com/course/la-guia-del-ceo-manual-para-directores-generales-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6694623_0fb1_2.jpg",
+      "title": "La Guía del CEO: Manual para Directores Generales [ES]"
     },
     {
       "url": "https://www.udemy.com/course/profesional-en-recursos-humanos-internacional-phri-hrci-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6694783_0be6_2.jpg",
+      "title": "Profesional en Recursos Humanos Internacional PHRi HRCI [ES]"
     },
     {
       "url": "https://www.udemy.com/course/recrutamento-com-ia-automatize-e-otimize-contratacoes-pt/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689919_a958_2.jpg",
+      "title": "Recrutamento com IA: Automatize e Otimize Contratações [PT]"
     },
     {
       "url": "https://www.udemy.com/course/sphri-2025-profesional-senior-rrhh-internacional-es/?couponCode=PAPAHR_DEC_I",
       "coupon_code": "PAPAHR_DEC_I",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689999_d8c8_2.jpg",
+      "title": "SPHRi 2026: Profesional Senior RRHH Internacional [ES]"
     },
     {
       "url": "https://www.udemy.com/course/advanced-anti-money-laundering-aml-cft-techniques/?couponCode=08343EE192D0EAFCA4F5",
