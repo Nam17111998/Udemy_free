@@ -1,7 +1,87 @@
 {
-  "updated_at": "2025-12-05T10:30:03Z",
-  "count": 905,
+  "updated_at": "2025-12-05T11:25:03Z",
+  "count": 916,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-ethicsresponsible-use/?couponCode=051DC0462263C66389ED",
+      "coupon_code": "051DC0462263C66389ED",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-a-complete-aspnet-core-url-shortener-app/?couponCode=FULLFREEPASS02",
+      "coupon_code": "FULLFREEPASS02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-social-media-app-with-aspnet-core/?couponCode=FULLFREEPASS02",
+      "coupon_code": "FULLFREEPASS02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-ecommerce-aspnet-mvc-application/?couponCode=FULLFREEPASS02",
+      "coupon_code": "FULLFREEPASS02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/csharp-beginner-to-advanced/?couponCode=FULLFREEPASS02",
+      "coupon_code": "FULLFREEPASS02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/decoding-market-timing-an-insightful-introduction/?couponCode=DR_OZIMEK_12",
+      "coupon_code": "DR_OZIMEK_12",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-chief-executive-officer/?couponCode=87883267CEC22A09BDD6",
+      "coupon_code": "87883267CEC22A09BDD6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/gcp-devops-terraform-iac-azure-devops-cicd-masterclass/?couponCode=5AF518AA3AE50209B099",
+      "coupon_code": "5AF518AA3AE50209B099",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-diploma-in-performance-management-and-employee-development/?couponCode=96C52CC25CB7B1897124",
+      "coupon_code": "96C52CC25CB7B1897124",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5657534_7543.jpg",
+      "title": "HR Diploma in Performance Management & Employee Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/internal-controls-masterclass-design-risk-based-testing/?couponCode=EE1987517B8065DEB16B",
+      "coupon_code": "EE1987517B8065DEB16B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-microservices-with-spring-boot-real-project-course/?couponCode=MS-ARCHITECTURE",
+      "coupon_code": "MS-ARCHITECTURE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=DEC-2025-L1-C1",
+      "coupon_code": "DEC-2025-L1-C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2840688_d992_11.jpg",
+      "title": "Level 1 - Japanese Candlesticks Trading Mastery Program"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-7-php-and-mysql-projects/?couponCode=PHP7PROJECTS68",
+      "coupon_code": "PHP7PROJECTS68",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5010434_6d6a_3.jpg",
+      "title": "PHP with MySQL: Build 7 PHP and MySQL Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-guide-to-aspnet-web-api/?couponCode=FULLFREEPASS02",
+      "coupon_code": "FULLFREEPASS02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3744574_84c6_5.jpg",
+      "title": "ASP.NET CORE WEB API | The Complete Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=2NDDEC&ra",
+      "coupon_code": "2NDDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5560346_69f1_3.jpg",
+      "title": "Workplace Stress Management Strategies"
+    },
     {
       "url": "https://www.udemy.com/course/active-directory-sites-and-replication/?couponCode=268C470A1C4EAB4EE0B3",
       "coupon_code": "268C470A1C4EAB4EE0B3",
@@ -39,12 +119,6 @@
       "title": "Journalism: Be a Great Talk Show Host"
     },
     {
-      "url": "https://www.udemy.com/course/hr-diploma-in-performance-management-and-employee-development/?couponCode=96C52CC25CB7B1897124",
-      "coupon_code": "96C52CC25CB7B1897124",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5657534_7543.jpg",
-      "title": "HR Diploma in Performance Management & Employee Development"
-    },
-    {
       "url": "https://www.udemy.com/course/introduction-to-financial-products-services-i/?couponCode=2NDDEC&ra",
       "coupon_code": "2NDDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5878864_c0b0_3.jpg",
@@ -57,12 +131,6 @@
       "title": "Python Complete Course: with 30+ Hands-on Tasks and Solution"
     },
     {
-      "url": "https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=DEC-2025-L1-C1",
-      "coupon_code": "DEC-2025-L1-C1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/2840688_d992_11.jpg",
-      "title": "Level 1 - Japanese Candlesticks Trading Mastery Program"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-trade-based-money-laundering-tbml/?couponCode=D22C7691C70A9F421FC8",
       "coupon_code": "D22C7691C70A9F421FC8",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6953485_e7db.jpg",
@@ -73,12 +141,6 @@
       "coupon_code": "1DBDF10FE63FD9808F6E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/2730408_5314_3.jpg",
       "title": "Server Virtualization with Hyper-V and System Center"
-    },
-    {
-      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-7-php-and-mysql-projects/?couponCode=PHP7PROJECTS68",
-      "coupon_code": "PHP7PROJECTS68",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5010434_6d6a_3.jpg",
-      "title": "PHP with MySQL: Build 7 PHP and MySQL Projects"
     },
     {
       "url": "https://www.udemy.com/course/pinterest-profit-system-schritt-fur-schritt-zum-einkommen/?couponCode=E73325C38A5A23C19A19",
@@ -649,12 +711,6 @@
       "coupon_code": "75AB3C2638014FEF4A29",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg",
       "title": "Unleash Your Full Potential: Learn English Now!"
-    },
-    {
-      "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=2NDDEC&ra",
-      "coupon_code": "2NDDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5560346_69f1_3.jpg",
-      "title": "Workplace Stress Management Strategies"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=2NDDEC&ra",
