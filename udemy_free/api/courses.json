@@ -1,31 +1,126 @@
 {
-  "updated_at": "2025-12-05T07:28:10Z",
-  "count": 983,
+  "updated_at": "2025-12-05T08:37:00Z",
+  "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/active-directory-sites-and-replication/?couponCode=268C470A1C4EAB4EE0B3",
+      "coupon_code": "268C470A1C4EAB4EE0B3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2379778_aba8_4.jpg",
+      "title": "Active Directory:  Sites and Replication with a Lab"
+    },
+    {
+      "url": "https://www.udemy.com/course/brand-management-with-generative-ai-q/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6770165_5997_2.jpg",
+      "title": "Brand Management with Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/centos-and-ubuntu-managing-packages/?couponCode=7E9863E12D648018595B",
+      "coupon_code": "7E9863E12D648018595B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1436610_e625_2.jpg",
+      "title": "CentOS Linux and Ubuntu Linux: Managing Packages"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6610709_4ab8_2.jpg",
+      "title": "DeepSeek AI for Business: Build a Strategy with AI Insights"
+    },
+    {
+      "url": "https://www.udemy.com/course/from-prompt-to-photorealism-midjourney-image-creation-guide/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6627573_5df6_2.jpg",
+      "title": "From Prompt to Photorealism: Midjourney Image Creation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-be-a-government-spokesperson/?couponCode=3288D1817B21F7580B54",
+      "coupon_code": "3288D1817B21F7580B54",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/352234_4ba4_3.jpg",
+      "title": "Public Relations: How to Be a Government/PIO Spokesperson"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-be-a-talk-show-host/?couponCode=08A2AA3A34985F1A6D9E",
+      "coupon_code": "08A2AA3A34985F1A6D9E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/363364_88eb_4.jpg",
+      "title": "Journalism: Be a Great Talk Show Host"
+    },
+    {
+      "url": "https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/?couponCode=11C48B72473E40941C24",
+      "coupon_code": "11C48B72473E40941C24",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2948290_00a8_3.jpg",
+      "title": "Python Complete Course: with 30+ Hands-on Tasks and Solution"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-ai-video-creation-with-sora/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6623225_6db7.jpg",
+      "title": "Mastering AI Video Creation with Sora"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-system-center-intro-to-virtual-machine-manager/?couponCode=1DBDF10FE63FD9808F6E",
+      "coupon_code": "1DBDF10FE63FD9808F6E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2730408_5314_3.jpg",
+      "title": "Server Virtualization with Hyper-V and System Center"
+    },
+    {
+      "url": "https://www.udemy.com/course/notebooklm-mastery-organize-analyze-and-optimize-with-ai/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637885_85f4_2.jpg",
+      "title": "NotebookLM Mastery: Organize, Analyze, and Optimize with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/perplexity-ai-for-marketing-business-automation/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6563485_8d03_2.jpg",
+      "title": "Perplexity AI for Marketing & Business Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-choosing-implementing-the-right-tools/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637889_9859_2.jpg",
+      "title": "Project Management: Choosing & Implementing the Right Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/vibe-coding-camp-github-copilot-cursor-lovable-windsurf/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6770391_7e40_3.jpg",
+      "title": "Vibe Coding Camp: Github Copilot, Cursor, Lovable, Windsurf"
+    },
+    {
+      "url": "https://www.udemy.com/course/windsurf-for-beginners-ai-coding-crash-course/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6773271_eb0b_2.jpg",
+      "title": "Windsurf for Beginners: AI Coding Crash Course"
+    },
     {
       "url": "https://www.udemy.com/course/aprendesqlnivelinicial/?couponCode=A8D37FF0F467FFCAEFEB",
       "coupon_code": "A8D37FF0F467FFCAEFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4551114_e738_2.jpg",
+      "title": "Microsoft SQL Server Nivel Inicial"
     },
     {
       "url": "https://www.udemy.com/course/aws-bot-defense-devsecops/?couponCode=DEVSECOPSDECEMBER01",
       "coupon_code": "DEVSECOPSDECEMBER01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6877429_66df_3.jpg",
+      "title": "DevSecOps on AWS: Defend Against LLM Scrapers & Bot Traffic"
     },
     {
       "url": "https://www.udemy.com/course/ayurvedic-psychology-16-personality-archetypes/?couponCode=875AA4FDC07CF57D7EC3",
       "coupon_code": "875AA4FDC07CF57D7EC3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6799523_6760.jpg",
+      "title": "Ayurvedic Psychology Part 1: 16 Personality Archetypes"
     },
     {
       "url": "https://www.udemy.com/course/contract-management-100-questions-and-answers-part-1/?couponCode=GOLDENCNANCE",
       "coupon_code": "GOLDENCNANCE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6187019_1113_4.jpg",
+      "title": "200+ Contracts Management Questions&Answers Part 1"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=2NDDEC",
       "coupon_code": "2NDDEC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
+      "title": "Emotional Intelligence in Leadership"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=2NDDEC",
@@ -36,7 +131,8 @@
     {
       "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=2NDDEC",
       "coupon_code": "2NDDEC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
+      "title": "Financial Services: Introduction to ETFs"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=2NDDEC",
@@ -53,12 +149,14 @@
     {
       "url": "https://www.udemy.com/course/key-metrics-of-unit-economics-cpa-arpu-cac-arppu-c1/?couponCode=79E21CFE29F386582355",
       "coupon_code": "79E21CFE29F386582355",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641930_0cdf.jpg",
+      "title": "Key Metrics of Unit Economics (CPA, ARPU, CAC, ARPPU, C1)"
     },
     {
       "url": "https://www.udemy.com/course/machine-learning-foundations-build-expert-level-ai-models/?couponCode=F0D7E72FD7C614A88996",
       "coupon_code": "F0D7E72FD7C614A88996",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6473929_807b.jpg",
+      "title": "Machine Learning Foundations: Build Expert-Level AI Models"
     },
     {
       "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=2NDDEC",
@@ -69,17 +167,20 @@
     {
       "url": "https://www.udemy.com/course/smart-goals-parenting/?couponCode=2NDDEC",
       "coupon_code": "2NDDEC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6041048_43ee_3.jpg",
+      "title": "SMART Goals Parenting"
     },
     {
       "url": "https://www.udemy.com/course/succession-planning-mastery/?couponCode=EC1B8CBD569DB55EB772",
       "coupon_code": "EC1B8CBD569DB55EB772",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6945127_5997_3.jpg",
+      "title": "Succession Planning"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=2NDDEC&ra",
       "coupon_code": "2NDDEC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
+      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
     },
     {
       "url": "https://www.udemy.com/course/101-ai-tools-to-improve-productivity-save-time/?couponCode=EB52F0B9799396BEDB2D",
