@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05T09:29:42Z",
-  "count": 902,
+  "updated_at": "2025-12-05T10:30:03Z",
+  "count": 905,
   "courses": [
     {
       "url": "https://www.udemy.com/course/active-directory-sites-and-replication/?couponCode=268C470A1C4EAB4EE0B3",
@@ -11,7 +11,8 @@
     {
       "url": "https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=5861A06CA1B3B8F64741",
       "coupon_code": "5861A06CA1B3B8F64741",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3049106_004f_5.jpg",
+      "title": "Big Data Programming Languages & Big Data Vs Data Science"
     },
     {
       "url": "https://www.udemy.com/course/centos-and-ubuntu-managing-packages/?couponCode=7E9863E12D648018595B",
@@ -20,22 +21,10 @@
       "title": "CentOS Linux and Ubuntu Linux: Managing Packages"
     },
     {
-      "url": "https://www.udemy.com/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/?couponCode=05DECEMBER2025",
-      "coupon_code": "05DECEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6610709_4ab8_2.jpg",
-      "title": "DeepSeek AI for Business: Build a Strategy with AI Insights"
-    },
-    {
       "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=2NDDEC&ra",
       "coupon_code": "2NDDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6560763_3fe2.jpg",
       "title": "Financial Services - Funds Flow Optimization Concepts"
-    },
-    {
-      "url": "https://www.udemy.com/course/from-prompt-to-photorealism-midjourney-image-creation-guide/?couponCode=05DECEMBER2025",
-      "coupon_code": "05DECEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6627573_5df6_2.jpg",
-      "title": "From Prompt to Photorealism: Midjourney Image Creation Guide"
     },
     {
       "url": "https://www.udemy.com/course/how-to-be-a-government-spokesperson/?couponCode=3288D1817B21F7580B54",
@@ -50,6 +39,12 @@
       "title": "Journalism: Be a Great Talk Show Host"
     },
     {
+      "url": "https://www.udemy.com/course/hr-diploma-in-performance-management-and-employee-development/?couponCode=96C52CC25CB7B1897124",
+      "coupon_code": "96C52CC25CB7B1897124",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5657534_7543.jpg",
+      "title": "HR Diploma in Performance Management & Employee Development"
+    },
+    {
       "url": "https://www.udemy.com/course/introduction-to-financial-products-services-i/?couponCode=2NDDEC&ra",
       "coupon_code": "2NDDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5878864_c0b0_3.jpg",
@@ -62,15 +57,16 @@
       "title": "Python Complete Course: with 30+ Hands-on Tasks and Solution"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-ai-video-creation-with-sora/?couponCode=05DECEMBER2025",
-      "coupon_code": "05DECEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6623225_6db7.jpg",
-      "title": "Mastering AI Video Creation with Sora"
+      "url": "https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=DEC-2025-L1-C1",
+      "coupon_code": "DEC-2025-L1-C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2840688_d992_11.jpg",
+      "title": "Level 1 - Japanese Candlesticks Trading Mastery Program"
     },
     {
       "url": "https://www.udemy.com/course/mastering-trade-based-money-laundering-tbml/?couponCode=D22C7691C70A9F421FC8",
       "coupon_code": "D22C7691C70A9F421FC8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6953485_e7db.jpg",
+      "title": "Mastering Trade-Based Money Laundering (TBML)"
     },
     {
       "url": "https://www.udemy.com/course/ms-system-center-intro-to-virtual-machine-manager/?couponCode=1DBDF10FE63FD9808F6E",
@@ -79,14 +75,40 @@
       "title": "Server Virtualization with Hyper-V and System Center"
     },
     {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-7-php-and-mysql-projects/?couponCode=PHP7PROJECTS68",
+      "coupon_code": "PHP7PROJECTS68",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5010434_6d6a_3.jpg",
+      "title": "PHP with MySQL: Build 7 PHP and MySQL Projects"
+    },
+    {
       "url": "https://www.udemy.com/course/pinterest-profit-system-schritt-fur-schritt-zum-einkommen/?couponCode=E73325C38A5A23C19A19",
       "coupon_code": "E73325C38A5A23C19A19",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6457871_05a8.jpg",
+      "title": "Pinterest Profit System – Schritt für Schritt zum Einkommen"
     },
     {
       "url": "https://www.udemy.com/course/unit-economics-crm-ltv-churn-retention-rates-cohorts/?couponCode=D752B8B726520A512CC2",
       "coupon_code": "D752B8B726520A512CC2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5648162_5cf8_3.jpg",
+      "title": "Unit Economics & CRM: LTV, Churn, Retention Rates, Cohorts"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6610709_4ab8_2.jpg",
+      "title": "DeepSeek AI for Business: Build a Strategy with AI Insights"
+    },
+    {
+      "url": "https://www.udemy.com/course/from-prompt-to-photorealism-midjourney-image-creation-guide/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6627573_5df6_2.jpg",
+      "title": "From Prompt to Photorealism: Midjourney Image Creation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-ai-video-creation-with-sora/?couponCode=05DECEMBER2025",
+      "coupon_code": "05DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6623225_6db7.jpg",
+      "title": "Mastering AI Video Creation with Sora"
     },
     {
       "url": "https://www.udemy.com/course/brand-management-with-generative-ai-q/?couponCode=05DECEMBER2025",
