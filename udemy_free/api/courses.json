@@ -1,7 +1,95 @@
 {
-  "updated_at": "2025-12-05T23:25:36Z",
-  "count": 987,
+  "updated_at": "2025-12-06T02:00:31Z",
+  "count": 995,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=2NDDEC&ra",
+      "coupon_code": "2NDDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5297378_1508_2.jpg",
+      "title": "Authentic Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=3710CC5EC576685A2424",
+      "coupon_code": "3710CC5EC576685A2424",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6267057_5414_2.jpg",
+      "title": "Advanced Diploma in Depression Counselling"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=2NDDEC&ra",
+      "coupon_code": "2NDDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=2NDDEC&ra",
+      "coupon_code": "2NDDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
+      "title": "Financial Stewardship for Decision Makers and Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=77B2AC89A5EBBD8DD7D4",
+      "coupon_code": "77B2AC89A5EBBD8DD7D4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5022262_24b2.jpg",
+      "title": "Java And C++ And PHP Crash Course All in One For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-marketing-public-relations-and-advertising/?couponCode=1EBC6B8658B7C83FA6BA",
+      "coupon_code": "1EBC6B8658B7C83FA6BA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5772158_14e5.jpg",
+      "title": "Advanced Program in Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-technology-management-for-cio-cto/?couponCode=BE29078298E07135AFB6",
+      "coupon_code": "BE29078298E07135AFB6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5743284_ac32.jpg",
+      "title": "Advanced Diploma in Technology Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/omnichannel-sales-service-management/?couponCode=B9B4FBE1CE091AC66FB7",
+      "coupon_code": "B9B4FBE1CE091AC66FB7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241125_336d.jpg",
+      "title": "Omnichannel Sales & Service Management: Professional Diploma"
+    },
+    {
+      "url": "https://www.udemy.com/course/personal-growth-affirmations-and-taking-action/?couponCode=2NDDEC&ra",
+      "coupon_code": "2NDDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4917622_0aae_2.jpg",
+      "title": "Personal Growth - Affirmations and Taking Action"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-scrum/?couponCode=1E5D628422FB0C88B924",
+      "coupon_code": "1E5D628422FB0C88B924",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5754968_5307.jpg",
+      "title": "Professional Diploma in Agile and Scrum"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-business-english-and-communications/?couponCode=B0910A67B52B3AFE7CCB",
+      "coupon_code": "B0910A67B52B3AFE7CCB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-the-executive-assistant/?couponCode=22AF623AC9F2B19ED7D3",
+      "coupon_code": "22AF623AC9F2B19ED7D3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=2NDDEC&ra",
+      "coupon_code": "2NDDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4762718_0127_2.jpg",
+      "title": "Self Discipline will Change Your life for GOOD"
+    },
+    {
+      "url": "https://www.udemy.com/course/smartphone-detox-for-kids/?couponCode=5541A41D907BB9488B06",
+      "coupon_code": "5541A41D907BB9488B06",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6675417_7bb4_2.jpg",
+      "title": "Smartphone Detox for Kids: A 7-Day Family Challenge"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-basics-of-linux-command-line/?couponCode=E7071CA4E98143E99EE1",
+      "coupon_code": "E7071CA4E98143E99EE1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4933128_80a0_3.jpg",
+      "title": "Linux Command Line: From Zero to Hero"
+    },
     {
       "url": "https://www.udemy.com/course/ai-movie-making/?couponCode=B4764BA5BDE9D73BDAE8",
       "coupon_code": "B4764BA5BDE9D73BDAE8",
@@ -27,34 +115,10 @@
       "title": "Financial Services - Basics of Business & Corporate Banking"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=2NDDEC&ra",
-      "coupon_code": "2NDDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
-      "title": "Financial Services - Overview of Central Banks"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=2NDDEC&ra",
-      "coupon_code": "2NDDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
-      "title": "Financial Stewardship for Decision Makers and Leaders"
-    },
-    {
       "url": "https://www.udemy.com/course/gratitude-w/?couponCode=2NDDEC&ra",
       "coupon_code": "2NDDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4794422_c40e_5.jpg",
       "title": "Gratitude"
-    },
-    {
-      "url": "https://www.udemy.com/course/mini-mba-in-technology-management-for-cio-cto/?couponCode=BE29078298E07135AFB6",
-      "coupon_code": "BE29078298E07135AFB6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5743284_ac32.jpg",
-      "title": "Advanced Diploma in Technology Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/personal-growth-affirmations-and-taking-action/?couponCode=2NDDEC&ra",
-      "coupon_code": "2NDDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4917622_0aae_2.jpg",
-      "title": "Personal Growth - Affirmations and Taking Action"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-advertising-management/?couponCode=C862CD87D9D9EAF92BE4",
@@ -63,27 +127,10 @@
       "title": "Professional Diploma in Advertising & Advertising Management"
     },
     {
-      "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-scrum/?couponCode=1E5D628422FB0C88B924",
-      "coupon_code": "1E5D628422FB0C88B924",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5754968_5307.jpg",
-      "title": "Professional Diploma in Agile and Scrum"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-in-public-relations-and-pr-management/?couponCode=A21675406FBD016B20C1",
       "coupon_code": "A21675406FBD016B20C1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5743088_1a0f.jpg",
       "title": "Professional Diploma in Public Relations and PR Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-of-the-executive-assistant/?couponCode=22AF623AC9F2B19ED7D3",
-      "coupon_code": "22AF623AC9F2B19ED7D3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-basics-of-linux-command-line/?couponCode=E7071CA4E98143E99EE1",
-      "coupon_code": "E7071CA4E98143E99EE1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4933128_80a0_3.jpg",
-      "title": "Linux Command Line: From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/vigilant-leadership/?couponCode=2NDDEC&ra",
