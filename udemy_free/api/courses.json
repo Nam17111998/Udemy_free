@@ -1,7 +1,13 @@
 {
-  "updated_at": "2025-12-06T02:00:31Z",
-  "count": 995,
+  "updated_at": "2025-12-06T03:16:24Z",
+  "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=39710DEBBF596D940BCC",
+      "coupon_code": "39710DEBBF596D940BCC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6919079_3c72.jpg",
+      "title": "AGI Systems and Alignment Professional Certificate"
+    },
     {
       "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=2NDDEC&ra",
       "coupon_code": "2NDDEC",
@@ -9,22 +15,22 @@
       "title": "Authentic Leadership"
     },
     {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-aec/?couponCode=7D9A80174B028EAF71C2",
+      "coupon_code": "7D9A80174B028EAF71C2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5786022_2e4a_2.jpg",
+      "title": "ChatGPT for Product Management & Innovation"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=7C5613FD0507A04EE93A",
+      "coupon_code": "7C5613FD0507A04EE93A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg",
+      "title": "CSS, JavaScript And PHP Complete Course For Beginners"
+    },
+    {
       "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=3710CC5EC576685A2424",
       "coupon_code": "3710CC5EC576685A2424",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6267057_5414_2.jpg",
       "title": "Advanced Diploma in Depression Counselling"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=2NDDEC&ra",
-      "coupon_code": "2NDDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
-      "title": "Financial Services - Overview of Central Banks"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=2NDDEC&ra",
-      "coupon_code": "2NDDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
-      "title": "Financial Stewardship for Decision Makers and Leaders"
     },
     {
       "url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=77B2AC89A5EBBD8DD7D4",
@@ -37,12 +43,6 @@
       "coupon_code": "1EBC6B8658B7C83FA6BA",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5772158_14e5.jpg",
       "title": "Advanced Program in Marketing"
-    },
-    {
-      "url": "https://www.udemy.com/course/mini-mba-in-technology-management-for-cio-cto/?couponCode=BE29078298E07135AFB6",
-      "coupon_code": "BE29078298E07135AFB6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5743284_ac32.jpg",
-      "title": "Advanced Diploma in Technology Management"
     },
     {
       "url": "https://www.udemy.com/course/omnichannel-sales-service-management/?couponCode=B9B4FBE1CE091AC66FB7",
@@ -65,7 +65,8 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-business-english-and-communications/?couponCode=B0910A67B52B3AFE7CCB",
       "coupon_code": "B0910A67B52B3AFE7CCB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5770034_0156.jpg",
+      "title": "Professional Diploma in Business English and Communications"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-the-executive-assistant/?couponCode=22AF623AC9F2B19ED7D3",
@@ -89,6 +90,24 @@
       "coupon_code": "E7071CA4E98143E99EE1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4933128_80a0_3.jpg",
       "title": "Linux Command Line: From Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=2NDDEC&ra",
+      "coupon_code": "2NDDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=2NDDEC&ra",
+      "coupon_code": "2NDDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
+      "title": "Financial Stewardship for Decision Makers and Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-technology-management-for-cio-cto/?couponCode=BE29078298E07135AFB6",
+      "coupon_code": "BE29078298E07135AFB6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5743284_ac32.jpg",
+      "title": "Advanced Diploma in Technology Management"
     },
     {
       "url": "https://www.udemy.com/course/ai-movie-making/?couponCode=B4764BA5BDE9D73BDAE8",
