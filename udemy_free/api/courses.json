@@ -1,7 +1,96 @@
 {
-  "updated_at": "2025-12-07T11:20:52Z",
-  "count": 972,
+  "updated_at": "2025-12-07T12:50:43Z",
+  "count": 980,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/customer_relationship/?couponCode=0DDA5A40FA9D7523BB9E",
+      "coupon_code": "0DDA5A40FA9D7523BB9E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/dart-and-flutter-the-ultimate-mobile-app-development-course/?couponCode=BFF3F0B43F274A5DF701",
+      "coupon_code": "BFF3F0B43F274A5DF701",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5535196_c0f1_2.jpg",
+      "title": "Dart and Flutter: The Ultimate Mobile App Development Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analytics-visualization-acquire-demanded-tech-skills/?couponCode=59AE71DB43EB176F1D15",
+      "coupon_code": "59AE71DB43EB176F1D15",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5081398_e792_7.jpg",
+      "title": "Data Analytics & Visualization: Using Excel and Python"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-science-mastery-2025-excel-python-tableau/?couponCode=8382B8395DBF3E316FD4",
+      "coupon_code": "8382B8395DBF3E316FD4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6280017_ef41_2.jpg",
+      "title": "Data Science Mastery 2025: Excel, Python & Tableau"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-leadership-how-to-build-your-power-and-impact-in-hr/?couponCode=01698751D1FDC31B98C8",
+      "coupon_code": "01698751D1FDC31B98C8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6260835_4023.jpg",
+      "title": "Strategic HR Leadership: Power & Influence in HR"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-social-media-marketing-brand-building-growth/?couponCode=1393074E47CDA0C517F4",
+      "coupon_code": "1393074E47CDA0C517F4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5106238_d639_4.jpg",
+      "title": "Mastering Social Media Marketing: Brand Building & Growth"
+    },
+    {
+      "url": "https://www.udemy.com/course/ozgecmis-hazirlama-ve-mulakata-hazirlik/?couponCode=DISCUDEMY.COM",
+      "coupon_code": "DISCUDEMY.COM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4989832_9fff.jpg",
+      "title": "Özgeçmiş Hazırlama ve Mülakata Hazırlık Eğitimi"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2022-build-php-and-mysql-projects/?couponCode=PHPMYSQLPROJECTS67",
+      "coupon_code": "PHPMYSQLPROJECTS67",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4931232_fc3a.jpg",
+      "title": "PHP with MySQL: Build 8 PHP and MySQL Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-business-project-management/?couponCode=C6E42D89B5035BE7D138",
+      "coupon_code": "C6E42D89B5035BE7D138",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906332_247f_2.jpg",
+      "title": "Professional Diploma in Business Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-pricing-analysis-and-management/?couponCode=8AA2D4AB41DFB59B3A20",
+      "coupon_code": "8AA2D4AB41DFB59B3A20",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906780_4e0e.jpg",
+      "title": "Professional Diploma in Pricing Analysis and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-technical-project-management/?couponCode=551A6BAE630DC4CA8442",
+      "coupon_code": "551A6BAE630DC4CA8442",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906748_1dcf.jpg",
+      "title": "Professional Diploma in Technical Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-product-owner/?couponCode=D7988D2A72A1E2698DFA",
+      "coupon_code": "D7988D2A72A1E2698DFA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906292_3828.jpg",
+      "title": "Professional Diploma of Product Owner"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=BB23A220FC40A3DCA9BF",
+      "coupon_code": "BB23A220FC40A3DCA9BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5429784_9725_2.jpg",
+      "title": "Python for Data Science with Assignments"
+    },
+    {
+      "url": "https://www.udemy.com/course/satis-egitimi-stratejik-yaklasimlar-ve-ileri-teknikler/?couponCode=DISCUDEMY.COM",
+      "coupon_code": "DISCUDEMY.COM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5433066_82b0_3.jpg",
+      "title": "Satış Eğitimi: Stratejik Yaklaşımlar ve İleri Teknikler"
+    },
+    {
+      "url": "https://www.udemy.com/course/vmware-workspace-one-21x-advanced-integration-specialist-s/?couponCode=DEC07FREE",
+      "coupon_code": "DEC07FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6843849_8ba3_2.jpg",
+      "title": "VMware Workspace ONE 21.X Advanced Integration Specialist"
+    },
     {
       "url": "https://www.udemy.com/course/antigens-the-structure-function-and-immune-response/?couponCode=016E0E1812BD73FF20AD",
       "coupon_code": "016E0E1812BD73FF20AD",
@@ -31,12 +120,6 @@
       "coupon_code": "36AD7A18972662AF1BA0",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5519248_054f_2.jpg",
       "title": "Computer-Aided Drug Design and Discovery"
-    },
-    {
-      "url": "https://www.udemy.com/course/dart-and-flutter-the-ultimate-mobile-app-development-course/?couponCode=BFF3F0B43F274A5DF701",
-      "coupon_code": "BFF3F0B43F274A5DF701",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5535196_c0f1_2.jpg",
-      "title": "Dart and Flutter: The Ultimate Mobile App Development Course"
     },
     {
       "url": "https://www.udemy.com/course/drug-regulatory-affair/?couponCode=8CC71E5AD22A3299D637",
@@ -69,12 +152,6 @@
       "title": "Microbiome Online Course"
     },
     {
-      "url": "https://www.udemy.com/course/professional-diploma-in-business-project-management/?couponCode=C6E42D89B5035BE7D138",
-      "coupon_code": "C6E42D89B5035BE7D138",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5906332_247f_2.jpg",
-      "title": "Professional Diploma in Business Project Management"
-    },
-    {
       "url": "https://www.udemy.com/course/secrets-of-dna-and-its-manipulation/?couponCode=4D6D491DE290E9DD8780",
       "coupon_code": "4D6D491DE290E9DD8780",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4888852_5110_3.jpg",
@@ -103,17 +180,6 @@
       "coupon_code": "2EC2F1A2D2A5CA4A0B63",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6173757_cf20.jpg",
       "title": "Complete JavaScript Programming: From Novice to Expert"
-    },
-    {
-      "url": "https://www.udemy.com/course/data-analytics-visualization-acquire-demanded-tech-skills/?couponCode=59AE71DB43EB176F1D15",
-      "coupon_code": "59AE71DB43EB176F1D15",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5081398_e792_7.jpg",
-      "title": "Data Analytics & Visualization: Using Excel and Python"
-    },
-    {
-      "url": "https://www.udemy.com/course/data-science-mastery-2025-excel-python-tableau/?couponCode=8382B8395DBF3E316FD4",
-      "coupon_code": "8382B8395DBF3E316FD4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/excel-data-management-and-analysis-for-basic-to-expert-level/?couponCode=63130150094E937938DC",
@@ -146,12 +212,6 @@
       "title": "Machine Learning Foundations: Build Expert-Level AI Models"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-social-media-marketing-brand-building-growth/?couponCode=1393074E47CDA0C517F4",
-      "coupon_code": "1393074E47CDA0C517F4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5106238_d639_4.jpg",
-      "title": "Mastering Social Media Marketing: Brand Building & Growth"
-    },
-    {
       "url": "https://www.udemy.com/course/microsoft-excel-complete-excel-from-beginner-to-advanced/?couponCode=25961BF442FDF31651F3",
       "coupon_code": "25961BF442FDF31651F3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6533669_8fb2.jpg",
@@ -168,18 +228,6 @@
       "coupon_code": "634D2EBED2B0DDA65652",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6173981_30e7_2.jpg",
       "title": "PHP Bootcamp: The Complete Programming Course With MYSQL"
-    },
-    {
-      "url": "https://www.udemy.com/course/php-with-mysql-2022-build-php-and-mysql-projects/?couponCode=PHPMYSQLPROJECTS67",
-      "coupon_code": "PHPMYSQLPROJECTS67",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4931232_fc3a.jpg",
-      "title": "PHP with MySQL: Build 8 PHP and MySQL Projects"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=BB23A220FC40A3DCA9BF",
-      "coupon_code": "BB23A220FC40A3DCA9BF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5429784_9725_2.jpg",
-      "title": "Python for Data Science with Assignments"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=2NDDEC&ra",
