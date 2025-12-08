@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T06:46:20Z",
-  "count": 985,
+  "updated_at": "2025-12-08T07:30:47Z",
+  "count": 990,
   "courses": [
     {
       "url": "https://www.udemy.com/course/complete-guide-to-python-data-analysis-with-real-datasets/?couponCode=B83FEF2D1C57C125C487",
@@ -15,6 +15,12 @@
       "title": "Complete Java Programming Bootcamp: Learn to Code in Java"
     },
     {
+      "url": "https://www.udemy.com/course/complete-video-editing-bootcamp-beginner-to-advanced/?couponCode=69E38B6125D68E8A2946",
+      "coupon_code": "69E38B6125D68E8A2946",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5408172_62aa.jpg",
+      "title": "Complete Video Editing BootCamp Beginner to Advanced"
+    },
+    {
       "url": "https://www.udemy.com/course/global-human-resource/?couponCode=846B66E837DB7507CDDC",
       "coupon_code": "846B66E837DB7507CDDC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6430265_8794_4.jpg",
@@ -27,34 +33,22 @@
       "title": "Google Sheets Fundamentals: Manage & Analyze Data"
     },
     {
-      "url": "https://www.udemy.com/course/html-css-java-javascript-full-stack-programming-course/?couponCode=486DB506F96486098458",
-      "coupon_code": "486DB506F96486098458",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6150931_b49f.jpg",
-      "title": "HTML, CSS, Java, & JavaScript: Full Stack Programming Course"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-excel-data-visualization-with-design-chart-graph/?couponCode=D73AD49558BDC7ADB552",
       "coupon_code": "D73AD49558BDC7ADB552",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6848623_b14d.jpg",
       "title": "Mastering Excel Data Visualization with Design Chart & Graph"
     },
     {
+      "url": "https://www.udemy.com/course/mastering-toefl-ibt-the-ultimate-preparation-course/?couponCode=6DB7D43C36B188957DF7",
+      "coupon_code": "6DB7D43C36B188957DF7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5933440_a544_4.jpg",
+      "title": "Mastering TOEFL iBT: The Ultimate Preparation Course"
+    },
+    {
       "url": "https://www.udemy.com/course/mental-pour-reussir/?couponCode=DDEB945DF9A827000AF4",
       "coupon_code": "DDEB945DF9A827000AF4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5755882_95dd_2.jpg",
       "title": "MINDSET DE GAGNANT : Réussir par la Transformation Mentale"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-data-visualization-with-charts-graphs/?couponCode=04E2B2F3EE55C746AE5A",
-      "coupon_code": "04E2B2F3EE55C746AE5A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6638423_582f.jpg",
-      "title": "Microsoft Excel Data Visualization with Charts & Graphs"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-comprehensive-guide/?couponCode=01CDEBC8A1CB00783707",
-      "coupon_code": "01CDEBC8A1CB00783707",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6638355_c400.jpg",
-      "title": "Microsoft Excel Formulas and Functions: Comprehensive Guide"
     },
     {
       "url": "https://www.udemy.com/course/perplexity-ai-transform-your-research-and-writing-workflow/?couponCode=2FF334C5992867A2BC9F",
@@ -69,12 +63,6 @@
       "title": "Short Diploma in Retail Management & Merchandising"
     },
     {
-      "url": "https://www.udemy.com/course/sql-mysql-postgresql-mongodb-all-in-one-database-course/?couponCode=A5464974D595B364D473",
-      "coupon_code": "A5464974D595B364D473",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6119595_498e.jpg",
-      "title": "SQL, MYSQL, POSTGRESQL & MONGODB: All-in-One Database Course"
-    },
-    {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-advanced/?couponCode=AF0E36FD9328D501E29C",
       "coupon_code": "AF0E36FD9328D501E29C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6848609_db52.jpg",
@@ -85,6 +73,48 @@
       "coupon_code": "33E707C6313EE35AB588",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6847397_14bb_2.jpg",
       "title": "The Complete Microsoft Word Course: Learn Word Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/uiux-with-figma-and-adobe-xd/?couponCode=09F7121FBE3E9585C401",
+      "coupon_code": "09F7121FBE3E9585C401",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5463624_6dc8.jpg",
+      "title": "UIUX with Figma and Adobe XD"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-development-bootcamp-with-html-css-php-mysql-wordpress/?couponCode=D70BECF4D726B78A7EF5",
+      "coupon_code": "D70BECF4D726B78A7EF5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5427554_4eab_2.jpg",
+      "title": "Web Development Bootcamp with HTML CSS PHP MySQL Wordpress"
+    },
+    {
+      "url": "https://www.udemy.com/course/youtube-masterclass-with-video-editing-and-graphics-design/?couponCode=767873CB63EA6F4DC44A",
+      "coupon_code": "767873CB63EA6F4DC44A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5466344_ac0f.jpg",
+      "title": "Youtube Masterclass With Video Editing and Graphics Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-css-java-javascript-full-stack-programming-course/?couponCode=486DB506F96486098458",
+      "coupon_code": "486DB506F96486098458",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6150931_b49f.jpg",
+      "title": "HTML, CSS, Java, & JavaScript: Full Stack Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-visualization-with-charts-graphs/?couponCode=04E2B2F3EE55C746AE5A",
+      "coupon_code": "04E2B2F3EE55C746AE5A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6638423_582f.jpg",
+      "title": "Microsoft Excel Data Visualization with Charts & Graphs"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-comprehensive-guide/?couponCode=01CDEBC8A1CB00783707",
+      "coupon_code": "01CDEBC8A1CB00783707",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6638355_c400.jpg",
+      "title": "Microsoft Excel Formulas and Functions: Comprehensive Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-mysql-postgresql-mongodb-all-in-one-database-course/?couponCode=A5464974D595B364D473",
+      "coupon_code": "A5464974D595B364D473",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119595_498e.jpg",
+      "title": "SQL, MYSQL, POSTGRESQL & MONGODB: All-in-One Database Course"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-python-bootcamp-from-zero-to-expert/?couponCode=CCDDA771F09B2709E958",
@@ -274,7 +304,8 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-of-executive-business-assistant/?couponCode=7A643B91A6AD30606F49",
       "coupon_code": "7A643B91A6AD30606F49",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5918176_2f67.jpg",
+      "title": "Professional Certificate of Executive Business Assistant"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-of-secretary/?couponCode=C062BD678A84F43F55FE",
