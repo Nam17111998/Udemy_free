@@ -1,18 +1,12 @@
 {
-  "updated_at": "2025-12-09T06:43:13Z",
-  "count": 941,
+  "updated_at": "2025-12-09T07:29:06Z",
+  "count": 945,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/?couponCode=4BEC73F9D2805CEC011F",
       "coupon_code": "4BEC73F9D2805CEC011F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5346430_f677.jpg",
       "title": "Adobe Photoshop Course from Basic to Advacned for Graphics"
-    },
-    {
-      "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=35662C9C596104AA3368",
-      "coupon_code": "35662C9C596104AA3368",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5382116_b978.jpg",
-      "title": "Adobe Premiere Pro Advanced Video Editing Course"
     },
     {
       "url": "https://www.udemy.com/course/advanced-wordpress-course-for-professionals/?couponCode=FC18A664462B6BE0639F",
@@ -33,10 +27,16 @@
       "title": "Apache Hive for Data Engineers (Hands On) with 2 Projects"
     },
     {
-      "url": "https://www.udemy.com/course/diploma-executivo-em-lideranca/?couponCode=D4700DAA84EF18402684",
-      "coupon_code": "D4700DAA84EF18402684",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5990764_25b2.jpg",
-      "title": "Diploma Executivo em Liderança"
+      "url": "https://www.udemy.com/course/basic-birth-date-numerology-the-meaning-of-each-day/?couponCode=8DAD13A55BE50B5ADAC1",
+      "coupon_code": "8DAD13A55BE50B5ADAC1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1145518_e60e_4.jpg",
+      "title": "Numerology: Your Key To Unlocking Your Door To You."
+    },
+    {
+      "url": "https://www.udemy.com/course/electrical-safety-training-for-beginner-technicians/?couponCode=FBE5BCCB4DD26BF77FA9",
+      "coupon_code": "FBE5BCCB4DD26BF77FA9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6771105_8938_2.jpg",
+      "title": "Electrical Safety Training for Beginner Technicians"
     },
     {
       "url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=D8BFD59647AC51B5DFC1",
@@ -56,16 +56,9 @@
       "title": "Full Android Development Masterclass"
     },
     {
-      "url": "https://www.udemy.com/course/gcp-devops-terraform-iac-azure-devops-cicd-masterclass/?couponCode=3E5A44AED3427B0B2BE0",
-      "coupon_code": "3E5A44AED3427B0B2BE0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6953693_6d79.jpg",
-      "title": "GCP DevOps: Terraform IaC & Azure DevOps CI/CD Masterclass"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=62C4B237DABBF5912ABD",
-      "coupon_code": "62C4B237DABBF5912ABD",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5381926_9f28.jpg",
-      "title": "Learn Blockchain and Cryptocurrency from Beginning"
+      "url": "https://www.udemy.com/course/introduction-to-business-and-data-analysis/?couponCode=2D14DC730B3C891D2EB1",
+      "coupon_code": "2D14DC730B3C891D2EB1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/?couponCode=F2CC8CA1429B12273141",
@@ -86,10 +79,40 @@
       "title": "Learn T-Shirt Design with Adobe Illustrator"
     },
     {
+      "url": "https://www.udemy.com/course/microsoft-sentinel-end-to-end-soc-implementation-training/?couponCode=SOC1000",
+      "coupon_code": "SOC1000",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6861085_5e86_4.jpg",
+      "title": "Microsoft Sentinel: End-to-End SOC Implementation Training"
+    },
+    {
       "url": "https://www.udemy.com/course/unity-3d-certification-game-development/?couponCode=F0CA023F6596CD221F3F",
       "coupon_code": "F0CA023F6596CD221F3F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5393638_46ae_7.jpg",
       "title": "Unity 3D : ( Game Development )- Basic to Professional Level"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=35662C9C596104AA3368",
+      "coupon_code": "35662C9C596104AA3368",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5382116_b978.jpg",
+      "title": "Adobe Premiere Pro Advanced Video Editing Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/diploma-executivo-em-lideranca/?couponCode=D4700DAA84EF18402684",
+      "coupon_code": "D4700DAA84EF18402684",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5990764_25b2.jpg",
+      "title": "Diploma Executivo em Liderança"
+    },
+    {
+      "url": "https://www.udemy.com/course/gcp-devops-terraform-iac-azure-devops-cicd-masterclass/?couponCode=3E5A44AED3427B0B2BE0",
+      "coupon_code": "3E5A44AED3427B0B2BE0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6953693_6d79.jpg",
+      "title": "GCP DevOps: Terraform IaC & Azure DevOps CI/CD Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=62C4B237DABBF5912ABD",
+      "coupon_code": "62C4B237DABBF5912ABD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5381926_9f28.jpg",
+      "title": "Learn Blockchain and Cryptocurrency from Beginning"
     },
     {
       "url": "https://www.udemy.com/course/ai-and-increasing-productivity-at-work-level-2/?couponCode=67A3C74F188B47CD3C23",
@@ -186,7 +209,8 @@
     {
       "url": "https://www.udemy.com/course/digital-marketing-tools-for-freelancing-2025/?couponCode=5398A749BB04D0926566",
       "coupon_code": "5398A749BB04D0926566",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6731139_d721_2.jpg",
+      "title": "Digital Marketing Tools for Freelancing - 2025"
     },
     {
       "url": "https://www.udemy.com/course/ai-tools-hacks-for-productivity-2025/?couponCode=0A7F247066B976F6BFE0",
