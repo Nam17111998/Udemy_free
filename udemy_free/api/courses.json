@@ -1,7 +1,12 @@
 {
-  "updated_at": "2025-12-09T17:27:23Z",
-  "count": 922,
+  "updated_at": "2025-12-09T18:37:04Z",
+  "count": 925,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/build-your-personal-website-using-chatgpt/?couponCode=C9E24BEEB98BB9E9E96B",
+      "coupon_code": "C9E24BEEB98BB9E9E96B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/como-crear-una-campana-de-email-marketing-efectiva/?couponCode=EM-GRA54",
       "coupon_code": "EM-GRA54",
@@ -27,6 +32,11 @@
       "title": "Crea un MarketPlace Multi Vendedor con WordPress y Dokan"
     },
     {
+      "url": "https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM7",
+      "coupon_code": "DISCUDEMY.COM7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/diploma-human-resources-compensation-benefits-management/?couponCode=3A1B4E88769D12E1C09A",
       "coupon_code": "3A1B4E88769D12E1C09A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6111707_3082.jpg",
@@ -39,10 +49,9 @@
       "title": "Elementor Hosting 2025: Crea una Tienda Online con WordPress"
     },
     {
-      "url": "https://www.udemy.com/course/ml-made-easy-a-2point5-hour-crash-course-with-weka/?couponCode=4B31695AADCBAFA76D8A",
-      "coupon_code": "4B31695AADCBAFA76D8A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6895247_c891_4.jpg",
-      "title": "ML  Made Easy: A 2.5-Hour Crash Course with Weka"
+      "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=0CFE55ABC7AFB080EF9B",
+      "coupon_code": "0CFE55ABC7AFB080EF9B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/plugins-de-wordpress-para-siteground/?couponCode=PLWS-GR54",
@@ -68,18 +77,6 @@
       "title": "Professional Certificate in Operations Management"
     },
     {
-      "url": "https://www.udemy.com/course/seo-ia-polish/?couponCode=827CFF14EDCE2D3A471D",
-      "coupon_code": "827CFF14EDCE2D3A471D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6938263_be16_5.jpg",
-      "title": "SEO & IA SEO 2026: Zdominuj Google i wyniki oparte na AI"
-    },
-    {
-      "url": "https://www.udemy.com/course/seo-ki-seo-kurs/?couponCode=ABA7558747CD364CFEF0",
-      "coupon_code": "ABA7558747CD364CFEF0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6938305_733b_5.jpg",
-      "title": "SEO & KI-SEO Kurs 2026: #1 bei Google & KI-Ergebnissen"
-    },
-    {
       "url": "https://www.udemy.com/course/seo_chatgpt/?couponCode=93226988B023853B1378",
       "coupon_code": "93226988B023853B1378",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5672302_cfed.jpg",
@@ -90,6 +87,24 @@
       "coupon_code": "UELE-GR54",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6051363_bb09_2.jpg",
       "title": "Universidad de Elementor Pro, ¡Desde Cero Hasta Experto!"
+    },
+    {
+      "url": "https://www.udemy.com/course/ml-made-easy-a-2point5-hour-crash-course-with-weka/?couponCode=4B31695AADCBAFA76D8A",
+      "coupon_code": "4B31695AADCBAFA76D8A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6895247_c891_4.jpg",
+      "title": "ML  Made Easy: A 2.5-Hour Crash Course with Weka"
+    },
+    {
+      "url": "https://www.udemy.com/course/seo-ia-polish/?couponCode=827CFF14EDCE2D3A471D",
+      "coupon_code": "827CFF14EDCE2D3A471D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6938263_be16_5.jpg",
+      "title": "SEO & IA SEO 2026: Zdominuj Google i wyniki oparte na AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/seo-ki-seo-kurs/?couponCode=ABA7558747CD364CFEF0",
+      "coupon_code": "ABA7558747CD364CFEF0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6938305_733b_5.jpg",
+      "title": "SEO & KI-SEO Kurs 2026: #1 bei Google & KI-Ergebnissen"
     },
     {
       "url": "https://www.udemy.com/course/synology-dsm-guide-pratique-francais/?couponCode=2D9A1BF3C49307E0E175",
