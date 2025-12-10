@@ -1,18 +1,17 @@
 {
-  "updated_at": "2025-12-10T17:30:05Z",
-  "count": 951,
+  "updated_at": "2025-12-10T18:40:21Z",
+  "count": 953,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/?couponCode=90F4FFF910904D09DA2C",
+      "coupon_code": "90F4FFF910904D09DA2C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/amazon-afiliados-como-crear-una-pagina-web-de-nicho/?couponCode=PWN-GR57",
       "coupon_code": "PWN-GR57",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6048071_f079.jpg",
       "title": "Amazon Afiliados: Cómo Crear una Página Web de Nicho 2025"
-    },
-    {
-      "url": "https://www.udemy.com/course/associate-professional-risk-manager-aprm-certificate/?couponCode=852C10A3834694BF3AFC",
-      "coupon_code": "852C10A3834694BF3AFC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6283395_53a4_2.jpg",
-      "title": "Associate Professional Risk Manager APRM Certificate"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-amazon-afiliados/?couponCode=AMA-GR63",
@@ -38,12 +37,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/elementor-ia-crea-una-web-con-wordpress-y-elementor/?couponCode=ELEMENTOR-IA68",
-      "coupon_code": "ELEMENTOR-IA68",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5839962_c614.jpg",
-      "title": "Elementor IA: Crea una Web con WordPress y Elementor 2025"
-    },
-    {
       "url": "https://www.udemy.com/course/fundamentals1/?couponCode=8D2E26A38B3FB62D23B7",
       "coupon_code": "8D2E26A38B3FB62D23B7",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6870005_3ae1_2.jpg",
@@ -52,12 +45,14 @@
     {
       "url": "https://www.udemy.com/course/java-fundamentals-course-for-beginners/?couponCode=287D613285EDCE491F7D",
       "coupon_code": "287D613285EDCE491F7D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638424_41f4.jpg",
+      "title": "Java Fundamentals Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/?couponCode=4FA31F636C01BBE3BA54",
       "coupon_code": "4FA31F636C01BBE3BA54",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663784_d3d0_2.jpg",
+      "title": "NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-program-management/?couponCode=8AA56776116D505E3631",
@@ -67,7 +62,14 @@
     {
       "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=B0AA3B765741080BBB14",
       "coupon_code": "B0AA3B765741080BBB14",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119559_527e.jpg",
+      "title": "Python & Java: Master Backend & Frontend Web Developments"
+    },
+    {
+      "url": "https://www.udemy.com/course/salesforce-admin-training-from-basics-to-advanced-skills/?couponCode=SALESFORCEDEC100",
+      "coupon_code": "SALESFORCEDEC100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6672613_07ad.jpg",
+      "title": "Salesforce Admin & Developer Skills from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/siteground-migrator-migra-tu-web-con-wordpress-a-siteground/?couponCode=SM-GRA63",
@@ -84,7 +86,20 @@
     {
       "url": "https://www.udemy.com/course/the-complete-javascript-course-from-zero-to-expert-o/?couponCode=C3E28CA6F9E762405F52",
       "coupon_code": "C3E28CA6F9E762405F52",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638532_1c7a.jpg",
+      "title": "The Complete JavaScript Course: From Zero to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/associate-professional-risk-manager-aprm-certificate/?couponCode=852C10A3834694BF3AFC",
+      "coupon_code": "852C10A3834694BF3AFC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6283395_53a4_2.jpg",
+      "title": "Associate Professional Risk Manager APRM Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/elementor-ia-crea-una-web-con-wordpress-y-elementor/?couponCode=ELEMENTOR-IA68",
+      "coupon_code": "ELEMENTOR-IA68",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5839962_c614.jpg",
+      "title": "Elementor IA: Crea una Web con WordPress y Elementor 2025"
     },
     {
       "url": "https://www.udemy.com/course/capcut-video-editing-for-social-media-beginner-to-pro/?couponCode=D1454D50EBBBC9B473E1",
@@ -208,7 +223,8 @@
     {
       "url": "https://www.udemy.com/course/generative-ai-and-artificial-intelligence-ai-for-leaders/?couponCode=7F22439337F241E2D8DB",
       "coupon_code": "7F22439337F241E2D8DB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6247569_39b6_2.jpg",
+      "title": "Generative AI and Artificial Intelligence (AI) for Leaders"
     },
     {
       "url": "https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=47D3060FEBF47BB31AF5",
