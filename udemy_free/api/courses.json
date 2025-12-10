@@ -1,36 +1,35 @@
 {
-  "updated_at": "2025-12-10T13:00:11Z",
-  "count": 916,
+  "updated_at": "2025-12-10T13:47:01Z",
+  "count": 921,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/ai-product-manager-bootcamp/?couponCode=1000_2025",
-      "coupon_code": "1000_2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/azure-infrastructure-azure-resources-using-arm-templates/?couponCode=90D9599CFA3F8648A924",
       "coupon_code": "90D9599CFA3F8648A924",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6426837_9e92_2.jpg",
+      "title": "Azure Infrastructure: Azure Resources Using ARM Templates"
     },
     {
       "url": "https://www.udemy.com/course/certificate-in-business-and-operations-management-excellence/?couponCode=0958FADD285F315E1B28",
       "coupon_code": "0958FADD285F315E1B28",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6248035_c1c7.jpg",
+      "title": "Certificate in Business & Operations Management Excellence"
     },
     {
-      "url": "https://www.udemy.com/course/cisco-packet-tracer-complete-hands-on-network-training/?couponCode=3EE67B4DF4AF37FC2D87",
-      "coupon_code": "3EE67B4DF4AF37FC2D87",
+      "url": "https://www.udemy.com/course/complete-python-training/?couponCode=JOSHFREE33",
+      "coupon_code": "JOSHFREE33",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6375731_c6aa.jpg",
+      "title": "Master Python Programming: The Complete Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-transformation-customer-experience-management-cxm/?couponCode=222C3140A549EB691F7F",
+      "coupon_code": "222C3140A549EB691F7F",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/excel-data-analysis-the-complete-analysis-masterclass/?couponCode=CCD64FCF9256D3DD128D",
       "coupon_code": "CCD64FCF9256D3DD128D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/excel-data-mastery-formulas-functions-charts-and-graphs/?couponCode=ABC558EA99DDB111DB3C",
-      "coupon_code": "ABC558EA99DDB111DB3C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6748037_5abf.jpg",
+      "title": "Excel Data Analysis: The Complete Analysis Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-and-artificial-intelligence-ai-for-leaders/?couponCode=7F22439337F241E2D8DB",
@@ -38,9 +37,22 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=47D3060FEBF47BB31AF5",
+      "coupon_code": "47D3060FEBF47BB31AF5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4200228_c917_2.jpg",
+      "title": "Javascript Practicals Crash Course"
+    },
+    {
       "url": "https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/?couponCode=20EF27E88C4238575B23",
       "coupon_code": "20EF27E88C4238575B23",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2948290_00a8_3.jpg",
+      "title": "Python Complete Course: with 30+ Hands-on Tasks and Solution"
+    },
+    {
+      "url": "https://www.udemy.com/course/les-microservices-et-spring-boot-au-service-des-entreprises/?couponCode=MICROSERVICES-ARCHI",
+      "coupon_code": "MICROSERVICES-ARCHI",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5632360_06fc_9.jpg",
+      "title": "Cours complet : Microservices Spring Boot – Projet réel"
     },
     {
       "url": "https://www.udemy.com/course/marketing-and-customer-experience-management-cxm-excellence/?couponCode=4D6EF9D1E1699358CC0F",
@@ -50,28 +62,56 @@
     {
       "url": "https://www.udemy.com/course/microsoft-excel-basic-to-advanced-ultimate-excel-mastery/?couponCode=796D40AF0930FDD70E9E",
       "coupon_code": "796D40AF0930FDD70E9E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6743735_9585_2.jpg",
+      "title": "Microsoft Excel Basic to Advanced: Ultimate Excel Mastery"
     },
     {
       "url": "https://www.udemy.com/course/ms-system-center-intro-to-virtual-machine-manager/?couponCode=E21E2380003BC3284F38",
       "coupon_code": "E21E2380003BC3284F38",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2730408_5314_3.jpg",
+      "title": "Server Virtualization with Hyper-V and System Center"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-marketing-and-development-go-to-market-strategy/?couponCode=DAFBC383D8334CBCF972",
+      "coupon_code": "DAFBC383D8334CBCF972",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6252799_37be.jpg",
+      "title": "Product Marketing: Advanced Go-to-Market (GTM) Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-fundamentals-u/?couponCode=POZNOKOS_NEW_YEAR26",
+      "coupon_code": "POZNOKOS_NEW_YEAR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6499133_5b86_2.jpg",
+      "title": "Project Management Fundamentals"
+    },
+    {
+      "url": "https://www.udemy.com/course/terraform-for-beginners-handson/?couponCode=B81BC1494A1995DA28D6",
+      "coupon_code": "B81BC1494A1995DA28D6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6754963_7b8f.jpg",
+      "title": "Terraform for Beginners: Hands-On AWS Infra automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-product-manager-bootcamp/?couponCode=1000_2025",
+      "coupon_code": "1000_2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6898099_5d77_2.jpg",
+      "title": "AI Product Manager Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/cisco-packet-tracer-complete-hands-on-network-training/?couponCode=3EE67B4DF4AF37FC2D87",
+      "coupon_code": "3EE67B4DF4AF37FC2D87",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6956115_9500.jpg",
+      "title": "Cisco Packet Tracer: Complete Hands-On Network Training"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-mastery-formulas-functions-charts-and-graphs/?couponCode=ABC558EA99DDB111DB3C",
+      "coupon_code": "ABC558EA99DDB111DB3C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6737369_0724.jpg",
+      "title": "Excel Data Mastery: Formulas, Functions, Charts, and Graphs"
     },
     {
       "url": "https://www.udemy.com/course/photography-basics-for-beginners/?couponCode=6DECEMBER2025",
       "coupon_code": "6DECEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6952611_f9a2.jpg",
       "title": "Fast Photography Mastery: ISO,Aperture & Shutter Made Simple"
-    },
-    {
-      "url": "https://www.udemy.com/course/product-marketing-and-development-go-to-market-strategy/?couponCode=DAFBC383D8334CBCF972",
-      "coupon_code": "DAFBC383D8334CBCF972",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/terraform-for-beginners-handson/?couponCode=B81BC1494A1995DA28D6",
-      "coupon_code": "B81BC1494A1995DA28D6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/windbg-a-complete-guide/?couponCode=SATYAKAM1",
@@ -87,7 +127,8 @@
     {
       "url": "https://www.udemy.com/course/microsoft-word-basics-master-the-interface-essential-tool-x/?couponCode=BITTOO",
       "coupon_code": "BITTOO",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6944903_3e83_2.jpg",
+      "title": "Microsoft Word Basics: Master the Interface & Essential Tool"
     },
     {
       "url": "https://www.udemy.com/course/personal-life-coach-certification-course/?couponCode=9064BB23EE773983BAF8",
@@ -163,12 +204,14 @@
     {
       "url": "https://www.udemy.com/course/complete-ai-agent-practical-course-c-aipc/?couponCode=WINTER_OFFER_25",
       "coupon_code": "WINTER_OFFER_25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873777_b74c_2.jpg",
+      "title": "Complete AI Agent Practical Course C| AIPC"
     },
     {
       "url": "https://www.udemy.com/course/python-fast-entry-programming-for-everyone/?couponCode=10DECEMBER2025",
       "coupon_code": "10DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6870423_048c_2.jpg",
+      "title": "Python Fast Entry: Programming for Everyone"
     },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=5520BD4363A1C8F8E259",
