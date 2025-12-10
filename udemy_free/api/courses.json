@@ -1,16 +1,105 @@
 {
-  "updated_at": "2025-12-10T02:09:08Z",
-  "count": 951,
+  "updated_at": "2025-12-10T03:59:14Z",
+  "count": 962,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=7BBA779C5922D2F04F58",
+      "coupon_code": "7BBA779C5922D2F04F58",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6194967_151b.jpg",
+      "title": "Advanced Program in Business and Entrepreneurship"
+    },
+    {
+      "url": "https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-latest/?couponCode=569482A7424295AEEA32",
+      "coupon_code": "569482A7424295AEEA32",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6311615_ea85_8.jpg",
+      "title": "[NEW] AWS Certified Cloud Practitioner 2025 [CLF-C02]"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=1A217842975A20FD3C0D",
+      "coupon_code": "1A217842975A20FD3C0D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5049552_545e.jpg",
+      "title": "C++ And PHP Complete Course for C++ and PHP Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificate-of-leadership-excellence-in-business-management/?couponCode=8A2B6F7483C7B6A40DA3",
+      "coupon_code": "8A2B6F7483C7B6A40DA3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180625_ba83.jpg",
+      "title": "Certificate of Leadership Excellence in Business Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/cognitive-behavioral-therapy-cbt-from-theory-to-practice/?couponCode=CB03717B3875AA37C180",
+      "coupon_code": "CB03717B3875AA37C180",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6810575_9cec.jpg",
+      "title": "Cognitive Behavioral Therapy (CBT): From Theory to Practice"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=592B9F3EC83568768DE0",
+      "coupon_code": "592B9F3EC83568768DE0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5032410_a449.jpg",
+      "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-management-case-analysis/?couponCode=AF8A24E0B46CC3469C24",
+      "coupon_code": "AF8A24E0B46CC3469C24",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451835_e25c.jpg",
+      "title": "Excellence in Management Case Analysis using AI Coaching"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=1D7D75B2769BBCCB0707",
+      "coupon_code": "1D7D75B2769BBCCB0707",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-digital-marketing-course-seo-paid-ad-ga4-gtm-email/?couponCode=477964AC5CDEE1650447",
+      "coupon_code": "477964AC5CDEE1650447",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/?couponCode=37AFB33ABBD90902826A",
+      "coupon_code": "37AFB33ABBD90902826A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173817_8c19_2.jpg",
+      "title": "Master Java, Python, C & C++: All-in-One Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-google-calendar-mastering-your-day/?couponCode=B0C50CCD22A126754868",
+      "coupon_code": "B0C50CCD22A126754868",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5345782_1388_2.jpg",
+      "title": "Mastering Google Calendar: Mastering Your Day"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-365-copilot-masterclass/?couponCode=FE6AA1B7131724D18529",
+      "coupon_code": "FE6AA1B7131724D18529",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6279187_8069.jpg",
+      "title": "Microsoft 365: Microsoft Copilot, Word, Excel and PowerPoint"
+    },
+    {
+      "url": "https://www.udemy.com/course/newlabourcodes/?couponCode=251DCF2FBA9780BD7ECB",
+      "coupon_code": "251DCF2FBA9780BD7ECB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/overcoming-obstacles-and-building-resilience-manage-stress/?couponCode=66243873C8C1C087D497",
+      "coupon_code": "66243873C8C1C087D497",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4854062_e173_2.jpg",
+      "title": "Stress Management - Overcome Obstacles & Building Resilience"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-a-step-by-step-programming-course/?couponCode=ABE1679CA013E43E1B40",
+      "coupon_code": "ABE1679CA013E43E1B40",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173779_c69c.jpg",
+      "title": "Python Programming: A Step-by-Step Programming Course"
+    },
     {
       "url": "https://www.udemy.com/course/5g-cybersecurity/?couponCode=25596FC189BBB0A7FDD0",
       "coupon_code": "25596FC189BBB0A7FDD0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6265169_c759.jpg",
+      "title": "5G Cybersecurity"
     },
     {
       "url": "https://www.udemy.com/course/60-day-startup/?couponCode=ENTDEC09142025",
       "coupon_code": "ENTDEC09142025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3492944_ff0a_4.jpg",
+      "title": "Entrepreneurship: 60 Day Startup Launch Blueprint"
     },
     {
       "url": "https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=BE12D2A4BA0828C97F20",
@@ -19,14 +108,10 @@
       "title": "Business & Science Method, Analysis & Research Methodologies"
     },
     {
-      "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=1A217842975A20FD3C0D",
-      "coupon_code": "1A217842975A20FD3C0D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/certificado-profissional-em-gestao-de-projetos/?couponCode=563A80ED714E163891EE",
       "coupon_code": "563A80ED714E163891EE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6166379_e3a9_2.jpg",
+      "title": "Certificado Profissional em Gestão de Projetos"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/?couponCode=B7321225368FF57E1BFE",
@@ -34,49 +119,40 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=592B9F3EC83568768DE0",
-      "coupon_code": "592B9F3EC83568768DE0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/excellence-in-management-case-analysis/?couponCode=AF8A24E0B46CC3469C24",
-      "coupon_code": "AF8A24E0B46CC3469C24",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=1D7D75B2769BBCCB0707",
-      "coupon_code": "1D7D75B2769BBCCB0707",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/guesstimates-and-case-interviews-excellence/?couponCode=2CDA27C4064B2EB4DB12",
       "coupon_code": "2CDA27C4064B2EB4DB12",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4716500_7279_4.jpg",
+      "title": "Master Guesstimate & Business Consulting Case interview"
     },
     {
       "url": "https://www.udemy.com/course/how-to-do-well-in-your-interviews/?couponCode=83202709DFBE99179629",
       "coupon_code": "83202709DFBE99179629",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4285624_64ed_4.jpg",
+      "title": "How to prepare for job interview and get the job you want!"
     },
     {
       "url": "https://www.udemy.com/course/how-to-get-calls-for-an-interview-for-a-desired-role/?couponCode=92D656EF87220CB170AE",
       "coupon_code": "92D656EF87220CB170AE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4253650_8b10_6.jpg",
+      "title": "Get Interview Calls by Personal Networking - Beyond LinkedIn"
     },
     {
       "url": "https://www.udemy.com/course/how-to-prepare-a-great-cv/?couponCode=E3F4575731AB6B790541",
       "coupon_code": "E3F4575731AB6B790541",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4275202_dd66_7.jpg",
+      "title": "Best Resume, CV, Application Covering Letter writing course"
     },
     {
       "url": "https://www.udemy.com/course/learn-in-69-mins-how-to-make-right-career-choices/?couponCode=04E85618F93E8FB921D3",
       "coupon_code": "04E85618F93E8FB921D3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4314450_1511_6.jpg",
+      "title": "How to make right career choices & choosing one for success"
     },
     {
       "url": "https://www.udemy.com/course/networking-in-aws/?couponCode=58DAC07DA6B6CBC27534",
       "coupon_code": "58DAC07DA6B6CBC27534",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2267332_4331_13.jpg",
+      "title": "AWS VPC and Networking in depth: Learn practically !"
     },
     {
       "url": "https://www.udemy.com/course/break-the-chains-from-broken-to-boundless-mini-course/?couponCode=BOUNDLESS1",
@@ -146,12 +222,14 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-management/?couponCode=9DB6895D5ABD6F366576",
       "coupon_code": "9DB6895D5ABD6F366576",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6117081_c03c_2.jpg",
+      "title": "Professional Certificate in Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-project-management/?couponCode=3EEE961EB48A692A18C1",
       "coupon_code": "3EEE961EB48A692A18C1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6129411_42a2.jpg",
+      "title": "Professional Certificate in Project Management"
     },
     {
       "url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/?couponCode=1E5F889882DD0EB3627F",
@@ -772,7 +850,8 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-customer-experience-management/?couponCode=3C251668EAA9E84AE737",
       "coupon_code": "3C251668EAA9E84AE737",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5979820_d261.jpg",
+      "title": "Professional Certificate in Customer Experience Management"
     },
     {
       "url": "https://www.udemy.com/course/use-ai-tools-for-finance-management-2025/?couponCode=7407D4E852854CA18AC9",
