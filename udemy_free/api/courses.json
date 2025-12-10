@@ -1,7 +1,92 @@
 {
-  "updated_at": "2025-12-10T05:29:53Z",
-  "count": 970,
+  "updated_at": "2025-12-10T06:43:14Z",
+  "count": 985,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=5520BD4363A1C8F8E259",
+      "coupon_code": "5520BD4363A1C8F8E259",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?couponCode=404B56A7048DFA14300D",
+      "coupon_code": "404B56A7048DFA14300D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-professionals/?couponCode=3CAB5C52FF7EBFC5FE8A",
+      "coupon_code": "3CAB5C52FF7EBFC5FE8A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/design-a-website-template-using-html5-css3/?couponCode=2C37434C3D0FD327B8F0",
+      "coupon_code": "2C37434C3D0FD327B8F0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-made-easy-learn-step-by-step-become-a-confident-use/?couponCode=BITOO1",
+      "coupon_code": "BITOO1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-from-scratch-beginner-level/?couponCode=0B87A9F83DE4F2FBF696",
+      "coupon_code": "0B87A9F83DE4F2FBF696",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6037212_475c_2.jpg",
+      "title": "JavaScript From Scratch ( Part 1 - Beginner Level)"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-1-beginner-level/?couponCode=E5C83F775BB7D0C72824",
+      "coupon_code": "E5C83F775BB7D0C72824",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5899092_dc59_4.jpg",
+      "title": "Mastering HTML5 and CSS3 (Part 1 - Beginner Level)"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-2-intermediate-level/?couponCode=7FAFCB2B9A5554D073A6",
+      "coupon_code": "7FAFCB2B9A5554D073A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5953662_e8e8_3.jpg",
+      "title": "Mastering HTML5 and CSS3 (Part 2 - Intermediate  Level)"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-3-advanced-level/?couponCode=8BAC51E8EAD6207808B7",
+      "coupon_code": "8BAC51E8EAD6207808B7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5968850_e30f_2.jpg",
+      "title": "Mastering HTML5 and CSS3 (Part 3 - Advanced Level)"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-with-formulas-functions/?couponCode=BISMILLAH20",
+      "coupon_code": "BISMILLAH20",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5994066_cdaf.jpg",
+      "title": "Microsoft Excel Pivot Tables With Formulas & Functions"
+    },
+    {
+      "url": "https://www.udemy.com/course/powerpoint-business-presentations-with-chatgpt-generative-ai/?couponCode=D2EF6B6321FABCA239DE",
+      "coupon_code": "D2EF6B6321FABCA239DE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6228933_eea6.jpg",
+      "title": "PowerPoint Business Presentations with ChatGPT Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-from-zero-to-hero-intermediate-level/?couponCode=6FB5ACEE1DFC5D786CB5",
+      "coupon_code": "6FB5ACEE1DFC5D786CB5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6427889_de98.jpg",
+      "title": "Python course from Zero-to-Hero - Intermediate Level"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/?couponCode=D289CACC65A649349A25",
+      "coupon_code": "D289CACC65A649349A25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6095163_4255_2.jpg",
+      "title": "Python from Zero-to-Hero (Beginner Level)"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-mastery-illustrator-photoshop-and-canva/?couponCode=BISMILLAH-19",
+      "coupon_code": "BISMILLAH-19",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6038346_b339_4.jpg",
+      "title": "T-Shirt Design Mastery: Illustrator, Photoshop and Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-android-kotlin-app-development-a-z-bootcamp/?couponCode=DD2F08EACC379F84700F",
+      "coupon_code": "DD2F08EACC379F84700F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5817234_e9f0.jpg",
+      "title": "The Complete Android & Kotlin App Development A-Z Bootcamp"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=7BBA779C5922D2F04F58",
       "coupon_code": "7BBA779C5922D2F04F58",
