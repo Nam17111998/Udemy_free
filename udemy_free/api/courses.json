@@ -1,13 +1,7 @@
 {
-  "updated_at": "2025-12-12T10:32:35Z",
-  "count": 904,
+  "updated_at": "2025-12-12T11:27:46Z",
+  "count": 909,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/a-csm-advanced-certified-scrum-master/?couponCode=320B9250E11CE663F9AB",
-      "coupon_code": "320B9250E11CE663F9AB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6051031_9a6b_3.jpg",
-      "title": "Product Owner Certification"
-    },
     {
       "url": "https://www.udemy.com/course/advanced-certified-scrum-master/?couponCode=35E9542C094107407146",
       "coupon_code": "35E9542C094107407146",
@@ -39,22 +33,28 @@
       "title": "Complete Character Development Course Online 2025"
     },
     {
+      "url": "https://www.udemy.com/course/creativity-problem-solving-decision-making-course/?couponCode=PSDM2025DEC",
+      "coupon_code": "PSDM2025DEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3226937_40d2_4.jpg",
+      "title": "Master Class - Creative Problem Solving & Decision Making"
+    },
+    {
       "url": "https://www.udemy.com/course/credit-risk-essentials-analytics-ai-underwriting/?couponCode=35E28FCC9106BDFD8E0D",
       "coupon_code": "35E28FCC9106BDFD8E0D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6664459_3ba7.jpg",
       "title": "Credit Risk Essentials: Analytics, AI & Underwriting"
     },
     {
-      "url": "https://www.udemy.com/course/discover-google-gemini-for-marketing-success/?couponCode=12DECEMBER2025",
-      "coupon_code": "12DECEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5829562_f624.jpg",
-      "title": "Discover Google Gemini for Marketing Success"
+      "url": "https://www.udemy.com/course/critical-thinking-skills-and-decision-making/?couponCode=CTDM2025DEC",
+      "coupon_code": "CTDM2025DEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6110745_90c8_3.jpg",
+      "title": "Master Course on Critical Thinking Skills & Decision Making"
     },
     {
-      "url": "https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=12DECEMBER2025",
-      "coupon_code": "12DECEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4152226_bd76_8.jpg",
-      "title": "Google Analytics 4 (GA4): Become a Web Analytics Specialist!"
+      "url": "https://www.udemy.com/course/holistic-approach-to-health-and-wellness-course/?couponCode=EWELLBEING2025DEC",
+      "coupon_code": "EWELLBEING2025DEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3476704_cd62_3.jpg",
+      "title": "Holistic Health, Happiness & Emotional Well-Being Course"
     },
     {
       "url": "https://www.udemy.com/course/interview-cv-mastery-from-cv-to-job-offer/?couponCode=C9B80D8061590D7BFFF2",
@@ -75,16 +75,46 @@
       "title": "Complete Mastering Story Structure for Film Writing 2025"
     },
     {
-      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-tours-and-travel-website/?couponCode=PHPTOURS58",
-      "coupon_code": "PHPTOURS58",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5213474_bf88.jpg",
-      "title": "PHP with MySQL: Build Complete Tours and Travel Website"
-    },
-    {
       "url": "https://www.udemy.com/course/safe-scaled-agile-framework/?couponCode=A5C4C2ECA078D9013E2E",
       "coupon_code": "A5C4C2ECA078D9013E2E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5778316_fbd9.jpg",
       "title": "SAFe (Scaled Agile Framework) Overview"
+    },
+    {
+      "url": "https://www.udemy.com/course/story_telling/?couponCode=MST2025DEC",
+      "coupon_code": "MST2025DEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4001740_1b18_5.jpg",
+      "title": "Storytelling Masterclass - Business Storytelling for Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/xss-survival-guide/?couponCode=87FF4670808575643AAC",
+      "coupon_code": "87FF4670808575643AAC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3936580_7170_2.jpg",
+      "title": "XSS Survival Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/a-csm-advanced-certified-scrum-master/?couponCode=320B9250E11CE663F9AB",
+      "coupon_code": "320B9250E11CE663F9AB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6051031_9a6b_3.jpg",
+      "title": "Product Owner Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/discover-google-gemini-for-marketing-success/?couponCode=12DECEMBER2025",
+      "coupon_code": "12DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5829562_f624.jpg",
+      "title": "Discover Google Gemini for Marketing Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=12DECEMBER2025",
+      "coupon_code": "12DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4152226_bd76_8.jpg",
+      "title": "Google Analytics 4 (GA4): Become a Web Analytics Specialist!"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-tours-and-travel-website/?couponCode=PHPTOURS58",
+      "coupon_code": "PHPTOURS58",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5213474_bf88.jpg",
+      "title": "PHP with MySQL: Build Complete Tours and Travel Website"
     },
     {
       "url": "https://www.udemy.com/course/tiktok-marketing-course-for-beginners/?couponCode=12DECEMBER2025",
