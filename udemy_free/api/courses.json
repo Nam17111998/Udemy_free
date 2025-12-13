@@ -1,7 +1,97 @@
 {
-  "updated_at": "2025-12-13T04:32:46Z",
-  "count": 913,
+  "updated_at": "2025-12-13T05:28:43Z",
+  "count": 919,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/bootcamp-de-devops-a-mlops-transicion-hacia-la-ingenieria-p/?couponCode=DEC_FREE_AA01",
+      "coupon_code": "DEC_FREE_AA01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6582431_325b_3.jpg",
+      "title": "Bootcamp MLOps: CI/CD para Modelos"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-programming-made-easy-from-basics-to-advanced-concepts/?couponCode=D22FBFAF43034936018E",
+      "coupon_code": "D22FBFAF43034936018E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849531_3ff3_2.jpg",
+      "title": "C++ Programming Made Easy: From Basics to Advanced Concepts"
+    },
+    {
+      "url": "https://www.udemy.com/course/customer-experience-management-cx-frameworks-strategies/?couponCode=01CC7C81C41E7FDECA9C",
+      "coupon_code": "01CC7C81C41E7FDECA9C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6593307_7141_2.jpg",
+      "title": "Customer Experience Management (CX): Frameworks & Strategies"
+    },
+    {
+      "url": "https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=68E0A48570659891196B",
+      "coupon_code": "68E0A48570659891196B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6525331_92c4_7.jpg",
+      "title": "Introduction In Cyber Attack For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/devopsmlopsml/?couponCode=DEC_FREE_AA01",
+      "coupon_code": "DEC_FREE_AA01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581047_079b_4.jpg",
+      "title": "MLOpsブートキャンプ：モデルのCI/CD構築"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-learn-excel-course-from-beginners-to-advanced/?couponCode=BISMILLAH-39",
+      "coupon_code": "BISMILLAH-39",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5679864_6dd1.jpg",
+      "title": "Excel - Learn Excel Course From Beginners to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-display-ads-masterclass-2021-all-campaigns-features/?couponCode=589AF1331B659B847430",
+      "coupon_code": "589AF1331B659B847430",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4068710_a587_2.jpg",
+      "title": "All-in-One 2025 Course: SEO, Paid Ads, GTM, Web Dev, Content"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-sheets-the-complete-google-sheets-course/?couponCode=BISMILLAH40",
+      "coupon_code": "BISMILLAH40",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5645246_df25_2.jpg",
+      "title": "Google Sheets - The Complete Google Sheets Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/high-impact-sales-management-strategy-and-sales-operations/?couponCode=FD1376DE9A16074D4178",
+      "coupon_code": "FD1376DE9A16074D4178",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6603147_af44_2.jpg",
+      "title": "High-Impact Sales Management, Strategy and Sales Operations"
+    },
+    {
+      "url": "https://www.udemy.com/course/html5-masterclass-build-modern-and-mobile-friendly-websites/?couponCode=19D5EA8F555530AF4D79",
+      "coupon_code": "19D5EA8F555530AF4D79",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849593_2e49_2.jpg",
+      "title": "HTML5 Masterclass: Build Modern and Mobile Friendly Websites"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-crash-course/?couponCode=14CCB12D632F034E7598",
+      "coupon_code": "14CCB12D632F034E7598",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/137194_ece8_25.jpg",
+      "title": "The Complete Linux Guide - From Beginner to Advanced (2025)"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-business-management-certificate/?couponCode=5F4D133DEB602145F9CA",
+      "coupon_code": "5F4D133DEB602145F9CA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6599913_5f7a_4.jpg",
+      "title": "Professional Business Management Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=6E77ED2C223E3C17D166",
+      "coupon_code": "6E77ED2C223E3C17D166",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3434032_8b2b_2.jpg",
+      "title": "Python Complete Course For Python Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/responsive-design-with-css3-create-mobile-friendly-webpages/?couponCode=A651951894D6927714A8",
+      "coupon_code": "A651951894D6927714A8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849563_f60c_2.jpg",
+      "title": "Responsive Design with CSS3: Create Mobile Friendly Webpages"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-google-tag-manager-course-beginner-to-advanced/?couponCode=45E69703022808D133AB",
+      "coupon_code": "45E69703022808D133AB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6078549_bb96.jpg",
+      "title": "The Ultimate Google Tag Manager Course: Beginner to Advanced"
+    },
     {
       "url": "https://www.udemy.com/course/101-ai-tools-to-improve-productivity-save-time/?couponCode=0D1B49AEABA9AF6A694C",
       "coupon_code": "0D1B49AEABA9AF6A694C",
@@ -13,12 +103,6 @@
       "coupon_code": "E35F877836B32642DFF3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6786309_1da8.jpg",
       "title": "Azure Data Engineering Masters: Build Scalable Solutions"
-    },
-    {
-      "url": "https://www.udemy.com/course/bootcamp-de-devops-a-mlops-transicion-hacia-la-ingenieria-p/?couponCode=DEC_FREE_AA01",
-      "coupon_code": "DEC_FREE_AA01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6582431_325b_3.jpg",
-      "title": "Bootcamp MLOps: CI/CD para Modelos"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-product-management-business-and-innovation/?couponCode=3F0CF3C4967C835D601A",
@@ -33,59 +117,16 @@
       "title": "2025 AI Mastery: Learn ChatGPT, Midjourney, Firefly, Gemini"
     },
     {
-      "url": "https://www.udemy.com/course/customer-experience-management-cx-frameworks-strategies/?couponCode=01CC7C81C41E7FDECA9C",
-      "coupon_code": "01CC7C81C41E7FDECA9C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6593307_7141_2.jpg",
-      "title": "Customer Experience Management (CX): Frameworks & Strategies"
-    },
-    {
-      "url": "https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=68E0A48570659891196B",
-      "coupon_code": "68E0A48570659891196B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/devopsmlopsml/?couponCode=DEC_FREE_AA01",
-      "coupon_code": "DEC_FREE_AA01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6581047_079b_4.jpg",
-      "title": "MLOpsブートキャンプ：モデルのCI/CD構築"
-    },
-    {
       "url": "https://www.udemy.com/course/digital-marketing-tools-for-productivity-2025/?couponCode=39766E4AE9E690E82A35",
       "coupon_code": "39766E4AE9E690E82A35",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6721200_0151.jpg",
       "title": "Ultimate 2025 Digital Marketing Guide: SEO, Paid Ads, SMM!"
     },
     {
-      "url": "https://www.udemy.com/course/google-display-ads-masterclass-2021-all-campaigns-features/?couponCode=589AF1331B659B847430",
-      "coupon_code": "589AF1331B659B847430",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/linux-crash-course/?couponCode=14CCB12D632F034E7598",
-      "coupon_code": "14CCB12D632F034E7598",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-innovation-competitions-hackathon-crowdsourcing/?couponCode=BA391EC23E6084E643BA",
       "coupon_code": "BA391EC23E6084E643BA",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6047443_b3ba_5.jpg",
       "title": "Mastering Innovation Competitions, Hackathon & Crowdsourcing"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-business-management-certificate/?couponCode=5F4D133DEB602145F9CA",
-      "coupon_code": "5F4D133DEB602145F9CA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=6E77ED2C223E3C17D166",
-      "coupon_code": "6E77ED2C223E3C17D166",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3434032_8b2b_2.jpg",
-      "title": "Python Complete Course For Python Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-ultimate-google-tag-manager-course-beginner-to-advanced/?couponCode=45E69703022808D133AB",
-      "coupon_code": "45E69703022808D133AB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=7E7E2F23DF532CC06A20",
