@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-14T02:22:56Z",
-  "count": 953,
+  "updated_at": "2025-12-14T04:02:59Z",
+  "count": 957,
   "courses": [
     {
       "url": "https://www.udemy.com/course/base44-mastery-build-enterprise-ai-workflow-automations/?couponCode=DEC_FREE_AA_02",
@@ -33,6 +33,11 @@
       "title": "Certificate in Neuromarketing & Consumer Psychology"
     },
     {
+      "url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=499FDD064858A672FEFB",
+      "coupon_code": "499FDD064858A672FEFB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/?couponCode=884CE41DA21DCA78E697",
       "coupon_code": "884CE41DA21DCA78E697",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4447554_32c0_2.jpg",
@@ -45,22 +50,10 @@
       "title": "Cursor Vibe Coding Pro: Build Any App from Scratch with AI"
     },
     {
-      "url": "https://www.udemy.com/course/decision-making-psychology-emotional-intelligence/?couponCode=1C468C365BA848D18FA3",
-      "coupon_code": "1C468C365BA848D18FA3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6802433_3851.jpg",
-      "title": "Decision Making Psychology & Emotional Intelligence"
-    },
-    {
       "url": "https://www.udemy.com/course/devenir-freelance-nomade/?couponCode=64987026417247FC8EC2",
       "coupon_code": "64987026417247FC8EC2",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6097319_b9b9_3.jpg",
       "title": "DEVENIR FREELANCE NOMADE : Vivre de sa passion librement"
-    },
-    {
-      "url": "https://www.udemy.com/course/digital-transformation-in-hr-leveraging-ai-analytics/?couponCode=32A62B141994649E0D9F",
-      "coupon_code": "32A62B141994649E0D9F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6814631_985b_2.jpg",
-      "title": "Digital Transformation in HR: Leveraging AI & Analytics"
     },
     {
       "url": "https://www.udemy.com/course/digitisation/?couponCode=2A5BF335A4B4498BF6DE",
@@ -69,10 +62,19 @@
       "title": "Professional Diploma in Digitalization of Retail Banking"
     },
     {
-      "url": "https://www.udemy.com/course/implement-pci-dss-40-step-by-step-with-templates/?couponCode=8CDF550E7D89D588F3E8",
-      "coupon_code": "8CDF550E7D89D588F3E8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6050977_44d0.jpg",
-      "title": "Implement PCI-DSS 4.0 Step by Step With Templates"
+      "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=CA859AA1E2AE0D76E3F9",
+      "coupon_code": "CA859AA1E2AE0D76E3F9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgraduate-diploma-in-office-administration-management/?couponCode=B8DE6DA76C6708731858",
+      "coupon_code": "B8DE6DA76C6708731858",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=3199C558E62BD35FCA13",
+      "coupon_code": "3199C558E62BD35FCA13",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/start-your-freelancing-agency/?couponCode=F5BBED9B311F1DDC92E3",
@@ -81,16 +83,34 @@
       "title": "Start Your One-Person Freelance Agency"
     },
     {
-      "url": "https://www.udemy.com/course/statistics-for-data-science-business-analysis-with-python/?couponCode=F2D31CD14CCB657B6D57",
-      "coupon_code": "F2D31CD14CCB657B6D57",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6746065_700b_3.jpg",
-      "title": "Data Science: Probability and Statistics"
-    },
-    {
       "url": "https://www.udemy.com/course/tableau-bi-masterclass-create-actionable-dashboards/?couponCode=309A83B10C0923B93AC7",
       "coupon_code": "309A83B10C0923B93AC7",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6856781_c5d9.jpg",
       "title": "The Complete Tableau BI Masterclass 2025: Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/decision-making-psychology-emotional-intelligence/?couponCode=1C468C365BA848D18FA3",
+      "coupon_code": "1C468C365BA848D18FA3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802433_3851.jpg",
+      "title": "Decision Making Psychology & Emotional Intelligence"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-transformation-in-hr-leveraging-ai-analytics/?couponCode=32A62B141994649E0D9F",
+      "coupon_code": "32A62B141994649E0D9F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6814631_985b_2.jpg",
+      "title": "Digital Transformation in HR: Leveraging AI & Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/implement-pci-dss-40-step-by-step-with-templates/?couponCode=8CDF550E7D89D588F3E8",
+      "coupon_code": "8CDF550E7D89D588F3E8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6050977_44d0.jpg",
+      "title": "Implement PCI-DSS 4.0 Step by Step With Templates"
+    },
+    {
+      "url": "https://www.udemy.com/course/statistics-for-data-science-business-analysis-with-python/?couponCode=F2D31CD14CCB657B6D57",
+      "coupon_code": "F2D31CD14CCB657B6D57",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6746065_700b_3.jpg",
+      "title": "Data Science: Probability and Statistics"
     },
     {
       "url": "https://www.udemy.com/course/angular-frontend-development-with-real-projects/?couponCode=0A2196760FED23F94AE0",
