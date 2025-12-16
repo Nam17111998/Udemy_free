@@ -1,13 +1,7 @@
 {
-  "updated_at": "2025-12-16T04:00:39Z",
-  "count": 941,
+  "updated_at": "2025-12-16T05:30:38Z",
+  "count": 952,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=A30C4C07EDC74D62980F",
-      "coupon_code": "A30C4C07EDC74D62980F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5049552_545e.jpg",
-      "title": "C++ And PHP Complete Course for C++ and PHP Beginners"
-    },
     {
       "url": "https://www.udemy.com/course/chatgpt-complete-chatgpt-guide-for-beginners/?couponCode=SUBHANALLAH_121525",
       "coupon_code": "SUBHANALLAH_121525",
@@ -15,16 +9,100 @@
       "title": "ChatGPT: Complete ChatGPT Guide For Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/diploma-business-strategy/?couponCode=FE22628C87EBABDFC903",
-      "coupon_code": "FE22628C87EBABDFC903",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5488012_d5b3.jpg",
-      "title": "Executive Diploma in Business Strategy"
+      "url": "https://www.udemy.com/course/complete-guide-to-numpy-pandas-scipy-matplotlib-seaborn/?couponCode=31A25E2E97877B3777C7",
+      "coupon_code": "31A25E2E97877B3777C7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6708323_257b_2.jpg",
+      "title": "Complete Guide to NumPy, Pandas, SciPy, Matplotlib & Seaborn"
     },
     {
       "url": "https://www.udemy.com/course/excel-microsoft-excel-course-beginner-to-expert-2022/?couponCode=SUBHANALLAH_121525",
       "coupon_code": "SUBHANALLAH_121525",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4758504_f0ea_4.jpg",
       "title": "Excel - Microsoft Excel Course Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-business-management/?couponCode=FFD721ED5C1387C02E98",
+      "coupon_code": "FFD721ED5C1387C02E98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5517586_8ec9.jpg",
+      "title": "Executive Diploma in Business Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/firebase-database-crud-android-app-development/?couponCode=A21B55370A549FC98A0C",
+      "coupon_code": "A21B55370A549FC98A0C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5819676_6ba6_2.jpg",
+      "title": "Firebase Database : CRUD Android App Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgresql-for-developers-design-query-scale-databases/?couponCode=300E5A67927881E86A5C",
+      "coupon_code": "300E5A67927881E86A5C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6755923_5715_2.jpg",
+      "title": "PostgreSQL for Developers: Design, Query & Scale Databases"
+    },
+    {
+      "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
+      "title": "Productivity - Focus, Concentration & Performance Strategies"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-101-complete-python-programming-step-by-step-guide/?couponCode=A216922BD7A5CBDC9738",
+      "coupon_code": "A216922BD7A5CBDC9738",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709303_f812_2.jpg",
+      "title": "Python 101: Complete Python Programming Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/responsive-web-design-with-css-a-complete-css-guide/?couponCode=1BA6C31240D092CCB5C3",
+      "coupon_code": "1BA6C31240D092CCB5C3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709411_19ad_2.jpg",
+      "title": "Responsive Web Design with CSS: A Complete CSS Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/solid-manager-certification/?couponCode=11923C6E38F0449513AB",
+      "coupon_code": "11923C6E38F0449513AB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6122819_3eb2_2.jpg",
+      "title": "Executive Management - Become a Manager for Scale"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-python-developer-from-zero-to-mastery/?couponCode=1D12C6AB4E7CD015A0B0",
+      "coupon_code": "1D12C6AB4E7CD015A0B0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6759741_1b39_3.jpg",
+      "title": "The Complete Python Developer: From Zero to Mastery"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-leadership-accelerator/?couponCode=829C233D9D3CE05C049E",
+      "coupon_code": "829C233D9D3CE05C049E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6603847_7c88_3.jpg",
+      "title": "The Leadership Accelerator"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/?couponCode=2CD1FD3E21B6E28AF6DE",
+      "coupon_code": "2CD1FD3E21B6E28AF6DE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6758057_2d7b.jpg",
+      "title": "The Modern JavaScript Course: Build Interactive Websites"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-c-bootcamp-build-modern-web-api-apps/?couponCode=C8377CA102B3E825DE60",
+      "coupon_code": "C8377CA102B3E825DE60",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6759675_85fa.jpg",
+      "title": "The Ultimate C# Bootcamp: Build Modern Web & API Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242471_19f3.jpg",
+      "title": "Workplace Productivity - Supporting Others Through Change"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=A30C4C07EDC74D62980F",
+      "coupon_code": "A30C4C07EDC74D62980F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5049552_545e.jpg",
+      "title": "C++ And PHP Complete Course for C++ and PHP Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/diploma-business-strategy/?couponCode=FE22628C87EBABDFC903",
+      "coupon_code": "FE22628C87EBABDFC903",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5488012_d5b3.jpg",
+      "title": "Executive Diploma in Business Strategy"
     },
     {
       "url": "https://www.udemy.com/course/google-cloud-productivity-docs-forms-sheets-and-slides/?couponCode=476FC6DECF3A712E7AC1",
@@ -69,12 +147,6 @@
       "title": "Microsoft Excel Basic to Advanced: A Complete Learning Path"
     },
     {
-      "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
-      "title": "Productivity - Focus, Concentration & Performance Strategies"
-    },
-    {
       "url": "https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=E0DC427FB041494525E9",
       "coupon_code": "E0DC427FB041494525E9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3495852_8004.jpg",
@@ -85,12 +157,6 @@
       "coupon_code": "C9E70FCE0F0CF9DE7C78",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6076619_c91f_2.jpg",
       "title": "Social Media Video Editing with Canva, Capcut & Premiere Pro"
-    },
-    {
-      "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242471_19f3.jpg",
-      "title": "Workplace Productivity - Supporting Others Through Change"
     },
     {
       "url": "https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-latest/?couponCode=DA026AF6A5E94D9F2576",
