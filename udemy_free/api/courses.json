@@ -1,7 +1,90 @@
 {
-  "updated_at": "2025-12-16T17:30:41Z",
-  "count": 926,
+  "updated_at": "2025-12-16T18:41:49Z",
+  "count": 939,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-fundamentals-certification/?couponCode=24A4E10AE9CC49A7C567",
+      "coupon_code": "24A4E10AE9CC49A7C567",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/?couponCode=4F4024210BCF8F4DA3A9",
+      "coupon_code": "4F4024210BCF8F4DA3A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916184_19c5.jpg",
+      "title": "ChatGPT and Generative AI in Business, Management, Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-aec/?couponCode=6E4D3946F35EEA5B7EA5",
+      "coupon_code": "6E4D3946F35EEA5B7EA5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5786022_2e4a_2.jpg",
+      "title": "ChatGPT for Product Management & Innovation"
+    },
+    {
+      "url": "https://www.udemy.com/course/computer-vision-with-python3/?couponCode=38FD9019363A3264AE18",
+      "coupon_code": "38FD9019363A3264AE18",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4662204_ca2f.jpg",
+      "title": "Computer Vision with Python"
+    },
+    {
+      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
+      "title": "Empathy and Emotional Intelligence for Project Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-chief-digital-officer/?couponCode=A82A06A52DD3F8C290DC",
+      "coupon_code": "A82A06A52DD3F8C290DC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5627171_e24f_2.jpg",
+      "title": "Executive Diploma of Chief Digital Officer"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
+      "title": "Financial Services - Basics of Business & Corporate Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/interview-resume-mastery-from-resume-to-job-offer/?couponCode=07D062BEE8B978000432",
+      "coupon_code": "07D062BEE8B978000432",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6817911_c1e1.jpg",
+      "title": "Interview & Resume Mastery: From Resume to Job Offer"
+    },
+    {
+      "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=7860EF3E2CF38FFFB363",
+      "coupon_code": "7860EF3E2CF38FFFB363",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5981806_11d8_2.jpg",
+      "title": "Metasploit from Scratch: Beginner to Professional"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-human-resources-management/?couponCode=5B8B6E03D050383B2473",
+      "coupon_code": "5B8B6E03D050383B2473",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/nist-cybersecurity-framework-csf-20-transition-step-by-step/?couponCode=238E8AC12D72B16E6285",
+      "coupon_code": "238E8AC12D72B16E6285",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-owner-certification-agileenterprisecoach/?couponCode=9147266754ABFEF9DD52",
+      "coupon_code": "9147266754ABFEF9DD52",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-agile-and-scrum/?couponCode=4B04A51A3AB193FE6952",
+      "coupon_code": "4B04A51A3AB193FE6952",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/scrum-master-certification-aecl/?couponCode=66831536816DB10E3418",
+      "coupon_code": "66831536816DB10E3418",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/x86-assembly-programing-stack-overflow-hacking/?couponCode=E440A56E3D8B74261CA7",
+      "coupon_code": "E440A56E3D8B74261CA7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/aprende-javascript-sin-dolor/?couponCode=72EC6F3A68244986EC1B",
       "coupon_code": "72EC6F3A68244986EC1B",
@@ -765,12 +848,6 @@
       "title": "Superhumain – Investir en soi en apprenant en continu"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
-      "title": "Financial Services - Basics of Business & Corporate Banking"
-    },
-    {
       "url": "https://www.udemy.com/course/javascript-and-php-programming-complete-course/?couponCode=599BD203C98E21868C1F",
       "coupon_code": "599BD203C98E21868C1F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4551820_b8ca.jpg",
@@ -877,12 +954,6 @@
       "coupon_code": "45F3245DD581B8A97C2D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6889341_a1b5_4.jpg",
       "title": "[2025 Edition] Learn Git in Less Than 3 Hours"
-    },
-    {
-      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
-      "title": "Empathy and Emotional Intelligence for Project Managers"
     },
     {
       "url": "https://www.udemy.com/course/essential-adobe-photoshop-free-photoshop-crash-course/?couponCode=61F3D75064CC4EFD4596",
