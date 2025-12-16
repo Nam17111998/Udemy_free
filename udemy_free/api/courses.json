@@ -1,33 +1,24 @@
 {
-  "updated_at": "2025-12-16T19:25:24Z",
-  "count": 941,
+  "updated_at": "2025-12-16T20:32:47Z",
+  "count": 944,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/agile-fundamentals-certification/?couponCode=24A4E10AE9CC49A7C567",
-      "coupon_code": "24A4E10AE9CC49A7C567",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/business-process-optimization-with-lean-six-sigma/?couponCode=F5D142CBB0B6CD81C4B7",
       "coupon_code": "F5D142CBB0B6CD81C4B7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5632144_d8bd_2.jpg",
+      "title": "Business Process Optimization with Lean Six Sigma"
     },
     {
-      "url": "https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/?couponCode=4F4024210BCF8F4DA3A9",
-      "coupon_code": "4F4024210BCF8F4DA3A9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5916184_19c5.jpg",
-      "title": "ChatGPT and Generative AI in Business, Management, Marketing"
+      "url": "https://www.udemy.com/course/certified-soc-analyst-csa/?couponCode=8582722817FE9306FC96",
+      "coupon_code": "8582722817FE9306FC96",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6404011_a02d.jpg",
+      "title": "Analyste SOC (Security Operations Center)"
     },
     {
       "url": "https://www.udemy.com/course/computer-vision-with-python3/?couponCode=38FD9019363A3264AE18",
       "coupon_code": "38FD9019363A3264AE18",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4662204_ca2f.jpg",
       "title": "Computer Vision with Python"
-    },
-    {
-      "url": "https://www.udemy.com/course/data-skills-for-finance-professionals/?couponCode=4CD8358F7F453C9300BB",
-      "coupon_code": "4CD8358F7F453C9300BB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=15THDEC&ra",
@@ -48,6 +39,18 @@
       "title": "Financial Services - Basics of Business & Corporate Banking"
     },
     {
+      "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6560763_3fe2.jpg",
+      "title": "Financial Services - Funds Flow Optimization Concepts"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-health-care-telemedicine-app-using-nextjs/?couponCode=452738C345D1178C5EE2",
+      "coupon_code": "452738C345D1178C5EE2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6884767_be42_4.jpg",
+      "title": "Next.js 16 Full-Stack Project Course for React Developers"
+    },
+    {
       "url": "https://www.udemy.com/course/interview-resume-mastery-from-resume-to-job-offer/?couponCode=07D062BEE8B978000432",
       "coupon_code": "07D062BEE8B978000432",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6817911_c1e1.jpg",
@@ -62,27 +65,56 @@
     {
       "url": "https://www.udemy.com/course/mini-mba-in-human-resources-management/?couponCode=5B8B6E03D050383B2473",
       "coupon_code": "5B8B6E03D050383B2473",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5623652_9224.jpg",
+      "title": "Advanced Program in Human Resources Management"
     },
     {
       "url": "https://www.udemy.com/course/nist-cybersecurity-framework-csf-20-transition-step-by-step/?couponCode=238E8AC12D72B16E6285",
       "coupon_code": "238E8AC12D72B16E6285",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6197721_fe01.jpg",
+      "title": "NIST Cybersecurity Framework CSF 2.0 Transition Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/product-owner-certification-agileenterprisecoach/?couponCode=9147266754ABFEF9DD52",
       "coupon_code": "9147266754ABFEF9DD52",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6096223_19c1.jpg",
+      "title": "Product Owner Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-business-presentation-and-communication/?couponCode=E84430C5F1F6C9C66F48",
+      "coupon_code": "E84430C5F1F6C9C66F48",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5632224_7e49_2.jpg",
+      "title": "Pitch Deck Hero: Business Presentation and Communication"
     },
     {
       "url": "https://www.udemy.com/course/scrum-master-certification-aecl/?couponCode=66831536816DB10E3418",
       "coupon_code": "66831536816DB10E3418",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6081469_f23a_2.jpg",
+      "title": "Scrum Master Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-fundamentals-certification/?couponCode=24A4E10AE9CC49A7C567",
+      "coupon_code": "24A4E10AE9CC49A7C567",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5935688_221a_2.jpg",
+      "title": "Agile Fundamentals Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/?couponCode=4F4024210BCF8F4DA3A9",
+      "coupon_code": "4F4024210BCF8F4DA3A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916184_19c5.jpg",
+      "title": "ChatGPT and Generative AI in Business, Management, Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-skills-for-finance-professionals/?couponCode=4CD8358F7F453C9300BB",
+      "coupon_code": "4CD8358F7F453C9300BB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6648855_b9d1.jpg",
+      "title": "Data Skills for Finance Professionals"
     },
     {
       "url": "https://www.udemy.com/course/x86-assembly-programing-stack-overflow-hacking/?couponCode=E440A56E3D8B74261CA7",
       "coupon_code": "E440A56E3D8B74261CA7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3351826_c569_2.jpg",
+      "title": "X86 Assembly Programming"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-aec/?couponCode=6E4D3946F35EEA5B7EA5",
@@ -93,7 +125,8 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-agile-and-scrum/?couponCode=4B04A51A3AB193FE6952",
       "coupon_code": "4B04A51A3AB193FE6952",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916100_0e04.jpg",
+      "title": "Professional Certificate in Agile and SCRUM"
     },
     {
       "url": "https://www.udemy.com/course/aprende-javascript-sin-dolor/?couponCode=72EC6F3A68244986EC1B",
@@ -1084,12 +1117,6 @@
       "coupon_code": "33F118F5584E14248E9E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5453786_d980.jpg",
       "title": "Mastering Employee Recognition: Development & Implementation"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6560763_3fe2.jpg",
-      "title": "Financial Services - Funds Flow Optimization Concepts"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=15THDEC&ra",
