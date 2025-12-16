@@ -1,7 +1,13 @@
 {
-  "updated_at": "2025-12-16T20:32:47Z",
-  "count": 944,
+  "updated_at": "2025-12-16T21:28:12Z",
+  "count": 948,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-image-video-and-music-creation/?couponCode=287F86F169B06D1B1D98",
+      "coupon_code": "287F86F169B06D1B1D98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6249409_0d99_2.jpg",
+      "title": "AI for Image, Video and Music Creation"
+    },
     {
       "url": "https://www.udemy.com/course/business-process-optimization-with-lean-six-sigma/?couponCode=F5D142CBB0B6CD81C4B7",
       "coupon_code": "F5D142CBB0B6CD81C4B7",
@@ -13,12 +19,6 @@
       "coupon_code": "8582722817FE9306FC96",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6404011_a02d.jpg",
       "title": "Analyste SOC (Security Operations Center)"
-    },
-    {
-      "url": "https://www.udemy.com/course/computer-vision-with-python3/?couponCode=38FD9019363A3264AE18",
-      "coupon_code": "38FD9019363A3264AE18",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4662204_ca2f.jpg",
-      "title": "Computer Vision with Python"
     },
     {
       "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=15THDEC&ra",
@@ -45,16 +45,10 @@
       "title": "Financial Services - Funds Flow Optimization Concepts"
     },
     {
-      "url": "https://www.udemy.com/course/full-stack-health-care-telemedicine-app-using-nextjs/?couponCode=452738C345D1178C5EE2",
-      "coupon_code": "452738C345D1178C5EE2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6884767_be42_4.jpg",
-      "title": "Next.js 16 Full-Stack Project Course for React Developers"
-    },
-    {
-      "url": "https://www.udemy.com/course/interview-resume-mastery-from-resume-to-job-offer/?couponCode=07D062BEE8B978000432",
-      "coupon_code": "07D062BEE8B978000432",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6817911_c1e1.jpg",
-      "title": "Interview & Resume Mastery: From Resume to Job Offer"
+      "url": "https://www.udemy.com/course/key-metrics-of-unit-economics-cpa-arpu-cac-arppu-c1/?couponCode=A04BC7D373BDA84BEE4E",
+      "coupon_code": "A04BC7D373BDA84BEE4E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641930_0cdf.jpg",
+      "title": "Key Metrics of Unit Economics (CPA, ARPU, CAC, ARPPU, C1)"
     },
     {
       "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=7860EF3E2CF38FFFB363",
@@ -75,16 +69,52 @@
       "title": "NIST Cybersecurity Framework CSF 2.0 Transition Step by Step"
     },
     {
-      "url": "https://www.udemy.com/course/product-owner-certification-agileenterprisecoach/?couponCode=9147266754ABFEF9DD52",
-      "coupon_code": "9147266754ABFEF9DD52",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6096223_19c1.jpg",
-      "title": "Product Owner Certification"
+      "url": "https://www.udemy.com/course/pgdinscem/?couponCode=E58CF8A54120083915DA",
+      "coupon_code": "E58CF8A54120083915DA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6669423_321e_2.jpg",
+      "title": "Postgraduate Diploma in Supply Chain Engineering Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-business-presentation-and-communication/?couponCode=E84430C5F1F6C9C66F48",
       "coupon_code": "E84430C5F1F6C9C66F48",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5632224_7e49_2.jpg",
       "title": "Pitch Deck Hero: Business Presentation and Communication"
+    },
+    {
+      "url": "https://www.udemy.com/course/smartphone-detox-for-kids/?couponCode=4ADE5A5EFF46B81E372B",
+      "coupon_code": "4ADE5A5EFF46B81E372B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6675417_7bb4_2.jpg",
+      "title": "Smartphone Detox for Kids: A 7-Day Family Challenge"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242471_19f3.jpg",
+      "title": "Workplace Productivity - Supporting Others Through Change"
+    },
+    {
+      "url": "https://www.udemy.com/course/computer-vision-with-python3/?couponCode=38FD9019363A3264AE18",
+      "coupon_code": "38FD9019363A3264AE18",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4662204_ca2f.jpg",
+      "title": "Computer Vision with Python"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-health-care-telemedicine-app-using-nextjs/?couponCode=452738C345D1178C5EE2",
+      "coupon_code": "452738C345D1178C5EE2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6884767_be42_4.jpg",
+      "title": "Next.js 16 Full-Stack Project Course for React Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/interview-resume-mastery-from-resume-to-job-offer/?couponCode=07D062BEE8B978000432",
+      "coupon_code": "07D062BEE8B978000432",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6817911_c1e1.jpg",
+      "title": "Interview & Resume Mastery: From Resume to Job Offer"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-owner-certification-agileenterprisecoach/?couponCode=9147266754ABFEF9DD52",
+      "coupon_code": "9147266754ABFEF9DD52",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6096223_19c1.jpg",
+      "title": "Product Owner Certification"
     },
     {
       "url": "https://www.udemy.com/course/scrum-master-certification-aecl/?couponCode=66831536816DB10E3418",
@@ -787,12 +817,6 @@
       "coupon_code": "C8377CA102B3E825DE60",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6759675_85fa.jpg",
       "title": "The Ultimate C# Bootcamp: Build Modern Web & API Apps"
-    },
-    {
-      "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242471_19f3.jpg",
-      "title": "Workplace Productivity - Supporting Others Through Change"
     },
     {
       "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=A30C4C07EDC74D62980F",
