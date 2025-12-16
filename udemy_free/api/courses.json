@@ -1,42 +1,48 @@
 {
-  "updated_at": "2025-12-16T13:00:13Z",
-  "count": 986,
+  "updated_at": "2025-12-16T13:47:44Z",
+  "count": 987,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/advanced-advertising-strategy-data-creativity-ai/?couponCode=A0B0CAFF1197F34A7496",
-      "coupon_code": "A0B0CAFF1197F34A7496",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/apache-spark-project-world-development-indicators-analytics/?couponCode=5D726EA1276DC7067901",
       "coupon_code": "5D726EA1276DC7067901",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2327676_1513.jpg",
+      "title": "Apache Spark Project World Development Indicators Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/currency-management-for-small-businesses-corporates/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5581978_25ad_2.jpg",
+      "title": "Currency Management for Small Businesses & Corporates"
     },
     {
       "url": "https://www.udemy.com/course/disaster-management-fire-emergency-management-training/?couponCode=6FB281AED34675046677",
       "coupon_code": "6FB281AED34675046677",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
-      "title": "Financial Services: Introduction to ETFs"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6723485_0270_2.jpg",
+      "title": "Disaster Management: Fire Emergency Management Training"
     },
     {
       "url": "https://www.udemy.com/course/fire-safety-training-fire-safety-training-complete-course-a-z/?couponCode=601051D49C32E122DD0D",
       "coupon_code": "601051D49C32E122DD0D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6731231_cfc2.jpg",
+      "title": "Fire Safety 2.0: Fire Safety Training Complete Course A-Z"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-security-risks-data-protection-and-ethics/?couponCode=BC2DB0B632B6E7BFBECF",
       "coupon_code": "BC2DB0B632B6E7BFBECF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6566217_60cc_9.jpg",
+      "title": "Generative AI: Cyber Security Risk, Data Protection & Ethics"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
+      "title": "Introduction to Financial Controls"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=42587B6CEC104C132082",
       "coupon_code": "42587B6CEC104C132082",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
+      "title": "Introduction to Human Resources Management"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=15THDEC&ra",
@@ -45,35 +51,40 @@
       "title": "Introduction to Risk Management - Decision Makers & Leaders"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-social-media-marketing-brand-building-growth/?couponCode=607B540C95C5298096C7",
-      "coupon_code": "607B540C95C5298096C7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=15THDEC&ra",
       "coupon_code": "15THDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
       "title": "Mental Health for the Workplace"
     },
     {
-      "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=BE1453F44FBDE83AF69F",
-      "coupon_code": "BE1453F44FBDE83AF69F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/olympic-games-analytics-project-in-apache-spark-for-beginner/?couponCode=16A3B71F670DCC2B3537",
       "coupon_code": "16A3B71F670DCC2B3537",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2281524_7ac1.jpg",
+      "title": "Olympic Games Analytics Project in Apache Spark for beginner"
+    },
+    {
+      "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
+      "title": "Productivity - Focus, Concentration & Performance Strategies"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-branding-and-brand-management/?couponCode=CD0A1F963862B8DA6370",
+      "coupon_code": "CD0A1F963862B8DA6370",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5578468_3efd.jpg",
+      "title": "Professional Diploma in Branding & Brand Management"
     },
     {
       "url": "https://www.udemy.com/course/python-development-essentials/?couponCode=051A481C8ABBD601905A",
       "coupon_code": "051A481C8ABBD601905A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg",
+      "title": "Python Development Essentials"
     },
     {
       "url": "https://www.udemy.com/course/python-development-first-steps-and-development-ide-platform/?couponCode=7E9B9D1DB1907AB828EF",
       "coupon_code": "7E9B9D1DB1907AB828EF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5578118_9536_2.jpg",
+      "title": "Python Development First Steps and Development IDE Platform"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-leadership-toolkit-from-conflict-to-vision/?couponCode=716923B45E89139823DE",
@@ -82,44 +93,76 @@
       "title": "\"The Complete Leadership Toolkit: From Conflict to Vision\""
     },
     {
+      "url": "https://www.udemy.com/course/advanced-advertising-strategy-data-creativity-ai/?couponCode=A0B0CAFF1197F34A7496",
+      "coupon_code": "A0B0CAFF1197F34A7496",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6334693_ae73.jpg",
+      "title": "Advanced Advertising Strategy: Data, Creativity & AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
+      "title": "Financial Services: Introduction to ETFs"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-social-media-marketing-brand-building-growth/?couponCode=607B540C95C5298096C7",
+      "coupon_code": "607B540C95C5298096C7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5106238_d639_4.jpg",
+      "title": "Mastering Social Media Marketing: Brand Building & Growth"
+    },
+    {
+      "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=BE1453F44FBDE83AF69F",
+      "coupon_code": "BE1453F44FBDE83AF69F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5560460_2aa2.jpg",
+      "title": "Advanced Program in Entrepreneurship"
+    },
+    {
       "url": "https://www.udemy.com/course/ai-agents-and-automation/?couponCode=2AEA675AAF9E995B7E43",
       "coupon_code": "2AEA675AAF9E995B7E43",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6782489_fdba.jpg",
+      "title": "AI Agents and Automation (No Code): n8n, Zapier, APIs, RAGs"
     },
     {
       "url": "https://www.udemy.com/course/ai-literacy-for-all-employees-v/?couponCode=15DECEMBER2025",
       "coupon_code": "15DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6955225_c34e.jpg",
+      "title": "AI Literacy for All Employees"
     },
     {
       "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=DD490D5B9E866AE51E74",
       "coupon_code": "DD490D5B9E866AE51E74",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
+      "title": "Transforme ton Intérieur en Environnement de Réussite"
     },
     {
       "url": "https://www.udemy.com/course/fire-fighting-design-fire-fighting-sprinkler-system-design-a-z/?couponCode=5DAD2439B2D1EB5246C7",
       "coupon_code": "5DAD2439B2D1EB5246C7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761197_a199_2.jpg",
+      "title": "Fire Fighting 2.0: Fire Fighting Sprinkler System Design A-Z"
     },
     {
       "url": "https://www.udemy.com/course/the-vigilant-leader-s/?couponCode=A603867DD099EF9DD388",
       "coupon_code": "A603867DD099EF9DD388",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6001666_5924.jpg",
+      "title": "The Vigilant Leader"
     },
     {
       "url": "https://www.udemy.com/course/php-bootcamp-the-complete-programming-course-with-mysql/?couponCode=CF61DFFE320F3EA93395",
       "coupon_code": "CF61DFFE320F3EA93395",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173981_30e7_2.jpg",
+      "title": "PHP Bootcamp: The Complete Programming Course With MYSQL"
     },
     {
       "url": "https://www.udemy.com/course/postgresql-bootcamp-complete-beginner-to-advanced-course/?couponCode=60366C147C8C8E26E722",
       "coupon_code": "60366C147C8C8E26E722",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6008692_3c52.jpg",
+      "title": "PostgreSQL Bootcamp : Complete Beginner to Advanced Course"
     },
     {
       "url": "https://www.udemy.com/course/python-mastery-the-complete-web-programming-course/?couponCode=96D7DDCDC6714044811D",
       "coupon_code": "96D7DDCDC6714044811D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173959_c9b3_2.jpg",
+      "title": "Python Mastery: The Complete Web Programming Course"
     },
     {
       "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=E5BAD84FAC2E44CE6F00",
@@ -136,12 +179,14 @@
     {
       "url": "https://www.udemy.com/course/master-the-most-confusing-american-vowels/?couponCode=CCB037875EDC7C3F310F",
       "coupon_code": "CCB037875EDC7C3F310F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6822165_09b9_2.jpg",
+      "title": "Master the Most Confusing American Vowels"
     },
     {
       "url": "https://www.udemy.com/course/meelisteder-12-week-program/?couponCode=DAE0BACDECF18FC9DF7B",
       "coupon_code": "DAE0BACDECF18FC9DF7B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6834869_9e06_2.jpg",
+      "title": "12-Week Push/Pull/Legs Program for Men: Build Muscle"
     },
     {
       "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=0C84B0D9958085F2D3F4",
@@ -334,12 +379,6 @@
       "coupon_code": "300E5A67927881E86A5C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6755923_5715_2.jpg",
       "title": "PostgreSQL for Developers: Design, Query & Scale Databases"
-    },
-    {
-      "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
-      "title": "Productivity - Focus, Concentration & Performance Strategies"
     },
     {
       "url": "https://www.udemy.com/course/python-101-complete-python-programming-step-by-step-guide/?couponCode=A216922BD7A5CBDC9738",
@@ -564,12 +603,6 @@
       "title": "DP-900 Azure Data Fundamentals Practice Exam Questions 2025"
     },
     {
-      "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
-      "title": "Introduction to Financial Controls"
-    },
-    {
       "url": "https://www.udemy.com/course/operations_management/?couponCode=DFAE16A940A33C81F02F",
       "coupon_code": "DFAE16A940A33C81F02F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5411158_9c7a.jpg",
@@ -724,12 +757,6 @@
       "coupon_code": "AE849BD6886AF4E5035A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6705629_f72d_3.jpg",
       "title": "Complete CapCut for Social Media Video Editing MasterClass"
-    },
-    {
-      "url": "https://www.udemy.com/course/currency-management-for-small-businesses-corporates/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5581978_25ad_2.jpg",
-      "title": "Currency Management for Small Businesses & Corporates"
     },
     {
       "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=15THDEC&ra",
