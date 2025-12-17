@@ -1,36 +1,132 @@
 {
-  "updated_at": "2025-12-17T08:39:34Z",
-  "count": 935,
+  "updated_at": "2025-12-17T09:34:56Z",
+  "count": 949,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-instagram-marketing-blueprint-complete-guide/?couponCode=F622F7ABC3E11587DFFF",
+      "coupon_code": "F622F7ABC3E11587DFFF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6463121_73a2.jpg",
+      "title": "Advanced Instagram Marketing Blueprint Complete Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-13-projects-with-php-mysql-bootstrap-and-pdo/?couponCode=13PROJECTS54",
+      "coupon_code": "13PROJECTS54",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5181130_1601_2.jpg",
+      "title": "Build 13 Projects with PHP MySQL Bootstrap and PDO"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=BB0F87C0F3D860F1FF86",
+      "coupon_code": "BB0F87C0F3D860F1FF86",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3727022_0856_6.jpg",
+      "title": "Management Consulting Skills Mastery 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-presentation-mckinsey/?couponCode=8161E667E75CB6DD7477",
+      "coupon_code": "8161E667E75CB6DD7477",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3970622_e2ea_5.jpg",
+      "title": "Management Consulting Presentation Essential Training 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=A3C97C4CEB4C43B4AF2B",
+      "coupon_code": "A3C97C4CEB4C43B4AF2B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3726964_07e4_3.jpg",
+      "title": "Management Consulting Essential Training 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-c-learn-building-games-application-softwares/?couponCode=8A86562E1C0C59821D59",
+      "coupon_code": "8A86562E1C0C59821D59",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6457969_889b_2.jpg",
+      "title": "Mastering C# Learn Building Games, Application, Softwares"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-bootcamp-with-web-and-application-development/?couponCode=C83C4B99710FC8BFE152",
+      "coupon_code": "C83C4B99710FC8BFE152",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6508535_6aa1_4.jpg",
+      "title": "Programming Bootcamp with Python, JavaScript, C++, PHP MySql"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-django-full-stack-development-build-modern-web-app/?couponCode=8C6E4D8D4AE7B930EC95",
+      "coupon_code": "8C6E4D8D4AE7B930EC95",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6576145_939d.jpg",
+      "title": "Python Django Full Stack Development: Build Modern Web App"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-web-developer-masterclass-build-6-website/?couponCode=DD9DBB7DF0F6A3272182",
+      "coupon_code": "DD9DBB7DF0F6A3272182",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285393_3aad.jpg",
+      "title": "Python Web Developer Masterclass - Build 6 Website"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=B656947DB9231387BF21",
+      "coupon_code": "B656947DB9231387BF21",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3852530_370a_6.jpg",
+      "title": "The Complete SAP Analytics Cloud Course 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-bi-bo/?couponCode=ACF17B9899E709B6405F",
+      "coupon_code": "ACF17B9899E709B6405F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3743036_a561_5.jpg",
+      "title": "SAP BusinessObjects Essential Training 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-commerce-cloud-hybris/?couponCode=6B4A5E788244AD8158E1",
+      "coupon_code": "6B4A5E788244AD8158E1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6154895_1b81_3.jpg",
+      "title": "SAP Commerce Cloud Bootcamp 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-s4hana-cloud-s4-erp/?couponCode=1DD91BFD31057DA58A01",
+      "coupon_code": "1DD91BFD31057DA58A01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6494157_edc8_3.jpg",
+      "title": "SAP S/4HANA Cloud Public Edition for Absolute Beginners 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-s4hana-erp/?couponCode=15F0287C1A370789CA2E",
+      "coupon_code": "15F0287C1A370789CA2E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4768966_c12d.jpg",
+      "title": "The Ultimate SAP S/4HANA Course 2025: From Zero to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/smart-goals-parenting/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6041048_43ee_3.jpg",
+      "title": "SMART Goals Parenting"
+    },
     {
       "url": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?couponCode=D2D17D9233F70E49A991",
       "coupon_code": "D2D17D9233F70E49A991",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6501521_9cab_5.jpg",
+      "title": "Build 11  JavaScript Application and Web JavaScript BootCamp"
     },
     {
       "url": "https://www.udemy.com/course/build-8-python-apps-games-and-web-application-python-master/?couponCode=0018C92FB69D860CFF18",
       "coupon_code": "0018C92FB69D860CFF18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6395467_02fd.jpg",
+      "title": "Build 8 Python Apps Games and Web Application Python Master"
     },
     {
       "url": "https://www.udemy.com/course/business-analysis-for-executives-with-microsoft-copilot/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6936001_c79f.jpg",
+      "title": "Business Analysis for Executives with Microsoft Copilot"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-advertising-creative-generate-campaign-concepts/?couponCode=A9D8B5F77F3166F7A9DF",
       "coupon_code": "A9D8B5F77F3166F7A9DF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5697794_a4dd_3.jpg",
+      "title": "ChatGPT for Creative Ideas: Generate Powerful Concepts"
     },
     {
       "url": "https://www.udemy.com/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6610709_4ab8_2.jpg",
+      "title": "DeepSeek AI for Business: Build a Strategy with AI Insights"
     },
     {
       "url": "https://www.udemy.com/course/design-with-canva-ai-a-scalable-workflow-for-creators/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6663187_6976.jpg",
+      "title": "Design with Canva & AI: A Scalable Workflow for Creators"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=15THDEC&ra",
@@ -41,42 +137,50 @@
     {
       "url": "https://www.udemy.com/course/from-prompt-to-photorealism-midjourney-image-creation-guide/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6627573_5df6_2.jpg",
+      "title": "From Prompt to Photorealism: Midjourney Image Creation Guide"
     },
     {
       "url": "https://www.udemy.com/course/javascript-master-course-from-beginner-to-expert-developer/?couponCode=3C6B30239937673D6F2C",
       "coupon_code": "3C6B30239937673D6F2C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6395555_6dfe_2.jpg",
+      "title": "JavaScript Master Course From Beginner to Expert Developer"
     },
     {
       "url": "https://www.udemy.com/course/mastering-ai-video-creation-with-sora/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6623225_6db7.jpg",
+      "title": "Mastering AI Video Creation with Sora"
     },
     {
       "url": "https://www.udemy.com/course/notebooklm-mastery-organize-analyze-and-optimize-with-ai/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637885_85f4_2.jpg",
+      "title": "NotebookLM Mastery: Organize, Analyze, and Optimize with AI"
     },
     {
       "url": "https://www.udemy.com/course/perplexity-ai-for-marketing-business-automation/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6563485_8d03_2.jpg",
+      "title": "Perplexity AI for Marketing & Business Automation"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-the-executive-assistant/?couponCode=224D21EB373114652C17",
       "coupon_code": "224D21EB373114652C17",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5769960_3125.jpg",
+      "title": "Professional Diploma of the Executive Assistant"
     },
     {
       "url": "https://www.udemy.com/course/project-management-choosing-implementing-the-right-tools/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637889_9859_2.jpg",
+      "title": "Project Management: Choosing & Implementing the Right Tools"
     },
     {
       "url": "https://www.udemy.com/course/python-software-application-games-automation-development/?couponCode=8C794D5EE68EDD35A73D",
       "coupon_code": "8C794D5EE68EDD35A73D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6457931_5336.jpg",
+      "title": "Python Software, Application, Games, Automation  Development"
     },
     {
       "url": "https://www.udemy.com/course/complete-mysql-bootcamp-learn-sql-step-by-step/?couponCode=793519EB2B08900486B4",
@@ -653,12 +757,6 @@
       "coupon_code": "C7BF2157803CB86B4C8E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5644182_a2eb.jpg",
       "title": "Python Development & Data Science: Variables and Data Types"
-    },
-    {
-      "url": "https://www.udemy.com/course/smart-goals-parenting/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6041048_43ee_3.jpg",
-      "title": "SMART Goals Parenting"
     },
     {
       "url": "https://www.udemy.com/course/smartphone-detox-for-kids/?couponCode=4ADE5A5EFF46B81E372B",
