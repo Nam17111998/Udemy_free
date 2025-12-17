@@ -1,56 +1,156 @@
 {
-  "updated_at": "2025-12-17T02:06:15Z",
-  "count": 968,
+  "updated_at": "2025-12-17T03:57:24Z",
+  "count": 983,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/7-days-of-hands-on-ai-development-bootcamp/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241851_995e_9.jpg",
+      "title": "7 Days of Hands-On AI Development Bootcamp and Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-all-r/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6227519_c828_2.jpg",
+      "title": "Agentic AI for Product Owners: Strategy & Solutions"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai_powered_microservices_with_vibe_coding/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1609282_cff9_2.jpg",
+      "title": "AI-Powered Microservices with Vibe Coding & Software 3.0"
+    },
+    {
+      "url": "https://www.udemy.com/course/continuous-integration-with-azure-devops-and-docker/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3074966_1297_3.jpg",
+      "title": "Windows Containers with Azure DevOps CI/CD Pipeline"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-ai-on-aws-training-aws-certified-ai-practitioner/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6222319_e987.jpg",
+      "title": "Mastering AI on AWS: Training AWS Certified AI-Practitioner"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-context-design-for-intelligent-ai-agents/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1630106_3469_5.jpg",
+      "title": "Mastering Context Design for Intelligent AI Agents"
+    },
+    {
+      "url": "https://www.udemy.com/course/micro-mba-in-business-administration/?couponCode=B7A8D8674E9A07D72AA5",
+      "coupon_code": "B7A8D8674E9A07D72AA5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5697982_df4d.jpg",
+      "title": "Business Administration"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-mastery-100-days-100-projects/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6372561_b824_3.jpg",
+      "title": "Python Mastery: 100 Days, 100 Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/rust-programming-bootcamp/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6352791_0655.jpg",
+      "title": "Rust Programming Bootcamp - 100 Projects in 100 Days"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-argo-bootcamp-by-school-of-devops/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6147733_2fe4_7.jpg",
+      "title": "Ultimate Argo Bootcamp by School of Devops® | 6 Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-devops-bootcamp-by-school-of-devops/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1834350_b2ec_3.jpg",
+      "title": "Ultimate DevOps Bootcamp by School of Devops®"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-istio-bootcamp/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1967814_8fac_3.jpg",
+      "title": "Ultimate Istio Bootcamp by School of Devops®"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-jenkins-bootcamp-by-school-of-devops/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5954866_2607_3.jpg",
+      "title": "CI/CD with Jenkins and Docker"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-openshift-bootcamp-by-school-of-devops/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1843628_6005_4.jpg",
+      "title": "Ultimate Openshift (2021)  Bootcamp by School of Devops®"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-terraform-bootcamp/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1846476_67bb_6.jpg",
+      "title": "Ultimate Terraform and OpenTofu Bootcamp by School of Devops"
+    },
     {
       "url": "https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=65E46F465F866A6BC8B0",
       "coupon_code": "65E46F465F866A6BC8B0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5724310_36ec_2.jpg",
+      "title": "Master in Data Science to become a Data Scientist"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-digital-strategy/?couponCode=2FF9CC6A3E0FE82B88AA",
       "coupon_code": "2FF9CC6A3E0FE82B88AA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5025626_2094_2.jpg",
+      "title": "Master in Digital Transformation Strategy & Digitalization"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=5C6515F7C2A0241869DE",
       "coupon_code": "5C6515F7C2A0241869DE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4374892_4094_6.jpg",
+      "title": "Master in End to End Solutions Design and Development"
     },
     {
       "url": "https://www.udemy.com/course/how-to-become-a-successful-it-product-manager-product-mgmt/?couponCode=065A87CEFE8C157ADD1F",
       "coupon_code": "065A87CEFE8C157ADD1F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5556034_89bf_3.jpg",
+      "title": "Master in Tech Product Management (IT)"
     },
     {
       "url": "https://www.udemy.com/course/how-to-become-a-successful-software-programming-developer/?couponCode=FD9D02DC419F25EC184D",
       "coupon_code": "FD9D02DC419F25EC184D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5619030_e742_4.jpg",
+      "title": "Become a Successful Software Programming Developer/ Engineer"
     },
     {
       "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=B64E448AAF391FE6B104",
       "coupon_code": "B64E448AAF391FE6B104",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4492974_5673_3.jpg",
+      "title": "Master in Product Design, Development and Prototyping"
     },
     {
       "url": "https://www.udemy.com/course/machine-learning-solving-regression-using-gradient-descent/?couponCode=1B69C760F0BDCA350CDF",
       "coupon_code": "1B69C760F0BDCA350CDF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6440585_5bc6_4.jpg",
+      "title": "Machine Learning and Data Science Made Simple"
     },
     {
       "url": "https://www.udemy.com/course/master-in-artificial-intelligence-ai/?couponCode=BE07A0D894212BB6417F",
       "coupon_code": "BE07A0D894212BB6417F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5887150_f460_10.jpg",
+      "title": "Master in Artificial Intelligence (AI) Engineering"
     },
     {
       "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=0E0969A96689158856AD",
       "coupon_code": "0E0969A96689158856AD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5977824_a024.jpg",
+      "title": "Master Business Analysis to become a Business Analyst"
     },
     {
       "url": "https://www.udemy.com/course/master-in-business-analytics/?couponCode=B7ED81531DE5B9537C32",
       "coupon_code": "B7ED81531DE5B9537C32",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6323705_6a4b.jpg",
+      "title": "Master in Business Analytics for Business Analyst"
     },
     {
       "url": "https://www.udemy.com/course/master-in-data-analysis-and-analytics/?couponCode=5E01F2E682C2019383C1",
