@@ -1,51 +1,148 @@
 {
-  "updated_at": "2025-12-17T13:00:11Z",
-  "count": 977,
+  "updated_at": "2025-12-17T13:40:43Z",
+  "count": 990,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=BFCB78BFF92B92A5648C",
+      "coupon_code": "BFCB78BFF92B92A5648C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
+      "title": "Build a Backend REST API with Node JS from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/capm-exam-prep-complete-certification-guide/?couponCode=DECEMBER22",
+      "coupon_code": "DECEMBER22",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/credentialing-enrollment/?couponCode=FEB-FREE",
+      "coupon_code": "FEB-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691475_d024_2.jpg",
+      "title": "US Healthcare Provider Credentialing & Payer Enrollment 101"
+    },
+    {
+      "url": "https://www.udemy.com/course/electronic-health-records/?couponCode=FEB-FREE",
+      "coupon_code": "FEB-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6543383_12be_2.jpg",
+      "title": "Health Data and Electronic Health Records(EHR) for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-leadership-and-management/?couponCode=BFDA709DDEE5A95D6E7A",
+      "coupon_code": "BFDA709DDEE5A95D6E7A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/gh-300-github-copilot-exam-preparation/?couponCode=17DECEMBER2025",
+      "coupon_code": "17DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6943967_c72a_4.jpg",
+      "title": "GH-300: Github Copilot – Complete Exam Preparation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/institutional-medical-billing/?couponCode=FEB-FREE",
+      "coupon_code": "FEB-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691467_de8e.jpg",
+      "title": "Institutional Medical Billing and Revenue Cycle Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/iso-42001/?couponCode=FEB-FREE",
+      "coupon_code": "FEB-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6941107_0db5.jpg",
+      "title": "ISO/IEC 42001: AI Management System for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/legal-english-writing/?couponCode=FEB-FREE",
+      "coupon_code": "FEB-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713089_e836.jpg",
+      "title": "Legal English & US Law: Legal Writing, Drafting & Vocabulary"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-coding-icd-10/?couponCode=FEB-FREE",
+      "coupon_code": "FEB-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691411_d98e.jpg",
+      "title": "Medical Coding Part 1: ICD 10 and 11 Coding for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-receptionist/?couponCode=FEB-FREE",
+      "coupon_code": "FEB-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6460939_d4af.jpg",
+      "title": "Medical Receptionist & Administrative Assistant Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-terminology-basics/?couponCode=FEB-FREE",
+      "coupon_code": "FEB-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691433_27ed.jpg",
+      "title": "Medical Terminology for Medical Coding, Billing & Healthcare"
+    },
+    {
+      "url": "https://www.udemy.com/course/referrals-prior-authorizations/?couponCode=FEB-FREE",
+      "coupon_code": "FEB-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6460923_2415.jpg",
+      "title": "RCM Benefits, Referrals & Prior Authorizations for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-trading-wealth-mastery-program/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6966621_c884.jpg",
+      "title": "The Ultimate Trading & Wealth Mastery Program"
+    },
+    {
+      "url": "https://www.udemy.com/course/visualization-techniques-for-decision-makers-and-leaders/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860432_d719.jpg",
+      "title": "Visualization Techniques for Decision Makers and Leaders"
+    },
     {
       "url": "https://www.udemy.com/course/advertising-strategy-fundamentals-upskill-to-drive-growth/?couponCode=57634846CBA7FCB2A807",
       "coupon_code": "57634846CBA7FCB2A807",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5995612_bf74_6.jpg",
+      "title": "Advertising Strategy Fundamentals: Upskill to Drive Growth"
     },
     {
       "url": "https://www.udemy.com/course/ai-enhanced-photo-editing/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6426277_8011.jpg",
+      "title": "AI-Enhanced Photo Editing: From Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-seo-audit/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589891_0a19.jpg",
+      "title": "AI-Powered SEO Audit: Diagnose, Optimize and Rank Fast"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-tutorial-creation-make-videos-with-trupeer/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6599133_69c8_2.jpg",
+      "title": "AI Video Production Mastery: Avatars, Voice & Tutorials"
     },
     {
       "url": "https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6553707_38b2.jpg",
+      "title": "Claude Pro Mastery: AI for Business, Marketing & Automation"
     },
     {
       "url": "https://www.udemy.com/course/code-java-in-5-hours-a-complete-beginners-guide/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6563487_fd22.jpg",
+      "title": "Java Mastery: Beginner’s Guide and Full-Stack AI Projects"
     },
     {
       "url": "https://www.udemy.com/course/discover-google-gemini-for-marketing-success/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5829562_f624.jpg",
+      "title": "Discover Google Gemini for Marketing Success"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-business-management-and-administration/?couponCode=B89D4C837DD126E86BC5",
       "coupon_code": "B89D4C837DD126E86BC5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5799108_7fe2.jpg",
+      "title": "Executive Diploma in Business Management and Administration"
     },
     {
       "url": "https://www.udemy.com/course/gifs-jokes-more-learn-javascript-apis-the-fun-way/?couponCode=66707FB946F09100D9D7",
       "coupon_code": "66707FB946F09100D9D7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619355_c774.jpg",
+      "title": "GIFs, Jokes & More – Learn JavaScript APIs the Fun Way!"
     },
     {
       "url": "https://www.udemy.com/course/intentional-leadership/?couponCode=15THDEC&ra",
@@ -56,27 +153,32 @@
     {
       "url": "https://www.udemy.com/course/no-low-code-marketing-automation/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6474141_3fbc.jpg",
+      "title": "No & Low Code AI Marketing Automation"
     },
     {
       "url": "https://www.udemy.com/course/on-page-seo-mastery-with-ai/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6607321_7daf.jpg",
+      "title": "On-Page SEO Mastery with AI: Strategies and Workflows"
     },
     {
       "url": "https://www.udemy.com/course/perplexity-no-code-creez-une-app-full-stack/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6354033_cac7_2.jpg",
+      "title": "Perplexity & No-Code : Créez une app Full Stack 100% (2025)"
     },
     {
       "url": "https://www.udemy.com/course/sportsmanagement/?couponCode=NOVFREE_15",
       "coupon_code": "NOVFREE_15",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6062405_e1f5.jpg",
+      "title": "Winning Game Plan: Sports Management & Marketing Mastery"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-gamma-guide-master-ai-presentation-creation/?couponCode=17DECEMBER2025",
       "coupon_code": "17DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6591001_e849.jpg",
+      "title": "The Ultimate Gamma Guide: Master AI Presentation Creation"
     },
     {
       "url": "https://www.udemy.com/course/ai-in-hr-with-real-world-case-studies/?couponCode=FREE4WINTER",
@@ -153,7 +255,8 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-social-media-marketing-copywriting/?couponCode=51951C7C304713489BCC",
       "coupon_code": "51951C7C304713489BCC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5795130_8ace.jpg",
+      "title": "Professional Diploma in Social Media Marketing & Copywriting"
     },
     {
       "url": "https://www.udemy.com/course/project-management-fundamentals-guide/?couponCode=15DECEMBER2025",
@@ -1492,12 +1595,6 @@
       "coupon_code": "15THDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5860120_f1d2.jpg",
       "title": "Prioritization Techniques for Decision Makers and Leaders"
-    },
-    {
-      "url": "https://www.udemy.com/course/visualization-techniques-for-decision-makers-and-leaders/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5860432_d719.jpg",
-      "title": "Visualization Techniques for Decision Makers and Leaders"
     },
     {
       "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=15THDEC",
@@ -3118,12 +3215,6 @@
       "coupon_code": "E9559432E74B42C96510",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6021936_e068_2.jpg",
       "title": "Become Experts in Python | Exercises | Projects | Quiz"
-    },
-    {
-      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=BFCB78BFF92B92A5648C",
-      "coupon_code": "BFCB78BFF92B92A5648C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
-      "title": "Build a Backend REST API with Node JS from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=68118734756D4423C87E",
