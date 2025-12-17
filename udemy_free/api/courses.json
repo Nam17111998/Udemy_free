@@ -1,7 +1,87 @@
 {
-  "updated_at": "2025-12-16T23:26:42Z",
-  "count": 953,
+  "updated_at": "2025-12-17T02:06:15Z",
+  "count": 968,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=65E46F465F866A6BC8B0",
+      "coupon_code": "65E46F465F866A6BC8B0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-digital-strategy/?couponCode=2FF9CC6A3E0FE82B88AA",
+      "coupon_code": "2FF9CC6A3E0FE82B88AA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=5C6515F7C2A0241869DE",
+      "coupon_code": "5C6515F7C2A0241869DE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-become-a-successful-it-product-manager-product-mgmt/?couponCode=065A87CEFE8C157ADD1F",
+      "coupon_code": "065A87CEFE8C157ADD1F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-become-a-successful-software-programming-developer/?couponCode=FD9D02DC419F25EC184D",
+      "coupon_code": "FD9D02DC419F25EC184D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=B64E448AAF391FE6B104",
+      "coupon_code": "B64E448AAF391FE6B104",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-solving-regression-using-gradient-descent/?couponCode=1B69C760F0BDCA350CDF",
+      "coupon_code": "1B69C760F0BDCA350CDF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-artificial-intelligence-ai/?couponCode=BE07A0D894212BB6417F",
+      "coupon_code": "BE07A0D894212BB6417F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=0E0969A96689158856AD",
+      "coupon_code": "0E0969A96689158856AD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-business-analytics/?couponCode=B7ED81531DE5B9537C32",
+      "coupon_code": "B7ED81531DE5B9537C32",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-data-analysis-and-analytics/?couponCode=5E01F2E682C2019383C1",
+      "coupon_code": "5E01F2E682C2019383C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6528665_59f5.jpg",
+      "title": "Master in Data Analysis and Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/?couponCode=ED5A313735CB0FB2CD6C",
+      "coupon_code": "ED5A313735CB0FB2CD6C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6085431_4a5c.jpg",
+      "title": "Master in Generative AI (Artificial Intelligence) (Gen AI)"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-solution-architecture/?couponCode=420FE839F5DF0EE30A23",
+      "coupon_code": "420FE839F5DF0EE30A23",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5820740_4a93.jpg",
+      "title": "Master in Solution Architecture"
+    },
+    {
+      "url": "https://www.udemy.com/course/networking-in-aws/?couponCode=E65646EE60A4257690F2",
+      "coupon_code": "E65646EE60A4257690F2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2267332_4331_13.jpg",
+      "title": "AWS VPC and Networking in depth: Learn practically !"
+    },
+    {
+      "url": "https://www.udemy.com/course/software-development-engineering-excellence-master-course/?couponCode=953BC824D80FAA0DAD5D",
+      "coupon_code": "953BC824D80FAA0DAD5D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663806_820c.jpg",
+      "title": "Master in Software Architecture, Engineering and Development"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-image-video-and-music-creation/?couponCode=287F86F169B06D1B1D98",
       "coupon_code": "287F86F169B06D1B1D98",
@@ -23,12 +103,14 @@
     {
       "url": "https://www.udemy.com/course/die-bandscheibe-verstehen/?couponCode=BANDSCHEIBE5",
       "coupon_code": "BANDSCHEIBE5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6835725_ca02.jpg",
+      "title": "Die Bandscheibe verstehen - Werde dein Bandscheibencoach"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-chief-executive-officer/?couponCode=345B112CA58106B828A4",
       "coupon_code": "345B112CA58106B828A4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5657630_8ab4_3.jpg",
+      "title": "Executive Diploma of Chief Executive Officer"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=15THDEC&ra",
