@@ -1,26 +1,30 @@
 {
-  "updated_at": "2025-12-18T16:39:12Z",
-  "count": 957,
+  "updated_at": "2025-12-18T17:29:44Z",
+  "count": 960,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/abc-of-ear-nose-and-throat-ent-disorders/?couponCode=B255B4B11B89EF4576EF",
+      "coupon_code": "B255B4B11B89EF4576EF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6515889_8540_3.jpg",
+      "title": "Mastering ENT Disorders: Diagnosis & Treatment"
+    },
     {
       "url": "https://www.udemy.com/course/all-in-one-wp-migration-migra-tu-sitio-web-de-wordpress/?couponCode=MIG-GR88",
       "coupon_code": "MIG-GR88",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5480430_710f.jpg",
+      "title": "All in One WP Migration: Migra tu Sitio Web de WordPress"
     },
     {
       "url": "https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/?couponCode=18DECEMBER2025",
       "coupon_code": "18DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/como-crear-una-pagina-de-ventas-para-hotmart/?couponCode=HOT-GR89",
-      "coupon_code": "HOT-GR89",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713657_81e2.jpg",
+      "title": "Building Basic AI Agents and Custom GPTs"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-inteligencia-artificial/?couponCode=PAGINA-IA84",
       "coupon_code": "PAGINA-IA84",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5576672_6ff3.jpg",
+      "title": "Cómo Crear una Página Web con Inteligencia Artificial 2025"
     },
     {
       "url": "https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/?couponCode=18DECEMBER2025",
@@ -39,12 +43,6 @@
       "coupon_code": "18DECEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6707623_30dc.jpg",
       "title": "Docker Deep Dive: Build, Ship, and Run Containers"
-    },
-    {
-      "url": "https://www.udemy.com/course/elementor-hosting-como-crear-una-pagina-web-con-wordpress/?couponCode=ELEMENTORH-GR87",
-      "coupon_code": "ELEMENTORH-GR87",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5480542_53c6_2.jpg",
-      "title": "Elementor Hosting: Cómo Crear una Página Web con WordPress"
     },
     {
       "url": "https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/?couponCode=18DECEMBER2025",
@@ -71,22 +69,46 @@
       "title": "Máster en Elementor 2025, ¡Desde Cero Hasta Experto!"
     },
     {
-      "url": "https://www.udemy.com/course/master-en-wordpress-y-chatgpt-desde-cero-hasta-experto/?couponCode=MWC-GR94",
-      "coupon_code": "MWC-GR94",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5375708_7f55_2.jpg",
-      "title": "Máster en WordPress y ChatGPT, ¡Desde Cero Hasta Experto!"
-    },
-    {
       "url": "https://www.udemy.com/course/n8n-ai-agent-creation-guide/?couponCode=18DECEMBER2025",
       "coupon_code": "18DECEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6692461_9104_3.jpg",
       "title": "N8N: AI Agent Creation Guide"
     },
     {
+      "url": "https://www.udemy.com/course/pgd-in-scom/?couponCode=6446E32B9267303BEAC6",
+      "coupon_code": "6446E32B9267303BEAC6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6609829_4ec7_2.jpg",
+      "title": "Postgraduate Diploma in Supply Chain & Operations Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/pgdincapitalmarket/?couponCode=CBA44374214BFCDBCD74",
+      "coupon_code": "CBA44374214BFCDBCD74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6647621_9e8b_2.jpg",
+      "title": "Postgraduate Diploma in Capital Market (PGDCM)"
+    },
+    {
       "url": "https://www.udemy.com/course/revenue-cycle-management-rcm-step-by-step/?couponCode=2E690794083AADD70A53",
       "coupon_code": "2E690794083AADD70A53",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5989860_b196_3.jpg",
       "title": "Revenue Cycle Management (RCM) Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-de-ventas-para-hotmart/?couponCode=HOT-GR89",
+      "coupon_code": "HOT-GR89",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5525936_400d_2.jpg",
+      "title": "Cómo Crear una Página de Ventas Para Hotmart 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/elementor-hosting-como-crear-una-pagina-web-con-wordpress/?couponCode=ELEMENTORH-GR87",
+      "coupon_code": "ELEMENTORH-GR87",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5480542_53c6_2.jpg",
+      "title": "Elementor Hosting: Cómo Crear una Página Web con WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-en-wordpress-y-chatgpt-desde-cero-hasta-experto/?couponCode=MWC-GR94",
+      "coupon_code": "MWC-GR94",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5375708_7f55_2.jpg",
+      "title": "Máster en WordPress y ChatGPT, ¡Desde Cero Hasta Experto!"
     },
     {
       "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=DEC_FREE_AA02",
