@@ -1,12 +1,24 @@
 {
-  "updated_at": "2025-12-19T03:59:55Z",
-  "count": 985,
+  "updated_at": "2025-12-19T04:42:55Z",
+  "count": 990,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=15THDEC",
+      "url": "https://www.udemy.com/course/aws-cost-optimizations-masterclass/?couponCode=FREETEST",
+      "coupon_code": "FREETEST",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6511231_90ca_6.jpg",
+      "title": "AWS Cost Optimizations MasterClass"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
+      "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=15THDEC&ra",
       "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
-      "title": "Emotional Intelligence in Leadership"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
+      "title": "Empathy and Emotional Intelligence for Project Managers"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=15THDEC",
@@ -27,18 +39,6 @@
       "title": "Financial Services - Funds Flow Optimization Concepts"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=15THDEC",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
-      "title": "Financial Services - Overview of Central Banks"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=15THDEC",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
-      "title": "Financial Services - Overview of Retail Banking"
-    },
-    {
       "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=15THDEC",
       "coupon_code": "15THDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6656207_ffa4.jpg",
@@ -51,28 +51,34 @@
       "title": "Financial Stewardship for Decision Makers and Leaders"
     },
     {
-      "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=15THDEC",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
-      "title": "Introduction to Financial Controls"
-    },
-    {
       "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=15THDEC&ra",
       "coupon_code": "15THDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6210279_19fd.jpg",
       "title": "Managing Social Anxiety in the Workplace"
     },
     {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=15THDEC",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
-      "title": "Mental Health for the Workplace"
+      "url": "https://www.udemy.com/course/master-english-with-ai-improve-fluency-fast-using-chatgpt/?couponCode=E3BAD51B79607C73B0EA",
+      "coupon_code": "E3BAD51B79607C73B0EA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6958569_ca07_2.jpg",
+      "title": "Master English with AI: Improve Fluency Fast Using ChatGPT"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-of-executive-business-assistant/?couponCode=1A824EF70E000790F93F",
       "coupon_code": "1A824EF70E000790F93F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5918176_2f67.jpg",
       "title": "Professional Certificate of Executive Business Assistant"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-framework-and-html-5-complete-course-2022/?couponCode=1E82A8C38CE4037138AB",
+      "coupon_code": "1E82A8C38CE4037138AB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4972370_1c04.jpg",
+      "title": "Python And Django Framework And HTML 5 Stack Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=DEC_FREE_AA02",
+      "coupon_code": "DEC_FREE_AA02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
     },
     {
       "url": "https://www.udemy.com/course/visualization-techniques-for-decision-makers-and-leaders/?couponCode=15THDEC&ra",
@@ -85,6 +91,36 @@
       "coupon_code": "15THDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
       "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=15THDEC",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
+      "title": "Emotional Intelligence in Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=15THDEC",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=15THDEC",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
+      "title": "Financial Services - Overview of Retail Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=15THDEC",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
+      "title": "Introduction to Financial Controls"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=15THDEC",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=15THDEC",
@@ -121,12 +157,6 @@
       "coupon_code": "829E95B08BDBDFF9052A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4435576_a1dc.jpg",
       "title": "CSS, Bootstrap, JavaScript And PHP Stack Complete Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
-      "title": "Empathy and Emotional Intelligence for Project Managers"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-strategic-management/?couponCode=2FF1325ADA3A4E6BAE26",
