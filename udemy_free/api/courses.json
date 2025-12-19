@@ -1,36 +1,30 @@
 {
-  "updated_at": "2025-12-19T13:38:47Z",
-  "count": 962,
+  "updated_at": "2025-12-19T14:29:30Z",
+  "count": 964,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/agentic-coding-full-stack-java-apps-with-cursor-and-copilot/?couponCode=19DECEMBER2025",
-      "coupon_code": "19DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/basics-of-immigration-law/?couponCode=B2FE076428972AF53024",
       "coupon_code": "B2FE076428972AF53024",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6724157_e4f2_3.jpg",
+      "title": "U.S. Immigration Law for Beginners: Learn the Essentials"
     },
     {
       "url": "https://www.udemy.com/course/complete-us-asylum-guide-applications-rights-success/?couponCode=72FD2CF18226ED387504",
       "coupon_code": "72FD2CF18226ED387504",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6822153_59ed_2.jpg",
+      "title": "Complete U.S. Asylum Guide: Applications, Rights & Success"
     },
     {
       "url": "https://www.udemy.com/course/cssbootstrapjavascriptreact-overview-course-for-beginners/?couponCode=3394843D884B873807DF",
       "coupon_code": "3394843D884B873807DF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5039564_6b62.jpg",
+      "title": "Foundations of Web Development: CSS, Bootstrap, JS, React"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-in-customer-support/?couponCode=19DECEMBER2025",
       "coupon_code": "19DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/google-generative-ai-leader-exam-complete-preparation-guide/?couponCode=19DECEMBER2025",
-      "coupon_code": "19DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802701_2139.jpg",
+      "title": "Generative AI in Customer Support"
     },
     {
       "url": "https://www.udemy.com/course/google-veo-ai-video-beginner-to-pro/?couponCode=19DECEMBER2025",
@@ -51,6 +45,12 @@
       "title": "Mastering Immigration Case Management: A Step-by-Step Guide"
     },
     {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
+    },
+    {
       "url": "https://www.udemy.com/course/microsoft-copilot-for-project-managers-hands-on-guide/?couponCode=19DECEMBER2025",
       "coupon_code": "19DECEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6815369_f436.jpg",
@@ -63,10 +63,10 @@
       "title": "Advanced Program in Product Development and Management"
     },
     {
-      "url": "https://www.udemy.com/course/nextjs-crash-course-build-a-full-stack-app-in-a-weekend/?couponCode=19DECEMBER2025",
-      "coupon_code": "19DECEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6792933_26fd.jpg",
-      "title": "Next.js Crash Course: Build a Full-Stack App in a Weekend"
+      "url": "https://www.udemy.com/course/navigating-the-crypto-universe-and-blockchain/?couponCode=6A6891165D58158B56D7",
+      "coupon_code": "6A6891165D58158B56D7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5942956_65e5_2.jpg",
+      "title": "Navigating the Crypto Universe"
     },
     {
       "url": "https://www.udemy.com/course/nodejs-crash-course-build-a-rest-api-in-a-weekend/?couponCode=19DECEMBER2025",
@@ -81,10 +81,34 @@
       "title": "Prioritization Techniques for Decision Makers and Leaders"
     },
     {
+      "url": "https://www.udemy.com/course/product-development-research-with-generative-ai/?couponCode=111EED8EAEAF38405DF1",
+      "coupon_code": "111EED8EAEAF38405DF1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6892359_89e7_3.jpg",
+      "title": "Product Development & Research with Generative AI"
+    },
+    {
       "url": "https://www.udemy.com/course/professional-diploma-customer-centricity-and-design-thinking/?couponCode=5F48E0FBB2D9DB7F2969",
       "coupon_code": "5F48E0FBB2D9DB7F2969",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5942356_9e8f.jpg",
       "title": "Professional Diploma: Customer Centricity & Design Thinking"
+    },
+    {
+      "url": "https://www.udemy.com/course/agentic-coding-full-stack-java-apps-with-cursor-and-copilot/?couponCode=19DECEMBER2025",
+      "coupon_code": "19DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6737505_4a6f.jpg",
+      "title": "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-generative-ai-leader-exam-complete-preparation-guide/?couponCode=19DECEMBER2025",
+      "coupon_code": "19DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6785197_5f70_2.jpg",
+      "title": "Google Generative AI Leader Exam: Complete Preparation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/nextjs-crash-course-build-a-full-stack-app-in-a-weekend/?couponCode=19DECEMBER2025",
+      "coupon_code": "19DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6792933_26fd.jpg",
+      "title": "Next.js Crash Course: Build a Full-Stack App in a Weekend"
     },
     {
       "url": "https://www.udemy.com/course/how-to-tell-stories/?couponCode=9C8C4137C9F83680CB28",
@@ -2083,12 +2107,6 @@
       "coupon_code": "HAPPYDECEMBER",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6734045_4563_6.jpg",
       "title": "Mastering Office Politics: Navigate, Influence, and Thrive."
-    },
-    {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
-      "title": "Mental Health for the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/ms-copilot-for-finance/?couponCode=FREE4WINTER",
