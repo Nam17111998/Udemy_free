@@ -1,7 +1,12 @@
 {
-  "updated_at": "2025-12-20T12:52:34Z",
-  "count": 980,
+  "updated_at": "2025-12-20T13:32:42Z",
+  "count": 986,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/aging-and-geriatrics/?couponCode=3FD1450F98599F7E0A49",
+      "coupon_code": "3FD1450F98599F7E0A49",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-creative-leaders/?couponCode=B20996BBFFA68F0143B7",
       "coupon_code": "B20996BBFFA68F0143B7",
@@ -27,28 +32,33 @@
       "title": "How to Create Blog On WordPress - Full A-Z Course (Hindi)"
     },
     {
-      "url": "https://www.udemy.com/course/diploma-human-resources-compensation-benefits-management/?couponCode=791DB82EA39648860A3D",
-      "coupon_code": "791DB82EA39648860A3D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6111707_3082.jpg",
-      "title": "Diploma: Human Resources, Compensation & Benefits Management"
-    },
-    {
       "url": "https://www.udemy.com/course/ecommerce-website-in-wordpress-hindi/?couponCode=C840F14298F294BF2EBB",
       "coupon_code": "C840F14298F294BF2EBB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/2679148_aa3c_3.jpg",
       "title": "Create Ecommerce Website In WordPress (Hindi)"
     },
     {
-      "url": "https://www.udemy.com/course/geometric-dimensioning-and-tolerancing-gdt-mastery/?couponCode=E7CF5E1C9660570E588C",
-      "coupon_code": "E7CF5E1C9660570E588C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5841106_d707_2.jpg",
-      "title": "Geometric Dimensioning and Tolerancing GD&T for Engineering"
+      "url": "https://www.udemy.com/course/elisa-principals-and-applications-for-professionals/?couponCode=90783221EF549CA8DE52",
+      "coupon_code": "90783221EF549CA8DE52",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/intensive-solidworks-training-learn-by-doing/?couponCode=2078D6E3EC12171AD880",
-      "coupon_code": "2078D6E3EC12171AD880",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4396294_6290_6.jpg",
-      "title": "Solidworks : learn by doing and following short projects"
+      "url": "https://www.udemy.com/course/hematology-theory-and-practice-for-medical-students/?couponCode=8063150778BFFA555961",
+      "coupon_code": "8063150778BFFA555961",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5080952_f61d_2.jpg",
+      "title": "\"Hematology: Principles and Practice for Medical Students\""
+    },
+    {
+      "url": "https://www.udemy.com/course/histology-step-by-step/?couponCode=2790E13409BD230A8057",
+      "coupon_code": "2790E13409BD230A8057",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5080670_193b_2.jpg",
+      "title": "Mastering Histology: Microscopic Anatomy Made easy"
+    },
+    {
+      "url": "https://www.udemy.com/course/immunology-step-by-step/?couponCode=EB9492CC9B382E9DEA21",
+      "coupon_code": "EB9492CC9B382E9DEA21",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5080764_72e0_4.jpg",
+      "title": "Immunology Step by Step: Principles, Mechanisms Clinical App"
     },
     {
       "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=7368CC2AEE818B41516D",
@@ -69,16 +79,40 @@
       "title": "Professional Certificate in Management"
     },
     {
-      "url": "https://www.udemy.com/course/python-and-data-science/?couponCode=941A33086D2C5D7590C0",
-      "coupon_code": "941A33086D2C5D7590C0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6597487_530c_7.jpg",
-      "title": "Python for Data Science"
-    },
-    {
       "url": "https://www.udemy.com/course/seo-based-content-writing/?couponCode=02DEC2026",
       "coupon_code": "02DEC2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3051456_d5c9_3.jpg",
       "title": "Introduction To SEO Based Content Writing (Hindi)"
+    },
+    {
+      "url": "https://www.udemy.com/course/virtual-executive-assistant/?couponCode=F1E3204B2CBFFBADEAB9",
+      "coupon_code": "F1E3204B2CBFFBADEAB9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241137_b43a_2.jpg",
+      "title": "Professional Diploma in Virtual Executive Assistant"
+    },
+    {
+      "url": "https://www.udemy.com/course/diploma-human-resources-compensation-benefits-management/?couponCode=791DB82EA39648860A3D",
+      "coupon_code": "791DB82EA39648860A3D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6111707_3082.jpg",
+      "title": "Diploma: Human Resources, Compensation & Benefits Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/geometric-dimensioning-and-tolerancing-gdt-mastery/?couponCode=E7CF5E1C9660570E588C",
+      "coupon_code": "E7CF5E1C9660570E588C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5841106_d707_2.jpg",
+      "title": "Geometric Dimensioning and Tolerancing GD&T for Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/intensive-solidworks-training-learn-by-doing/?couponCode=2078D6E3EC12171AD880",
+      "coupon_code": "2078D6E3EC12171AD880",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4396294_6290_6.jpg",
+      "title": "Solidworks : learn by doing and following short projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-data-science/?couponCode=941A33086D2C5D7590C0",
+      "coupon_code": "941A33086D2C5D7590C0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6597487_530c_7.jpg",
+      "title": "Python for Data Science"
     },
     {
       "url": "https://www.udemy.com/course/solidworks-course-for-beginners/?couponCode=0D5A2DDECB83046624C3",
