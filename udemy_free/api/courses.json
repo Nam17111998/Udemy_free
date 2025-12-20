@@ -1,7 +1,96 @@
 {
-  "updated_at": "2025-12-20T05:28:10Z",
-  "count": 922,
+  "updated_at": "2025-12-20T06:39:54Z",
+  "count": 931,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=86DFAB8667DCDE81D647",
+      "coupon_code": "86DFAB8667DCDE81D647",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=1E62858BEBA97DDF6184",
+      "coupon_code": "1E62858BEBA97DDF6184",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266090_aba5.jpg",
+      "title": "Advanced Microsoft Word With Job Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-ms-word-excel-powerpoint-course-for-job-success/?couponCode=5BB4D75887A6E729D45D",
+      "coupon_code": "5BB4D75887A6E729D45D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266096_3048_3.jpg",
+      "title": "Advanced MS Word Excel PowerPoint Course for Job Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=C3B9B95630440BA67083",
+      "coupon_code": "C3B9B95630440BA67083",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5377010_fb30_4.jpg",
+      "title": "Build a Robust RESTful API with PHP 8, from Scratch!"
+    },
+    {
+      "url": "https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=6A96C648184C1F5A2C17",
+      "coupon_code": "6A96C648184C1F5A2C17",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6053807_9ccc_4.jpg",
+      "title": "Burp Suite Mastery: From Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
+      "title": "Empathy and Emotional Intelligence for Project Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-canva-course-for-graphics-design-learn-in-2-hour/?couponCode=20BAF7105DDE402A969C",
+      "coupon_code": "20BAF7105DDE402A969C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5308280_ab92_2.jpg",
+      "title": "Essential Canva Course for Graphics Design Learn in 2 Hour"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-business-management/?couponCode=63B8C8208A69FC84D1CF",
+      "coupon_code": "63B8C8208A69FC84D1CF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6028692_bb85.jpg",
+      "title": "Executive Certificate in Business Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/intentional-leadership/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5502800_1dbd_2.jpg",
+      "title": "Intentional Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
+      "title": "Introduction to Financial Controls"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-risk-management-in-financial-services/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865790_c7f6_3.jpg",
+      "title": "Introduction to Risk Management in Financial Services"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/?couponCode=4D7F484FDDCFD931D2B5",
+      "coupon_code": "4D7F484FDDCFD931D2B5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5308278_4bce.jpg",
+      "title": "Learn ChatGPT, Midjourney, AI and Use it For Passive Income"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-regulatory-compliance-in-finance/?couponCode=0F13F976E86756E44C2C",
+      "coupon_code": "0F13F976E86756E44C2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6037222_7c09_3.jpg",
+      "title": "Professional Certificate in Regulatory Compliance"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-design-course-with-html-css-and-wordpress/?couponCode=3152362743845E7C0B93",
+      "coupon_code": "3152362743845E7C0B93",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266094_ae5a.jpg",
+      "title": "Web Design Course with HTML CSS and Wordpress"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=6951066051FF550B44B6",
+      "coupon_code": "6951066051FF550B44B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5883002_82a3_2.jpg",
+      "title": "Web Hacking For Beginners"
+    },
     {
       "url": "https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=7E2EBB51FEA5FD4BDDB0",
       "coupon_code": "7E2EBB51FEA5FD4BDDB0",
@@ -12,11 +101,6 @@
       "coupon_code": "15THDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
       "title": "Emotional Intelligence in Leadership"
-    },
-    {
-      "url": "https://www.udemy.com/course/essential-canva-course-for-graphics-design-learn-in-2-hour/?couponCode=20BAF7105DDE402A969C",
-      "coupon_code": "20BAF7105DDE402A969C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/essential-excel-with-tips-trick-shortcuts-and-job-success/?couponCode=C33EB5FA0D93C93334EB",
@@ -52,18 +136,6 @@
       "coupon_code": "15THDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6656207_ffa4.jpg",
       "title": "Financial Services - Understanding Interest Rates"
-    },
-    {
-      "url": "https://www.udemy.com/course/intentional-leadership/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5502800_1dbd_2.jpg",
-      "title": "Intentional Leadership"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/?couponCode=4D7F484FDDCFD931D2B5",
-      "coupon_code": "4D7F484FDDCFD931D2B5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5308278_4bce.jpg",
-      "title": "Learn ChatGPT, Midjourney, AI and Use it For Passive Income"
     },
     {
       "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=15THDEC",
@@ -454,12 +526,6 @@
       "coupon_code": "F678B772706E9C75C79C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5949140_fb0f.jpg",
       "title": "Executive Certificate in Business Leadership"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
-      "title": "Introduction to Financial Controls"
     },
     {
       "url": "https://www.udemy.com/course/leadership-for-successful-project-management-and-delivery/?couponCode=15THDEC&ra",
@@ -952,12 +1018,6 @@
       "coupon_code": "DEC_FREE_AA02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
       "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
-    },
-    {
-      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
-      "title": "Empathy and Emotional Intelligence for Project Managers"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=15THDEC&ra",
@@ -1756,12 +1816,6 @@
       "coupon_code": "181E4516839D7B9CB84C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6566645_459e.jpg",
       "title": "ChatGPT for Data Engineers"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduction-to-risk-management-in-financial-services/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5865790_c7f6_3.jpg",
-      "title": "Introduction to Risk Management in Financial Services"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-ma-business-mergers-acquisitions/?couponCode=66D4DCCA6FF2B58E473C",
