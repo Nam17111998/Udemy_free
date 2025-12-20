@@ -1,11 +1,102 @@
 {
-  "updated_at": "2025-12-20T13:32:42Z",
-  "count": 986,
+  "updated_at": "2025-12-20T14:24:38Z",
+  "count": 1000,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/all-about-horse/?couponCode=7262BFF7E38D7BFE4710",
+      "coupon_code": "7262BFF7E38D7BFE4710",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4428610_70a6_3.jpg",
+      "title": "Horse care and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-security-in-the-age-of-generative-ai/?couponCode=32098A1F57FF343D995B",
+      "coupon_code": "32098A1F57FF343D995B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6876481_ea6f_3.jpg",
+      "title": "Data Security in the age of Generative AI in the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
+      "title": "Emotional Intelligence in Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/ethical-ai-genman/?couponCode=FCCF95677D348ACA3F4D",
+      "coupon_code": "FCCF95677D348ACA3F4D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6864351_c0f2.jpg",
+      "title": "Ethical AI for the Workplace: Safe, Smart & Responsible Use"
+    },
+    {
+      "url": "https://www.udemy.com/course/fintech-innovations/?couponCode=ABF988E64436A9F5F9A5",
+      "coupon_code": "ABF988E64436A9F5F9A5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643717_dfca_2.jpg",
+      "title": "Fintech Innovations: AI, Blockchain & Digital Payments"
+    },
+    {
+      "url": "https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=CBBFC5927B08D9DED99F",
+      "coupon_code": "CBBFC5927B08D9DED99F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4300761_1522_7.jpg",
+      "title": "General Bacteriology: Foundations of Microbiology"
+    },
+    {
+      "url": "https://www.udemy.com/course/inclusive-product-development-design-for-product-managers/?couponCode=AC5BF7A248647BF7F012",
+      "coupon_code": "AC5BF7A248647BF7F012",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6744723_8109.jpg",
+      "title": "Inclusive Product Development & Design for Product Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-genetics-n/?couponCode=B6B8BE0E5273C4819834",
+      "coupon_code": "B6B8BE0E5273C4819834",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5080804_4c0a_8.jpg",
+      "title": "medical genetics learn abnormal human variations"
+    },
+    {
+      "url": "https://www.udemy.com/course/poultry-farming-bacterial-diseases-hindering-satisfying-prod/?couponCode=3D4931678DB14703AC3B",
+      "coupon_code": "3D4931678DB14703AC3B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4744630_fef9_3.jpg",
+      "title": "Combating Bacterial Diseases in Poultry Farming:"
+    },
+    {
+      "url": "https://www.udemy.com/course/poultry-farming-broiler-farming-crash-course/?couponCode=4BDF7CDF1D1D00A1A755",
+      "coupon_code": "4BDF7CDF1D1D00A1A755",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4750792_a09c_4.jpg",
+      "title": "Profitable Broiler Farming: Step-by-Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/poultry-farming-vaccines-and-vaccinations/?couponCode=43CFE64B20C3226FBA48",
+      "coupon_code": "43CFE64B20C3226FBA48",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4928292_7919_4.jpg",
+      "title": "\"Essential Guide to Poultry Vaccination\""
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-clinical-chemistry-from-scratch/?couponCode=14459F9178F65F29A922",
+      "coupon_code": "14459F9178F65F29A922",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4670934_59ae_5.jpg",
+      "title": "Practical Clinical Chemistry: Core Concepts, Lab Techniques"
+    },
+    {
+      "url": "https://www.udemy.com/course/procurementdiploma/?couponCode=D8C4A5AC467E553140B6",
+      "coupon_code": "D8C4A5AC467E553140B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180185_1f8c.jpg",
+      "title": "Professional Diploma in Procurement"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-growth/?couponCode=D485360571DF05FD5982",
+      "coupon_code": "D485360571DF05FD5982",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6696753_1fdc.jpg",
+      "title": "Complete Product Growth Guide: Metrics to Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-manager-skillpath/?couponCode=AED1A1F4125E76069CA5",
+      "coupon_code": "AED1A1F4125E76069CA5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6808411_89e6_3.jpg",
+      "title": "Project Manager Skillpath: Agile, Scrum, SAFe® & Jira®"
+    },
     {
       "url": "https://www.udemy.com/course/aging-and-geriatrics/?couponCode=3FD1450F98599F7E0A49",
       "coupon_code": "3FD1450F98599F7E0A49",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5067800_0e26.jpg",
+      "title": "Aging and Geriatrics"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-creative-leaders/?couponCode=B20996BBFFA68F0143B7",
@@ -40,7 +131,8 @@
     {
       "url": "https://www.udemy.com/course/elisa-principals-and-applications-for-professionals/?couponCode=90783221EF549CA8DE52",
       "coupon_code": "90783221EF549CA8DE52",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5129970_bd61_6.jpg",
+      "title": "ELISA Mastery: Principles& techniques & Applications"
     },
     {
       "url": "https://www.udemy.com/course/hematology-theory-and-practice-for-medical-students/?couponCode=8063150778BFFA555961",
@@ -785,12 +877,6 @@
       "coupon_code": "15THDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
       "title": "Productivity - Focus, Concentration & Performance Strategies"
-    },
-    {
-      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
-      "title": "Emotional Intelligence in Leadership"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-career-coaching/?couponCode=111AF8676E8B0DDAA9F0",
