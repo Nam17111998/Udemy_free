@@ -1,7 +1,82 @@
 {
-  "updated_at": "2025-12-20T02:03:17Z",
-  "count": 902,
+  "updated_at": "2025-12-20T03:51:49Z",
+  "count": 917,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=7F17BB0712F09CD1BDE2",
+      "coupon_code": "7F17BB0712F09CD1BDE2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=0F68B75B1FDDFF040D42",
+      "coupon_code": "0F68B75B1FDDFF040D42",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?couponCode=9495669134FFFF383FCA",
+      "coupon_code": "9495669134FFFF383FCA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-professionals/?couponCode=02C01501826A93522298",
+      "coupon_code": "02C01501826A93522298",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-masterclass-the-guide-to-ai-prompt-engineering-t/?couponCode=CBF12B859E0441A6590B",
+      "coupon_code": "CBF12B859E0441A6590B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/design-a-website-template-using-html5-css3/?couponCode=22D6A5BF783D16EC0EA7",
+      "coupon_code": "22D6A5BF783D16EC0EA7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=47E9E519378F0DA85FAD",
+      "coupon_code": "47E9E519378F0DA85FAD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-business-and-data-analysis/?couponCode=B0CF25091B363637C0BA",
+      "coupon_code": "B0CF25091B363637C0BA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-from-scratch-beginner-level/?couponCode=6A6C5148AB01084D464E",
+      "coupon_code": "6A6C5148AB01084D464E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-1-beginner-level/?couponCode=C02F24CB83FD413D82D5",
+      "coupon_code": "C02F24CB83FD413D82D5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-2-intermediate-level/?couponCode=34929707E236503ECC58",
+      "coupon_code": "34929707E236503ECC58",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-3-advanced-level/?couponCode=267BDFE21754F75430D9",
+      "coupon_code": "267BDFE21754F75430D9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-from-zero-to-hero-intermediate-level/?couponCode=FF1AB175703C15175F9D",
+      "coupon_code": "FF1AB175703C15175F9D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/?couponCode=68FAEA282C8816F0247D",
+      "coupon_code": "68FAEA282C8816F0247D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-android-kotlin-app-development-a-z-bootcamp/?couponCode=39C7BD857F4324D65E81",
+      "coupon_code": "39C7BD857F4324D65E81",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/60-day-startup/?couponCode=ENTDEC19242025",
       "coupon_code": "ENTDEC19242025",
@@ -20,7 +95,8 @@
     {
       "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=D41D1345CC50EA0BCCC9",
       "coupon_code": "D41D1345CC50EA0BCCC9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
     },
     {
       "url": "https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/?couponCode=85855A59097D20535C22",
