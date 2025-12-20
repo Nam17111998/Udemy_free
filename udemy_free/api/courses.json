@@ -1,12 +1,7 @@
 {
-  "updated_at": "2025-12-20T06:39:54Z",
-  "count": 931,
+  "updated_at": "2025-12-20T07:24:18Z",
+  "count": 936,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=86DFAB8667DCDE81D647",
-      "coupon_code": "86DFAB8667DCDE81D647",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=1E62858BEBA97DDF6184",
       "coupon_code": "1E62858BEBA97DDF6184",
@@ -32,10 +27,76 @@
       "title": "Burp Suite Mastery: From Beginner to Advanced"
     },
     {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-managers/?couponCode=3A1BF8F391C7D93CCE8D",
+      "coupon_code": "3A1BF8F391C7D93CCE8D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6477577_0599.jpg",
+      "title": "ChatGPT for Product Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-artificial-intelligence-and-python-developer-course/?couponCode=E2D250FF7688AA858DE0",
+      "coupon_code": "E2D250FF7688AA858DE0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6914713_930c.jpg",
+      "title": "Complete Artificial Intelligence and Python Developer Course"
+    },
+    {
       "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=15THDEC&ra",
       "coupon_code": "15THDEC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
       "title": "Empathy and Emotional Intelligence for Project Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6611461_d0c7_3.jpg",
+      "title": "Financial Services - Basics of Regulation & Compliance"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=15THDEC&ra",
+      "coupon_code": "15THDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
+      "title": "Financial Services - Overview of Retail Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-word-a-comprehensive-guide-to-boost-you/?couponCode=BC14BD9A4E5D72753514",
+      "coupon_code": "BC14BD9A4E5D72753514",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5229322_0aa4_2.jpg",
+      "title": "Mastering Microsoft Word: A Comprehensive Guide to Boost You"
+    },
+    {
+      "url": "https://www.udemy.com/course/powerpoint-business-presentations-with-chatgpt-generative-ai/?couponCode=408FEC94A6DDB3973BC6",
+      "coupon_code": "408FEC94A6DDB3973BC6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6228933_eea6.jpg",
+      "title": "PowerPoint Business Presentations with ChatGPT Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/presentation-expert-ai-gpt-pitch-decks-business-speech/?couponCode=709716A937701136E4D6",
+      "coupon_code": "709716A937701136E4D6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6228709_0636_2.jpg",
+      "title": "Presentation Expert: AI & GPT, Pitch Decks, Business Speech"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-regulatory-compliance-in-finance/?couponCode=0F13F976E86756E44C2C",
+      "coupon_code": "0F13F976E86756E44C2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6037222_7c09_3.jpg",
+      "title": "Professional Certificate in Regulatory Compliance"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-design-course-with-html-css-and-wordpress/?couponCode=3152362743845E7C0B93",
+      "coupon_code": "3152362743845E7C0B93",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266094_ae5a.jpg",
+      "title": "Web Design Course with HTML CSS and Wordpress"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=6951066051FF550B44B6",
+      "coupon_code": "6951066051FF550B44B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5883002_82a3_2.jpg",
+      "title": "Web Hacking For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=86DFAB8667DCDE81D647",
+      "coupon_code": "86DFAB8667DCDE81D647",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5278956_79a9_3.jpg",
+      "title": "Adobe Premiere Pro CC For Video Editing - Novice to Expert"
     },
     {
       "url": "https://www.udemy.com/course/essential-canva-course-for-graphics-design-learn-in-2-hour/?couponCode=20BAF7105DDE402A969C",
@@ -74,27 +135,10 @@
       "title": "Learn ChatGPT, Midjourney, AI and Use it For Passive Income"
     },
     {
-      "url": "https://www.udemy.com/course/professional-certificate-in-regulatory-compliance-in-finance/?couponCode=0F13F976E86756E44C2C",
-      "coupon_code": "0F13F976E86756E44C2C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6037222_7c09_3.jpg",
-      "title": "Professional Certificate in Regulatory Compliance"
-    },
-    {
-      "url": "https://www.udemy.com/course/web-design-course-with-html-css-and-wordpress/?couponCode=3152362743845E7C0B93",
-      "coupon_code": "3152362743845E7C0B93",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5266094_ae5a.jpg",
-      "title": "Web Design Course with HTML CSS and Wordpress"
-    },
-    {
-      "url": "https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=6951066051FF550B44B6",
-      "coupon_code": "6951066051FF550B44B6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5883002_82a3_2.jpg",
-      "title": "Web Hacking For Beginners"
-    },
-    {
       "url": "https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=7E2EBB51FEA5FD4BDDB0",
       "coupon_code": "7E2EBB51FEA5FD4BDDB0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5313330_d78b_2.jpg",
+      "title": "Advance MS Excel VBA for Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=15THDEC",
@@ -105,7 +149,8 @@
     {
       "url": "https://www.udemy.com/course/essential-excel-with-tips-trick-shortcuts-and-job-success/?couponCode=C33EB5FA0D93C93334EB",
       "coupon_code": "C33EB5FA0D93C93334EB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5313324_8cc2.jpg",
+      "title": "Essential Excel With Tips Trick Shortcuts and Job Success"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=15THDEC",
@@ -300,12 +345,6 @@
       "title": "Excellence in Management Case Analysis using AI Coaching"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6611461_d0c7_3.jpg",
-      "title": "Financial Services - Basics of Regulation & Compliance"
-    },
-    {
       "url": "https://www.udemy.com/course/guesstimates-and-case-interviews-excellence/?couponCode=550EA6B12995B3D32176",
       "coupon_code": "550EA6B12995B3D32176",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4716500_7279_4.jpg",
@@ -376,12 +415,6 @@
       "coupon_code": "2DE6F17850EC0CE77C56",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5959386_a56a.jpg",
       "title": "Executive Certificate in Company Direction"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=15THDEC&ra",
-      "coupon_code": "15THDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
-      "title": "Financial Services - Overview of Retail Banking"
     },
     {
       "url": "https://www.udemy.com/course/flutter-the-guide-to-build-android-ios-and-web-apps/?couponCode=8A0FBD565022C4BB24EA",
