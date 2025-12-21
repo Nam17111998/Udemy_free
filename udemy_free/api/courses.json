@@ -1,7 +1,13 @@
 {
-  "updated_at": "2025-12-21T19:21:31Z",
-  "count": 953,
+  "updated_at": "2025-12-21T20:29:33Z",
+  "count": 955,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-certificate-in-business-marketing-strategy/?couponCode=19C9ACC4DC575F080570",
+      "coupon_code": "19C9ACC4DC575F080570",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6442635_1cbb_2.jpg",
+      "title": "Advanced Certificate in Business & Marketing Strategy"
+    },
     {
       "url": "https://www.udemy.com/course/ai-content-generation-audio-video-image-text-with-google-adobe-chatgpt/?couponCode=EC0F4FEA714B3CBC1388",
       "coupon_code": "EC0F4FEA714B3CBC1388",
@@ -11,33 +17,26 @@
     {
       "url": "https://www.udemy.com/course/ai-powered-product-marketing-and-market-research/?couponCode=8FF085E7795CD6A8C2B8",
       "coupon_code": "8FF085E7795CD6A8C2B8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6429141_259b_3.jpg",
+      "title": "AI-Powered Product Marketing and Market Research"
     },
     {
       "url": "https://www.udemy.com/course/building-company-budget-a-comprehensive-guide-for-financial/?couponCode=75A8C57E81CAF8097FC7",
       "coupon_code": "75A8C57E81CAF8097FC7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-face-recognition-attendance-system-using-knn/?couponCode=83A78BA05643AC867ED3",
-      "coupon_code": "83A78BA05643AC867ED3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6259555_a90f_2.jpg",
+      "title": "Building company budget: A Comprehensive Guide."
     },
     {
       "url": "https://www.udemy.com/course/cost-accounting-from-fundamentals-to-advanced-analysis/?couponCode=E30F4D4B79F896B8EC04",
       "coupon_code": "E30F4D4B79F896B8EC04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/curso-de-siteground-el-mejor-hosting-para-wordpress/?couponCode=SITEGROUND-GR103",
-      "coupon_code": "SITEGROUND-GR103",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3947090_9d9c_7.jpg",
-      "title": "Curso SiteGround 2025: El Mejor Hosting para WordPress"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6588653_0c5f.jpg",
+      "title": "Cost Accounting: Fundamentals to Advanced with Excel Cases."
     },
     {
       "url": "https://www.udemy.com/course/deep-learning-all-models-explained-for-beginners/?couponCode=2344C1DA57920D443A49",
       "coupon_code": "2344C1DA57920D443A49",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860645_1681.jpg",
+      "title": "DEEP LEARNING ALL MODELS EXPLAINED FOR BEGINNERS"
     },
     {
       "url": "https://www.udemy.com/course/evergreen-instagram-marketing-theories-that-always-works/?couponCode=AAB38F0F16384A14BCF4",
@@ -48,22 +47,32 @@
     {
       "url": "https://www.udemy.com/course/excel-from-zero-to-pro/?couponCode=EXCELFREE2112",
       "coupon_code": "EXCELFREE2112",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5963952_60ab.jpg",
+      "title": "Excel from Zero to Pro - الإيكسل من الصفر للاحتراف"
     },
     {
       "url": "https://www.udemy.com/course/internal-auditing-principles-practices-and-applications/?couponCode=8054B0F07E204176C136",
       "coupon_code": "8054B0F07E204176C136",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6532433_dc16.jpg",
+      "title": "Internal Auditing: Principles, Practices, and Applications"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-office-specialist-microsoft-excel-advanced-expert/?couponCode=6168FAB9F731B614ED7A",
       "coupon_code": "6168FAB9F731B614ED7A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6422925_7726_2.jpg",
+      "title": "Microsoft Office Specialist: Microsoft Excel Advanced Expert"
     },
     {
       "url": "https://www.udemy.com/course/pgd-fire-safety-management/?couponCode=AFC539340EC9B0D78020",
       "coupon_code": "AFC539340EC9B0D78020",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6669417_e4e2_2.jpg",
+      "title": "Postgraduate Diploma in Fire Safety Management (PGDFSM)"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-project-and-process-management/?couponCode=299D358D64D63F6AA12C",
+      "coupon_code": "299D358D64D63F6AA12C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6447181_aa36.jpg",
+      "title": "Professional Certificate in Project and Process Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-risk-management/?couponCode=38F92329143DAEFB6CC3",
@@ -74,12 +83,26 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-procurement-management/?couponCode=A6A850DCD3278D434366",
       "coupon_code": "A6A850DCD3278D434366",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180255_1f1e.jpg",
+      "title": "Professional Diploma in Procurement Management"
     },
     {
       "url": "https://www.udemy.com/course/warehousemanagement/?couponCode=2BB27A20C5EFFB70B72C",
       "coupon_code": "2BB27A20C5EFFB70B72C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180261_af84_2.jpg",
+      "title": "Professional Diploma in Warehouse Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-face-recognition-attendance-system-using-knn/?couponCode=83A78BA05643AC867ED3",
+      "coupon_code": "83A78BA05643AC867ED3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5937084_16d3_2.jpg",
+      "title": "Face Recognition Attendance Project Using Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-siteground-el-mejor-hosting-para-wordpress/?couponCode=SITEGROUND-GR103",
+      "coupon_code": "SITEGROUND-GR103",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3947090_9d9c_7.jpg",
+      "title": "Curso SiteGround 2025: El Mejor Hosting para WordPress"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-tarjeta-de-presentacion-digital-con-wordpress/?couponCode=TARJETA-GR114",
