@@ -1,13 +1,7 @@
 {
-  "updated_at": "2025-12-21T17:23:12Z",
-  "count": 942,
+  "updated_at": "2025-12-21T18:36:52Z",
+  "count": 948,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/advanced-certificate-in-customer-experience-management/?couponCode=25D26EB86053A5CD9498",
-      "coupon_code": "25D26EB86053A5CD9498",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6362575_6b46_2.jpg",
-      "title": "Advanced Certificate in Customer Experience Management"
-    },
     {
       "url": "https://www.udemy.com/course/ai-content-generation-audio-video-image-text-with-google-adobe-chatgpt/?couponCode=EC0F4FEA714B3CBC1388",
       "coupon_code": "EC0F4FEA714B3CBC1388",
@@ -15,10 +9,9 @@
       "title": "Full-Stack AI Creator: Audio, Video, Image w/ Google & Adobe"
     },
     {
-      "url": "https://www.udemy.com/course/como-crear-una-landing-page-con-wordpress-desde-cero/?couponCode=LANDING-GR118",
-      "coupon_code": "LANDING-GR118",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4234262_07d6_5.jpg",
-      "title": "Cómo Crear una Landing Page con WordPress Desde Cero 2025"
+      "url": "https://www.udemy.com/course/building-company-budget-a-comprehensive-guide-for-financial/?couponCode=75A8C57E81CAF8097FC7",
+      "coupon_code": "75A8C57E81CAF8097FC7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-tarjeta-de-presentacion-digital-con-wordpress/?couponCode=TARJETA-GR114",
@@ -31,6 +24,16 @@
       "coupon_code": "TIENDA-GR135",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4556704_fc04.jpg",
       "title": "Cómo Crear una Tienda Online con WordPress Desde Cero 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-face-recognition-attendance-system-using-knn/?couponCode=83A78BA05643AC867ED3",
+      "coupon_code": "83A78BA05643AC867ED3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cost-accounting-from-fundamentals-to-advanced-analysis/?couponCode=E30F4D4B79F896B8EC04",
+      "coupon_code": "E30F4D4B79F896B8EC04",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/curso-de-hostgator-el-hosting-ideal-para-wordpress/?couponCode=HOSTGATOR-GR101",
@@ -51,16 +54,55 @@
       "title": "Curso WordPress 2025:  Cómo Crear una Página Web Desde Cero"
     },
     {
-      "url": "https://www.udemy.com/course/data-quality-data-management-data-governance-certificate/?couponCode=317B875E1A62533ED8D6",
-      "coupon_code": "317B875E1A62533ED8D6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6406727_798e.jpg",
-      "title": "Data Quality, Data Management & Data Governance Certificate"
+      "url": "https://www.udemy.com/course/deep-learning-all-models-explained-for-beginners/?couponCode=2344C1DA57920D443A49",
+      "coupon_code": "2344C1DA57920D443A49",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/evergreen-instagram-marketing-theories-that-always-works/?couponCode=AAB38F0F16384A14BCF4",
       "coupon_code": "AAB38F0F16384A14BCF4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6473749_5425_3.jpg",
       "title": "Evergreen Instagram Marketing Theories That Always Works"
+    },
+    {
+      "url": "https://www.udemy.com/course/internal-auditing-principles-practices-and-applications/?couponCode=8054B0F07E204176C136",
+      "coupon_code": "8054B0F07E204176C136",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-en-wordpress-desde-cero-hasta-experto/?couponCode=MASTER-PA114",
+      "coupon_code": "MASTER-PA114",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4784786_c247.jpg",
+      "title": "Máster en WordPress 2025, ¡Desde Cero Hasta Experto!"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-specialist-microsoft-excel-advanced-expert/?couponCode=6168FAB9F731B614ED7A",
+      "coupon_code": "6168FAB9F731B614ED7A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-risk-management/?couponCode=38F92329143DAEFB6CC3",
+      "coupon_code": "38F92329143DAEFB6CC3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6421785_36d5.jpg",
+      "title": "Professional Certificate in Risk Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-certificate-in-customer-experience-management/?couponCode=25D26EB86053A5CD9498",
+      "coupon_code": "25D26EB86053A5CD9498",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6362575_6b46_2.jpg",
+      "title": "Advanced Certificate in Customer Experience Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-landing-page-con-wordpress-desde-cero/?couponCode=LANDING-GR118",
+      "coupon_code": "LANDING-GR118",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4234262_07d6_5.jpg",
+      "title": "Cómo Crear una Landing Page con WordPress Desde Cero 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-quality-data-management-data-governance-certificate/?couponCode=317B875E1A62533ED8D6",
+      "coupon_code": "317B875E1A62533ED8D6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6406727_798e.jpg",
+      "title": "Data Quality, Data Management & Data Governance Certificate"
     },
     {
       "url": "https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=964DCAFFA069632961E7",
@@ -73,18 +115,6 @@
       "coupon_code": "F1BC3B5E18406678AA7A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6408335_2e49.jpg",
       "title": "Lean & Quality Management, Six Sigma, Continuous Improvement"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-en-wordpress-desde-cero-hasta-experto/?couponCode=MASTER-PA114",
-      "coupon_code": "MASTER-PA114",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4784786_c247.jpg",
-      "title": "Máster en WordPress 2025, ¡Desde Cero Hasta Experto!"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-risk-management/?couponCode=38F92329143DAEFB6CC3",
-      "coupon_code": "38F92329143DAEFB6CC3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6421785_36d5.jpg",
-      "title": "Professional Certificate in Risk Management"
     },
     {
       "url": "https://www.udemy.com/course/virology-4-you/?couponCode=79CF4279352D6E2B3E5C",
