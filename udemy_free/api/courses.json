@@ -1,41 +1,96 @@
 {
-  "updated_at": "2025-12-22T12:57:22Z",
-  "count": 943,
+  "updated_at": "2025-12-22T13:41:04Z",
+  "count": 945,
   "courses": [
     {
       "url": "https://www.udemy.com/course/ai-literacy-for-all-employees-v/?couponCode=22DECEMBER2025",
       "coupon_code": "22DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6955225_c34e.jpg",
+      "title": "AI Literacy for All Employees"
     },
     {
       "url": "https://www.udemy.com/course/ai-voice-creation-for-every-industry-with-elevenlabs/?couponCode=22DECEMBER2025",
       "coupon_code": "22DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6580965_7f0a.jpg",
+      "title": "AI Voice Creation for Every Industry with ElevenLabs"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-creative-writing-content-creation/?couponCode=80E3C1DF33827020CC05",
       "coupon_code": "80E3C1DF33827020CC05",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5913750_892b_4.jpg",
+      "title": "Creative Writing AI Course: Creative Writing Using ChatGPT"
     },
     {
       "url": "https://www.udemy.com/course/conversion-optimization-course/?couponCode=22DECEMBER2025",
       "coupon_code": "22DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4727976_5602_2.jpg",
+      "title": "Grow Your Sales With Conversion Rate Optimization (CRO)"
+    },
+    {
+      "url": "https://www.udemy.com/course/disruptive-thinking-and-disruptive-innovations/?couponCode=73B10686650DD4D3C214",
+      "coupon_code": "73B10686650DD4D3C214",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6573409_3867.jpg",
+      "title": "Disruptive Thinking: Innovation, Creativity, Transformation"
     },
     {
       "url": "https://www.udemy.com/course/fire-fighting-design-fire-fighting-sprinkler-system-design-a-z/?couponCode=1EDDEE34A9F6F5B5B81A",
       "coupon_code": "1EDDEE34A9F6F5B5B81A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761197_a199_2.jpg",
+      "title": "Fire Fighting 2.0: Fire Fighting Sprinkler System Design A-Z"
     },
     {
       "url": "https://www.udemy.com/course/freepik-pro-from-assets-to-ai-creation/?couponCode=22DECEMBER2025",
       "coupon_code": "22DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6884031_cd75.jpg",
+      "title": "Freepik Pro: From Assets to AI Creation"
     },
     {
       "url": "https://www.udemy.com/course/gestion-del-tiempo-y-timeboxing-en-negocios-y-organizaciones/?couponCode=B4ACE572C56345D6D52A",
       "coupon_code": "B4ACE572C56345D6D52A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6571667_1d4b_2.jpg",
+      "title": "Gestión del Tiempo y Timeboxing en Negocios y Organizaciones"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-fast-entry-programming-for-everyone/?couponCode=22DECEMBER2025",
+      "coupon_code": "22DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927805_2691.jpg",
+      "title": "JavaScript Fast Entry: Programming for Everyone"
+    },
+    {
+      "url": "https://www.udemy.com/course/marketing-strategy-development/?couponCode=22DECEMBER2025",
+      "coupon_code": "22DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5843860_882b.jpg",
+      "title": "Marketing Strategy Development: Stand Out From the Crowd"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-social-media-marketing-management/?couponCode=B63C9E108DE188E1FB50",
+      "coupon_code": "B63C9E108DE188E1FB50",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6640071_26fb_2.jpg",
+      "title": "Mastering Social Media Marketing and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/nextjs-build-scalable-react-apps-with-page-app-routers/?couponCode=22DECEMBER2025",
+      "coupon_code": "22DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860605_1684_2.jpg",
+      "title": "Next.js: Build Scalable React Apps with Page & App Routers"
+    },
+    {
+      "url": "https://www.udemy.com/course/pmp-knowledge-boost-stay-on-track-with-pmi-standards/?couponCode=22DECEMBER2025",
+      "coupon_code": "22DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6904487_02ee_2.jpg",
+      "title": "PMP Knowledge Boost: Stay on Track with PMI Standards"
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-sql-query-and-manage-databases/?couponCode=906C436FB247084168D0",
+      "coupon_code": "906C436FB247084168D0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6571313_89db.jpg",
+      "title": "Practical SQL with SQLite"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-system-of-prompt-engineering/?couponCode=22DECEMBER2025",
+      "coupon_code": "22DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863839_861e.jpg",
+      "title": "The Complete System of Prompt Engineering"
     },
     {
       "url": "https://www.udemy.com/course/growth_international_marketing/?couponCode=FDECEMBER24",
@@ -44,40 +99,10 @@
       "title": "١٩ - ٢٠ - تحقيق النمو  والتسويق العالمي"
     },
     {
-      "url": "https://www.udemy.com/course/javascript-fast-entry-programming-for-everyone/?couponCode=22DECEMBER2025",
-      "coupon_code": "22DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/marketing-strategy-development/?couponCode=22DECEMBER2025",
-      "coupon_code": "22DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/nextjs-build-scalable-react-apps-with-page-app-routers/?couponCode=22DECEMBER2025",
-      "coupon_code": "22DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/operations-and-process-management-data-analysis-analytics/?couponCode=44235E41F5A3605C952A",
       "coupon_code": "44235E41F5A3605C952A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6561535_4d3f.jpg",
       "title": "Operations and Process Management Data Analysis & Analytics"
-    },
-    {
-      "url": "https://www.udemy.com/course/pmp-knowledge-boost-stay-on-track-with-pmi-standards/?couponCode=22DECEMBER2025",
-      "coupon_code": "22DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/practical-sql-query-and-manage-databases/?couponCode=906C436FB247084168D0",
-      "coupon_code": "906C436FB247084168D0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-system-of-prompt-engineering/?couponCode=22DECEMBER2025",
-      "coupon_code": "22DECEMBER2025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/azure-infrastructure-azure-resources-using-arm-templates/?couponCode=D0A009FD64E52C1C716D",
