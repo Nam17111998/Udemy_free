@@ -1,16 +1,104 @@
 {
-  "updated_at": "2025-12-23T13:43:04Z",
-  "count": 982,
+  "updated_at": "2025-12-23T14:29:35Z",
+  "count": 997,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-image-generation-for-business-marketing/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/blogging-and-influencer-marketing/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatbot-marketing-course/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cold-marketing-strategy/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/crack-windows-passwords/?couponCode=01FE5FDEAF30906FA6E3",
+      "coupon_code": "01FE5FDEAF30906FA6E3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4897506_489a_2.jpg",
+      "title": "Complete Windows Password Cracking Course | Practical Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3833784_12ca_9.jpg",
+      "title": "AI-Powered Digital Marketer. ChatGPT & 80+ AI tools to grow"
+    },
+    {
+      "url": "https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4204914_120f_4.jpg",
+      "title": "Email Marketing. Increase Sales With Email Marketing!"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-ads-launch-pro-advertising-campaigns/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4793900_b22f.jpg",
+      "title": "Facebook Ads 2025: Launch Your Best Advertising Campaign"
+    },
+    {
+      "url": "https://www.udemy.com/course/genai-readiness-implementation-transformation/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6972547_43b9.jpg",
+      "title": "Gen AI Readiness, Implementation and Transformation"
+    },
+    {
+      "url": "https://www.udemy.com/course/midjourney-comprehensive/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5491812_d0e9.jpg",
+      "title": "Midjourney For Beginners: Creating Visuals Using AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-all-levels/?couponCode=A7359C79ED22CFA32451",
+      "coupon_code": "A7359C79ED22CFA32451",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6961271_0971_3.jpg",
+      "title": "Python Course All Levels"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-data-analysis-and-data-science/?couponCode=6DAE2DB990C6EEE10BA4",
+      "coupon_code": "6DAE2DB990C6EEE10BA4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581245_e1e8_2.jpg",
+      "title": "Python for Data analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/shopify-complete-guide/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5672308_9867.jpg",
+      "title": "Shopify: Your Essential Guide to E-commerce Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=23DECEMBER2025",
+      "coupon_code": "23DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3967614_a9a9_8.jpg",
+      "title": "AI-Powered Social Media Marketing: ChatGPT and 100 AI Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/webhack-for-ethical-hacking-ultimate-defensive-skills-h/?couponCode=E2759D7299BEC0BCF494",
+      "coupon_code": "E2759D7299BEC0BCF494",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6959693_0d25_3.jpg",
+      "title": "WebHack for Ethical Hacking  Ultimate Defensive Skills"
+    },
     {
       "url": "https://www.udemy.com/course/3d-printing-masterclass-beginner-to-pro-with-complete-start/?couponCode=D1FCF1915B08FD846C46",
       "coupon_code": "D1FCF1915B08FD846C46",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6922187_cbd3.jpg",
+      "title": "3D Printing Masterclass: Beginner to Pro with Complete Start"
     },
     {
       "url": "https://www.udemy.com/course/account-based-marketing-abm-step-by-step-u/?couponCode=DCD1A2F92DFC22032F1F",
       "coupon_code": "DCD1A2F92DFC22032F1F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6804465_49ae.jpg",
+      "title": "Account-Based Marketing (ABM) Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-email-marketing-a-complete-guide/?couponCode=23DECEMBER2025",
@@ -21,62 +109,74 @@
     {
       "url": "https://www.udemy.com/course/azure-for-beginners-portal-virtual-machine-and-compute/?couponCode=20D5CEF8B8C788D3FCB3",
       "coupon_code": "20D5CEF8B8C788D3FCB3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2075100_e558_4.jpg",
+      "title": "Microsoft Azure Administrator Complete Course: AZ-104 (2025)"
     },
     {
       "url": "https://www.udemy.com/course/b2b-outreach-system-from-lead-research-to-closed-deals/?couponCode=1131B20BF7E5D700E576",
       "coupon_code": "1131B20BF7E5D700E576",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6937451_3f45_2.jpg",
+      "title": "B2B Outreach System: From Lead Research to Closed Deals"
     },
     {
       "url": "https://www.udemy.com/course/certification-in-devops-with-cloud-docker-ci-cd-ansible/?couponCode=D3DB90C5E69D8CC80C27",
       "coupon_code": "D3DB90C5E69D8CC80C27",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6964663_3e9e.jpg",
+      "title": "Certification in DevOps with Cloud, Docker, CI CD & Ansible"
     },
     {
       "url": "https://www.udemy.com/course/cybersecurity-ai-safety-awareness/?couponCode=EDBC07FF73951252AFEC",
       "coupon_code": "EDBC07FF73951252AFEC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6969837_0e2a.jpg",
+      "title": "Cybersecurity & AI Safety Awareness for Employees"
     },
     {
       "url": "https://www.udemy.com/course/ethical-ai-use-in-business-d/?couponCode=FD16069FEE4C3B123B76",
       "coupon_code": "FD16069FEE4C3B123B76",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6956009_cf65_2.jpg",
+      "title": "Ethical AI Use in Business"
     },
     {
       "url": "https://www.udemy.com/course/ik-butce-yonetimi-planlama-ve-maliyet-gerekcelendirme-tr/?couponCode=PAPAHR_DEC_23",
       "coupon_code": "PAPAHR_DEC_23",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6966875_a02e.jpg",
+      "title": "İK bütçe yönetimi: planlama ve maliyet gerekçelendirme [TR]"
     },
     {
       "url": "https://www.udemy.com/course/implement-energy-risk-management-step-by-step/?couponCode=ABEC8E2B4A6850C6A755",
       "coupon_code": "ABEC8E2B4A6850C6A755",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5977434_fc51.jpg",
+      "title": "Implement Energy Risk Management Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/iso-270012022-internal-audit-step-by-step-x/?couponCode=37CDD6625C11CC10A12A",
       "coupon_code": "37CDD6625C11CC10A12A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5951770_f5b7.jpg",
+      "title": "ISO 27001:2022 Internal Audit Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/marketing-dashboards-turning-metrics-into-decisions/?couponCode=SNOWFLAKESKILLS",
       "coupon_code": "SNOWFLAKESKILLS",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6898497_a286.jpg",
+      "title": "Marketing Dashboards: Turning Metrics into Decisions"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-teams-course/?couponCode=53BA24996FDBCF15DD3E",
       "coupon_code": "53BA24996FDBCF15DD3E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6943297_ac60.jpg",
+      "title": "Microsoft Teams Basics"
     },
     {
       "url": "https://www.udemy.com/course/osint-alles-finden-online-suchen-und-recherchieren-de/?couponCode=A96D4BD4B13D9879206E",
       "coupon_code": "A96D4BD4B13D9879206E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6974799_4cc9.jpg",
+      "title": "OSINT: Alles finden, online suchen und recherchieren [DE]"
     },
     {
       "url": "https://www.udemy.com/course/pet-business-with-dog-grooming-for-aspiring-petpreneurs/?couponCode=D996784624D44FD1A575",
       "coupon_code": "D996784624D44FD1A575",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6971185_581d.jpg",
+      "title": "Pet Business with Dog Grooming  for Aspiring Petpreneurs"
     },
     {
       "url": "https://www.udemy.com/course/accounting-for-fixed-assets-and-depreciation/?couponCode=05C041772FF4590890FE",
@@ -99,7 +199,8 @@
     {
       "url": "https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=468F022406C8C0CD51BA",
       "coupon_code": "468F022406C8C0CD51BA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6699075_bc0d_2.jpg",
+      "title": "Mastering Black Hat Techniques: A Guide to Hacking & Cyberse"
     },
     {
       "url": "https://www.udemy.com/course/excel-data-insights-power-query-pivot-analysis-and-visuals/?couponCode=7CD609AF4E060008D24B",
@@ -152,12 +253,14 @@
     {
       "url": "https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=0204EFF47359956D71F8",
       "coupon_code": "0204EFF47359956D71F8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4308301_b239.jpg",
+      "title": "CyberSecurity Bootcamp: The Ultimate Beginner's Course"
     },
     {
       "url": "https://www.udemy.com/course/tableau-bi-masterclass-create-actionable-dashboards/?couponCode=53779A97241022516F21",
       "coupon_code": "53779A97241022516F21",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6856781_c5d9.jpg",
+      "title": "The Complete Tableau BI Masterclass 2025: Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-java-programming-course-hands-on-training/?couponCode=8FDCE1186C1D620C66F2",
