@@ -1,7 +1,13 @@
 {
-  "updated_at": "2025-12-24T19:22:13Z",
-  "count": 957,
+  "updated_at": "2025-12-24T20:30:26Z",
+  "count": 958,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/body-languagenon-verbal-communication-for-business/?couponCode=25AA783FDC87557F3D46",
+      "coupon_code": "25AA783FDC87557F3D46",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5867364_bea3.jpg",
+      "title": "Body Language/Non-Verbal Communication For Business"
+    },
     {
       "url": "https://www.udemy.com/course/change-management-fundamentals-lead-people-through-change/?couponCode=89AC17EBA4C70B184932",
       "coupon_code": "89AC17EBA4C70B184932",
@@ -19,12 +25,6 @@
       "coupon_code": "B2F603C70D1BF0EAAA3F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6969837_0e2a.jpg",
       "title": "Cybersecurity & AI Safety Awareness for Employees"
-    },
-    {
-      "url": "https://www.udemy.com/course/employee-recognition-program/?couponCode=E97A23FABAFA6AF33E42",
-      "coupon_code": "E97A23FABAFA6AF33E42",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5453786_d980.jpg",
-      "title": "Mastering Employee Recognition: Development & Implementation"
     },
     {
       "url": "https://www.udemy.com/course/ethical-hacking-for-beginners-learn-the-core-phases-tools/?couponCode=ABC5A8700C7798511095",
@@ -91,6 +91,12 @@
       "coupon_code": "DE0BD1B131ED0EC8E829",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6581417_b19b.jpg",
       "title": "Vim Fundamentals: Vim for Devs, Linux Users and Sysadmins"
+    },
+    {
+      "url": "https://www.udemy.com/course/employee-recognition-program/?couponCode=E97A23FABAFA6AF33E42",
+      "coupon_code": "E97A23FABAFA6AF33E42",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5453786_d980.jpg",
+      "title": "Mastering Employee Recognition: Development & Implementation"
     },
     {
       "url": "https://www.udemy.com/course/non-tech-product-management/?couponCode=F861F907E851B31C7B77",
