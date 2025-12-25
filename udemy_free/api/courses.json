@@ -1,13 +1,7 @@
 {
-  "updated_at": "2025-12-25T19:21:56Z",
-  "count": 987,
+  "updated_at": "2025-12-25T20:31:08Z",
+  "count": 994,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/agile-mindset-learnit/?couponCode=DECEMBER_FREE3_2025",
-      "coupon_code": "DECEMBER_FREE3_2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6522467_add9.jpg",
-      "title": "Agile Mindset & Adaptability: The Complete Guide to XP"
-    },
     {
       "url": "https://www.udemy.com/course/certificado-profissional-em-gestao-de-projetos/?couponCode=0F5F5815EA9521879BA6",
       "coupon_code": "0F5F5815EA9521879BA6",
@@ -21,10 +15,46 @@
       "title": "Comet Browser Masterclass: Complete Guide to the Agentic Web"
     },
     {
-      "url": "https://www.udemy.com/course/databases-learnit/?couponCode=DECEMBER_FREE3_2025",
-      "coupon_code": "DECEMBER_FREE3_2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4309902_4081_2.jpg",
-      "title": "Relational Databases & SQL: Complete Guide for Developers"
+      "url": "https://www.udemy.com/course/como-crear-correos-corporativos-con-dominio-propio-en-gmail/?couponCode=CORREOS-GR106",
+      "coupon_code": "CORREOS-GR106",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4907770_7dc7_3.jpg",
+      "title": "Crea Correos Corporativos con Dominio Propio en Gmail 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-hostinger-desde-cero/?couponCode=HOST-GR103",
+      "coupon_code": "HOST-GR103",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5202778_4aef_2.jpg",
+      "title": "Cómo Crear una Página Web con Hostinger Desde Cero 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-para-principiantes/?couponCode=WPR-GR102",
+      "coupon_code": "WPR-GR102",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5224044_bb4e.jpg",
+      "title": "Cómo Crear una Página Web con WordPress Para Principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-chatgpt-desde-cero/?couponCode=WEB-CH100",
+      "coupon_code": "WEB-CH100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5276404_a7be.jpg",
+      "title": "Cómo Crear una Página Web con WordPress y ChatGPT Desde Cero"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-y-woocommerce/?couponCode=TIENDAH-GR117",
+      "coupon_code": "TIENDAH-GR117",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4907234_5440_3.jpg",
+      "title": "Cómo Crear una Tienda Online con WordPress y WooCommerce"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-tienda-online-desde-cero-para-principiantes/?couponCode=HOSNU-GR102",
+      "coupon_code": "HOSNU-GR102",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5203736_0e85.jpg",
+      "title": "Cómo Crear Una Tienda Online Desde Cero Para Principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-migrar-un-sitio-web-de-wordpress-a-otro-dominio-o-hosting/?couponCode=SM-GR105",
+      "coupon_code": "SM-GR105",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5169780_747c.jpg",
+      "title": "Migra un Sitio Web de WordPress a otro Dominio o Hosting"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-business-management/?couponCode=0E88703560DCA62E787D",
@@ -51,6 +81,30 @@
       "title": "Professional Diploma in Leadership"
     },
     {
+      "url": "https://www.udemy.com/course/software-architecture-learnit/?couponCode=DECEMBER_FREE3_2025",
+      "coupon_code": "DECEMBER_FREE3_2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3957390_1f27.jpg",
+      "title": "Software Architecture and Clean Code Design in OOP"
+    },
+    {
+      "url": "https://www.udemy.com/course/test-metrics-kpis-learnit/?couponCode=DECEMBER_FREE3_2025",
+      "coupon_code": "DECEMBER_FREE3_2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643209_0e5d.jpg",
+      "title": "Defect Management & QA Reporting: Metrics & KPIs"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-mindset-learnit/?couponCode=DECEMBER_FREE3_2025",
+      "coupon_code": "DECEMBER_FREE3_2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6522467_add9.jpg",
+      "title": "Agile Mindset & Adaptability: The Complete Guide to XP"
+    },
+    {
+      "url": "https://www.udemy.com/course/databases-learnit/?couponCode=DECEMBER_FREE3_2025",
+      "coupon_code": "DECEMBER_FREE3_2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4309902_4081_2.jpg",
+      "title": "Relational Databases & SQL: Complete Guide for Developers"
+    },
+    {
       "url": "https://www.udemy.com/course/qa-metrics-kpis-learnit/?couponCode=DECEMBER_FREE3_2025",
       "coupon_code": "DECEMBER_FREE3_2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6643199_eee7.jpg",
@@ -67,18 +121,6 @@
       "coupon_code": "DECEMBER_FREE3_2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6748711_2333.jpg",
       "title": "Secure Coding in Spring Boot: Real-World Coding Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/software-architecture-learnit/?couponCode=DECEMBER_FREE3_2025",
-      "coupon_code": "DECEMBER_FREE3_2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3957390_1f27.jpg",
-      "title": "Software Architecture and Clean Code Design in OOP"
-    },
-    {
-      "url": "https://www.udemy.com/course/test-metrics-kpis-learnit/?couponCode=DECEMBER_FREE3_2025",
-      "coupon_code": "DECEMBER_FREE3_2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6643209_0e5d.jpg",
-      "title": "Defect Management & QA Reporting: Metrics & KPIs"
     },
     {
       "url": "https://www.udemy.com/course/testing-for-developers/?couponCode=DECEMBER_FREE3_2025",
