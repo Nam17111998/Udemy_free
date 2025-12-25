@@ -1,7 +1,13 @@
 {
-  "updated_at": "2025-12-25T04:02:32Z",
-  "count": 959,
+  "updated_at": "2025-12-25T05:31:43Z",
+  "count": 964,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/bash-fundamentals-for-linux-users/?couponCode=6BF8FEACFF985AC61B45",
+      "coupon_code": "6BF8FEACFF985AC61B45",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6982145_933f_2.jpg",
+      "title": "Bash Fundamentals | For DevOps, Linux users, and You!"
+    },
     {
       "url": "https://www.udemy.com/course/body-languagenon-verbal-communication-for-business/?couponCode=25AA783FDC87557F3D46",
       "coupon_code": "25AA783FDC87557F3D46",
@@ -15,16 +21,10 @@
       "title": "Change Management Fundamentals: Lead People Through Change"
     },
     {
-      "url": "https://www.udemy.com/course/cybersecurity-ai-safety-awareness/?couponCode=B2F603C70D1BF0EAAA3F",
-      "coupon_code": "B2F603C70D1BF0EAAA3F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6969837_0e2a.jpg",
-      "title": "Cybersecurity & AI Safety Awareness for Employees"
-    },
-    {
-      "url": "https://www.udemy.com/course/employee-recognition-program/?couponCode=E97A23FABAFA6AF33E42",
-      "coupon_code": "E97A23FABAFA6AF33E42",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5453786_d980.jpg",
-      "title": "Mastering Employee Recognition: Development & Implementation"
+      "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=67B239F52BDC0B5F5450",
+      "coupon_code": "67B239F52BDC0B5F5450",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886376_a387_2.jpg",
+      "title": "Django Masterclass: Get Started With Django Web Development"
     },
     {
       "url": "https://www.udemy.com/course/facial-recognition-using-yolov7-deep-learning-project/?couponCode=660965B1E074035A5370",
@@ -33,22 +33,16 @@
       "title": "Facial Recognition with YOLOv7 : Best Deep Learning Project"
     },
     {
-      "url": "https://www.udemy.com/course/fintech-innovations/?couponCode=BB3E3228A68C8963ED55",
-      "coupon_code": "BB3E3228A68C8963ED55",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6643717_dfca_2.jpg",
-      "title": "Fintech Innovations: AI, Blockchain & Digital Payments"
-    },
-    {
       "url": "https://www.udemy.com/course/git-vsc-essentials/?couponCode=5950DF0C17F5898429D6",
       "coupon_code": "5950DF0C17F5898429D6",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6866891_2adb_3.jpg",
       "title": "Learn Git Version Control | Git Essentials for Developers"
     },
     {
-      "url": "https://www.udemy.com/course/jira-with-atlassian-intelligence-ai-rovo/?couponCode=6F97552234E6727418D9",
-      "coupon_code": "6F97552234E6727418D9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3748046_151c.jpg",
-      "title": "Mastering Jira® with Atlassian® Intelligence (AI) & Rovo®"
+      "url": "https://www.udemy.com/course/kotlin-mastering-complete-kotlin-web-development-course/?couponCode=029A9449ED0FDB870CBC",
+      "coupon_code": "029A9449ED0FDB870CBC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886332_eaea_3.jpg",
+      "title": "Kotlin Mastering: Complete Kotlin Web Development Course"
     },
     {
       "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=91AE8505907BD0345596",
@@ -63,21 +57,28 @@
       "title": "Prisma ORM Fundamentals"
     },
     {
-      "url": "https://www.udemy.com/course/project-managers-project-sponsors/?couponCode=008E0D8DC5F3CD6C70A5",
-      "coupon_code": "008E0D8DC5F3CD6C70A5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5951368_aeb9_2.jpg",
-      "title": "Working with Project Managers & Project Sponsors"
-    },
-    {
       "url": "https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=B81B4BB16D5CE5024DCB",
       "coupon_code": "B81B4BB16D5CE5024DCB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2861796_b954.jpg",
+      "title": "Python And Django Framework For Beginners Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-visualization-mastery-from-beginner-to-expert/?couponCode=2BD3807D9AAE6D4954EF",
+      "coupon_code": "2BD3807D9AAE6D4954EF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695873_5008.jpg",
+      "title": "Python Data Visualization Mastery: From Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/signals-in-angular-v19/?couponCode=A1ACD74060BE6C06179D",
       "coupon_code": "A1ACD74060BE6C06179D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6636705_c8de_2.jpg",
       "title": "Reactivity with Signals in Angular v19+"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-javascript-developer-learn-modern-javascript/?couponCode=6F2B05B9C9C9069E9FEA",
+      "coupon_code": "6F2B05B9C9C9069E9FEA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695975_d609_2.jpg",
+      "title": "The Complete JavaScript Developer: Learn Modern JavaScript"
     },
     {
       "url": "https://www.udemy.com/course/tmux-fundamentals/?couponCode=10326B57470FCBE3511D",
@@ -90,6 +91,36 @@
       "coupon_code": "DE0BD1B131ED0EC8E829",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6581417_b19b.jpg",
       "title": "Vim Fundamentals: Vim for Devs, Linux Users and Sysadmins"
+    },
+    {
+      "url": "https://www.udemy.com/course/cybersecurity-ai-safety-awareness/?couponCode=B2F603C70D1BF0EAAA3F",
+      "coupon_code": "B2F603C70D1BF0EAAA3F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6969837_0e2a.jpg",
+      "title": "Cybersecurity & AI Safety Awareness for Employees"
+    },
+    {
+      "url": "https://www.udemy.com/course/employee-recognition-program/?couponCode=E97A23FABAFA6AF33E42",
+      "coupon_code": "E97A23FABAFA6AF33E42",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5453786_d980.jpg",
+      "title": "Mastering Employee Recognition: Development & Implementation"
+    },
+    {
+      "url": "https://www.udemy.com/course/fintech-innovations/?couponCode=BB3E3228A68C8963ED55",
+      "coupon_code": "BB3E3228A68C8963ED55",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643717_dfca_2.jpg",
+      "title": "Fintech Innovations: AI, Blockchain & Digital Payments"
+    },
+    {
+      "url": "https://www.udemy.com/course/jira-with-atlassian-intelligence-ai-rovo/?couponCode=6F97552234E6727418D9",
+      "coupon_code": "6F97552234E6727418D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3748046_151c.jpg",
+      "title": "Mastering Jira® with Atlassian® Intelligence (AI) & Rovo®"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-managers-project-sponsors/?couponCode=008E0D8DC5F3CD6C70A5",
+      "coupon_code": "008E0D8DC5F3CD6C70A5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5951368_aeb9_2.jpg",
+      "title": "Working with Project Managers & Project Sponsors"
     },
     {
       "url": "https://www.udemy.com/course/preventing-insider-trading-global/?couponCode=37160773AB48D844170E",
