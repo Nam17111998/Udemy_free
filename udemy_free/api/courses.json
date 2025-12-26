@@ -1,12 +1,96 @@
 {
-  "updated_at": "2025-12-26T05:29:48Z",
-  "count": 925,
+  "updated_at": "2025-12-26T06:42:24Z",
+  "count": 931,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/?couponCode=8057D4B2DED345A74F5C",
+      "coupon_code": "8057D4B2DED345A74F5C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6905893_f165.jpg",
+      "title": "AI in Healthcare: A-Z Guide on Tech, Applications & Ethics"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-face-recognition-using-sql-database-project/?couponCode=5E5C1027F86F80D85048",
+      "coupon_code": "5E5C1027F86F80D85048",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5841048_da84_2.jpg",
+      "title": "Complete Face Recognition Using SQL Database Project 2025"
+    },
     {
       "url": "https://www.udemy.com/course/complete-hand-on-azure-administrator-training/?couponCode=DF828E971FB55B375D36",
       "coupon_code": "DF828E971FB55B375D36",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6221267_07d4_2.jpg",
       "title": "AZ-104: A Complete Hand-On Azure Administrator Training"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-security-engineer-megacourse-from-zero-to-hero/?couponCode=F4AF997FF8F133067348",
+      "coupon_code": "F4AF997FF8F133067348",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6146827_2025_7.jpg",
+      "title": "Cybersecurity Course 2025 : Beginner to Cybersecurity Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-sql-crash-course-from-zero-to-hero/?couponCode=6ECA8F0189F10A3F5553",
+      "coupon_code": "6ECA8F0189F10A3F5553",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5802976_cfdc_2.jpg",
+      "title": "Oracle Sql 2025 : Beginner to Sql Database Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotion-detection-using-yolov7-complete-project-course/?couponCode=AD8A99F2C85373F82FBE",
+      "coupon_code": "AD8A99F2C85373F82FBE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5758984_79c5_2.jpg",
+      "title": "Emotion Detection Machine Learning Project with YOLOv7 Model"
+    },
+    {
+      "url": "https://www.udemy.com/course/genai-for-accounting-finance-complete-masterclass/?couponCode=FREEFORDEC",
+      "coupon_code": "FREEFORDEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6373097_2219.jpg",
+      "title": "GenAI For Finance & Accounting : Complete Masterclass 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=ED3EAFD8288CB7D01DBE",
+      "coupon_code": "ED3EAFD8288CB7D01DBE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3972018_b05f.jpg",
+      "title": "HTML 5,Python,Flask Framework All In One Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=235399CEC19BA7A20C24",
+      "coupon_code": "235399CEC19BA7A20C24",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
+      "title": "Introduction to Human Resources Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-de-champion/?couponCode=7DC9D793F532A262719E",
+      "coupon_code": "7DC9D793F532A262719E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6840037_3e21.jpg",
+      "title": "Mental de Champion transformer tes problèmes en opportunités"
+    },
+    {
+      "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=48530CA848F8900108C6",
+      "coupon_code": "48530CA848F8900108C6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5560460_2aa2.jpg",
+      "title": "Advanced Program in Entrepreneurship"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-branding-and-brand-management/?couponCode=9EA3AAA11390BF8F4F98",
+      "coupon_code": "9EA3AAA11390BF8F4F98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5578468_3efd.jpg",
+      "title": "Professional Diploma in Branding & Brand Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-coaching-and-mentoring/?couponCode=EAA838E411B185FF5A7F",
+      "coupon_code": "EAA838E411B185FF5A7F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5589712_084b_2.jpg",
+      "title": "Professional Diploma in Coaching and Mentoring"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-development-essentials/?couponCode=1EF3B239D646D1499E02",
+      "coupon_code": "1EF3B239D646D1499E02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg",
+      "title": "Python Development Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-development-first-steps-and-development-ide-platform/?couponCode=F99A547CB52CE52DC9D5",
+      "coupon_code": "F99A547CB52CE52DC9D5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5578118_9536_2.jpg",
+      "title": "Python Development First Steps and Development IDE Platform"
     },
     {
       "url": "https://www.udemy.com/course/crisis-communications-training-for-oil-and-gas-executives/?couponCode=2D884494493CAA35E0F9",
@@ -27,28 +111,10 @@
       "title": "Media Training for Democratic Candidates: You Can Win"
     },
     {
-      "url": "https://www.udemy.com/course/genai-for-accounting-finance-complete-masterclass/?couponCode=FREEFORDEC",
-      "coupon_code": "FREEFORDEC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6373097_2219.jpg",
-      "title": "GenAI For Finance & Accounting : Complete Masterclass 2025"
-    },
-    {
       "url": "https://www.udemy.com/course/how-to-ask-for-a-raise2/?couponCode=6E4A072718598D082153",
       "coupon_code": "6E4A072718598D082153",
       "image_url": "https://img-c.udemycdn.com/course/480x270/296377_9d3a_3.jpg",
       "title": "Salary Negotiation - How to Ask for and Receive a Pay Raise"
-    },
-    {
-      "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=ED3EAFD8288CB7D01DBE",
-      "coupon_code": "ED3EAFD8288CB7D01DBE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3972018_b05f.jpg",
-      "title": "HTML 5,Python,Flask Framework All In One Complete Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=235399CEC19BA7A20C24",
-      "coupon_code": "235399CEC19BA7A20C24",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
-      "title": "Introduction to Human Resources Management"
     },
     {
       "url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=4D39071556BA72DDD526",
@@ -57,40 +123,10 @@
       "title": "Java And C++ And PHP Crash Course All in One For Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/mental-de-champion/?couponCode=7DC9D793F532A262719E",
-      "coupon_code": "7DC9D793F532A262719E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6840037_3e21.jpg",
-      "title": "Mental de Champion transformer tes problèmes en opportunités"
-    },
-    {
-      "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=48530CA848F8900108C6",
-      "coupon_code": "48530CA848F8900108C6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5560460_2aa2.jpg",
-      "title": "Advanced Program in Entrepreneurship"
-    },
-    {
       "url": "https://www.udemy.com/course/political-candidate-media-and-public-speaking-training/?couponCode=479355BD198A19831D06",
       "coupon_code": "479355BD198A19831D06",
       "image_url": "https://img-c.udemycdn.com/course/480x270/296399_9cb0_3.jpg",
       "title": "Media Training Public Speaking Training for Candidates"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-branding-and-brand-management/?couponCode=9EA3AAA11390BF8F4F98",
-      "coupon_code": "9EA3AAA11390BF8F4F98",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5578468_3efd.jpg",
-      "title": "Professional Diploma in Branding & Brand Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-development-essentials/?couponCode=1EF3B239D646D1499E02",
-      "coupon_code": "1EF3B239D646D1499E02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg",
-      "title": "Python Development Essentials"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-development-first-steps-and-development-ide-platform/?couponCode=F99A547CB52CE52DC9D5",
-      "coupon_code": "F99A547CB52CE52DC9D5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5578118_9536_2.jpg",
-      "title": "Python Development First Steps and Development IDE Platform"
     },
     {
       "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=DEC_FREE_AA03",
