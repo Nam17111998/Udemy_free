@@ -1,7 +1,13 @@
 {
-  "updated_at": "2025-12-26T04:00:33Z",
-  "count": 923,
+  "updated_at": "2025-12-26T05:29:48Z",
+  "count": 925,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/complete-hand-on-azure-administrator-training/?couponCode=DF828E971FB55B375D36",
+      "coupon_code": "DF828E971FB55B375D36",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6221267_07d4_2.jpg",
+      "title": "AZ-104: A Complete Hand-On Azure Administrator Training"
+    },
     {
       "url": "https://www.udemy.com/course/crisis-communications-training-for-oil-and-gas-executives/?couponCode=2D884494493CAA35E0F9",
       "coupon_code": "2D884494493CAA35E0F9",
@@ -19,12 +25,6 @@
       "coupon_code": "A21855EE876EFB45602C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/294870_69e9_4.jpg",
       "title": "Media Training for Democratic Candidates: You Can Win"
-    },
-    {
-      "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=DEC_FREE_AA03",
-      "coupon_code": "DEC_FREE_AA03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
-      "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
     },
     {
       "url": "https://www.udemy.com/course/genai-for-accounting-finance-complete-masterclass/?couponCode=FREEFORDEC",
@@ -75,6 +75,12 @@
       "title": "Media Training Public Speaking Training for Candidates"
     },
     {
+      "url": "https://www.udemy.com/course/professional-diploma-in-branding-and-brand-management/?couponCode=9EA3AAA11390BF8F4F98",
+      "coupon_code": "9EA3AAA11390BF8F4F98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5578468_3efd.jpg",
+      "title": "Professional Diploma in Branding & Brand Management"
+    },
+    {
       "url": "https://www.udemy.com/course/python-development-essentials/?couponCode=1EF3B239D646D1499E02",
       "coupon_code": "1EF3B239D646D1499E02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg",
@@ -85,6 +91,12 @@
       "coupon_code": "F99A547CB52CE52DC9D5",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5578118_9536_2.jpg",
       "title": "Python Development First Steps and Development IDE Platform"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=DEC_FREE_AA03",
+      "coupon_code": "DEC_FREE_AA03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
+      "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
     },
     {
       "url": "https://www.udemy.com/course/web3-development-essentials/?couponCode=5F9A527814D5C1151B8E",
