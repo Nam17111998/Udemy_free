@@ -1,51 +1,54 @@
 {
-  "updated_at": "2025-12-27T05:29:20Z",
-  "count": 929,
+  "updated_at": "2025-12-27T06:41:12Z",
+  "count": 930,
   "courses": [
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=3CC8D2AC322E35B1F44E",
       "coupon_code": "3CC8D2AC322E35B1F44E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6174285_af41_3.jpg",
+      "title": "C# Mastering Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?couponCode=CAA41B152062EDFC6C7C",
       "coupon_code": "CAA41B152062EDFC6C7C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6191737_6836.jpg",
+      "title": "C# Mastering Course For Intermediates"
     },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-professionals/?couponCode=8DF010B3F6BDFC34BA7B",
       "coupon_code": "8DF010B3F6BDFC34BA7B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6203549_4a00.jpg",
+      "title": "C# Mastering Course For Professionals"
     },
     {
       "url": "https://www.udemy.com/course/design-a-website-template-using-html5-css3/?couponCode=92A310090B2ED56B99E9",
       "coupon_code": "92A310090B2ED56B99E9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/git-github-full-russian-course/?couponCode=FEF3426E8CA0BD1D4FAD",
-      "coupon_code": "FEF3426E8CA0BD1D4FAD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5983538_9b76_2.jpg",
+      "title": "Design a Website Template using HTML5 & CSS3"
     },
     {
       "url": "https://www.udemy.com/course/javascript-from-scratch-beginner-level/?couponCode=E7BF9069FE0FE39D4530",
       "coupon_code": "E7BF9069FE0FE39D4530",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6037212_475c_2.jpg",
+      "title": "JavaScript From Scratch ( Part 1 - Beginner Level)"
     },
     {
       "url": "https://www.udemy.com/course/linux-terminal-basics-rus/?couponCode=FECB2E65E31828692CA0",
       "coupon_code": "FECB2E65E31828692CA0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5928220_a191_5.jpg",
+      "title": "Linux с нуля до сертификата"
     },
     {
       "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-1-beginner-level/?couponCode=8039B206EE266BDF73DE",
       "coupon_code": "8039B206EE266BDF73DE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5899092_dc59_4.jpg",
+      "title": "Mastering HTML5 and CSS3 (Part 1 - Beginner Level)"
     },
     {
       "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-2-intermediate-level/?couponCode=C7F7D610388C38CCFA5B",
       "coupon_code": "C7F7D610388C38CCFA5B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5953662_e8e8_3.jpg",
+      "title": "Mastering HTML5 and CSS3 (Part 2 - Intermediate  Level)"
     },
     {
       "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-3-advanced-level/?couponCode=F44F527364BD435A0A2E",
@@ -58,6 +61,12 @@
       "coupon_code": "84E5AFD693E248460E98",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5929080_eaee_3.jpg",
       "title": "SQL практикум для начинающих и продолжающих (полный курс)"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-business-english-and-communications/?couponCode=99FFDB9039E4BBD84E79",
+      "coupon_code": "99FFDB9039E4BBD84E79",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5770034_0156.jpg",
+      "title": "Professional Diploma in Business English and Communications"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-the-executive-assistant/?couponCode=CEF4E6ECB94DACCF9643",
@@ -84,6 +93,12 @@
       "title": "The Complete Android & Kotlin App Development A-Z Bootcamp"
     },
     {
+      "url": "https://www.udemy.com/course/git-github-full-russian-course/?couponCode=FEF3426E8CA0BD1D4FAD",
+      "coupon_code": "FEF3426E8CA0BD1D4FAD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818075_dc5c_2.jpg",
+      "title": "Git + GitHub. Полный курс"
+    },
+    {
       "url": "https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=E642258F05EE312DDB35",
       "coupon_code": "E642258F05EE312DDB35",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5724310_36ec_2.jpg",
@@ -98,17 +113,20 @@
     {
       "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=DAEEAD47FA2E72D2B79B",
       "coupon_code": "DAEEAD47FA2E72D2B79B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3972018_b05f.jpg",
+      "title": "HTML 5,Python,Flask Framework All In One Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/master-in-artificial-intelligence-ai/?couponCode=3AB94A7C4590EEEEEF42",
       "coupon_code": "3AB94A7C4590EEEEEF42",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5887150_f460_10.jpg",
+      "title": "Master in Artificial Intelligence (AI) Engineering"
     },
     {
       "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=107CFB9D4A32EF6E6FEC",
       "coupon_code": "107CFB9D4A32EF6E6FEC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5977824_a024.jpg",
+      "title": "Master Business Analysis to become a Business Analyst"
     },
     {
       "url": "https://www.udemy.com/course/master-in-business-analytics/?couponCode=A72E84FE1A9434D70558",
@@ -119,7 +137,8 @@
     {
       "url": "https://www.udemy.com/course/master-in-data-analysis-and-analytics/?couponCode=ED853861321C9108FEAF",
       "coupon_code": "ED853861321C9108FEAF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6528665_59f5.jpg",
+      "title": "Master in Data Analysis and Analytics"
     },
     {
       "url": "https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/?couponCode=AFC030A275A290A6F5A9",
@@ -136,7 +155,8 @@
     {
       "url": "https://www.udemy.com/course/mini-mba-in-technology-management-for-cio-cto/?couponCode=8816E42FF820DFF9F35C",
       "coupon_code": "8816E42FF820DFF9F35C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5743284_ac32.jpg",
+      "title": "Advanced Diploma in Technology Management"
     },
     {
       "url": "https://www.udemy.com/course/software-development-engineering-excellence-master-course/?couponCode=972083E339E0A667B067",
@@ -147,37 +167,44 @@
     {
       "url": "https://www.udemy.com/course/the-basics-of-linux-command-line/?couponCode=F04AAF77DA8D64D03994",
       "coupon_code": "F04AAF77DA8D64D03994",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4933128_80a0_3.jpg",
+      "title": "Linux Command Line: From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-digital-strategy/?couponCode=0419F9E602AA8816B45D",
       "coupon_code": "0419F9E602AA8816B45D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5025626_2094_2.jpg",
+      "title": "Master in Digital Transformation Strategy & Digitalization"
     },
     {
       "url": "https://www.udemy.com/course/how-to-become-a-successful-it-product-manager-product-mgmt/?couponCode=8C225BB03F5B3BB3D7C2",
       "coupon_code": "8C225BB03F5B3BB3D7C2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5556034_89bf_3.jpg",
+      "title": "Master in Tech Product Management (IT)"
     },
     {
       "url": "https://www.udemy.com/course/how-to-become-a-successful-software-programming-developer/?couponCode=27A0F6D3A1DE44A62AC6",
       "coupon_code": "27A0F6D3A1DE44A62AC6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5619030_e742_4.jpg",
+      "title": "Become a Successful Software Programming Developer/ Engineer"
     },
     {
       "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=E7BD9EF73100B6ACB2ED",
       "coupon_code": "E7BD9EF73100B6ACB2ED",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4492974_5673_3.jpg",
+      "title": "Master in Product Design, Development and Prototyping"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=0ADF4C3825565B6169B5",
       "coupon_code": "0ADF4C3825565B6169B5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4374892_4094_6.jpg",
+      "title": "Master in End to End Solutions Design and Development"
     },
     {
       "url": "https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=613666FAE3503B6A2629",
       "coupon_code": "613666FAE3503B6A2629",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4976816_e82f.jpg",
+      "title": "Java And C++ Complete Course for Java And C++ Beginners"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-public-relations-and-pr-management/?couponCode=F897709EFD3F16A506F1",
