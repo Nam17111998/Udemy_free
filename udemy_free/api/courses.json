@@ -1,7 +1,97 @@
 {
-  "updated_at": "2025-12-27T10:27:36Z",
-  "count": 938,
+  "updated_at": "2025-12-27T11:22:19Z",
+  "count": 946,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/canva-ai-master-canva-ai-tools-canva-ai-design-a-to-z/?couponCode=280B1C1CEB9180059CA4",
+      "coupon_code": "280B1C1CEB9180059CA4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6580249_49c3_2.jpg",
+      "title": "Canva AI: Master Canva AI Tools & Canva AI Design (A to Z)"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-center-design-it-infrastructure-it-fundamentals/?couponCode=4BDDD6077A1D36929471",
+      "coupon_code": "4BDDD6077A1D36929471",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6425259_c28a_6.jpg",
+      "title": "Data Center IT Infrastructure: The Complete IT Fundamentals"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-business-management-and-administration/?couponCode=8A17E1BFDAC5042DF06E",
+      "coupon_code": "8A17E1BFDAC5042DF06E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5799108_7fe2.jpg",
+      "title": "Executive Diploma in Business Management and Administration"
+    },
+    {
+      "url": "https://www.udemy.com/course/flappy-bird-from-scratch-unity6/?couponCode=DC452E72834AC77A7938",
+      "coupon_code": "DC452E72834AC77A7938",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6899183_aad2_4.jpg",
+      "title": "Make a Flappy Bird Game From Scratch in Unity 6.3 & C#"
+    },
+    {
+      "url": "https://www.udemy.com/course/hvac-course-for-maintenance-home-repair-bms/?couponCode=72F52CE7E98BEFE86114",
+      "coupon_code": "72F52CE7E98BEFE86114",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6190241_58bd_3.jpg",
+      "title": "HVAC Troubleshooting PRO: HVAC Maintenance & HVAC Diagnosis"
+    },
+    {
+      "url": "https://www.udemy.com/course/hvac-design-engineering-mastery-triple-hvac-certification/?couponCode=E77CBCF347366D913260",
+      "coupon_code": "E77CBCF347366D913260",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6112631_e452_3.jpg",
+      "title": "HVAC Design For Beginners - From HVAC Beginner to HVAC PRO"
+    },
+    {
+      "url": "https://www.udemy.com/course/interior-design-ai-master-interior-design-with-chatgpt-ai/?couponCode=C6226CFD65290266CD93",
+      "coupon_code": "C6226CFD65290266CD93",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6599319_84fc_2.jpg",
+      "title": "Interior Design AI: Master Interior Design With ChatGPT A-Z"
+    },
+    {
+      "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=97F78FCDCC7FC8EEF41B",
+      "coupon_code": "97F78FCDCC7FC8EEF41B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5981806_11d8_2.jpg",
+      "title": "Metasploit from Scratch: Beginner to Professional"
+    },
+    {
+      "url": "https://www.udemy.com/course/office-password-cracking/?couponCode=8EA1928028007DA6BFB5",
+      "coupon_code": "8EA1928028007DA6BFB5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4847822_81cd.jpg",
+      "title": "Cracking Microsoft Office files Passwords | Ethical Hacking"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-hotel-booking-management-system/?couponCode=LARAVELHOTEL98",
+      "coupon_code": "LARAVELHOTEL98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5495274_fedc.jpg",
+      "title": "PHP Laravel: Build Hotel Booking Management System"
+    },
+    {
+      "url": "https://www.udemy.com/course/plumbing-design-ai-complete-plumbing-design-using-ai-chatgpt/?couponCode=4EF12F604C04AB419144",
+      "coupon_code": "4EF12F604C04AB419144",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6788599_e069.jpg",
+      "title": "Plumbing Design AI: COMPLETE Plumbing Design Using ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-microsoft-power-bi-certification/?couponCode=5A531459EFD69E1003C2",
+      "coupon_code": "5A531459EFD69E1003C2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6342933_168e_2.jpg",
+      "title": "Power BI For Beginners: Power BI Zero to Hero FAST-TRACK"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-life-coaching-business-mentorship/?couponCode=FA3F57E825A53BDE4A72",
+      "coupon_code": "FA3F57E825A53BDE4A72",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5796500_ddbb.jpg",
+      "title": "Professional Diploma in Life Coaching & Business Mentorship"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-social-media-marketing-copywriting/?couponCode=48E08F303DD8AE5E7022",
+      "coupon_code": "48E08F303DD8AE5E7022",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5795130_8ace.jpg",
+      "title": "Professional Diploma in Social Media Marketing & Copywriting"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-mysql-course-ru/?couponCode=05BCC4B25F22D486F325",
+      "coupon_code": "05BCC4B25F22D486F325",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5943252_d80f_3.jpg",
+      "title": "SQL практикум на базе MySQL (полный курс)"
+    },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?couponCode=CAA41B152062EDFC6C7C",
       "coupon_code": "CAA41B152062EDFC6C7C",
@@ -21,20 +111,10 @@
       "title": "Design a Website Template using HTML5 & CSS3"
     },
     {
-      "url": "https://www.udemy.com/course/flappy-bird-from-scratch-unity6/?couponCode=DC452E72834AC77A7938",
-      "coupon_code": "DC452E72834AC77A7938",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/javascript-from-scratch-beginner-level/?couponCode=E7BF9069FE0FE39D4530",
       "coupon_code": "E7BF9069FE0FE39D4530",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6037212_475c_2.jpg",
       "title": "JavaScript From Scratch ( Part 1 - Beginner Level)"
-    },
-    {
-      "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=97F78FCDCC7FC8EEF41B",
-      "coupon_code": "97F78FCDCC7FC8EEF41B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/mini-mba-in-marketing-public-relations-and-advertising/?couponCode=DB04DC7E7778D534C8B6",
@@ -43,31 +123,10 @@
       "title": "Advanced Program in Marketing"
     },
     {
-      "url": "https://www.udemy.com/course/office-password-cracking/?couponCode=8EA1928028007DA6BFB5",
-      "coupon_code": "8EA1928028007DA6BFB5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4847822_81cd.jpg",
-      "title": "Cracking Microsoft Office files Passwords | Ethical Hacking"
-    },
-    {
-      "url": "https://www.udemy.com/course/php-laravel-2023-build-hotel-booking-management-system/?couponCode=LARAVELHOTEL98",
-      "coupon_code": "LARAVELHOTEL98",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-in-business-english-and-communications/?couponCode=99FFDB9039E4BBD84E79",
       "coupon_code": "99FFDB9039E4BBD84E79",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5770034_0156.jpg",
       "title": "Professional Diploma in Business English and Communications"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-life-coaching-business-mentorship/?couponCode=FA3F57E825A53BDE4A72",
-      "coupon_code": "FA3F57E825A53BDE4A72",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-social-media-marketing-copywriting/?couponCode=48E08F303DD8AE5E7022",
-      "coupon_code": "48E08F303DD8AE5E7022",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-the-executive-assistant/?couponCode=CEF4E6ECB94DACCF9643",
@@ -80,12 +139,6 @@
       "coupon_code": "61D2B94D1DBDDA2A7F50",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6427889_de98.jpg",
       "title": "Python course from Zero-to-Hero - Intermediate Level"
-    },
-    {
-      "url": "https://www.udemy.com/course/sql-mysql-course-ru/?couponCode=05BCC4B25F22D486F325",
-      "coupon_code": "05BCC4B25F22D486F325",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5943252_d80f_3.jpg",
-      "title": "SQL практикум на базе MySQL (полный курс)"
     },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=3CC8D2AC322E35B1F44E",
