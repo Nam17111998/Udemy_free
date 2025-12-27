@@ -1,13 +1,7 @@
 {
-  "updated_at": "2025-12-27T09:27:39Z",
-  "count": 936,
+  "updated_at": "2025-12-27T10:27:36Z",
+  "count": 938,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=3CC8D2AC322E35B1F44E",
-      "coupon_code": "3CC8D2AC322E35B1F44E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6174285_af41_3.jpg",
-      "title": "C# Mastering Course For Beginners"
-    },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?couponCode=CAA41B152062EDFC6C7C",
       "coupon_code": "CAA41B152062EDFC6C7C",
@@ -55,10 +49,20 @@
       "title": "Cracking Microsoft Office files Passwords | Ethical Hacking"
     },
     {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-hotel-booking-management-system/?couponCode=LARAVELHOTEL98",
+      "coupon_code": "LARAVELHOTEL98",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/professional-diploma-in-business-english-and-communications/?couponCode=99FFDB9039E4BBD84E79",
       "coupon_code": "99FFDB9039E4BBD84E79",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5770034_0156.jpg",
       "title": "Professional Diploma in Business English and Communications"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-life-coaching-business-mentorship/?couponCode=FA3F57E825A53BDE4A72",
+      "coupon_code": "FA3F57E825A53BDE4A72",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-social-media-marketing-copywriting/?couponCode=48E08F303DD8AE5E7022",
@@ -78,16 +82,22 @@
       "title": "Python course from Zero-to-Hero - Intermediate Level"
     },
     {
-      "url": "https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/?couponCode=8FCB08C1A439A1C06D91",
-      "coupon_code": "8FCB08C1A439A1C06D91",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6095163_4255_2.jpg",
-      "title": "Python from Zero-to-Hero (Beginner Level)"
-    },
-    {
       "url": "https://www.udemy.com/course/sql-mysql-course-ru/?couponCode=05BCC4B25F22D486F325",
       "coupon_code": "05BCC4B25F22D486F325",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5943252_d80f_3.jpg",
       "title": "SQL практикум на базе MySQL (полный курс)"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=3CC8D2AC322E35B1F44E",
+      "coupon_code": "3CC8D2AC322E35B1F44E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6174285_af41_3.jpg",
+      "title": "C# Mastering Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/?couponCode=8FCB08C1A439A1C06D91",
+      "coupon_code": "8FCB08C1A439A1C06D91",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6095163_4255_2.jpg",
+      "title": "Python from Zero-to-Hero (Beginner Level)"
     },
     {
       "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-1-beginner-level/?couponCode=8039B206EE266BDF73DE",
