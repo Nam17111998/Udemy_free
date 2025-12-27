@@ -1,15 +1,25 @@
 {
-  "updated_at": "2025-12-27T04:39:57Z",
-  "count": 917,
+  "updated_at": "2025-12-27T05:29:20Z",
+  "count": 929,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=E642258F05EE312DDB35",
-      "coupon_code": "E642258F05EE312DDB35",
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=3CC8D2AC322E35B1F44E",
+      "coupon_code": "3CC8D2AC322E35B1F44E",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/executive-diploma-of-chief-technology-officer/?couponCode=E1EDE6171966F062CA52",
-      "coupon_code": "E1EDE6171966F062CA52",
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?couponCode=CAA41B152062EDFC6C7C",
+      "coupon_code": "CAA41B152062EDFC6C7C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-professionals/?couponCode=8DF010B3F6BDFC34BA7B",
+      "coupon_code": "8DF010B3F6BDFC34BA7B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/design-a-website-template-using-html5-css3/?couponCode=92A310090B2ED56B99E9",
+      "coupon_code": "92A310090B2ED56B99E9",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -18,13 +28,76 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=DAEEAD47FA2E72D2B79B",
-      "coupon_code": "DAEEAD47FA2E72D2B79B",
+      "url": "https://www.udemy.com/course/javascript-from-scratch-beginner-level/?couponCode=E7BF9069FE0FE39D4530",
+      "coupon_code": "E7BF9069FE0FE39D4530",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/linux-terminal-basics-rus/?couponCode=FECB2E65E31828692CA0",
       "coupon_code": "FECB2E65E31828692CA0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-1-beginner-level/?couponCode=8039B206EE266BDF73DE",
+      "coupon_code": "8039B206EE266BDF73DE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-2-intermediate-level/?couponCode=C7F7D610388C38CCFA5B",
+      "coupon_code": "C7F7D610388C38CCFA5B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-3-advanced-level/?couponCode=F44F527364BD435A0A2E",
+      "coupon_code": "F44F527364BD435A0A2E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5968850_e30f_2.jpg",
+      "title": "Mastering HTML5 and CSS3 (Part 3 - Advanced Level)"
+    },
+    {
+      "url": "https://www.udemy.com/course/mysql-basics-ru/?couponCode=84E5AFD693E248460E98",
+      "coupon_code": "84E5AFD693E248460E98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5929080_eaee_3.jpg",
+      "title": "SQL практикум для начинающих и продолжающих (полный курс)"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-the-executive-assistant/?couponCode=CEF4E6ECB94DACCF9643",
+      "coupon_code": "CEF4E6ECB94DACCF9643",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5769960_3125.jpg",
+      "title": "Professional Diploma of the Executive Assistant"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-from-zero-to-hero-intermediate-level/?couponCode=61D2B94D1DBDDA2A7F50",
+      "coupon_code": "61D2B94D1DBDDA2A7F50",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6427889_de98.jpg",
+      "title": "Python course from Zero-to-Hero - Intermediate Level"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/?couponCode=8FCB08C1A439A1C06D91",
+      "coupon_code": "8FCB08C1A439A1C06D91",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6095163_4255_2.jpg",
+      "title": "Python from Zero-to-Hero (Beginner Level)"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-android-kotlin-app-development-a-z-bootcamp/?couponCode=F21D262293D9E2ADDC7C",
+      "coupon_code": "F21D262293D9E2ADDC7C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5817234_e9f0.jpg",
+      "title": "The Complete Android & Kotlin App Development A-Z Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=E642258F05EE312DDB35",
+      "coupon_code": "E642258F05EE312DDB35",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5724310_36ec_2.jpg",
+      "title": "Master in Data Science to become a Data Scientist"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-chief-technology-officer/?couponCode=E1EDE6171966F062CA52",
+      "coupon_code": "E1EDE6171966F062CA52",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5743116_a7f2.jpg",
+      "title": "Executive Diploma of Chief Technology Officer"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=DAEEAD47FA2E72D2B79B",
+      "coupon_code": "DAEEAD47FA2E72D2B79B",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -63,11 +136,6 @@
     {
       "url": "https://www.udemy.com/course/mini-mba-in-technology-management-for-cio-cto/?couponCode=8816E42FF820DFF9F35C",
       "coupon_code": "8816E42FF820DFF9F35C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mysql-basics-ru/?couponCode=84E5AFD693E248460E98",
-      "coupon_code": "84E5AFD693E248460E98",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
