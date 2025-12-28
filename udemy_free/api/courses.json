@@ -1,7 +1,13 @@
 {
-  "updated_at": "2025-12-28T19:21:27Z",
-  "count": 967,
+  "updated_at": "2025-12-28T20:31:01Z",
+  "count": 972,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/3d-printing-masterclass-beginner-to-pro-with-complete-start/?couponCode=997E88204D5B3C9B9BB0",
+      "coupon_code": "997E88204D5B3C9B9BB0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6922187_cbd3.jpg",
+      "title": "3D Printing Masterclass: Beginner to Pro with Complete Start"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-data-visualization-with-python/?couponCode=AFAFDF60147C36EC52A7",
       "coupon_code": "AFAFDF60147C36EC52A7",
@@ -9,10 +15,10 @@
       "title": "Data Visualization with Python and New Methods in Matplotlib"
     },
     {
-      "url": "https://www.udemy.com/course/business-analysis-with-visually-effective-power-bi-reports/?couponCode=7A0531FF0567CB0CB0F3",
-      "coupon_code": "7A0531FF0567CB0CB0F3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5057702_10ff.jpg",
-      "title": "Business Analysis with Visually Effective Power BI Reports"
+      "url": "https://www.udemy.com/course/ai-tools-for-non-tech-creators/?couponCode=7E2A5E439CBE4F896D39",
+      "coupon_code": "7E2A5E439CBE4F896D39",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6675107_2ba9_2.jpg",
+      "title": "Save Time and Create Smarter: AI Tools for Non-Tech Creators"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-un-blog-de-exito-paso-a-paso/?couponCode=BLOG-GR89",
@@ -39,12 +45,6 @@
       "title": "Cómo Crear una Tienda Online con WordPress y ChatGPT 2025"
     },
     {
-      "url": "https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=6B3A46CD927E736A0633",
-      "coupon_code": "6B3A46CD927E736A0633",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3342284_7947_5.jpg",
-      "title": "Complete Payroll Management in Excel &TALLY ERP9 &TallyPrime"
-    },
-    {
       "url": "https://www.udemy.com/course/curso-de-siteground-el-mejor-hosting-para-wordpress/?couponCode=SITEGROUND-GR104",
       "coupon_code": "SITEGROUND-GR104",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3947090_9d9c_7.jpg",
@@ -63,10 +63,22 @@
       "title": "Directorio de Plugins para WordPress 2025"
     },
     {
-      "url": "https://www.udemy.com/course/product-owner-certification-exam-prep/?couponCode=D72C9288798D8B912F73",
-      "coupon_code": "D72C9288798D8B912F73",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6255575_1c65.jpg",
-      "title": "Product Owner Exam Prep"
+      "url": "https://www.udemy.com/course/pgdinscem/?couponCode=786DE978909DE720DDF0",
+      "coupon_code": "786DE978909DE720DDF0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6669423_321e_2.jpg",
+      "title": "Postgraduate Diploma in Supply Chain Engineering Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/procurementdiploma/?couponCode=EFB347550B0264C69F6C",
+      "coupon_code": "EFB347550B0264C69F6C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180185_1f8c.jpg",
+      "title": "Professional Diploma in Procurement"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-office-administration-management/?couponCode=E7AB293DEB6AC98E43AF",
+      "coupon_code": "E7AB293DEB6AC98E43AF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916556_daf2.jpg",
+      "title": "Professional Certificate in Office Administration Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-government-public-sector-technology/?couponCode=D1304524A79640620CEF",
@@ -79,6 +91,24 @@
       "coupon_code": "3C066D4CAD0B9F94973E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5906780_4e0e.jpg",
       "title": "Professional Diploma in Pricing Analysis and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/business-analysis-with-visually-effective-power-bi-reports/?couponCode=7A0531FF0567CB0CB0F3",
+      "coupon_code": "7A0531FF0567CB0CB0F3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5057702_10ff.jpg",
+      "title": "Business Analysis with Visually Effective Power BI Reports"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=6B3A46CD927E736A0633",
+      "coupon_code": "6B3A46CD927E736A0633",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3342284_7947_5.jpg",
+      "title": "Complete Payroll Management in Excel &TALLY ERP9 &TallyPrime"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-owner-certification-exam-prep/?couponCode=D72C9288798D8B912F73",
+      "coupon_code": "D72C9288798D8B912F73",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255575_1c65.jpg",
+      "title": "Product Owner Exam Prep"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-technical-project-management/?couponCode=89A5D99B7ED5FD190671",
