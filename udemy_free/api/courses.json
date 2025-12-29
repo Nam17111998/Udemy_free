@@ -1,7 +1,13 @@
 {
-  "updated_at": "2025-12-29T13:00:45Z",
-  "count": 997,
+  "updated_at": "2025-12-29T13:46:33Z",
+  "count": 1000,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-scrum-your-path-to-psm-certification/?couponCode=90B4453CC63E0B1A92EB",
+      "coupon_code": "90B4453CC63E0B1A92EB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6229107_b021_4.jpg",
+      "title": "Scrum Master + PSM Certification"
+    },
     {
       "url": "https://www.udemy.com/course/ceo-playbook-generative-ai-/?couponCode=29DECEMBER2025",
       "coupon_code": "29DECEMBER2025",
@@ -9,16 +15,16 @@
       "title": "CEO Playbook: Generative AI"
     },
     {
+      "url": "https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=B41EE0DE449A7C59540E",
+      "coupon_code": "B41EE0DE449A7C59540E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4280734_2d17.jpg",
+      "title": "CSS Complete Course For Beginners"
+    },
+    {
       "url": "https://www.udemy.com/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/?couponCode=29DECEMBER2025",
       "coupon_code": "29DECEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6610709_4ab8_2.jpg",
       "title": "DeepSeek AI for Business: Build a Strategy with AI Insights"
-    },
-    {
-      "url": "https://www.udemy.com/course/design-with-canva-ai-a-scalable-workflow-for-creators/?couponCode=29DECEMBER2025",
-      "coupon_code": "29DECEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6663187_6976.jpg",
-      "title": "Design with Canva & AI: A Scalable Workflow for Creators"
     },
     {
       "url": "https://www.udemy.com/course/from-prompt-to-photorealism-midjourney-image-creation-guide/?couponCode=29DECEMBER2025",
@@ -51,10 +57,10 @@
       "title": "Microsoft Copilot for Work: Learn to Work Faster & Smarter"
     },
     {
-      "url": "https://www.udemy.com/course/notebooklm-mastery-organize-analyze-and-optimize-with-ai/?couponCode=29DECEMBER2025",
-      "coupon_code": "29DECEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6637885_85f4_2.jpg",
-      "title": "NotebookLM Mastery: Organize, Analyze, and Optimize with AI"
+      "url": "https://www.udemy.com/course/navigating-the-crypto-universe-and-blockchain/?couponCode=04A311368E27AA147DA7",
+      "coupon_code": "04A311368E27AA147DA7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5942956_65e5_2.jpg",
+      "title": "Navigating the Crypto Universe"
     },
     {
       "url": "https://www.udemy.com/course/photoshop-ai-for-creatives-guide-to-generative-tools/?couponCode=29DECEMBER2025",
@@ -67,12 +73,6 @@
       "coupon_code": "34466B045BE6A102F715",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5942356_9e8f.jpg",
       "title": "Professional Diploma: Customer Centricity & Design Thinking"
-    },
-    {
-      "url": "https://www.udemy.com/course/project-management-choosing-implementing-the-right-tools/?couponCode=29DECEMBER2025",
-      "coupon_code": "29DECEMBER2025",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6637889_9859_2.jpg",
-      "title": "Project Management: Choosing & Implementing the Right Tools"
     },
     {
       "url": "https://www.udemy.com/course/the-beginners-free-website-masterclass-urdu-hindi/?couponCode=NEWYEAR2026",
@@ -91,6 +91,24 @@
       "coupon_code": "29DECEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6012554_271f.jpg",
       "title": "YouTube Startrack For Beginners: Launch Your Channel Today"
+    },
+    {
+      "url": "https://www.udemy.com/course/design-with-canva-ai-a-scalable-workflow-for-creators/?couponCode=29DECEMBER2025",
+      "coupon_code": "29DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6663187_6976.jpg",
+      "title": "Design with Canva & AI: A Scalable Workflow for Creators"
+    },
+    {
+      "url": "https://www.udemy.com/course/notebooklm-mastery-organize-analyze-and-optimize-with-ai/?couponCode=29DECEMBER2025",
+      "coupon_code": "29DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637885_85f4_2.jpg",
+      "title": "NotebookLM Mastery: Organize, Analyze, and Optimize with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-choosing-implementing-the-right-tools/?couponCode=29DECEMBER2025",
+      "coupon_code": "29DECEMBER2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637889_9859_2.jpg",
+      "title": "Project Management: Choosing & Implementing the Right Tools"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-seo-audit/?couponCode=29DECEMBER",
