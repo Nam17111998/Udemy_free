@@ -1,7 +1,12 @@
 {
-  "updated_at": "2025-12-29T21:25:53Z",
-  "count": 933,
+  "updated_at": "2025-12-29T22:27:26Z",
+  "count": 936,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/30-days-of-angular/?couponCode=BB2A328B34A07776CB61",
+      "coupon_code": "BB2A328B34A07776CB61",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/advertising-strategy-fundamentals-upskill-to-drive-growth/?couponCode=B6C52F51B634B4AA49B8",
       "coupon_code": "B6C52F51B634B4AA49B8",
@@ -25,6 +30,11 @@
       "coupon_code": "C83951BDB9B95C8B4019",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5697794_a4dd_3.jpg",
       "title": "ChatGPT for Creative Ideas: Generate Powerful Concepts"
+    },
+    {
+      "url": "https://www.udemy.com/course/code-play-javascript-game-projects/?couponCode=FF84C5B35B1A793134AD",
+      "coupon_code": "FF84C5B35B1A793134AD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/esg-community-engagement-become-a-force-for-good/?couponCode=B16D7A1FE1B0D2235270",
@@ -57,12 +67,6 @@
       "title": "Postgraduate Diploma in Supply Chain & Operations Management"
     },
     {
-      "url": "https://www.udemy.com/course/practical-nist-risk-management-framework-implementation/?couponCode=3469790925B6854DC8A2",
-      "coupon_code": "3469790925B6854DC8A2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5351980_fde5.jpg",
-      "title": "Practical NIST Risk Management Framework(RMF) Implementation"
-    },
-    {
       "url": "https://www.udemy.com/course/prompt-engineering-certification-master-ai/?couponCode=2CF3F81545678E47E073",
       "coupon_code": "2CF3F81545678E47E073",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6846673_9d62_5.jpg",
@@ -75,6 +79,23 @@
       "title": "Public Speaking and Presentation Skills Masterclass"
     },
     {
+      "url": "https://www.udemy.com/course/sleep-management/?couponCode=DFCF0814BFDE6FE233E0",
+      "coupon_code": "DFCF0814BFDE6FE233E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6438429_6998_3.jpg",
+      "title": "Professional Diploma in Quality Sleep Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-project-workshop-html-css-in-action/?couponCode=6A68BAFFDF08E5197658",
+      "coupon_code": "6A68BAFFDF08E5197658",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-nist-risk-management-framework-implementation/?couponCode=3469790925B6854DC8A2",
+      "coupon_code": "3469790925B6854DC8A2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5351980_fde5.jpg",
+      "title": "Practical NIST Risk Management Framework(RMF) Implementation"
+    },
+    {
       "url": "https://www.udemy.com/course/python-and-machine-learning-in-financial-analysis/?couponCode=9899E2D7FA8F9106C4F8",
       "coupon_code": "9899E2D7FA8F9106C4F8",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4248756_2478_2.jpg",
@@ -85,12 +106,6 @@
       "coupon_code": "06E1781C44980D35123D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5864046_ef60_10.jpg",
       "title": "Python Data Analysis Bootcamp - Pandas, Seaborn and Plotly"
-    },
-    {
-      "url": "https://www.udemy.com/course/sleep-management/?couponCode=DFCF0814BFDE6FE233E0",
-      "coupon_code": "DFCF0814BFDE6FE233E0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6438429_6998_3.jpg",
-      "title": "Professional Diploma in Quality Sleep Management"
     },
     {
       "url": "https://www.udemy.com/course/advanced-advertising-strategy-data-creativity-ai/?couponCode=D04A87E84C968743154B",
