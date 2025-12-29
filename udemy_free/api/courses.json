@@ -1,26 +1,120 @@
 {
-  "updated_at": "2025-12-29T09:38:36Z",
-  "count": 960,
+  "updated_at": "2025-12-29T10:32:41Z",
+  "count": 975,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-enhanced-photo-editing/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6426277_8011.jpg",
+      "title": "AI-Enhanced Photo Editing: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-seo-audit/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589891_0a19.jpg",
+      "title": "AI-Powered SEO Audit: Diagnose, Optimize and Rank Fast"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-tutorial-creation-make-videos-with-trupeer/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6599133_69c8_2.jpg",
+      "title": "AI Video Production Mastery: Avatars, Voice & Tutorials"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-voice-creation-for-every-industry-with-elevenlabs/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6580965_7f0a.jpg",
+      "title": "AI Voice Creation for Every Industry with ElevenLabs"
+    },
+    {
+      "url": "https://www.udemy.com/course/azure-for-beginners-portal-virtual-machine-and-compute/?couponCode=9E86EDEE141BC86B75DF",
+      "coupon_code": "9E86EDEE141BC86B75DF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2075100_e558_4.jpg",
+      "title": "Microsoft Azure Administrator Complete Course: AZ-104 (2025)"
+    },
+    {
+      "url": "https://www.udemy.com/course/ceo-chief-executive-officer-program/?couponCode=DD0F182394989D0198B5",
+      "coupon_code": "DD0F182394989D0198B5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5937098_185b.jpg",
+      "title": "Chief Executive Officer (CEO) Program"
+    },
+    {
+      "url": "https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6553707_38b2.jpg",
+      "title": "Claude Pro Mastery: AI for Business, Marketing & Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/code-java-in-5-hours-a-complete-beginners-guide/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6563487_fd22.jpg",
+      "title": "Java Mastery: Beginner’s Guide and Full-Stack AI Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/deep-dive-into-openai-models-master-o3-o4-mini-beyond/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6587609_0100.jpg",
+      "title": "Deep Dive into OpenAI Models: Master o3, o4-mini & Beyond"
+    },
+    {
+      "url": "https://www.udemy.com/course/from-prompt-engineering-to-agent-engineering/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6563355_0f31_2.jpg",
+      "title": "From Prompt Engineering to Agent Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/no-low-code-marketing-automation/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6474141_3fbc.jpg",
+      "title": "No & Low Code AI Marketing Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/nodejs-projects-bootcamp-learn-by-doing/?couponCode=CA7F9BDF6E1EDE9ADC24",
+      "coupon_code": "CA7F9BDF6E1EDE9ADC24",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6624533_08bc_3.jpg",
+      "title": "NodeJS Projects Bootcamp 2025: Learn by Doing"
+    },
+    {
+      "url": "https://www.udemy.com/course/on-page-seo-mastery-with-ai/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6607321_7daf.jpg",
+      "title": "On-Page SEO Mastery with AI: Strategies and Workflows"
+    },
+    {
+      "url": "https://www.udemy.com/course/perplexity-no-code-creez-une-app-full-stack/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6354033_cac7_2.jpg",
+      "title": "Perplexity & No-Code : Créez une app Full Stack 100% (2025)"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-gamma-guide-master-ai-presentation-creation/?couponCode=29DECEMBER",
+      "coupon_code": "29DECEMBER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6591001_e849.jpg",
+      "title": "The Ultimate Gamma Guide: Master AI Presentation Creation"
+    },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-and-machine-learning-in-arabic/?couponCode=D6824E24879FA53015E3",
       "coupon_code": "D6824E24879FA53015E3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5936318_e320_2.jpg",
+      "title": "أساسيات الذكاء الاصطناعي: مقدمة عن تقنيات الذكاء الاصطناعي"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=29THDEC25",
       "coupon_code": "29THDEC25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5039256_a322_3.jpg",
+      "title": "Fundamentals of Financial Services"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=29THDEC25",
       "coupon_code": "29THDEC25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4925880_ceba.jpg",
+      "title": "Fundamentals of  Successful Leadership - Leading with Impact"
     },
     {
       "url": "https://www.udemy.com/course/gratitude-w/?couponCode=29THDEC25",
       "coupon_code": "29THDEC25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4794422_c40e_5.jpg",
+      "title": "Gratitude"
     },
     {
       "url": "https://www.udemy.com/course/how-to-transform-your-life-practical-ways/?couponCode=29THDEC25",
