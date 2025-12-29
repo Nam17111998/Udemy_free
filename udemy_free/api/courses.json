@@ -1,11 +1,102 @@
 {
-  "updated_at": "2025-12-29T04:14:11Z",
-  "count": 909,
+  "updated_at": "2025-12-29T05:36:16Z",
+  "count": 924,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=3417CA044292E78C201E",
+      "coupon_code": "3417CA044292E78C201E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119481_61ba.jpg",
+      "title": "C, C++ and PHP: Comprehensive Programming Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-masterclass-the-guide-to-ai-prompt-engineering-t/?couponCode=8CCEA2A30FE8FB595917",
+      "coupon_code": "8CCEA2A30FE8FB595917",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689019_a86c_3.jpg",
+      "title": "ChatGPT Masterclass: The Guide to AI & Prompt Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-the-complete-guide-to-css-zero-to-hero/?couponCode=CE058F8EEA2131E078E0",
+      "coupon_code": "CE058F8EEA2131E078E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636428_79ca_2.jpg",
+      "title": "CSS - The Complete Guide to CSS for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-insights-power-query-pivot-analysis-and-visuals/?couponCode=63B39D047AB2DC90DF2F",
+      "coupon_code": "63B39D047AB2DC90DF2F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790885_6fd8_2.jpg",
+      "title": "Excel Data Insights: Power Query Pivot Analysis and Visuals"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-digital-marketing-course-2025-ppc-seo-smm-gtm-ga4/?couponCode=FC823A171AE9256ACB74",
+      "coupon_code": "FC823A171AE9256ACB74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6592573_f61f.jpg",
+      "title": "Full Digital Marketing Course 2025: PPC, SEO, SMM, GTM, GA4"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-mastery-langchain/?couponCode=166E94193E4165E2773D",
+      "coupon_code": "166E94193E4165E2773D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182005_37c1_3.jpg",
+      "title": "Generative AI Complete Bootcamp - NLP, Transformers & Gen AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-the-complete-guide-to-html-zero-to-hero/?couponCode=FF8CCA4EC427C3546E3A",
+      "coupon_code": "FF8CCA4EC427C3546E3A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636404_8f50_2.jpg",
+      "title": "HTML -  The Complete Guide to HTML for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/jquery-complete-jquery-course-from-beginner-to-advanced/?couponCode=7CD86AAE227E312427AE",
+      "coupon_code": "7CD86AAE227E312427AE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636534_c4c8_5.jpg",
+      "title": "jQuery - Complete jQuery Course From Beginner To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-machine-learning-course-with-python-ml/?couponCode=1D88426589198CAC378B",
+      "coupon_code": "1D88426589198CAC378B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5806954_502d_5.jpg",
+      "title": "Learn Machine Learning Course with Python A to Z"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-c-c-plus-programming-from-fundamentals-to-advanced/?couponCode=4E232463B23992A3A336",
+      "coupon_code": "4E232463B23992A3A336",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5809104_b3c5.jpg",
+      "title": "Mastering C & C++ Programming: From Fundamentals to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-101-excel-from-beginners-to-advanced/?couponCode=6823D39070C53C07DE8D",
+      "coupon_code": "6823D39070C53C07DE8D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6766177_ba31_3.jpg",
+      "title": "Microsoft Excel 101- Excel From Beginners to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=EB7B1E6E4D3AD1C76AF4",
+      "coupon_code": "EB7B1E6E4D3AD1C76AF4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636472_7921.jpg",
+      "title": "PHP Master Class - The Complete PHP Developer Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-administration-management/?couponCode=BAA253D2D99DD65A2D66",
+      "coupon_code": "BAA253D2D99DD65A2D66",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5927342_8b19.jpg",
+      "title": "Professional Diploma in Administration Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-and-php-essentials-complete-coding-bootcamp/?couponCode=D33193461F5FCBA6774F",
+      "coupon_code": "D33193461F5FCBA6774F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6150957_d964_3.jpg",
+      "title": "Python, Java and PHP Essentials: Complete Coding Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-from-beginners-to-expert/?couponCode=1AA553770C97C55F477B",
+      "coupon_code": "1AA553770C97C55F477B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6764847_ffcb.jpg",
+      "title": "The Complete Microsoft Excel From Beginners to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-risks-in-cybersecurity/?couponCode=E1FD534FF26F62679B23",
       "coupon_code": "E1FD534FF26F62679B23",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6974141_d454.jpg",
+      "title": "Artificial Intelligence Risks in Cybersecurity"
     },
     {
       "url": "https://www.udemy.com/course/c-training-crash-course-2022/?couponCode=47A49CB9A65C847999F2",
@@ -16,12 +107,14 @@
     {
       "url": "https://www.udemy.com/course/decoding-market-timing-an-insightful-introduction/?couponCode=DR_OZIMEK_13",
       "coupon_code": "DR_OZIMEK_13",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6733213_bf23_8.jpg",
+      "title": "Decoding Market Timing: An Insightful Introduction /R+PyCode"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-human-resources-strategy/?couponCode=A230019EE591A2BA8D83",
       "coupon_code": "A230019EE591A2BA8D83",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5923124_e4eb.jpg",
+      "title": "Executive Diploma in Human Resources Strategy"
     },
     {
       "url": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=71B7722181F63204B7B6",
@@ -38,7 +131,8 @@
     {
       "url": "https://www.udemy.com/course/full-paid-ads-course-google-facebook-microsoft-linkedin/?couponCode=29F60E5BFF74920F2AC6",
       "coupon_code": "29F60E5BFF74920F2AC6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5671688_5f55_2.jpg",
+      "title": "11 Ads Platforms in 1 Course 2025: Learn Paid Advertising!"
     },
     {
       "url": "https://www.udemy.com/course/google-ads-masterclass-2025-all-features-campaign-setups/?couponCode=6D5B763F333C1DFC5375",
@@ -67,7 +161,8 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-of-executive-business-assistant/?couponCode=F8F346CBDFB4F8AF2719",
       "coupon_code": "F8F346CBDFB4F8AF2719",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5918176_2f67.jpg",
+      "title": "Professional Certificate of Executive Business Assistant"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-of-secretary/?couponCode=D2DD0C01FB04882B6A58",
@@ -78,12 +173,14 @@
     {
       "url": "https://www.udemy.com/course/python-and-flask-only-demonstration-course/?couponCode=CF6C0585D90706AB774A",
       "coupon_code": "CF6C0585D90706AB774A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3526008_d891_5.jpg",
+      "title": "Python And Flask  Demonstrations Practice Course"
     },
     {
       "url": "https://www.udemy.com/course/python-course-all-levels/?couponCode=F76D8B5A12C7F5731D05",
       "coupon_code": "F76D8B5A12C7F5731D05",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6961271_0971_3.jpg",
+      "title": "Python Course All Levels"
     },
     {
       "url": "https://www.udemy.com/course/bank-reconciliation-from-fundamentals-to-advanced-technique/?couponCode=561A161CEB46007BE724",
