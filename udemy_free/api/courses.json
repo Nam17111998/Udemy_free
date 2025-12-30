@@ -1,7 +1,37 @@
 {
-  "updated_at": "2025-12-30T14:28:40Z",
-  "count": 915,
+  "updated_at": "2025-12-30T15:30:28Z",
+  "count": 924,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/certificado-profissional-em-lideranca-e-gestao/?couponCode=5B10BECD1DDFFE73FE3C",
+      "coupon_code": "5B10BECD1DDFFE73FE3C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6118333_9a76.jpg",
+      "title": "Certificado Profissional em Liderança e Gestão"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-landing-page-con-wordpress-desde-cero/?couponCode=LANDING-GR120",
+      "coupon_code": "LANDING-GR120",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4234262_07d6_5.jpg",
+      "title": "Cómo Crear una Landing Page con WordPress Desde Cero 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor/?couponCode=ELE-PD109",
+      "coupon_code": "ELE-PD109",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4786282_fbfd_3.jpg",
+      "title": "Cómo Crear una Página web con WordPress y Elementor 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-tarjeta-de-presentacion-digital-con-wordpress/?couponCode=TARJETA-GR116",
+      "coupon_code": "TARJETA-GR116",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4700204_61a0_3.jpg",
+      "title": "Cómo Crear una Tarjeta de Presentación Digital con WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-desde-cero/?couponCode=TIENDA-GR137",
+      "coupon_code": "TIENDA-GR137",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4556704_fc04.jpg",
+      "title": "Cómo Crear una Tienda Online con WordPress Desde Cero 2025"
+    },
     {
       "url": "https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=FCF88C19A02C24A95CAB",
       "coupon_code": "FCF88C19A02C24A95CAB",
@@ -9,10 +39,58 @@
       "title": "CSS Crash Course For Beginners"
     },
     {
+      "url": "https://www.udemy.com/course/curso-de-hostgator-el-hosting-ideal-para-wordpress/?couponCode=HOSTGATOR-GR103",
+      "coupon_code": "HOSTGATOR-GR103",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4110222_54dc_3.jpg",
+      "title": "Curso de HostGator 2025: El Hosting Ideal Para WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-wp-rocket-como-mejorar-la-velocidad-de-una-web-de-wordpress/?couponCode=WP-GR107",
+      "coupon_code": "WP-GR107",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4803240_84ca.jpg",
+      "title": "WP Rocket 2025: Mejora la Velocidad de Carga en WordPress"
+    },
+    {
       "url": "https://www.udemy.com/course/diploma-human-resources-compensation-benefits-management/?couponCode=B41A2475AAF7595D97A8",
       "coupon_code": "B41A2475AAF7595D97A8",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6111707_3082.jpg",
       "title": "Diploma: Human Resources, Compensation & Benefits Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=29THDEC25&ra",
+      "coupon_code": "29THDEC25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5039256_a322_3.jpg",
+      "title": "Fundamentals of Financial Services"
+    },
+    {
+      "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=5FF6322ABF57A550AE25",
+      "coupon_code": "5FF6322ABF57A550AE25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6118139_f59a.jpg",
+      "title": "Introdução à Gestão"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-en-wordpress-desde-cero-hasta-experto/?couponCode=MASTER-PA116",
+      "coupon_code": "MASTER-PA116",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4784786_c247.jpg",
+      "title": "Máster en WordPress 2025, ¡Desde Cero Hasta Experto!"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-react-react-crash-course-with-mini-projects/?couponCode=8F17A6C5933F9460A930",
+      "coupon_code": "8F17A6C5933F9460A930",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5654544_49bd_2.jpg",
+      "title": "Mastering React: React Crash Course with Mini Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-management/?couponCode=EBEECBC6AB3EC1ADF1FF",
+      "coupon_code": "EBEECBC6AB3EC1ADF1FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6117081_c03c_2.jpg",
+      "title": "Professional Certificate in Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/time-management-productivity-decision-making-tools-aids/?couponCode=29THDEC25&ra",
+      "coupon_code": "29THDEC25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4821416_6f9d_2.jpg",
+      "title": "Time Management, Productivity, Decision Making Tools &  Aids"
     },
     {
       "url": "https://www.udemy.com/course/fullstack-web-development-course-projects-base/?couponCode=2A4E7DDAABCCBD846E96",
@@ -27,17 +105,6 @@
       "title": "Global Wealth Management: Account Opening, Onboarding, KYC"
     },
     {
-      "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=5FF6322ABF57A550AE25",
-      "coupon_code": "5FF6322ABF57A550AE25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-react-react-crash-course-with-mini-projects/?couponCode=8F17A6C5933F9460A930",
-      "coupon_code": "8F17A6C5933F9460A930",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5654544_49bd_2.jpg",
-      "title": "Mastering React: React Crash Course with Mini Projects"
-    },
-    {
       "url": "https://www.udemy.com/course/php-codeigniter-4-build-coffee-shop-management-system-2025/?couponCode=CICOFFEESHOP34",
       "coupon_code": "CICOFFEESHOP34",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6731263_b800_2.jpg",
@@ -48,12 +115,6 @@
       "coupon_code": "F3956A0AD52C3F0DF5D5",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6110779_ed82.jpg",
       "title": "Professional Certificate in Financial Analysis"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-management/?couponCode=EBEECBC6AB3EC1ADF1FF",
-      "coupon_code": "EBEECBC6AB3EC1ADF1FF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6117081_c03c_2.jpg",
-      "title": "Professional Certificate in Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-operations-management/?couponCode=F4F6F3D2E7C4BEB47773",
@@ -78,11 +139,6 @@
       "coupon_code": "2025SALE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5352294_5f15_14.jpg",
       "title": "The Complete Artificial Intelligence (AI) for Professionals"
-    },
-    {
-      "url": "https://www.udemy.com/course/time-management-productivity-decision-making-tools-aids/?couponCode=29THDEC25&ra",
-      "coupon_code": "29THDEC25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/voice-over-artist-training-for-audiobook-courses-and-promos/?couponCode=0C00ABBEDB7C087763FD",
