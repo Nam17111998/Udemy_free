@@ -1,7 +1,91 @@
 {
-  "updated_at": "2025-12-30T05:31:45Z",
-  "count": 972,
+  "updated_at": "2025-12-30T06:43:17Z",
+  "count": 984,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/100-ai-agents/?couponCode=363A7F9368AC778D21E8",
+      "coupon_code": "363A7F9368AC778D21E8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/745420_f146_5.jpg",
+      "title": "100 AI Agents in 100 Days 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-prompt-engineering-certification/?couponCode=05A4243EA24790B0832E",
+      "coupon_code": "05A4243EA24790B0832E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6869555_8341_6.jpg",
+      "title": "Advanced Prompt Engineering Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-agents-from-foundations-to-enterprise-systems/?couponCode=5BEF0B6D521E70249058",
+      "coupon_code": "5BEF0B6D521E70249058",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967321_eb9b.jpg",
+      "title": "AI Agents: From Foundations to Enterprise Systems"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-ethics-for-professionals-ai-ethics-ethical-ai/?couponCode=E05D1B40741A14240426",
+      "coupon_code": "E05D1B40741A14240426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6979013_14e3.jpg",
+      "title": "AI Ethics For Professionals: AI Ethics & Responsible AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-coding/?couponCode=2E6356E12C245AE46282",
+      "coupon_code": "2E6356E12C245AE46282",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6230063_d867.jpg",
+      "title": "AI for Coding: Master Cursor AI for 20X Faster Fullstack App"
+    },
+    {
+      "url": "https://www.udemy.com/course/coding-the-brain-ai-machine-learning-for-bcis/?couponCode=50D0B7773534F2582F34",
+      "coupon_code": "50D0B7773534F2582F34",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6929045_5efe.jpg",
+      "title": "Coding the Brain: AI & Machine Learning for BCIs"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-sales-management/?couponCode=D496394548269B201841",
+      "coupon_code": "D496394548269B201841",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992344_c0b5.jpg",
+      "title": "Executive Certificate in Sales Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/gen-ai-customer-success/?couponCode=MERRY_CHRISMAS",
+      "coupon_code": "MERRY_CHRISMAS",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6878773_747d_2.jpg",
+      "title": "Customer Success, Powered by Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/implementing-hipaa-step-by-step/?couponCode=56C7B4C47C6FCF1E6A95",
+      "coupon_code": "56C7B4C47C6FCF1E6A95",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5712832_5e23.jpg",
+      "title": "Implementing HIPAA Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-business-and-data-analysis/?couponCode=1F87B6EBE53ED9D31F79",
+      "coupon_code": "1F87B6EBE53ED9D31F79",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6011380_ea0b.jpg",
+      "title": "Business Data Analysis: The Strategic Thinking Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/iso-27004-implement-isms-measurement-step-by-step/?couponCode=94BFBEA4375CAF85E45F",
+      "coupon_code": "94BFBEA4375CAF85E45F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5753154_7623_4.jpg",
+      "title": "ISO 27004: Implement ISMS Measurement Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/low-code-no-code-mastery/?couponCode=34EAE68FB18623F0394C",
+      "coupon_code": "34EAE68FB18623F0394C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967317_850e_3.jpg",
+      "title": "Low-Code & No-Code Mastery"
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-parenting-tips/?couponCode=GOODBYE2025",
+      "coupon_code": "GOODBYE2025",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6977929_8ab1.jpg",
+      "title": "40 Practical Parenting Tips"
+    },
+    {
+      "url": "https://www.udemy.com/course/real-estate-tokenization/?couponCode=540D6DDF8FD931B96DA5",
+      "coupon_code": "540D6DDF8FD931B96DA5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6786027_01f6_2.jpg",
+      "title": "Real Estate Tokenization"
+    },
     {
       "url": "https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=SUBHANALLAH_123025",
       "coupon_code": "SUBHANALLAH_123025",
@@ -19,12 +103,6 @@
       "coupon_code": "F0AA3AF1C4105AC9C8D3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5990764_25b2.jpg",
       "title": "Diploma Executivo em Liderança"
-    },
-    {
-      "url": "https://www.udemy.com/course/executive-certificate-in-sales-management/?couponCode=D496394548269B201841",
-      "coupon_code": "D496394548269B201841",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5992344_c0b5.jpg",
-      "title": "Executive Certificate in Sales Management"
     },
     {
       "url": "https://www.udemy.com/course/java-programming-masterclass-beginner-to-master/?couponCode=0757C703A161A2168120",
@@ -1723,12 +1801,6 @@
       "coupon_code": "D50296F631D49E1EDEE0",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6583429_c071.jpg",
       "title": "The Complete Java Programming Mastery - Developers Bootcamp"
-    },
-    {
-      "url": "https://www.udemy.com/course/coding-the-brain-ai-machine-learning-for-bcis/?couponCode=50D0B7773534F2582F34",
-      "coupon_code": "50D0B7773534F2582F34",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6929045_5efe.jpg",
-      "title": "Coding the Brain: AI & Machine Learning for BCIs"
     },
     {
       "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=2A6C8CB3959F2094A4BB",
