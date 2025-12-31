@@ -1,43 +1,72 @@
 {
-  "updated_at": "2025-12-31T12:57:20Z",
-  "count": 970,
+  "updated_at": "2025-12-31T13:38:40Z",
+  "count": 977,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/docker-container/?couponCode=D2C3918D6BECBB9F8BC9",
-      "coupon_code": "D2C3918D6BECBB9F8BC9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4961038_7ab0_8.jpg",
-      "title": "Master Docker Container For Beginner"
+      "url": "https://www.udemy.com/course/ai-powered-product-marketing-and-market-research/?couponCode=8D0C76207BF52EA662C1",
+      "coupon_code": "8D0C76207BF52EA662C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6429141_259b_3.jpg",
+      "title": "AI-Powered Product Marketing and Market Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/comet-browser-masterclass-complete-guide-to-the-agentic-web/?couponCode=054B2AD6A0866B984D47",
+      "coupon_code": "054B2AD6A0866B984D47",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6898657_b2ff_3.jpg",
+      "title": "Comet Browser Masterclass: Complete Guide to the Agentic Web"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-and-javascript-crash-course/?couponCode=26820A2CD6F3B2F212D6",
+      "coupon_code": "26820A2CD6F3B2F212D6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4271184_7325_2.jpg",
+      "title": "CSS And Javascript Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/devenir-freelance-nomade/?couponCode=E46CBAF8CCF23B8C3BD0",
+      "coupon_code": "E46CBAF8CCF23B8C3BD0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6097319_b9b9_3.jpg",
+      "title": "DEVENIR FREELANCE NOMADE : Vivre de sa passion librement"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-assistance-and-management/?couponCode=DD72912EEAC6551CE095",
+      "coupon_code": "DD72912EEAC6551CE095",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241145_65cb_4.jpg",
+      "title": "Professional Diploma in Executive Assistance and Management"
     },
     {
       "url": "https://www.udemy.com/course/java-concurrency-iter-academy/?couponCode=CCY-DECEMBER25-3",
       "coupon_code": "CCY-DECEMBER25-3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6477005_40a9_2.jpg",
+      "title": "Java Concurrency: Multithreading with Exercises - 2025"
     },
     {
       "url": "https://www.udemy.com/course/java-core-in-practice-iter-academy/?couponCode=CORE-DECEMBER25-3",
       "coupon_code": "CORE-DECEMBER25-3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5179492_a505_3.jpg",
+      "title": "Java: Complete Java Core for Beginners with Exercises - 2025"
     },
     {
       "url": "https://www.udemy.com/course/java-intro-in-practice-iter-academy/?couponCode=INTRO-DECEMBER25-3",
       "coupon_code": "INTRO-DECEMBER25-3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6463427_882c.jpg",
+      "title": "Java Basics in Practice with 35+ Exercises & Quizzes - 2025"
     },
     {
       "url": "https://www.udemy.com/course/java-oop-iter-academy/?couponCode=OOP-DECEMBER25-3",
       "coupon_code": "OOP-DECEMBER25-3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6408069_84c7.jpg",
+      "title": "Java OOP: Object Oriented Programming with Exercises - 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/love-after-baby/?couponCode=458D2AED82A3E52D8606",
+      "coupon_code": "458D2AED82A3E52D8606",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6675457_e6eb_2.jpg",
+      "title": "Love After Baby: Reconnecting as a Couple Post-Parenthood"
     },
     {
       "url": "https://www.udemy.com/course/mastering-jenkins-building-continuous-integration-pipelines/?couponCode=0D5398CC95EFC2E18CB1",
       "coupon_code": "0D5398CC95EFC2E18CB1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-linux-system-administration-and-troubleshooting/?couponCode=72BABA1737FB5600CA9A",
-      "coupon_code": "72BABA1737FB5600CA9A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5301720_5f74_3.jpg",
-      "title": "Mastering Linux System Administration and Troubleshooting"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5723600_3c6d_6.jpg",
+      "title": "Jenkins CI/CD Pipeline: AWS, Docker, Tomcat & Automation"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-office-specialist-microsoft-excel-advanced-expert/?couponCode=7767D8CBC6AFEE2F9BF6",
@@ -52,6 +81,30 @@
       "title": "PowerCLI Command to manage VMware ESXi, vCenter for beginner"
     },
     {
+      "url": "https://www.udemy.com/course/redhat-system-administration-and-troubleshooting-rhcsa/?couponCode=CCCB150A6210C046E970",
+      "coupon_code": "CCCB150A6210C046E970",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5471666_51fb_6.jpg",
+      "title": "Red Hat System Administration and Troubleshooting - RHCSA"
+    },
+    {
+      "url": "https://www.udemy.com/course/virtual-executive-assistant/?couponCode=7FF54AF83065E69C5BE2",
+      "coupon_code": "7FF54AF83065E69C5BE2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241137_b43a_2.jpg",
+      "title": "Professional Diploma in Virtual Executive Assistant"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-container/?couponCode=D2C3918D6BECBB9F8BC9",
+      "coupon_code": "D2C3918D6BECBB9F8BC9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4961038_7ab0_8.jpg",
+      "title": "Master Docker Container For Beginner"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-linux-system-administration-and-troubleshooting/?couponCode=72BABA1737FB5600CA9A",
+      "coupon_code": "72BABA1737FB5600CA9A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5301720_5f74_3.jpg",
+      "title": "Mastering Linux System Administration and Troubleshooting"
+    },
+    {
       "url": "https://www.udemy.com/course/professional-certificate-in-devops/?couponCode=E82EA7D12C38F9D1DF53",
       "coupon_code": "E82EA7D12C38F9D1DF53",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6409957_384f_3.jpg",
@@ -62,12 +115,6 @@
       "coupon_code": "9866CAA705C9FA32AAC3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6421785_36d5.jpg",
       "title": "Professional Certificate in Risk Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/redhat-system-administration-and-troubleshooting-rhcsa/?couponCode=CCCB150A6210C046E970",
-      "coupon_code": "CCCB150A6210C046E970",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5471666_51fb_6.jpg",
-      "title": "Red Hat System Administration and Troubleshooting - RHCSA"
     },
     {
       "url": "https://www.udemy.com/course/secure-and-hardening-linux/?couponCode=2F4D5EB21926D2D206A6",
