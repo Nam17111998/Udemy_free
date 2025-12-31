@@ -1,12 +1,18 @@
 {
-  "updated_at": "2025-12-31T06:44:31Z",
-  "count": 920,
+  "updated_at": "2025-12-31T07:30:20Z",
+  "count": 922,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/ai-for-data-driven-marketing-strategy-and-operations/?couponCode=NEWYEAR2026",
-      "coupon_code": "NEWYEAR2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6864165_29f6_2.jpg",
-      "title": "AI for Data-Driven Marketing Strategy and Operations"
+      "url": "https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/?couponCode=3EF15595FB65E05FA528",
+      "coupon_code": "3EF15595FB65E05FA528",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916184_19c5.jpg",
+      "title": "ChatGPT and Generative AI in Business, Management, Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-aec/?couponCode=77E41D83CCD721CCC906",
+      "coupon_code": "77E41D83CCD721CCC906",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5786022_2e4a_2.jpg",
+      "title": "ChatGPT for Product Management & Innovation"
     },
     {
       "url": "https://www.udemy.com/course/dask-starttech/?couponCode=NEWYEAR2026",
@@ -33,18 +39,6 @@
       "title": "Advanced Excel: Power Query, Power Pivot and DAX"
     },
     {
-      "url": "https://www.udemy.com/course/gen-ai-for-marketing-leaders/?couponCode=NEWYEAR2026",
-      "coupon_code": "NEWYEAR2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6684753_b3bd_6.jpg",
-      "title": "Generative AI for Marketing Leaders"
-    },
-    {
-      "url": "https://www.udemy.com/course/generative-ai-hr/?couponCode=NEWYEAR2026",
-      "coupon_code": "NEWYEAR2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6761521_2ea7.jpg",
-      "title": "Generative AI for HR Leaders"
-    },
-    {
       "url": "https://www.udemy.com/course/mitre-attck-and-mitre-atlas-cyber-threat-intelligence/?couponCode=NEWYEAR2026",
       "coupon_code": "NEWYEAR2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6603223_9c9d.jpg",
@@ -69,16 +63,56 @@
       "title": "Presentations using Gen AI"
     },
     {
-      "url": "https://www.udemy.com/course/prompt-engineering-frameworks/?couponCode=NEWYEAR2026",
-      "coupon_code": "NEWYEAR2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6727239_2663_2.jpg",
-      "title": "Prompt Engineering Frameworks & Methodologies"
+      "url": "https://www.udemy.com/course/product-owner-certification-exam-prep/?couponCode=B1FCD3DF6879DC7FE822",
+      "coupon_code": "B1FCD3DF6879DC7FE822",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-agile-and-scrum/?couponCode=5722E2D37171257DA127",
+      "coupon_code": "5722E2D37171257DA127",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916100_0e04.jpg",
+      "title": "Professional Certificate in Agile and SCRUM"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-scrum/?couponCode=D0B70E18BA5CE6A0676C",
+      "coupon_code": "D0B70E18BA5CE6A0676C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5754968_5307.jpg",
+      "title": "Professional Diploma in Agile and Scrum"
+    },
+    {
+      "url": "https://www.udemy.com/course/scrum-master-certification-exam-prep/?couponCode=064666F7D26755145217",
+      "coupon_code": "064666F7D26755145217",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/self-guided-learning-with-ai/?couponCode=NEWYEAR2026",
       "coupon_code": "NEWYEAR2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6648925_2129.jpg",
       "title": "Self-Guided Learning with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-data-driven-marketing-strategy-and-operations/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6864165_29f6_2.jpg",
+      "title": "AI for Data-Driven Marketing Strategy and Operations"
+    },
+    {
+      "url": "https://www.udemy.com/course/gen-ai-for-marketing-leaders/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6684753_b3bd_6.jpg",
+      "title": "Generative AI for Marketing Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-hr/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761521_2ea7.jpg",
+      "title": "Generative AI for HR Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/prompt-engineering-frameworks/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6727239_2663_2.jpg",
+      "title": "Prompt Engineering Frameworks & Methodologies"
     },
     {
       "url": "https://www.udemy.com/course/terraform-for-beginners-handson/?couponCode=48BAF8028CD4F3007E86",
@@ -3489,18 +3523,6 @@
       "title": "AI in Healthcare: A-Z Guide on Tech, Applications & Ethics"
     },
     {
-      "url": "https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/?couponCode=3EF15595FB65E05FA528",
-      "coupon_code": "3EF15595FB65E05FA528",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5916184_19c5.jpg",
-      "title": "ChatGPT and Generative AI in Business, Management, Marketing"
-    },
-    {
-      "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-aec/?couponCode=77E41D83CCD721CCC906",
-      "coupon_code": "77E41D83CCD721CCC906",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5786022_2e4a_2.jpg",
-      "title": "ChatGPT for Product Management & Innovation"
-    },
-    {
       "url": "https://www.udemy.com/course/chatgpt-for-product-managers/?couponCode=9CDD8C9266FF18E0365D",
       "coupon_code": "9CDD8C9266FF18E0365D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6477577_0599.jpg",
@@ -3537,22 +3559,10 @@
       "title": "Product Owner Exam Prep"
     },
     {
-      "url": "https://www.udemy.com/course/professional-certificate-in-agile-and-scrum/?couponCode=5722E2D37171257DA127",
-      "coupon_code": "5722E2D37171257DA127",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5916100_0e04.jpg",
-      "title": "Professional Certificate in Agile and SCRUM"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-project-management/?couponCode=D0829DB9DC157C537B2E",
       "coupon_code": "D0829DB9DC157C537B2E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5589912_8cbe_2.jpg",
       "title": "Professional Diploma in Agile and Project Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-scrum/?couponCode=D0B70E18BA5CE6A0676C",
-      "coupon_code": "D0B70E18BA5CE6A0676C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5754968_5307.jpg",
-      "title": "Professional Diploma in Agile and Scrum"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-branding-and-brand-management/?couponCode=9EA3AAA11390BF8F4F98",
