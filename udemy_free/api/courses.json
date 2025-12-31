@@ -1,7 +1,97 @@
 {
-  "updated_at": "2025-12-31T05:32:28Z",
-  "count": 905,
+  "updated_at": "2025-12-31T06:44:31Z",
+  "count": 920,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-data-driven-marketing-strategy-and-operations/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6864165_29f6_2.jpg",
+      "title": "AI for Data-Driven Marketing Strategy and Operations"
+    },
+    {
+      "url": "https://www.udemy.com/course/dask-starttech/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6514297_4939_3.jpg",
+      "title": "Mastering Dask: Scale Python Workflows Like a Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analysis-with-copilot-excel/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6626917_4073.jpg",
+      "title": "Data Analysis and Data Visualization with Copilot in Excel"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-business/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6587747_fa6d_3.jpg",
+      "title": "Zero to Hero in Deepseek AI: Local, Private & Practical"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-powerquery-power-pivot-dax/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6537813_d069_2.jpg",
+      "title": "Advanced Excel: Power Query, Power Pivot and DAX"
+    },
+    {
+      "url": "https://www.udemy.com/course/gen-ai-for-marketing-leaders/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6684753_b3bd_6.jpg",
+      "title": "Generative AI for Marketing Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-hr/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761521_2ea7.jpg",
+      "title": "Generative AI for HR Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/mitre-attck-and-mitre-atlas-cyber-threat-intelligence/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6603223_9c9d.jpg",
+      "title": "MITRE ATT&CK and MITRE ATLAS: Cyber Threat Intelligence"
+    },
+    {
+      "url": "https://www.udemy.com/course/pentesting-genai-llm-models/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6514281_3a7d_5.jpg",
+      "title": "Pentesting GenAI LLM models: Securing Large Language Models"
+    },
+    {
+      "url": "https://www.udemy.com/course/personal-productivity-enhancement-with-generative-ai/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6623079_4a84.jpg",
+      "title": "Personal Productivity Enhancement with Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/presentations-using-gen-ai/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6505385_27ea_5.jpg",
+      "title": "Presentations using Gen AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/prompt-engineering-frameworks/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6727239_2663_2.jpg",
+      "title": "Prompt Engineering Frameworks & Methodologies"
+    },
+    {
+      "url": "https://www.udemy.com/course/self-guided-learning-with-ai/?couponCode=NEWYEAR2026",
+      "coupon_code": "NEWYEAR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6648925_2129.jpg",
+      "title": "Self-Guided Learning with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/terraform-for-beginners-handson/?couponCode=48BAF8028CD4F3007E86",
+      "coupon_code": "48BAF8028CD4F3007E86",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6754963_7b8f.jpg",
+      "title": "Terraform for Beginners: Hands-On AWS Infra automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=46E7AD4603EE86314795",
+      "coupon_code": "46E7AD4603EE86314795",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
+      "title": "User Interviews & User Onboarding"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/?couponCode=4770BE4CA37238036AB2",
       "coupon_code": "4770BE4CA37238036AB2",
