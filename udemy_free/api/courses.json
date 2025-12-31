@@ -1,7 +1,85 @@
 {
-  "updated_at": "2025-12-31T02:12:40Z",
-  "count": 978,
+  "updated_at": "2025-12-31T04:03:27Z",
+  "count": 990,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/associate-professional-risk-manager-aprm-certificate/?couponCode=20D083443563F539F17F",
+      "coupon_code": "20D083443563F539F17F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/?couponCode=A7C2B63BD9D4F601F268",
+      "coupon_code": "A7C2B63BD9D4F601F268",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-jquery-masterclass-from-beginner-to-expert/?couponCode=6F440C4BA1A45C46A2D2",
+      "coupon_code": "6F440C4BA1A45C46A2D2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=B6A29E080222E5941D68",
+      "coupon_code": "B6A29E080222E5941D68",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analyst-professional-certificate-in-data-analysis/?couponCode=EBF42CED1783454E9C05",
+      "coupon_code": "EBF42CED1783454E9C05",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-transformation-customer-experience-management-cxm/?couponCode=F5794AE7FC77292F8827",
+      "coupon_code": "F5794AE7FC77292F8827",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/frontend-architecture-and-patterns/?couponCode=EF98AD8D980832CD29D5",
+      "coupon_code": "EF98AD8D980832CD29D5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-developer-toolkit-from-architecture-to-cloud-deployment/?couponCode=AFFORD2512",
+      "coupon_code": "AFFORD2512",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6841231_b6e2_4.jpg",
+      "title": "All-In-One Full Stack Web App DevOps - From Idea to Cloud"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-website-creation-15-website-platforms-in-1-course-s/?couponCode=5D55CAD27C3F229BF74D",
+      "coupon_code": "5D55CAD27C3F229BF74D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-hacking-pentesting-guide/?couponCode=76A3FB1BB720C0D10357",
+      "coupon_code": "76A3FB1BB720C0D10357",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-osint/?couponCode=43A8EDA00E8CDAD56861",
+      "coupon_code": "43A8EDA00E8CDAD56861",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-marketing-and-development-go-to-market-strategy/?couponCode=526CB6BACFD26F9554ED",
+      "coupon_code": "526CB6BACFD26F9554ED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6252799_37be.jpg",
+      "title": "Product Marketing: Advanced Go-to-Market (GTM) Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/speak-english-fluently-master-your-real-life-communication/?couponCode=148720A6C8C3385C6BAE",
+      "coupon_code": "148720A6C8C3385C6BAE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-seo-course-2024-beginner-to-advanced-seo/?couponCode=682038791ED8A062BCB6",
+      "coupon_code": "682038791ED8A062BCB6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/top-course/?couponCode=CFBD40D76FDF8C656FDE",
+      "coupon_code": "CFBD40D76FDF8C656FDE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5195428_dc75_10.jpg",
+      "title": "Complete Ethical Hacking Masterclass: Go from Zero to Hero"
+    },
     {
       "url": "https://www.udemy.com/course/ai-agents-from-foundations-to-enterprise-systems/?couponCode=778DE57932E51F57301A",
       "coupon_code": "778DE57932E51F57301A",
@@ -39,12 +117,6 @@
       "title": "Transforme ton Intérieur en Environnement de Réussite"
     },
     {
-      "url": "https://www.udemy.com/course/full-stack-developer-toolkit-from-architecture-to-cloud-deployment/?couponCode=AFFORD2512",
-      "coupon_code": "AFFORD2512",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6841231_b6e2_4.jpg",
-      "title": "All-In-One Full Stack Web App DevOps - From Idea to Cloud"
-    },
-    {
       "url": "https://www.udemy.com/course/generative-ai-and-artificial-intelligence-ai-for-leaders/?couponCode=9AF68CCB089A756E5318",
       "coupon_code": "9AF68CCB089A756E5318",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6247569_39b6_2.jpg",
@@ -75,22 +147,10 @@
       "title": "Product Development & Customer Experience Management Diploma"
     },
     {
-      "url": "https://www.udemy.com/course/product-marketing-and-development-go-to-market-strategy/?couponCode=526CB6BACFD26F9554ED",
-      "coupon_code": "526CB6BACFD26F9554ED",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6252799_37be.jpg",
-      "title": "Product Marketing: Advanced Go-to-Market (GTM) Strategy"
-    },
-    {
       "url": "https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=29THDEC25&ra",
       "coupon_code": "29THDEC25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4762718_0127_2.jpg",
       "title": "Self Discipline will Change Your life for GOOD"
-    },
-    {
-      "url": "https://www.udemy.com/course/top-course/?couponCode=CFBD40D76FDF8C656FDE",
-      "coupon_code": "CFBD40D76FDF8C656FDE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5195428_dc75_10.jpg",
-      "title": "Complete Ethical Hacking Masterclass: Go from Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=17A012AFAB9F2FFC1273",
