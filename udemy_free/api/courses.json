@@ -1,7 +1,92 @@
 {
-  "updated_at": "2025-12-31T11:25:32Z",
-  "count": 961,
+  "updated_at": "2025-12-31T12:57:20Z",
+  "count": 970,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/docker-container/?couponCode=D2C3918D6BECBB9F8BC9",
+      "coupon_code": "D2C3918D6BECBB9F8BC9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4961038_7ab0_8.jpg",
+      "title": "Master Docker Container For Beginner"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-concurrency-iter-academy/?couponCode=CCY-DECEMBER25-3",
+      "coupon_code": "CCY-DECEMBER25-3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-core-in-practice-iter-academy/?couponCode=CORE-DECEMBER25-3",
+      "coupon_code": "CORE-DECEMBER25-3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-intro-in-practice-iter-academy/?couponCode=INTRO-DECEMBER25-3",
+      "coupon_code": "INTRO-DECEMBER25-3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-oop-iter-academy/?couponCode=OOP-DECEMBER25-3",
+      "coupon_code": "OOP-DECEMBER25-3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-jenkins-building-continuous-integration-pipelines/?couponCode=0D5398CC95EFC2E18CB1",
+      "coupon_code": "0D5398CC95EFC2E18CB1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-linux-system-administration-and-troubleshooting/?couponCode=72BABA1737FB5600CA9A",
+      "coupon_code": "72BABA1737FB5600CA9A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5301720_5f74_3.jpg",
+      "title": "Mastering Linux System Administration and Troubleshooting"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-specialist-microsoft-excel-advanced-expert/?couponCode=7767D8CBC6AFEE2F9BF6",
+      "coupon_code": "7767D8CBC6AFEE2F9BF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6422925_7726_2.jpg",
+      "title": "Microsoft Office Specialist: Microsoft Excel Advanced Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/powercli/?couponCode=33C8C167B125ACDF17CA",
+      "coupon_code": "33C8C167B125ACDF17CA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3622534_e2d3_8.jpg",
+      "title": "PowerCLI Command to manage VMware ESXi, vCenter for beginner"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-devops/?couponCode=E82EA7D12C38F9D1DF53",
+      "coupon_code": "E82EA7D12C38F9D1DF53",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409957_384f_3.jpg",
+      "title": "Professional Certificate in DevOps"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-risk-management/?couponCode=9866CAA705C9FA32AAC3",
+      "coupon_code": "9866CAA705C9FA32AAC3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6421785_36d5.jpg",
+      "title": "Professional Certificate in Risk Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/redhat-system-administration-and-troubleshooting-rhcsa/?couponCode=CCCB150A6210C046E970",
+      "coupon_code": "CCCB150A6210C046E970",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5471666_51fb_6.jpg",
+      "title": "Red Hat System Administration and Troubleshooting - RHCSA"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-and-hardening-linux/?couponCode=2F4D5EB21926D2D206A6",
+      "coupon_code": "2F4D5EB21926D2D206A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4798922_8957_3.jpg",
+      "title": "Linux Security and Hardening"
+    },
+    {
+      "url": "https://www.udemy.com/course/ssh-ftp-scp-for-linux-and-unix/?couponCode=37689F1C0A71DDE357B5",
+      "coupon_code": "37689F1C0A71DDE357B5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3636780_d2ef_6.jpg",
+      "title": "SSH , FTP , SCP , sudo and su for Linux and Unix"
+    },
+    {
+      "url": "https://www.udemy.com/course/unix-ibm-aix/?couponCode=4882AC31F5C8DB7E346F",
+      "coupon_code": "4882AC31F5C8DB7E346F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4451876_235e_8.jpg",
+      "title": "Unix IBM AIX System Administration Zero to Hero for Beginner"
+    },
     {
       "url": "https://www.udemy.com/course/active-directory-sites-and-replication/?couponCode=BA1502A9BEEB6E3C8CE9",
       "coupon_code": "BA1502A9BEEB6E3C8CE9",
@@ -19,12 +104,6 @@
       "coupon_code": "D176F194C69380009FE6",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6990293_2a6a.jpg",
       "title": "Business English for Management and Leadership"
-    },
-    {
-      "url": "https://www.udemy.com/course/docker-container/?couponCode=D2C3918D6BECBB9F8BC9",
-      "coupon_code": "D2C3918D6BECBB9F8BC9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4961038_7ab0_8.jpg",
-      "title": "Master Docker Container For Beginner"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-data-structures-an-algorithmic-approach/?couponCode=VENKATFIRSTCOURSE",
@@ -51,46 +130,16 @@
       "title": "Lean & Quality Management, Six Sigma, Continuous Improvement"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-linux-system-administration-and-troubleshooting/?couponCode=72BABA1737FB5600CA9A",
-      "coupon_code": "72BABA1737FB5600CA9A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5301720_5f74_3.jpg",
-      "title": "Mastering Linux System Administration and Troubleshooting"
-    },
-    {
       "url": "https://www.udemy.com/course/microsoft-copilot-for-customer-success-as-a-business-system/?couponCode=31DECEMBER2025",
       "coupon_code": "31DECEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6973141_7f97_2.jpg",
       "title": "Microsoft Copilot for Customer Success as a Business System"
     },
     {
-      "url": "https://www.udemy.com/course/professional-certificate-in-devops/?couponCode=E82EA7D12C38F9D1DF53",
-      "coupon_code": "E82EA7D12C38F9D1DF53",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6409957_384f_3.jpg",
-      "title": "Professional Certificate in DevOps"
-    },
-    {
-      "url": "https://www.udemy.com/course/secure-and-hardening-linux/?couponCode=2F4D5EB21926D2D206A6",
-      "coupon_code": "2F4D5EB21926D2D206A6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4798922_8957_3.jpg",
-      "title": "Linux Security and Hardening"
-    },
-    {
-      "url": "https://www.udemy.com/course/ssh-ftp-scp-for-linux-and-unix/?couponCode=37689F1C0A71DDE357B5",
-      "coupon_code": "37689F1C0A71DDE357B5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3636780_d2ef_6.jpg",
-      "title": "SSH , FTP , SCP , sudo and su for Linux and Unix"
-    },
-    {
       "url": "https://www.udemy.com/course/ultimate-product-management/?couponCode=31DECEMBER2025",
       "coupon_code": "31DECEMBER2025",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5936948_c002_3.jpg",
       "title": "Product Management Core Skills and Concepts"
-    },
-    {
-      "url": "https://www.udemy.com/course/unix-ibm-aix/?couponCode=4882AC31F5C8DB7E346F",
-      "coupon_code": "4882AC31F5C8DB7E346F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4451876_235e_8.jpg",
-      "title": "Unix IBM AIX System Administration Zero to Hero for Beginner"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-it-operations-and-infrastructure/?couponCode=HNY2026_2",
