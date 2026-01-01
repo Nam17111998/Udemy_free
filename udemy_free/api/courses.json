@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-01-01T04:13:56Z",
-  "count": 933,
+  "updated_at": "2026-01-01T05:34:56Z",
+  "count": 938,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/data-storytelling-communicating-data-insights-effectively/?couponCode=5745BAC8EEFFF99E82FF",
+      "coupon_code": "5745BAC8EEFFF99E82FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581019_bc1a.jpg",
+      "title": "Data Storytelling: Communicating Data Insights Effectively"
+    },
     {
       "url": "https://www.udemy.com/course/disruptive-thinking-and-disruptive-innovations/?couponCode=0B17EA7347A26EFAA80B",
       "coupon_code": "0B17EA7347A26EFAA80B",
@@ -9,28 +15,22 @@
       "title": "Disruptive Thinking: Innovation, Creativity, Transformation"
     },
     {
-      "url": "https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=29THDEC25&ra",
+      "url": "https://www.udemy.com/course/gmat-quantitative-master-course/?couponCode=365BB2C28CD5063823C0",
+      "coupon_code": "365BB2C28CD5063823C0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3364782_5155_4.jpg",
+      "title": "GMAT Focus | Quantitative| Master Math Course | 2025 Updated"
+    },
+    {
+      "url": "https://www.udemy.com/course/gre-quantitative-master-course/?couponCode=F1F92BA97934B30A3318",
+      "coupon_code": "F1F92BA97934B30A3318",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3276370_15f6_2.jpg",
+      "title": "GRE Quantitative Prep | Master Math Course | 2025 Updated"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-transform-your-life-practical-ways/?couponCode=29THDEC25&ra",
       "coupon_code": "29THDEC25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4925880_ceba.jpg",
-      "title": "Fundamentals of  Successful Leadership - Leading with Impact"
-    },
-    {
-      "url": "https://www.udemy.com/course/gestion-del-tiempo-y-timeboxing-en-negocios-y-organizaciones/?couponCode=59C85A832C914305F5ED",
-      "coupon_code": "59C85A832C914305F5ED",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6571667_1d4b_2.jpg",
-      "title": "Gestión del Tiempo y Timeboxing en Negocios y Organizaciones"
-    },
-    {
-      "url": "https://www.udemy.com/course/gratitude-w/?couponCode=29THDEC25&ra",
-      "coupon_code": "29THDEC25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4794422_c40e_5.jpg",
-      "title": "Gratitude"
-    },
-    {
-      "url": "https://www.udemy.com/course/guesstimates-and-case-interviews-excellence/?couponCode=C513D90D8EADAE347F32",
-      "coupon_code": "C513D90D8EADAE347F32",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4716500_7279_4.jpg",
-      "title": "Master Guesstimate & Business Consulting Case interview"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4912620_d57d.jpg",
+      "title": "How to Transform Your Life - practical ways"
     },
     {
       "url": "https://www.udemy.com/course/ibm-spss-a-practical-guide-to-data-analysis/?couponCode=E297EADF6B1457F11980",
@@ -45,10 +45,10 @@
       "title": "Investing in Africa - Key factors for Investors to consider"
     },
     {
-      "url": "https://www.udemy.com/course/javascript-fundamentals-course-for-beginners/?couponCode=69EFD15B7D89D3DAB6D1",
-      "coupon_code": "69EFD15B7D89D3DAB6D1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5638522_57a6.jpg",
-      "title": "JavaScript Fundamentals Course for Beginners"
+      "url": "https://www.udemy.com/course/laravel-10-essentials-user-roles-permissions-with-spatie/?couponCode=998851AD268A38AC0943",
+      "coupon_code": "998851AD268A38AC0943",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5833992_3066_4.jpg",
+      "title": "Laravel Essentials: User Roles & Permissions with Spatie"
     },
     {
       "url": "https://www.udemy.com/course/mastering-excel-data-analysis-techniques-unlock-insights/?couponCode=B911E01C1E52F6A809EB",
@@ -75,16 +75,58 @@
       "title": "Microsoft Excel Formulas and Functions For Basic to Expert"
     },
     {
-      "url": "https://www.udemy.com/course/python-programming-python-bootcamp-for-beginners/?couponCode=3D2E2B659DB281F8BC3D",
-      "coupon_code": "3D2E2B659DB281F8BC3D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5663766_280c.jpg",
-      "title": "Python Programming: Python Bootcamp For Beginners"
+      "url": "https://www.udemy.com/course/python-for-data-analysis-and-data-science/?couponCode=DCFBD969E583634F7BA4",
+      "coupon_code": "DCFBD969E583634F7BA4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581245_e1e8_2.jpg",
+      "title": "Python for Data analysis"
     },
     {
       "url": "https://www.udemy.com/course/salesforce-fundamentals-a-complete-guide-for-beginners/?couponCode=DC137F11238CAE2CD0CF",
       "coupon_code": "DC137F11238CAE2CD0CF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5668638_f94e_2.jpg",
       "title": "Salesforce Fundamentals : A Complete Guide for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=29THDEC25&ra",
+      "coupon_code": "29THDEC25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4785722_1b39_5.jpg",
+      "title": "Strategic Partnerships and Collaborations"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=29THDEC25&ra",
+      "coupon_code": "29THDEC25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4925880_ceba.jpg",
+      "title": "Fundamentals of  Successful Leadership - Leading with Impact"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestion-del-tiempo-y-timeboxing-en-negocios-y-organizaciones/?couponCode=59C85A832C914305F5ED",
+      "coupon_code": "59C85A832C914305F5ED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6571667_1d4b_2.jpg",
+      "title": "Gestión del Tiempo y Timeboxing en Negocios y Organizaciones"
+    },
+    {
+      "url": "https://www.udemy.com/course/gratitude-w/?couponCode=29THDEC25&ra",
+      "coupon_code": "29THDEC25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4794422_c40e_5.jpg",
+      "title": "Gratitude"
+    },
+    {
+      "url": "https://www.udemy.com/course/guesstimates-and-case-interviews-excellence/?couponCode=C513D90D8EADAE347F32",
+      "coupon_code": "C513D90D8EADAE347F32",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4716500_7279_4.jpg",
+      "title": "Master Guesstimate & Business Consulting Case interview"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-fundamentals-course-for-beginners/?couponCode=69EFD15B7D89D3DAB6D1",
+      "coupon_code": "69EFD15B7D89D3DAB6D1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638522_57a6.jpg",
+      "title": "JavaScript Fundamentals Course for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-python-bootcamp-for-beginners/?couponCode=3D2E2B659DB281F8BC3D",
+      "coupon_code": "3D2E2B659DB281F8BC3D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663766_280c.jpg",
+      "title": "Python Programming: Python Bootcamp For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-mysql-bootcamp-go-from-beginner-to-expert/?couponCode=595A6BE3B19C7747F8A5",
@@ -1125,12 +1167,6 @@
       "title": "Complete 5+ Deep Learning Projects: AI & ML Hands-On Project"
     },
     {
-      "url": "https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=29THDEC25&ra",
-      "coupon_code": "29THDEC25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4785722_1b39_5.jpg",
-      "title": "Strategic Partnerships and Collaborations"
-    },
-    {
       "url": "https://www.udemy.com/course/your-words-powerful-tools/?couponCode=29THDEC25&ra",
       "coupon_code": "29THDEC25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4789658_5ffd_5.jpg",
@@ -1213,12 +1249,6 @@
       "coupon_code": "3793944C4F3A2AA9F402",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5486862_fee5_2.jpg",
       "title": "Dart Mastery - Become a Dart Master From Zero to Hero"
-    },
-    {
-      "url": "https://www.udemy.com/course/how-to-transform-your-life-practical-ways/?couponCode=29THDEC25&ra",
-      "coupon_code": "29THDEC25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4912620_d57d.jpg",
-      "title": "How to Transform Your Life - practical ways"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-project-management/?couponCode=57279817CE7DF1B450E9",
