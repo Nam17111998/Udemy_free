@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-01-01T23:27:32Z",
-  "count": 930,
+  "updated_at": "2026-01-02T02:19:55Z",
+  "count": 934,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/?couponCode=JAN-FREE-01",
-      "coupon_code": "JAN-FREE-01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6535141_5559_4.jpg",
-      "title": "AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)"
-    },
     {
       "url": "https://www.udemy.com/course/bootcamp-de-devops-a-mlops-transicion-hacia-la-ingenieria-p/?couponCode=JAN-FREE-01",
       "coupon_code": "JAN-FREE-01",
@@ -19,6 +13,11 @@
       "coupon_code": "02D5FDF67C5128F8808E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6832413_cdc2_2.jpg",
       "title": "Certificate in Neuromarketing & Consumer Psychology"
+    },
+    {
+      "url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=D16E391A607944587EC8",
+      "coupon_code": "D16E391A607944587EC8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=JAN-FREE-01",
@@ -51,10 +50,9 @@
       "title": "Digital Transformation in HR: Leveraging AI & Analytics"
     },
     {
-      "url": "https://www.udemy.com/course/llm-engineer/?couponCode=JAN-FREE-01",
-      "coupon_code": "JAN-FREE-01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6561937_c4ca_4.jpg",
-      "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects"
+      "url": "https://www.udemy.com/course/digitisation/?couponCode=2C0BB900C4876280DBCC",
+      "coupon_code": "2C0BB900C4876280DBCC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/masterclass-de-ingenieria-en-ia-de-cero-a-heroe-de-la-ia/?couponCode=JAN-FREE-01",
@@ -63,10 +61,9 @@
       "title": "[ES] Masterclass IA: De Cero a Héroe de la IA"
     },
     {
-      "url": "https://www.udemy.com/course/passiveearn/?couponCode=EDC2304CF781B5A4914A",
-      "coupon_code": "EDC2304CF781B5A4914A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6202543_55e1_3.jpg",
-      "title": "Passive Earn with AI Tools: Unlock Automated Income Streams"
+      "url": "https://www.udemy.com/course/postgraduate-diploma-in-office-administration-management/?couponCode=30AD6DC29B706F5AF620",
+      "coupon_code": "30AD6DC29B706F5AF620",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/statistics-for-data-science-business-analysis-with-python/?couponCode=152267D6E9C807065207",
@@ -81,16 +78,39 @@
       "title": "Professional Diploma in Supply Chain, Procurement, Logistics"
     },
     {
-      "url": "https://www.udemy.com/course/ultimate_devsecops_bootcamp/?couponCode=JAN-FREE-01",
-      "coupon_code": "JAN-FREE-01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6550789_640e_6.jpg",
-      "title": "Ultimate DevSecOps Bootcamp by School of Devops"
+      "url": "https://www.udemy.com/course/tableau-bi-masterclass-create-actionable-dashboards/?couponCode=6C03677959BCD5FDBC4D",
+      "coupon_code": "6C03677959BCD5FDBC4D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/warehousemanagement/?couponCode=BB2E162B096CEA1B3849",
       "coupon_code": "BB2E162B096CEA1B3849",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6180261_af84_2.jpg",
       "title": "Professional Diploma in Warehouse Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6535141_5559_4.jpg",
+      "title": "AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)"
+    },
+    {
+      "url": "https://www.udemy.com/course/llm-engineer/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561937_c4ca_4.jpg",
+      "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/passiveearn/?couponCode=EDC2304CF781B5A4914A",
+      "coupon_code": "EDC2304CF781B5A4914A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6202543_55e1_3.jpg",
+      "title": "Passive Earn with AI Tools: Unlock Automated Income Streams"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate_devsecops_bootcamp/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6550789_640e_6.jpg",
+      "title": "Ultimate DevSecOps Bootcamp by School of Devops"
     },
     {
       "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=JAN-FREE-01",
