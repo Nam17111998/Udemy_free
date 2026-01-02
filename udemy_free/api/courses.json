@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-01-02T16:34:46Z",
-  "count": 914,
+  "updated_at": "2026-01-02T17:25:08Z",
+  "count": 929,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-bible-from-beginner-to-builder-in-100-projects/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6621193_b307.jpg",
+      "title": "AI Bible: From Beginner to Builder in 100 Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-engineer-associate-certificate-course/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668957_72d1.jpg",
+      "title": "AI Engineer Associate Certificate Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-engineer-explorer-certificate-course/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6667275_efc1_3.jpg",
+      "title": "AI Engineer Explorer Certificate Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-engineer-professional-certificate-course/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668985_b8fe.jpg",
+      "title": "AI Engineer Professional Certificate Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-product-manager-explorer-certificate/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6674999_550c.jpg",
+      "title": "[Technical] AI Product Manager Explorer Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/chief-ai-officer-program-lead-ai-strategy-governance/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6630829_511e_5.jpg",
+      "title": "Certified Chief AI Officer Program: AI Strategy & Governance"
+    },
+    {
+      "url": "https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6647567_0a67.jpg",
+      "title": "Certified Chief Technology Officer(CTO) Mastery Program"
+    },
+    {
+      "url": "https://www.udemy.com/course/ciberseguridad-101-fundamentos-para-principiantes-absolutos/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6613559_62db.jpg",
+      "title": "[ES] Ciberseguridad 101: Fundamentos para Principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6613447_62f4.jpg",
+      "title": "Cybersecurity 101: Foundations for Absolute Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681103_07e8_3.jpg",
+      "title": "[ES] Certificado de Explorador en Ingeniería de IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-curso-de-certificacion-de-ingeniero-asociado-en-ia/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681191_52dd_2.jpg",
+      "title": "[ES] Curso de Certificación de Ingeniero Asociado en IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
+      "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
+    },
+    {
+      "url": "https://www.udemy.com/course/mcp-for-leaders-architecting-context-driven-ai/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6622511_c57c.jpg",
+      "title": "MCP for Leaders: Architecting Context-Driven AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantum-computing-for-decision-makers-executive-essentials/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6616381_436e_5.jpg",
+      "title": "Quantum Computing for Decision Makers: Executive Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/rag-strategy-execution-build-enterprise-knowledge-systems/?couponCode=JAN-FREE-01",
+      "coupon_code": "JAN-FREE-01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619523_2f1d.jpg",
+      "title": "RAG Strategy & Execution: Build Enterprise Knowledge Systems"
+    },
     {
       "url": "https://www.udemy.com/course/30-days-of-angular/?couponCode=AB56FDD455289C6D76DD",
       "coupon_code": "AB56FDD455289C6D76DD",
