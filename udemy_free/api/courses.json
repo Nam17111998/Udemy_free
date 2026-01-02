@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-01-02T04:07:03Z",
-  "count": 946,
+  "updated_at": "2026-01-02T05:32:53Z",
+  "count": 955,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/certified-energy-management-professional-cemp/?couponCode=1A9A52743D2EB85D4BC0",
+      "coupon_code": "1A9A52743D2EB85D4BC0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/complete-guide-in-html-css-build-responsive-website/?couponCode=178B3CEBBD20CCE69CEC",
       "coupon_code": "178B3CEBBD20CCE69CEC",
@@ -9,10 +14,14 @@
       "title": "Complete Guide in HTML & CSS - Build Responsive Website"
     },
     {
-      "url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=D16E391A607944587EC8",
-      "coupon_code": "D16E391A607944587EC8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4508686_ba6e.jpg",
-      "title": "Professional Diploma in CRM Platforms Management"
+      "url": "https://www.udemy.com/course/corporate_management/?couponCode=4D57196C748975BB48B0",
+      "coupon_code": "4D57196C748975BB48B0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-fundamentals-comprehensive-training-for-web-developers/?couponCode=79CA6B717F2AE865C08F",
+      "coupon_code": "79CA6B717F2AE865C08F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/css-the-complete-guide-to-css-zero-to-hero/?couponCode=C48D5E1FA6D82C57BD69",
@@ -21,16 +30,70 @@
       "title": "CSS - The Complete Guide to CSS for Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/digital-product-owner/?couponCode=40CDFEE5F08FE301E663",
-      "coupon_code": "40CDFEE5F08FE301E663",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4592914_5934.jpg",
-      "title": "Professional Diploma in Digital Products Management"
+      "url": "https://www.udemy.com/course/facebook-ads-masterclass-2023-all-campaigns-features/?couponCode=786C4D0AD5B9E0BF7A5F",
+      "coupon_code": "786C4D0AD5B9E0BF7A5F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-ads-free-course-2021-campaign-creations/?couponCode=9DD4F257767835B9E983",
+      "coupon_code": "9DD4F257767835B9E983",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/java-programming-masterclass-beginner-to-master/?couponCode=0898F7FA3312DD3F9754",
       "coupon_code": "0898F7FA3312DD3F9754",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5638204_76bd.jpg",
       "title": "Java Programming Masterclass - Beginner to Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/linkedin-ads-masterclass-2023-all-campaigns-features/?couponCode=66E6B3BA950185986542",
+      "coupon_code": "66E6B3BA950185986542",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5104122_3f39_3.jpg",
+      "title": "LinkedIn Ads MasterClass 2026 - All Campaigns & Features"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-11-ad-platforms-2025-the-ultimate-paid-ads-course/?couponCode=F45604BA495534640368",
+      "coupon_code": "F45604BA495534640368",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=CDE6808330A3EE13FBD8",
+      "coupon_code": "CDE6808330A3EE13FBD8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/online-business-mastery-2025-sell-your-digital-products/?couponCode=22038404F6C6A8D4CAFC",
+      "coupon_code": "22038404F6C6A8D4CAFC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=F5A10FC65DF150420C13",
+      "coupon_code": "F5A10FC65DF150420C13",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636472_7921.jpg",
+      "title": "PHP Master Class - The Complete PHP Developer Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-managers/?couponCode=503CB24AE980D153994A",
+      "coupon_code": "503CB24AE980D153994A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4606632_2a39.jpg",
+      "title": "Professional Diploma in Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-marketing-mastery-2025-9-social-ad-platforms/?couponCode=81BBBB39C7799CB44E30",
+      "coupon_code": "81BBBB39C7799CB44E30",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=D16E391A607944587EC8",
+      "coupon_code": "D16E391A607944587EC8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4508686_ba6e.jpg",
+      "title": "Professional Diploma in CRM Platforms Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-product-owner/?couponCode=40CDFEE5F08FE301E663",
+      "coupon_code": "40CDFEE5F08FE301E663",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4592914_5934.jpg",
+      "title": "Professional Diploma in Digital Products Management"
     },
     {
       "url": "https://www.udemy.com/course/java-training-complete-course-2022/?couponCode=8F13F01F1BFFBC59CB9B",
@@ -51,34 +114,16 @@
       "title": "Leadership Through Tough Times"
     },
     {
-      "url": "https://www.udemy.com/course/linkedin-ads-masterclass-2023-all-campaigns-features/?couponCode=66E6B3BA950185986542",
-      "coupon_code": "66E6B3BA950185986542",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5104122_3f39_3.jpg",
-      "title": "LinkedIn Ads MasterClass 2026 - All Campaigns & Features"
-    },
-    {
       "url": "https://www.udemy.com/course/master-sap-successfactors-employee-central/?couponCode=SUCCESSFACTORJAN0126",
       "coupon_code": "SUCCESSFACTORJAN0126",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6801201_cda6.jpg",
       "title": "Master SAP SuccessFactors Employee Central"
     },
     {
-      "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=F5A10FC65DF150420C13",
-      "coupon_code": "F5A10FC65DF150420C13",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5636472_7921.jpg",
-      "title": "PHP Master Class - The Complete PHP Developer Course"
-    },
-    {
       "url": "https://www.udemy.com/course/postgraduate-diploma-in-office-administration-management/?couponCode=30AD6DC29B706F5AF620",
       "coupon_code": "30AD6DC29B706F5AF620",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4559658_8ef3_3.jpg",
       "title": "Professional Diploma in Office Administration Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/project-managers/?couponCode=503CB24AE980D153994A",
-      "coupon_code": "503CB24AE980D153994A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4606632_2a39.jpg",
-      "title": "Professional Diploma in Project Management"
     },
     {
       "url": "https://www.udemy.com/course/salesforce-admin-training-from-basics-to-advanced-skills/?couponCode=SFDCJAN0126",
