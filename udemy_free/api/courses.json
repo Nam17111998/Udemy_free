@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-01-02T20:30:44Z",
-  "count": 934,
+  "updated_at": "2026-01-02T21:22:13Z",
+  "count": 945,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_142",
+      "coupon_code": "AR_FREE_142",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
+      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_139",
+      "coupon_code": "AR_FREE_139",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_140",
+      "coupon_code": "AR_FREE_140",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
+      "title": "Essentials for PyQGIS: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/?couponCode=AR_FREE_146",
+      "coupon_code": "AR_FREE_146",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6823217_2c07.jpg",
+      "title": "Geospatial AI: Deep Learning for Satellite Imagery"
+    },
+    {
+      "url": "https://www.udemy.com/course/innovations/?couponCode=4F017D65CDB67EA9A596",
+      "coupon_code": "4F017D65CDB67EA9A596",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5319702_023d.jpg",
+      "title": "Executive Diploma in Innovation Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/leadershipdiploma/?couponCode=BB9F2CE81E1490861071",
+      "coupon_code": "BB9F2CE81E1490861071",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241057_a04c.jpg",
+      "title": "Professional Diploma in Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_141",
+      "coupon_code": "AR_FREE_141",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
+      "title": "Django Essentials: Build and Deploy Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=45F1F2DDFC3D33CB8E72",
+      "coupon_code": "45F1F2DDFC3D33CB8E72",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6160617_f212_4.jpg",
+      "title": "Professional Diploma in Odd Jobs: Skills for Every Situation"
+    },
+    {
+      "url": "https://www.udemy.com/course/procurementandscm/?couponCode=3A4F28C7B9CDEF1E12CE",
+      "coupon_code": "3A4F28C7B9CDEF1E12CE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6118667_2363_4.jpg",
+      "title": "Mastering Procurement and Supply Chain Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_143",
+      "coupon_code": "AR_FREE_143",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
+      "title": "Programming for Scientific Research with Python and R"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-ai/?couponCode=AR_FREE_138",
+      "coupon_code": "AR_FREE_138",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6749075_4cc0.jpg",
+      "title": "Python for AI and Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-gis-automation/?couponCode=AR_FREE_137",
+      "coupon_code": "AR_FREE_137",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6762543_37bf.jpg",
+      "title": "Python for GIS Automation and Geospatial Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_144",
+      "coupon_code": "AR_FREE_144",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
+      "title": "Python for Scientific Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_145",
+      "coupon_code": "AR_FREE_145",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
+      "title": "R for Researchers: From Basics to Advanced Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-leadership-accelerator/?couponCode=401F21EE562C9319CF09",
+      "coupon_code": "401F21EE562C9319CF09",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6603847_7c88_3.jpg",
+      "title": "The Leadership Accelerator"
+    },
     {
       "url": "https://www.udemy.com/course/ai-engineer-associate-certificate-course/?couponCode=JAN-FREE-01",
       "coupon_code": "JAN-FREE-01",
@@ -57,35 +147,16 @@
       "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
     },
     {
-      "url": "https://www.udemy.com/course/leadershipdiploma/?couponCode=BB9F2CE81E1490861071",
-      "coupon_code": "BB9F2CE81E1490861071",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/mcp-for-leaders-architecting-context-driven-ai/?couponCode=JAN-FREE-01",
       "coupon_code": "JAN-FREE-01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6622511_c57c.jpg",
       "title": "MCP for Leaders: Architecting Context-Driven AI"
     },
     {
-      "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=45F1F2DDFC3D33CB8E72",
-      "coupon_code": "45F1F2DDFC3D33CB8E72",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/procurementandscm/?couponCode=3A4F28C7B9CDEF1E12CE",
-      "coupon_code": "3A4F28C7B9CDEF1E12CE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/solid-manager-certification/?couponCode=75CE781F49A662850413",
       "coupon_code": "75CE781F49A662850413",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-leadership-accelerator/?couponCode=401F21EE562C9319CF09",
-      "coupon_code": "401F21EE562C9319CF09",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6122819_3eb2_2.jpg",
+      "title": "Executive Management - Become a Manager for Scale"
     },
     {
       "url": "https://www.udemy.com/course/ai-bible-from-beginner-to-builder-in-100-projects/?couponCode=JAN-FREE-01",
