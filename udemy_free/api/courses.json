@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-01-02T14:28:25Z",
-  "count": 909,
+  "updated_at": "2026-01-02T15:29:41Z",
+  "count": 914,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/30-days-of-angular/?couponCode=AB56FDD455289C6D76DD",
+      "coupon_code": "AB56FDD455289C6D76DD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6400299_0620_6.jpg",
+      "title": "30 Days of Angular: Build 30 Projects with Angular"
+    },
+    {
+      "url": "https://www.udemy.com/course/code-play-javascript-game-projects/?couponCode=7570E7690AAC42ED2BC4",
+      "coupon_code": "7570E7690AAC42ED2BC4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637119_b242_7.jpg",
+      "title": "Code & Play: JavaScript Game Projects"
+    },
     {
       "url": "https://www.udemy.com/course/commencer-a-developper-en-java-avec-les-bonnes-pratiques/?couponCode=E2FB69D3797EA090DD9A",
       "coupon_code": "E2FB69D3797EA090DD9A",
@@ -9,28 +21,10 @@
       "title": "Commencer à développer en Java avec les bonnes pratiques"
     },
     {
-      "url": "https://www.udemy.com/course/complete-sql-course-2025-become-an-expert-at-sql/?couponCode=2025END",
-      "coupon_code": "2025END",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6484371_d178_2.jpg",
-      "title": "Complete SQL Course 2026 + 500 Practice Questions"
-    },
-    {
-      "url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/?couponCode=9FBA62F8A428F3BB521C",
-      "coupon_code": "9FBA62F8A428F3BB521C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5465518_4f1b_2.jpg",
-      "title": "Computer Engineering Mastery: From Beginner to Expert!"
-    },
-    {
       "url": "https://www.udemy.com/course/copywriting_businesswriting/?couponCode=F435BFD17912BB5E93DC",
       "coupon_code": "F435BFD17912BB5E93DC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5270994_ba8d.jpg",
       "title": "Professional Diploma in Copywriting and Business Writing"
-    },
-    {
-      "url": "https://www.udemy.com/course/course-4-understanding-the-flesh-and-the-soul/?couponCode=1451C5BD1AA4AD81E37F",
-      "coupon_code": "1451C5BD1AA4AD81E37F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6971389_7d76_2.jpg",
-      "title": "Course 4: Understanding the Flesh and the Soul"
     },
     {
       "url": "https://www.udemy.com/course/course-5-the-cross-within-dying-daily/?couponCode=B6BD79C9CE2012AA0673",
@@ -51,6 +45,18 @@
       "title": "Ethical AI Use in Business"
     },
     {
+      "url": "https://www.udemy.com/course/excel-from-zero-to-pro/?couponCode=EXCELFREE0201",
+      "coupon_code": "EXCELFREE0201",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5963952_60ab.jpg",
+      "title": "Excel from Zero to Pro - الإيكسل من الصفر للاحتراف"
+    },
+    {
+      "url": "https://www.udemy.com/course/financemanagement/?couponCode=F75C56B9B73431BD5665",
+      "coupon_code": "F75C56B9B73431BD5665",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5277418_6388.jpg",
+      "title": "Executive Diploma in Finance Management"
+    },
+    {
       "url": "https://www.udemy.com/course/flappy-bird-from-scratch-unity6/?couponCode=742BB3509C330C236372",
       "coupon_code": "742BB3509C330C236372",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6899183_aad2_4.jpg",
@@ -69,6 +75,42 @@
       "title": "Leadership Through Tough Times"
     },
     {
+      "url": "https://www.udemy.com/course/web-project-workshop-html-css-in-action/?couponCode=692BB0D7C65E81552016",
+      "coupon_code": "692BB0D7C65E81552016",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742285_9835_9.jpg",
+      "title": "Web Project Workshop: 20+ HTML & CSS Websites in Action"
+    },
+    {
+      "url": "https://www.udemy.com/course/wordpress-crash-course-build-a-website-in-a-day-no-coding/?couponCode=2025END",
+      "coupon_code": "2025END",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6577593_dbd9.jpg",
+      "title": "WordPress Crash Course: Create a Website Without Coding"
+    },
+    {
+      "url": "https://www.udemy.com/course/your-words-powerful-tools/?couponCode=29THDEC25&ra",
+      "coupon_code": "29THDEC25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4789658_5ffd_5.jpg",
+      "title": "Your WORDS, Powerful Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-sql-course-2025-become-an-expert-at-sql/?couponCode=2025END",
+      "coupon_code": "2025END",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6484371_d178_2.jpg",
+      "title": "Complete SQL Course 2026 + 500 Practice Questions"
+    },
+    {
+      "url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/?couponCode=9FBA62F8A428F3BB521C",
+      "coupon_code": "9FBA62F8A428F3BB521C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5465518_4f1b_2.jpg",
+      "title": "Computer Engineering Mastery: From Beginner to Expert!"
+    },
+    {
+      "url": "https://www.udemy.com/course/course-4-understanding-the-flesh-and-the-soul/?couponCode=1451C5BD1AA4AD81E37F",
+      "coupon_code": "1451C5BD1AA4AD81E37F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6971389_7d76_2.jpg",
+      "title": "Course 4: Understanding the Flesh and the Soul"
+    },
+    {
       "url": "https://www.udemy.com/course/personal-growth-affirmations-and-taking-action/?couponCode=29THDEC25&ra",
       "coupon_code": "29THDEC25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4917622_0aae_2.jpg",
@@ -85,12 +127,6 @@
       "coupon_code": "29THDEC25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4821416_6f9d_2.jpg",
       "title": "Time Management, Productivity, Decision Making Tools &  Aids"
-    },
-    {
-      "url": "https://www.udemy.com/course/wordpress-crash-course-build-a-website-in-a-day-no-coding/?couponCode=2025END",
-      "coupon_code": "2025END",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6577593_dbd9.jpg",
-      "title": "WordPress Crash Course: Create a Website Without Coding"
     },
     {
       "url": "https://www.udemy.com/course/burpsuite-practitioner-for-bug-bounty-ethical-hacking-2025/?couponCode=FEDB9C954860AE95B6E6",
@@ -919,12 +955,6 @@
       "coupon_code": "EB3A35726068F8CFA454",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6603151_1652.jpg",
       "title": "Strategic Digital Transformation for Business Growth"
-    },
-    {
-      "url": "https://www.udemy.com/course/your-words-powerful-tools/?couponCode=29THDEC25&ra",
-      "coupon_code": "29THDEC25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4789658_5ffd_5.jpg",
-      "title": "Your WORDS, Powerful Tools"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-business-analysts/?couponCode=2026FIRSTJAN",
