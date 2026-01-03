@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-01-03T13:34:15Z",
-  "count": 934,
+  "updated_at": "2026-01-03T14:26:09Z",
+  "count": 936,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-masterclass-beginner-to-pro-photo-editor/?couponCode=0F75C6F6F91ECF2153C5",
+      "coupon_code": "0F75C6F6F91ECF2153C5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863249_cfbd.jpg",
+      "title": "Adobe Photoshop Masterclass: Beginner to Pro Photo Editor"
+    },
     {
       "url": "https://www.udemy.com/course/ai-hr-become-master-of-ai-in-hr-world-learn-100-ai-tools/?couponCode=PAPAHR_JAN_03",
       "coupon_code": "PAPAHR_JAN_03",
@@ -51,16 +57,16 @@
       "title": "HR Trends 2026-2030: AI and Digital HR, Hybrid Work [EN]"
     },
     {
+      "url": "https://www.udemy.com/course/grok-mastery-programming-ai-and-problem-solving-skills/?couponCode=8D63015847CB407FFA79",
+      "coupon_code": "8D63015847CB407FFA79",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6880527_5513.jpg",
+      "title": "Grok Mastery: Programming, AI and Problem Solving Skills"
+    },
+    {
       "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=7661AC07EB41E3956AA3",
       "coupon_code": "7661AC07EB41E3956AA3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6591509_ee81_3.jpg",
       "title": "Learn GNU Nano in 30 minutes | Linux Terminal Productivity"
-    },
-    {
-      "url": "https://www.udemy.com/course/modern-leadership-be-your-team-coach-not-a-boss/?couponCode=PAPAHR_JAN_03",
-      "coupon_code": "PAPAHR_JAN_03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6337753_4e27_7.jpg",
-      "title": "Leadership skills for managers and PM in AI era [EN]"
     },
     {
       "url": "https://www.udemy.com/course/prisma-orm-fundamentals/?couponCode=9DA96B01B93CF940C48E",
@@ -75,12 +81,6 @@
       "title": "Python And Flask  Demonstrations Practice Course"
     },
     {
-      "url": "https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=29THDEC25&ra",
-      "coupon_code": "29THDEC25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4762718_0127_2.jpg",
-      "title": "Self Discipline will Change Your life for GOOD"
-    },
-    {
       "url": "https://www.udemy.com/course/signals-in-angular-v19/?couponCode=355AD4549CCCD656BF05",
       "coupon_code": "355AD4549CCCD656BF05",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6636705_c8de_2.jpg",
@@ -91,6 +91,18 @@
       "coupon_code": "PAPAHR_JAN_03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6337673_b692_4.jpg",
       "title": "Social Recruiting: Facebook, Github, LinkedIn Recruiter [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-leadership-be-your-team-coach-not-a-boss/?couponCode=PAPAHR_JAN_03",
+      "coupon_code": "PAPAHR_JAN_03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6337753_4e27_7.jpg",
+      "title": "Leadership skills for managers and PM in AI era [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=29THDEC25&ra",
+      "coupon_code": "29THDEC25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4762718_0127_2.jpg",
+      "title": "Self Discipline will Change Your life for GOOD"
     },
     {
       "url": "https://www.udemy.com/course/become-certified-hr-business-partner-strategic-role/?couponCode=PAPAHR_JAN_03",
