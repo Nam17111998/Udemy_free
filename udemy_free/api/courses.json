@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-01-03T16:33:13Z",
-  "count": 945,
+  "updated_at": "2026-01-03T17:24:08Z",
+  "count": 949,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-after-effect-with-motion-graphics-and-animation/?couponCode=782907885EBDFD57C4D2",
+      "coupon_code": "782907885EBDFD57C4D2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5538222_b323.jpg",
+      "title": "Learn Adobe  After Effect with Motion Graphics and Animation"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-cc-for-learning-graphics-design/?couponCode=62D931CFC066D7D8ECE3",
+      "coupon_code": "62D931CFC066D7D8ECE3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5539844_139d.jpg",
+      "title": "Adobe Illustrator CC for Learning Graphics Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-indesign-cc-for-beginner-to-advanced-masterclass/?couponCode=40C19339DEFF8FE9FD56",
+      "coupon_code": "40C19339DEFF8FE9FD56",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5538376_e2bf.jpg",
+      "title": "Adobe InDesign CC for Beginner to Advanced Masterclass"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-photoshop-masterclass-beginner-to-pro-photo-editor/?couponCode=0F75C6F6F91ECF2153C5",
       "coupon_code": "0F75C6F6F91ECF2153C5",
@@ -19,12 +37,6 @@
       "coupon_code": "JAN-FREE-01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6914977_ecab.jpg",
       "title": "Chief AI Officer (CAIO) Leading Enterprise AI Transformation"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-python-training/?couponCode=JOSHFREE35",
-      "coupon_code": "JOSHFREE35",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6375731_c6aa.jpg",
-      "title": "Master Python Programming: The Complete Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/create-udemy-courses-fast-with-manus-ai-unofficial/?couponCode=433D921EB68FE6485A07",
@@ -45,6 +57,12 @@
       "title": "Feature Engineering  For Machine Learning 101"
     },
     {
+      "url": "https://www.udemy.com/course/figma-for-user-interface-and-user-experience-uiux-design/?couponCode=1703086E7206D4CBBF12",
+      "coupon_code": "1703086E7206D4CBBF12",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5531368_3d58.jpg",
+      "title": "Figma for User Interface and User Experience UIUX Design"
+    },
+    {
       "url": "https://www.udemy.com/course/full-stack-ai-engineer-python-machine-learning-dl-generative-ai/?couponCode=JAN-FREE-01",
       "coupon_code": "JAN-FREE-01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6905265_45bb_5.jpg",
@@ -55,12 +73,6 @@
       "coupon_code": "8D63015847CB407FFA79",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6880527_5513.jpg",
       "title": "Grok Mastery: Programming, AI and Problem Solving Skills"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=7661AC07EB41E3956AA3",
-      "coupon_code": "7661AC07EB41E3956AA3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6591509_ee81_3.jpg",
-      "title": "Learn GNU Nano in 30 minutes | Linux Terminal Productivity"
     },
     {
       "url": "https://www.udemy.com/course/master-cpp-byteboard/?couponCode=2681B8AC3239EBC8CC02",
@@ -75,6 +87,24 @@
       "title": "Object Detection From Zero to Hero"
     },
     {
+      "url": "https://www.udemy.com/course/spacy-with-nlp/?couponCode=95F31A2EDD4128A0BEE5",
+      "coupon_code": "95F31A2EDD4128A0BEE5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5559560_88b1_6.jpg",
+      "title": "Natural Language Preprocessing Using spaCy"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-python-training/?couponCode=JOSHFREE35",
+      "coupon_code": "JOSHFREE35",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6375731_c6aa.jpg",
+      "title": "Master Python Programming: The Complete Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=7661AC07EB41E3956AA3",
+      "coupon_code": "7661AC07EB41E3956AA3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6591509_ee81_3.jpg",
+      "title": "Learn GNU Nano in 30 minutes | Linux Terminal Productivity"
+    },
+    {
       "url": "https://www.udemy.com/course/prisma-orm-fundamentals/?couponCode=9DA96B01B93CF940C48E",
       "coupon_code": "9DA96B01B93CF940C48E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6802763_eaad.jpg",
@@ -85,12 +115,6 @@
       "coupon_code": "20146D4072B985ED880B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3526008_d891_5.jpg",
       "title": "Python And Flask  Demonstrations Practice Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/spacy-with-nlp/?couponCode=95F31A2EDD4128A0BEE5",
-      "coupon_code": "95F31A2EDD4128A0BEE5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5559560_88b1_6.jpg",
-      "title": "Natural Language Preprocessing Using spaCy"
     },
     {
       "url": "https://www.udemy.com/course/signals-in-angular-v19/?couponCode=355AD4549CCCD656BF05",
