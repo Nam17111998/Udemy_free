@@ -1,22 +1,42 @@
 {
-  "updated_at": "2026-01-04T13:34:48Z",
-  "count": 950,
+  "updated_at": "2026-01-04T14:25:48Z",
+  "count": 955,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/7-days-7-machine-learning-python-projects-from-scratch/?couponCode=61A4040453247D580157",
+      "coupon_code": "61A4040453247D580157",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6324449_0a0c_5.jpg",
+      "title": "7 Days 7 Machine Learning & Python Projects From Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-security-engineer-megacourse-from-zero-to-hero/?couponCode=55225A164892DFD59533",
+      "coupon_code": "55225A164892DFD59533",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6146827_2025_7.jpg",
+      "title": "Cybersecurity Course 2025 : Beginner to Cybersecurity Expert"
+    },
     {
       "url": "https://www.udemy.com/course/cssbootstrapjavascriptreact-overview-course-for-beginners/?couponCode=9C5BE7CE634F1871E5EF",
       "coupon_code": "9C5BE7CE634F1871E5EF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=36A5FBB21BA25004C764",
-      "coupon_code": "36A5FBB21BA25004C764",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6525331_92c4_7.jpg",
-      "title": "Introduction In Cyber Attack For Beginners"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5039564_6b62.jpg",
+      "title": "Foundations of Web Development: CSS, Bootstrap, JS, React"
     },
     {
       "url": "https://www.udemy.com/course/ethical-hacking-using-kali-linux/?couponCode=3265E03F7D86875A3722",
       "coupon_code": "3265E03F7D86875A3722",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6988167_44aa.jpg",
+      "title": "Ethical Hacking Using Kali Linux"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-github-full-russian-course/?couponCode=1B072AC7EC517BCF9E16",
+      "coupon_code": "1B072AC7EC517BCF9E16",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818075_dc5c_2.jpg",
+      "title": "Git + GitHub. Полный курс"
+    },
+    {
+      "url": "https://www.udemy.com/course/hate-speech-detection-using-machine-learning-project/?couponCode=5D7DA1B705E4C957F3FA",
+      "coupon_code": "5D7DA1B705E4C957F3FA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5908352_576a.jpg",
+      "title": "Hate Speech Detection Using Machine Learning Project"
     },
     {
       "url": "https://www.udemy.com/course/introduction-a-la-gestion-des-ressources-humaines/?couponCode=961E765BA5FEF7A9D987",
@@ -25,15 +45,10 @@
       "title": "Introduction à la Gestion des Ressources Humaines"
     },
     {
-      "url": "https://www.udemy.com/course/learn-git-in-less-than-3-hours/?couponCode=5EB4BE6EF8CF55B10942",
-      "coupon_code": "5EB4BE6EF8CF55B10942",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6889341_a1b5_9.jpg",
-      "title": "Learn Git & GitHub for Beginners Practical Workflow (2026)"
-    },
-    {
       "url": "https://www.udemy.com/course/master-cpp-byteboard/?couponCode=C799EE607DD2C49D219B",
       "coupon_code": "C799EE607DD2C49D219B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3368702_f575_17.jpg",
+      "title": "Master C++ Programming From Beginner To Advance 2025 Edition"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/?couponCode=8751B8758D28A1707FAA",
@@ -54,6 +69,42 @@
       "title": "Microsoft PowerPoint: From Beginner to Presentation Pro"
     },
     {
+      "url": "https://www.udemy.com/course/professional-diploma-in-unit-economics-and-sales-funnels/?couponCode=74BBC7775CC578D6C8B7",
+      "coupon_code": "74BBC7775CC578D6C8B7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5623518_9321_3.jpg",
+      "title": "Professional Diploma in Unit Economics Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/talent-acquisition-hr-planning-recruiting-and-onboarding/?couponCode=0949C467512120C0C827",
+      "coupon_code": "0949C467512120C0C827",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5613690_efae.jpg",
+      "title": "Talent Acquisition: HR Planning, Recruiting and Onboarding"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-expert/?couponCode=FE3E9FA90E0113E84C43",
+      "coupon_code": "FE3E9FA90E0113E84C43",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6549357_4b96_2.jpg",
+      "title": "The Complete Microsoft Excel Course: Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-java-programming-course-hands-on-training/?couponCode=CFBE05FB11958CCE731D",
+      "coupon_code": "CFBE05FB11958CCE731D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790875_65ba_2.jpg",
+      "title": "The Ultimate Java Programming Course: Hands-On Training"
+    },
+    {
+      "url": "https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=36A5FBB21BA25004C764",
+      "coupon_code": "36A5FBB21BA25004C764",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6525331_92c4_7.jpg",
+      "title": "Introduction In Cyber Attack For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-git-in-less-than-3-hours/?couponCode=5EB4BE6EF8CF55B10942",
+      "coupon_code": "5EB4BE6EF8CF55B10942",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6889341_a1b5_9.jpg",
+      "title": "Learn Git & GitHub for Beginners Practical Workflow (2026)"
+    },
+    {
       "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-project-management/?couponCode=5A7361D3349AE5D9143A",
       "coupon_code": "5A7361D3349AE5D9143A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5589912_8cbe_2.jpg",
@@ -70,23 +121,6 @@
       "coupon_code": "E7819F59B83BC65186BB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5638356_014e.jpg",
       "title": "T-Shirt Design In Adobe Illustrator for Beginner to Advanced"
-    },
-    {
-      "url": "https://www.udemy.com/course/talent-acquisition-hr-planning-recruiting-and-onboarding/?couponCode=0949C467512120C0C827",
-      "coupon_code": "0949C467512120C0C827",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-expert/?couponCode=FE3E9FA90E0113E84C43",
-      "coupon_code": "FE3E9FA90E0113E84C43",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6549357_4b96_2.jpg",
-      "title": "The Complete Microsoft Excel Course: Beginner to Expert"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-ultimate-java-programming-course-hands-on-training/?couponCode=CFBE05FB11958CCE731D",
-      "coupon_code": "CFBE05FB11958CCE731D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6790875_65ba_2.jpg",
-      "title": "The Ultimate Java Programming Course: Hands-On Training"
     },
     {
       "url": "https://www.udemy.com/course/advanced-ms-word-course-from-beginner-to-expert/?couponCode=E9943FC9EDB926F4A0CC",
