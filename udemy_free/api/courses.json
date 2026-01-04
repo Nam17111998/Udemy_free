@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-01-04T06:41:36Z",
-  "count": 990,
+  "updated_at": "2026-01-04T07:27:52Z",
+  "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/?couponCode=F6DF7B9345F62D7929DE",
+      "coupon_code": "F6DF7B9345F62D7929DE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346430_f677.jpg",
+      "title": "Adobe Photoshop Course from Basic to Advacned for Graphics"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=FEC5A4DB9582C1B274F0",
       "coupon_code": "FEC5A4DB9582C1B274F0",
@@ -9,16 +15,16 @@
       "title": "Adobe Premiere Pro Advanced Video Editing Course"
     },
     {
-      "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=5451BD5B9BEAA08B8EB2",
-      "coupon_code": "5451BD5B9BEAA08B8EB2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5150328_6242_9.jpg",
-      "title": "Generative AI : Create an impressive AI Art 2025"
+      "url": "https://www.udemy.com/course/advanced-wordpress-course-for-professionals/?couponCode=B3DEE8B110282A22A4E8",
+      "coupon_code": "B3DEE8B110282A22A4E8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346432_a2d4.jpg",
+      "title": "Advanced Wordpress Course for Professionals"
     },
     {
-      "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=4277A3DF6FE6B4C89BEA",
-      "coupon_code": "4277A3DF6FE6B4C89BEA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6119481_61ba.jpg",
-      "title": "C, C++ and PHP: Comprehensive Programming Bootcamp"
+      "url": "https://www.udemy.com/course/chatgpt-complete-chatgpt-guide-for-beginners/?couponCode=SUBHANALLAH_010126",
+      "coupon_code": "SUBHANALLAH_010126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5114066_c56b_2.jpg",
+      "title": "ChatGPT: Complete ChatGPT Guide For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=1C763E5770518CC7C841",
@@ -27,10 +33,16 @@
       "title": "CSS, JavaScript And PHP Complete Course For Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/javascript-jquery-typescript-full-stack-web-development/?couponCode=19F9F40602B2D421B84E",
-      "coupon_code": "19F9F40602B2D421B84E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6119801_c7e7.jpg",
-      "title": "JavaScript, jQuery & TypeScript: Full-Stack Web Development"
+      "url": "https://www.udemy.com/course/dvwa-for-ethical-hackers-master-web-app-attacks/?couponCode=C0F740C2BEC53D854A42",
+      "coupon_code": "C0F740C2BEC53D854A42",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6559419_4b55.jpg",
+      "title": "DVWA for Ethical Hackers: Master Web App Attacks"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=28922F3CBEECD2B2E1B6",
+      "coupon_code": "28922F3CBEECD2B2E1B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346438_96d4.jpg",
+      "title": "Essential Microsoft PowerPoint Course for Everyone"
     },
     {
       "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=7F44388E0F6F1DF1E634",
@@ -51,16 +63,58 @@
       "title": "Learn PHP and MySQL for Web Application and Web Development"
     },
     {
-      "url": "https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/?couponCode=90E969A64254A69A0934",
-      "coupon_code": "90E969A64254A69A0934",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5544090_702e.jpg",
-      "title": "Advanced Diploma in Innovations and Digital Transformation"
+      "url": "https://www.udemy.com/course/learn-t-shirt-design-with-adobe-photoshop-and-illustrator/?couponCode=27883B4FF2217A4AA8FF",
+      "coupon_code": "27883B4FF2217A4AA8FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380122_bcb1.jpg",
+      "title": "Learn T-Shirt Design with Adobe Illustrator"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=SUBHANALLAH_010126",
+      "coupon_code": "SUBHANALLAH_010126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4884028_004d_2.jpg",
+      "title": "Microsoft Excel - Excel Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=94FD4102551EFCAC037D",
       "coupon_code": "94FD4102551EFCAC037D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5560460_2aa2.jpg",
       "title": "Advanced Program in Entrepreneurship"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-development-essentials/?couponCode=2071E2370C0004334626",
+      "coupon_code": "2071E2370C0004334626",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg",
+      "title": "Python Development Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/web3-development-essentials/?couponCode=E9CB370D4BA17F76D274",
+      "coupon_code": "E9CB370D4BA17F76D274",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5544558_1473_2.jpg",
+      "title": "Web3 Development Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=5451BD5B9BEAA08B8EB2",
+      "coupon_code": "5451BD5B9BEAA08B8EB2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5150328_6242_9.jpg",
+      "title": "Generative AI : Create an impressive AI Art 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=4277A3DF6FE6B4C89BEA",
+      "coupon_code": "4277A3DF6FE6B4C89BEA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119481_61ba.jpg",
+      "title": "C, C++ and PHP: Comprehensive Programming Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-jquery-typescript-full-stack-web-development/?couponCode=19F9F40602B2D421B84E",
+      "coupon_code": "19F9F40602B2D421B84E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119801_c7e7.jpg",
+      "title": "JavaScript, jQuery & TypeScript: Full-Stack Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/?couponCode=90E969A64254A69A0934",
+      "coupon_code": "90E969A64254A69A0934",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5544090_702e.jpg",
+      "title": "Advanced Diploma in Innovations and Digital Transformation"
     },
     {
       "url": "https://www.udemy.com/course/python-for-beginners-course-/?couponCode=7C57ADAE9393331C3280",
@@ -85,12 +139,6 @@
       "coupon_code": "DBEC77D8150BDF887E8F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5679234_657a.jpg",
       "title": "ReactJs - The Complete ReactJs Course For Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/web3-development-essentials/?couponCode=E9CB370D4BA17F76D274",
-      "coupon_code": "E9CB370D4BA17F76D274",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5544558_1473_2.jpg",
-      "title": "Web3 Development Essentials"
     },
     {
       "url": "https://www.udemy.com/course/python-programming-python-bootcamp-for-beginners/?couponCode=EDA97BB4391E4B1CD426",
