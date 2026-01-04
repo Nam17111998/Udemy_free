@@ -1,11 +1,94 @@
 {
-  "updated_at": "2026-01-04T04:14:51Z",
-  "count": 981,
+  "updated_at": "2026-01-04T05:33:15Z",
+  "count": 989,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=FEC5A4DB9582C1B274F0",
+      "coupon_code": "FEC5A4DB9582C1B274F0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=5451BD5B9BEAA08B8EB2",
       "coupon_code": "5451BD5B9BEAA08B8EB2",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=4277A3DF6FE6B4C89BEA",
+      "coupon_code": "4277A3DF6FE6B4C89BEA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119481_61ba.jpg",
+      "title": "C, C++ and PHP: Comprehensive Programming Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=1C763E5770518CC7C841",
+      "coupon_code": "1C763E5770518CC7C841",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg",
+      "title": "CSS, JavaScript And PHP Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-jquery-typescript-full-stack-web-development/?couponCode=19F9F40602B2D421B84E",
+      "coupon_code": "19F9F40602B2D421B84E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119801_c7e7.jpg",
+      "title": "JavaScript, jQuery & TypeScript: Full-Stack Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=7F44388E0F6F1DF1E634",
+      "coupon_code": "7F44388E0F6F1DF1E634",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5381926_9f28.jpg",
+      "title": "Learn Blockchain and Cryptocurrency from Beginning"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/?couponCode=1BF16E5DC37B39C95253",
+      "coupon_code": "1BF16E5DC37B39C95253",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380132_3dad.jpg",
+      "title": "Learn HTML and CSS from Beginning to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=8D1A76369E51E698F3A6",
+      "coupon_code": "8D1A76369E51E698F3A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5381922_8c87.jpg",
+      "title": "Learn PHP and MySQL for Web Application and Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/?couponCode=90E969A64254A69A0934",
+      "coupon_code": "90E969A64254A69A0934",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5544090_702e.jpg",
+      "title": "Advanced Diploma in Innovations and Digital Transformation"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-course-/?couponCode=7C57ADAE9393331C3280",
+      "coupon_code": "7C57ADAE9393331C3280",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3378022_637b.jpg",
+      "title": "Python And Flask Framework Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=C7ACFB1C0C1A3EBEB107",
+      "coupon_code": "C7ACFB1C0C1A3EBEB107",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119559_527e.jpg",
+      "title": "Python & Java: Master Backend & Frontend Web Developments"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-oop-a-complete-course-in-object-oriented-programming/?couponCode=CDB62D1B7775B0D996E4",
+      "coupon_code": "CDB62D1B7775B0D996E4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6146277_cacb_2.jpg",
+      "title": "Python OOP: A Complete Course in Object Oriented Programming"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-python-bootcamp-for-beginners/?couponCode=EDA97BB4391E4B1CD426",
+      "coupon_code": "EDA97BB4391E4B1CD426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663766_280c.jpg",
+      "title": "Python Programming: Python Bootcamp For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-the-complete-reactjs-course-for-beginners/?couponCode=DBEC77D8150BDF887E8F",
+      "coupon_code": "DBEC77D8150BDF887E8F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5679234_657a.jpg",
+      "title": "ReactJs - The Complete ReactJs Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/web3-development-essentials/?couponCode=E9CB370D4BA17F76D274",
+      "coupon_code": "E9CB370D4BA17F76D274",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5544558_1473_2.jpg",
+      "title": "Web3 Development Essentials"
     },
     {
       "url": "https://www.udemy.com/course/ai-content-generation-audio-video-image-text-with-google-adobe-chatgpt/?couponCode=CED36F3DAA740E53C22C",
@@ -20,14 +103,10 @@
       "title": "Save Time and Create Smarter: AI Tools for Non-Tech Creators"
     },
     {
-      "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=4277A3DF6FE6B4C89BEA",
-      "coupon_code": "4277A3DF6FE6B4C89BEA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/communication-skills-for-couples-taught-by-a-married-couple/?couponCode=B355DA0A38B1949E101F",
       "coupon_code": "B355DA0A38B1949E101F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6948839_7987_2.jpg",
+      "title": "Communication Skills for Couples: Taught by a Married Couple"
     },
     {
       "url": "https://www.udemy.com/course/corporate-entrepreneurship/?couponCode=9AD64D59E3AA2F4D580A",
@@ -44,7 +123,8 @@
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-business-management/?couponCode=2803A665B3C5BF868496",
       "coupon_code": "2803A665B3C5BF868496",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5517586_8ec9.jpg",
+      "title": "Executive Diploma in Business Management"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-scm/?couponCode=14DBFC6AFA694B7B4BD4",
@@ -53,34 +133,10 @@
       "title": "Fundamentals of Supply Chain Management"
     },
     {
-      "url": "https://www.udemy.com/course/javascript-jquery-typescript-full-stack-web-development/?couponCode=19F9F40602B2D421B84E",
-      "coupon_code": "19F9F40602B2D421B84E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-prompt-engineering-from-beginner-to-ai-expert/?couponCode=0D1F2E25F8C15C843CD3",
       "coupon_code": "0D1F2E25F8C15C843CD3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=C7ACFB1C0C1A3EBEB107",
-      "coupon_code": "C7ACFB1C0C1A3EBEB107",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-oop-a-complete-course-in-object-oriented-programming/?couponCode=CDB62D1B7775B0D996E4",
-      "coupon_code": "CDB62D1B7775B0D996E4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-programming-python-bootcamp-for-beginners/?couponCode=EDA97BB4391E4B1CD426",
-      "coupon_code": "EDA97BB4391E4B1CD426",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/reactjs-the-complete-reactjs-course-for-beginners/?couponCode=DBEC77D8150BDF887E8F",
-      "coupon_code": "DBEC77D8150BDF887E8F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6880525_e776.jpg",
+      "title": "Mastering Prompt Engineering: From Beginner to AI Expert"
     },
     {
       "url": "https://www.udemy.com/course/account-based-marketing-abm-step-by-step-u/?couponCode=6EB01292DD3E315CB2B3",
