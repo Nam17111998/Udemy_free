@@ -1,27 +1,114 @@
 {
-  "updated_at": "2026-01-06T06:46:27Z",
-  "count": 965,
+  "updated_at": "2026-01-06T07:32:51Z",
+  "count": 978,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=AEBBB91F0484DDA02FBB",
+      "coupon_code": "AEBBB91F0484DDA02FBB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266090_aba5.jpg",
+      "title": "Advanced Microsoft Word With Job Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/aws-essentials-a-complete-beginners-guide/?couponCode=63F11A248970894869D4",
+      "coupon_code": "63F11A248970894869D4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6137243_6d44.jpg",
+      "title": "AWS Essentials: A Complete Beginner's Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/business-development-sales-marketing-professional-diploma/?couponCode=3A572249624AD1BD9DC0",
+      "coupon_code": "3A572249624AD1BD9DC0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5848270_95f6_3.jpg",
+      "title": "Business Development, Sales & Marketing Professional Diploma"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=1EEECD01186AF0D393DC",
+      "coupon_code": "1EEECD01186AF0D393DC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5238908_582c.jpg",
+      "title": "Essential Lightroom Course for Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-cloud-genai-leader-certification-complete-training/?couponCode=F31BC3F0C715C5CF5356",
+      "coupon_code": "F31BC3F0C715C5CF5356",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6759615_ef78_2.jpg",
+      "title": "Google Cloud GenAI Leader Certification: Complete Training"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=C63E122066F75AE11FFB",
+      "coupon_code": "C63E122066F75AE11FFB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5198550_8207.jpg",
+      "title": "Learn Blockchain and Crypto from Beginning"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-html5-from-beginner-to-advanced/?couponCode=1864C5E2FD9D8F73E7BC",
+      "coupon_code": "1864C5E2FD9D8F73E7BC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5274628_1d01_3.jpg",
+      "title": "Mastering HTML5: From Beginner to Advanced 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-project-f/?couponCode=1AFDDBAC7E5E2BD6B933",
+      "coupon_code": "1AFDDBAC7E5E2BD6B933",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791305_0f54_5.jpg",
+      "title": "Mastering Microsoft Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-digital-business-development/?couponCode=6BD9E69E4659733F7678",
+      "coupon_code": "6BD9E69E4659733F7678",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5848466_1f34.jpg",
+      "title": "Professional Diploma in Digital Business Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-cost-management-estimating-budgeting-earned-value/?couponCode=76C2027DF0231A3C4ECA",
+      "coupon_code": "76C2027DF0231A3C4ECA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935619_e729_3.jpg",
+      "title": "Project Cost Management-Estimating"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-for-app-developers-build-your-first-app/?couponCode=781F5DE32C526C19AC46",
+      "coupon_code": "781F5DE32C526C19AC46",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6104657_1cc1_3.jpg",
+      "title": "Python Course for App Developers: Build Your First App"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-machine-learning-from-beginner-to-pro/?couponCode=84F846AEB8ABE5665E8A",
+      "coupon_code": "84F846AEB8ABE5665E8A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6136815_6345_2.jpg",
+      "title": "Python Machine Learning: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantity-surveying-for-g11-high-rise-buildings-estimation/?couponCode=409267FBEAFFC81B30FE",
+      "coupon_code": "409267FBEAFFC81B30FE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6833151_ef77.jpg",
+      "title": "Building Estimation Masterclass: G+11 High-Rise Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/rank-your-social-media-and-go-viral-be-social-media-master/?couponCode=AC1202DA2DBEBC5538D2",
+      "coupon_code": "AC1202DA2DBEBC5538D2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6128285_7fd4_2.jpg",
+      "title": "Rank Your Social Media and Go Viral - Be Social Media Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-design-course-with-html-css-and-wordpress/?couponCode=12FF32EFFC657FEF0D94",
+      "coupon_code": "12FF32EFFC657FEF0D94",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266094_ae5a.jpg",
+      "title": "Web Design Course with HTML CSS and Wordpress"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=98AF0631F6B5CA4AC951",
       "coupon_code": "98AF0631F6B5CA4AC951",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5278956_79a9_3.jpg",
+      "title": "Adobe Premiere Pro CC For Video Editing - Novice to Expert"
     },
     {
       "url": "https://www.udemy.com/course/advanced-ms-word-excel-powerpoint-course-for-job-success/?couponCode=8E4D7ACBF05A00464469",
       "coupon_code": "8E4D7ACBF05A00464469",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266096_3048_3.jpg",
+      "title": "Advanced MS Word Excel PowerPoint Course for Job Success"
     },
     {
       "url": "https://www.udemy.com/course/bootstrapping-business-without-money-investments-getting/?couponCode=8AA746C7184EFBB6B6B8",
       "coupon_code": "8AA746C7184EFBB6B6B8",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5845088_17aa.jpg",
       "title": "Bootstrapping, Business Without Money, Investments Getting"
-    },
-    {
-      "url": "https://www.udemy.com/course/business-development-sales-marketing-professional-diploma/?couponCode=3A572249624AD1BD9DC0",
-      "coupon_code": "3A572249624AD1BD9DC0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/?couponCode=BBE30D4A0C999E86AFEA",
@@ -44,7 +131,8 @@
     {
       "url": "https://www.udemy.com/course/essential-canva-course-for-graphics-design-learn-in-2-hour/?couponCode=0A431CB24BC9F6004C0D",
       "coupon_code": "0A431CB24BC9F6004C0D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5308280_ab92_2.jpg",
+      "title": "Essential Canva Course for Graphics Design Learn in 2 Hour"
     },
     {
       "url": "https://www.udemy.com/course/excel-formulas-functions-beginner-to-expert-course/?couponCode=ALHAMDULILLAH_010626",
@@ -59,11 +147,6 @@
       "title": "Facebook Ads MasterClass 2026 - All Campaign Creations"
     },
     {
-      "url": "https://www.udemy.com/course/google-cloud-genai-leader-certification-complete-training/?couponCode=F31BC3F0C715C5CF5356",
-      "coupon_code": "F31BC3F0C715C5CF5356",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/grandmaster-chess-strategies-tactics-to-win-more-games/?couponCode=47D9E4217F8B8840FB09",
       "coupon_code": "47D9E4217F8B8840FB09",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5222412_2dfe_24.jpg",
@@ -72,7 +155,8 @@
     {
       "url": "https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/?couponCode=432BFE407DD3CEF02678",
       "coupon_code": "432BFE407DD3CEF02678",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5308278_4bce.jpg",
+      "title": "Learn ChatGPT, Midjourney, AI and Use it For Passive Income"
     },
     {
       "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=871C8D313D79A00CFF86",
