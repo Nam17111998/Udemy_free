@@ -1,36 +1,132 @@
 {
-  "updated_at": "2026-01-06T11:26:23Z",
-  "count": 915,
+  "updated_at": "2026-01-06T13:00:04Z",
+  "count": 930,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/30-days-of-angular/?couponCode=5DA5769A0E123C8C2B1A",
+      "coupon_code": "5DA5769A0E123C8C2B1A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6400299_0620_6.jpg",
+      "title": "30 Days of Angular: Build 30 Projects with Angular"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-certified-scrum-master/?couponCode=28535873C4F1E4919DAF",
+      "coupon_code": "28535873C4F1E4919DAF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5946070_1233_3.jpg",
+      "title": "Scrum Master Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-business-analysts/?couponCode=FC1769960643B5489D12",
+      "coupon_code": "FC1769960643B5489D12",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6815115_4190.jpg",
+      "title": "AI for Business Analysts"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-product-management-innovation/?couponCode=5D87979DFF654E3A28DD",
+      "coupon_code": "5D87979DFF654E3A28DD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6629477_5d18_2.jpg",
+      "title": "AI for Product Management & Innovation"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-your-personal-website-using-chatgpt/?couponCode=734A2AF9915BC627986A",
+      "coupon_code": "734A2AF9915BC627986A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6656725_6a48_4.jpg",
+      "title": "Build your Personal Portfolio Website"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/?couponCode=1C0AE646D10D4EB14495",
+      "coupon_code": "1C0AE646D10D4EB14495",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916184_19c5.jpg",
+      "title": "ChatGPT and Generative AI in Business, Management, Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-h/?couponCode=E092F4DC50023B8B774D",
+      "coupon_code": "E092F4DC50023B8B774D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6163239_12c1.jpg",
+      "title": "ChatGPT for Product Owners"
+    },
+    {
+      "url": "https://www.udemy.com/course/code-play-javascript-game-projects/?couponCode=4766D0E6276536A0D37A",
+      "coupon_code": "4766D0E6276536A0D37A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637119_b242_7.jpg",
+      "title": "Code & Play: JavaScript Game Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-mastery-of-character-development-2025/?couponCode=5B474543696B74038E4A",
+      "coupon_code": "5B474543696B74038E4A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6341181_1b91_3.jpg",
+      "title": "Complete Character Development Course Online 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/credit-risk-essentials-analytics-ai-underwriting/?couponCode=63CA981D3D112B399DB2",
+      "coupon_code": "63CA981D3D112B399DB2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6664459_3ba7.jpg",
+      "title": "Credit Risk Essentials: Analytics, AI & Underwriting"
+    },
+    {
+      "url": "https://www.udemy.com/course/interview-cv-mastery-from-cv-to-job-offer/?couponCode=AB9A60FE194AA14DB218",
+      "coupon_code": "AB9A60FE194AA14DB218",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742531_14be.jpg",
+      "title": "Interview & CV Mastery: From CV to Job Offer"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-cybersecurity-essential-knowledge-and-techniques/?couponCode=9019198EE99D8205ED2C",
+      "coupon_code": "9019198EE99D8205ED2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6236227_d056.jpg",
+      "title": "Mastering Cybersecurity: Essential Knowledge and Techniques"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-story-structure-ai/?couponCode=3D2446AAE37EC25F8B24",
+      "coupon_code": "3D2446AAE37EC25F8B24",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6341179_972b_5.jpg",
+      "title": "Complete Mastering Story Structure for Film Writing 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-virtual-executive-assistant/?couponCode=000A0AC0A40929A80820",
+      "coupon_code": "000A0AC0A40929A80820",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873830_45bc.jpg",
+      "title": "Professional Diploma of Virtual Executive Assistant"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-project-workshop-html-css-in-action/?couponCode=61F8A177EB412D6DF7EC",
+      "coupon_code": "61F8A177EB412D6DF7EC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742285_9835_9.jpg",
+      "title": "Web Project Workshop: 20+ HTML & CSS Websites in Action"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-after-effects-from-beginner-to-motion-master/?couponCode=7660EE5F6FE9EA6FBEC8",
       "coupon_code": "7660EE5F6FE9EA6FBEC8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5927302_12ae.jpg",
+      "title": "Adobe After Effects: From Beginner to Motion Master"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-essentials-design-like-a-pro-in-days/?couponCode=7432FF099BC28A0D4766",
       "coupon_code": "7432FF099BC28A0D4766",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5928512_3d47.jpg",
+      "title": "Adobe Illustrator Essentials: Design Like a Pro in Days"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/?couponCode=BA92B795139B6527B19F",
       "coupon_code": "BA92B795139B6527B19F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5926794_6929.jpg",
+      "title": "Adobe Illustrator Essentials: Zero to Hero for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/advanced-adobe-after-effects-become-vfx-motion-expert/?couponCode=F4F16A21BC3C485ABF89",
       "coupon_code": "F4F16A21BC3C485ABF89",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5893042_5314.jpg",
+      "title": "Advanced Adobe After Effects: Become VFX & Motion Expert"
     },
     {
       "url": "https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=156299FA1D7901F85386",
       "coupon_code": "156299FA1D7901F85386",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5895048_9832.jpg",
+      "title": "Advanced Adobe Premiere Pro Add Hollywood-level Effects"
     },
     {
       "url": "https://www.udemy.com/course/capcut-video-editing-for-social-media-reels-shorts-videos/?couponCode=B4B1705A30E8DFE76332",
       "coupon_code": "B4B1705A30E8DFE76332",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5823330_a37d_3.jpg",
+      "title": "Capcut Video Editing for Social Media Reels Shorts Videos"
     },
     {
       "url": "https://www.udemy.com/course/clinical-research-operations-ethics-regulations-quality/?couponCode=FREECLINICALR",
@@ -41,7 +137,8 @@
     {
       "url": "https://www.udemy.com/course/complete-prompt-engineering-practical-course-cpepc/?couponCode=JAN_DEAL_26",
       "coupon_code": "JAN_DEAL_26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5918542_0d17.jpg",
+      "title": "Complete Prompt Engineering Practical Course C|PEPC"
     },
     {
       "url": "https://www.udemy.com/course/dart-mastery-become-a-dart-master-from-hero-to-zero-dart/?couponCode=7D5B788CAE7C73AD05A6",
@@ -52,7 +149,8 @@
     {
       "url": "https://www.udemy.com/course/master-the-blender-for-game-art-film-design/?couponCode=27F7736AE6694E42916B",
       "coupon_code": "27F7736AE6694E42916B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5875710_2f81.jpg",
+      "title": "Master the Blender for Game Art, Film & Design"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-beginner-to-advanced/?couponCode=DAFE02906DEEE5FFA0B5",
@@ -63,17 +161,20 @@
     {
       "url": "https://www.udemy.com/course/microsoft-vba-excel-automation-reports-dashboards-and-task/?couponCode=017A924E14EBDC5F8292",
       "coupon_code": "017A924E14EBDC5F8292",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995645_866e_4.jpg",
+      "title": "Microsoft VBA Excel Automation: Reports, Dashboards and Task"
     },
     {
       "url": "https://www.udemy.com/course/pro-photo-editing-with-photoshop-illustrator-lightroom-canva/?couponCode=6E5AB4FC4EEDAD8A3B6C",
       "coupon_code": "6E5AB4FC4EEDAD8A3B6C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886704_9b11.jpg",
+      "title": "Pro Photo Editing With Photoshop Illustrator Lightroom Canva"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-ma-business-mergers-acquisitions/?couponCode=E15FF30424F914A86016",
       "coupon_code": "E15FF30424F914A86016",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873118_229d.jpg",
+      "title": "Professional Diploma in M&A Business Mergers & Acquisitions"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-procurement-sourcing-supply-chains/?couponCode=0CF89100FFB82CBF2491",
