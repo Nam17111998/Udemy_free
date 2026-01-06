@@ -1,21 +1,114 @@
 {
-  "updated_at": "2026-01-06T16:38:57Z",
-  "count": 972,
+  "updated_at": "2026-01-06T17:30:14Z",
+  "count": 987,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/anyword-ai-the-best-generative-artificial-intelligence-tool/?couponCode=8A6F25B1F3D56E03C30D&coupo",
+      "coupon_code": "8A6F25B1F3D56E03C30D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5302880_c6a4_2.jpg",
+      "title": "Anyword AI: The Best Generative Artificial Intelligence Tool"
+    },
+    {
+      "url": "https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass-course/?couponCode=A6838D7768FCF0CBA734&coupo",
+      "coupon_code": "A6838D7768FCF0CBA734",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4680240_dba3.jpg",
+      "title": "Developer Relations Fundamentals – DevRel Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotional-intelligence-for-software-engineers-and-developers/?couponCode=92286FCB74F95827838B&coupo",
+      "coupon_code": "92286FCB74F95827838B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4542914_b7e4.jpg",
+      "title": "Emotional Intelligence for Software Engineers and Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-non-technical-skills-of-effective-data-scientists/?couponCode=AFF98BDFE7B19796AB32&coupo",
+      "coupon_code": "AFF98BDFE7B19796AB32",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3872552_f9a2_3.jpg",
+      "title": "Essential Non Technical Skills of Effective Data Scientists"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-data-studio-complete-beginners-to-advanced-tutorial/?couponCode=047AF8195F74CAA39719&coupo",
+      "coupon_code": "047AF8195F74CAA39719",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3730378_8fca_3.jpg",
+      "title": "Looker Studio /Google Data Studio Complete Advanced Tutorial"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=3B7CB2252C9093055DA8&coupo",
+      "coupon_code": "3B7CB2252C9093055DA8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3818074_c21b_2.jpg",
+      "title": "Microsoft Clarity for Web Analytics :  A-Z Complete Tutorial"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-designer-masterclass-best-ai-based-designer-tool/?couponCode=30148FD2A08BBC56447B&coupo",
+      "coupon_code": "30148FD2A08BBC56447B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5305014_5bdb_2.jpg",
+      "title": "Microsoft Designer Masterclass : Best AI based Designer Tool"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-express-react-node-angular-mean-mern-stack-5-in-1-course/?couponCode=6C488E924C5044796BA7&coupo",
+      "coupon_code": "6C488E924C5044796BA7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4823994_6a52_4.jpg",
+      "title": "MongoDB, Express, React, Node, Angular (MEAN/MERN) - 5 in 1"
+    },
+    {
+      "url": "https://www.udemy.com/course/most-effective-tips-to-get-your-dream-data-science-job/?couponCode=8A4960B75E027CFAB6E2&coupo",
+      "coupon_code": "8A4960B75E027CFAB6E2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4435398_1d5b.jpg",
+      "title": "Most Effective Tips to get your Dream Data Science Job"
+    },
+    {
+      "url": "https://www.udemy.com/course/no-code-machine-learning-with-qlik-automl/?couponCode=2E676622F0F12322AAC8&coupo",
+      "coupon_code": "2E676622F0F12322AAC8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4592810_947e_2.jpg",
+      "title": "No-Code Machine Learning with Qlik AutoML"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-and-product-management-frameworks-methodologies-masterclass/?couponCode=1FD4A335271707295DF6&coupo",
+      "coupon_code": "1FD4A335271707295DF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4587346_941a_2.jpg",
+      "title": "Project/ Product Management Frameworks & Methods MasterClass"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantum-computing-fundamentals-with-microsoft-azure-quantum/?couponCode=E8A8545D7B902B5E42ED&coupo",
+      "coupon_code": "E8A8545D7B902B5E42ED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4588234_91b1_2.jpg",
+      "title": "Quantum Computing Fundamentals with Microsoft Azure Quantum"
+    },
+    {
+      "url": "https://www.udemy.com/course/tibco-spotfire-interview-technical-questions-answered-with-explanation/?couponCode=8B5B35F2BE73602668D1&coupo",
+      "coupon_code": "8B5B35F2BE73602668D1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3829756_90c0_3.jpg",
+      "title": "Spotfire Interview Tech Questions Answered with Explanation"
+    },
+    {
+      "url": "https://www.udemy.com/course/web3-blockchain-project-product-manager-certification-course/?couponCode=5B136233CB650915F33F&coupo",
+      "coupon_code": "5B136233CB650915F33F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4739530_20e5_2.jpg",
+      "title": "Web3 / Blockchain Project Manager Certification Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/wordpress-for-small-business-build-your-first-website/?couponCode=021416523CD46C5D6C5F",
+      "coupon_code": "021416523CD46C5D6C5F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6486159_b0bb.jpg",
+      "title": "WordPress for Small Business: Build Your First Website"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-photoshop-cc-for-absolute-beginner-to-advanced/?couponCode=45A368E3E3FB8E25ED51",
       "coupon_code": "45A368E3E3FB8E25ED51",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4785608_3753.jpg",
+      "title": "Adobe Photoshop CC For Absolute Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/advanced-capcut-tutorial-for-social-media-video-editing/?couponCode=2C115ABB98123D13289A",
       "coupon_code": "2C115ABB98123D13289A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6258769_6151_2.jpg",
+      "title": "Advanced Capcut Tutorial for Social Media Video Editing"
     },
     {
       "url": "https://www.udemy.com/course/capcut-with-canva-graphic-design-video-editing-masterclass/?couponCode=25BFD3CBC6EDAF3CDB19",
       "coupon_code": "25BFD3CBC6EDAF3CDB19",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6781853_41d8.jpg",
+      "title": "Capcut With Canva Graphic Design Video Editing Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/communicating-through-disagreement-master-class/?couponCode=100005",
@@ -26,12 +119,14 @@
     {
       "url": "https://www.udemy.com/course/facebook-ads-for-small-business-from-very-basic-to-advance/?couponCode=90B46C2D24793AFE4CE0",
       "coupon_code": "90B46C2D24793AFE4CE0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4171726_1bde.jpg",
+      "title": "Facebook Ads For Small Business From Very Basic To Advance"
     },
     {
       "url": "https://www.udemy.com/course/html-and-css-for-beginners-from-basic-to-advance/?couponCode=6CEC81E8FDEAE4A62BDE",
       "coupon_code": "6CEC81E8FDEAE4A62BDE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4815794_822f_3.jpg",
+      "title": "HTML and CSS for Beginners From Basic to Advance"
     },
     {
       "url": "https://www.udemy.com/course/iso-37001-2016-preventing-bribery-corruption-in-business/?couponCode=100007",
