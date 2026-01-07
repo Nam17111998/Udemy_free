@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-01-07T04:05:35Z",
-  "count": 940,
+  "updated_at": "2026-01-07T05:33:07Z",
+  "count": 944,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/azure-data-engineering-masters/?couponCode=DFAF4CEDC5E29530BD36",
+      "coupon_code": "DFAF4CEDC5E29530BD36",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=05B75C82265AFE786CE1",
       "coupon_code": "05B75C82265AFE786CE1",
@@ -13,18 +18,13 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/data-analytics-masters-basics-to-advanced/?couponCode=8FF756D93359767C93DB",
-      "coupon_code": "8FF756D93359767C93DB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=61CB7941F344ABFDF75B",
       "coupon_code": "61CB7941F344ABFDF75B",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/executive-diploma-in-strategic-management/?couponCode=9355A87AC7B2DD5167E6",
-      "coupon_code": "9355A87AC7B2DD5167E6",
+      "url": "https://www.udemy.com/course/excel-microsoft-excel-course-beginner-to-expert-2022/?couponCode=ALHAMDULILLAH_010726",
+      "coupon_code": "ALHAMDULILLAH_010726",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -48,18 +48,23 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/professional-certificate-in-procurement-and-purchasing/?couponCode=395A031FB0DD27ADA63E",
+      "coupon_code": "395A031FB0DD27ADA63E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/professional-certificate-of-agile-and-scrum-business-analyst/?couponCode=3F3F34D24278C26C49B7",
       "coupon_code": "3F3F34D24278C26C49B7",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=154B5575DFC2E15F31D4",
-      "coupon_code": "154B5575DFC2E15F31D4",
+      "url": "https://www.udemy.com/course/python-programming-build-and-deploy-your-own-applications/?couponCode=2DCC7AB214055645AEBC",
+      "coupon_code": "2DCC7AB214055645AEBC",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/python-programming-build-and-deploy-your-own-applications/?couponCode=2DCC7AB214055645AEBC",
-      "coupon_code": "2DCC7AB214055645AEBC",
+      "url": "https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=SUBHANALLAH_010726",
+      "coupon_code": "SUBHANALLAH_010726",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -73,9 +78,25 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/data-analytics-masters-basics-to-advanced/?couponCode=8FF756D93359767C93DB",
+      "coupon_code": "8FF756D93359767C93DB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-strategic-management/?couponCode=9355A87AC7B2DD5167E6",
+      "coupon_code": "9355A87AC7B2DD5167E6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=154B5575DFC2E15F31D4",
+      "coupon_code": "154B5575DFC2E15F31D4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/vivre-librement/?couponCode=B19C71AA8D3C232B78BD",
       "coupon_code": "B19C71AA8D3C232B78BD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
+      "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
     },
     {
       "url": "https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=6DF3733210DD436C02B3",
