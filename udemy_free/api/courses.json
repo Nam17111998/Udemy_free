@@ -1,71 +1,165 @@
 {
-  "updated_at": "2026-01-07T13:01:23Z",
-  "count": 903,
+  "updated_at": "2026-01-07T14:32:25Z",
+  "count": 918,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-for-entrepreneurs/?couponCode=DB7D5D5DBF450C1879C3",
+      "coupon_code": "DB7D5D5DBF450C1879C3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/bestseller-udemy-course-creation-masterclass-unofficial/?couponCode=03400C7EB4E1C2588E59",
+      "coupon_code": "03400C7EB4E1C2588E59",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-e-course-creation-masterclass-for-coaches/?couponCode=265EB39CFB5CD87851B9",
+      "coupon_code": "265EB39CFB5CD87851B9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chess-from-scratch-to-pro/?couponCode=9E5A38BAB747E29C854C",
+      "coupon_code": "9E5A38BAB747E29C854C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/conscious-consumption-making-smarter-sustainable-choices/?couponCode=100003",
+      "coupon_code": "100003",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/iso-28000-security-management-systems-for-the-supply-chain/?couponCode=F3442171030A0B2AFF25",
+      "coupon_code": "F3442171030A0B2AFF25",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/lean-made-simple-master-efficiency-in-manufacturing/?couponCode=6DD40FA7183FA65208BC",
+      "coupon_code": "6DD40FA7183FA65208BC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/long-term-investing-practical-principles/?couponCode=50B54AD06420186B96EF",
+      "coupon_code": "50B54AD06420186B96EF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/marketing-analytics-for-beginners/?couponCode=A5D0C0564D90484F4334",
+      "coupon_code": "A5D0C0564D90484F4334",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-cybersecurity-essential-knowledge-and-techniques/?couponCode=F97A668A4358407268E1",
+      "coupon_code": "F97A668A4358407268E1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6236227_d056.jpg",
+      "title": "Mastering Cybersecurity: Essential Knowledge and Techniques"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-marketing-and-advertising/?couponCode=4AAC51F9533B52AAECE7",
+      "coupon_code": "4AAC51F9533B52AAECE7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5930930_ac4e_2.jpg",
+      "title": "Professional Certificate in Marketing and Advertising"
+    },
+    {
+      "url": "https://www.udemy.com/course/redash-masterclass-dashboards-sql-on-prem-deployment/?couponCode=D2971C7BF752A7888761",
+      "coupon_code": "D2971C7BF752A7888761",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6964669_44c5.jpg",
+      "title": "Redash Masterclass: Dashboards, SQL & On-Prem Deployment"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-s4hana-sales-process-with-fiori-for-usersconsultants/?couponCode=21A3F7A6185687223D42",
+      "coupon_code": "21A3F7A6185687223D42",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4487166_2d49_6.jpg",
+      "title": "SAP SD - S/4HANA / Fiori"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-databricks-project-on-google-cloud-gcp/?couponCode=D21327C01908EED7A13B",
+      "coupon_code": "D21327C01908EED7A13B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6824307_c6a1.jpg",
+      "title": "The Complete Databricks Project on Google Cloud (GCP)"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-global-disruptions-in-operations-master-class/?couponCode=100004",
+      "coupon_code": "100004",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6667095_5053.jpg",
+      "title": "The Global Disruptions in Operations Master Class"
+    },
     {
       "url": "https://www.udemy.com/course/3d-modeling-with-fusion-360tutorial-videos/?couponCode=FUSIONTUT",
       "coupon_code": "FUSIONTUT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6281331_084c_3.jpg",
+      "title": "3D Modeling with Fusion 360 (Tutorial Videos)"
     },
     {
       "url": "https://www.udemy.com/course/anti-money-laundering-aml-kyc-compliance/?couponCode=93D00169B7EA6E7E10DF",
       "coupon_code": "93D00169B7EA6E7E10DF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583467_2314_3.jpg",
+      "title": "Anti Money Laundering (AML) Insights for Financial Security"
     },
     {
       "url": "https://www.udemy.com/course/autocad-2020-for-designers-a-problem-solving-approach/?couponCode=A1_AUTOCAD1",
       "coupon_code": "A1_AUTOCAD1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2563480_04e4_5.jpg",
+      "title": "Complete course in AutoCAD : 2D and 3D"
     },
     {
       "url": "https://www.udemy.com/course/autocad-electrical-2024-a-tutorial-series/?couponCode=AE2024_A2",
       "coupon_code": "AE2024_A2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5787442_2331_4.jpg",
+      "title": "AutoCAD Electrical 2024: A Tutorial Series"
     },
     {
       "url": "https://www.udemy.com/course/autocad-electrical-2026-tutorials-exercises-and-projects/?couponCode=ACADE2026",
       "coupon_code": "ACADE2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6832673_f4c7.jpg",
+      "title": "AutoCAD Electrical 2026: Tutorials, Exercises, and Projects"
     },
     {
       "url": "https://www.udemy.com/course/autodesk-inventor-a-complete-step-by-step-tutorial-guide/?couponCode=INVENTOR_A2",
       "coupon_code": "INVENTOR_A2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6154201_48b0.jpg",
+      "title": "Autodesk Inventor: A Complete Step-by-Step Tutorial Guide"
     },
     {
       "url": "https://www.udemy.com/course/brain-computer-interface-with-deep-learning/?couponCode=10E10D74C93BA1856F36",
       "coupon_code": "10E10D74C93BA1856F36",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6082337_b988_4.jpg",
+      "title": "Brain computer interface with deep learning"
     },
     {
       "url": "https://www.udemy.com/course/complete-course-in-autocad-electrical-2022/?couponCode=AE2022_JAN26",
       "coupon_code": "AE2022_JAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5356024_e937_5.jpg",
+      "title": "Complete Course in AutoCAD Electrical 2022"
     },
     {
       "url": "https://www.udemy.com/course/creating-smart-pids-using-plant-3d/?couponCode=PID_SPEC",
       "coupon_code": "PID_SPEC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5849536_31b0_3.jpg",
+      "title": "Creating Smart P&IDs using Plant 3D"
     },
     {
       "url": "https://www.udemy.com/course/devenir-freelance-nomade/?couponCode=13DA7C3D2DECE2C270FA",
       "coupon_code": "13DA7C3D2DECE2C270FA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6097319_b9b9_3.jpg",
+      "title": "DEVENIR FREELANCE NOMADE : Vivre de sa passion librement"
     },
     {
       "url": "https://www.udemy.com/course/exploring-navisworks-bim-tutorials-from-basics-to-advanced/?couponCode=NAVI_EXP1",
       "coupon_code": "NAVI_EXP1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6049069_5b93_2.jpg",
+      "title": "Exploring Navisworks: BIM Tutorials from Basics to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/mastering-5s-a-full-guide-with-hands-on-training-in-hindi/?couponCode=A0409B8E6F77A5A50922",
       "coupon_code": "A0409B8E6F77A5A50922",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6834535_5026_5.jpg",
+      "title": "Mastering 5S: A full Guide with Hands-On Training in Hindi"
     },
     {
       "url": "https://www.udemy.com/course/negotiation-skills-mastery/?couponCode=NEW-YEAR",
       "coupon_code": "NEW-YEAR",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6936141_52f3.jpg",
+      "title": "Negotiation Skills Masterclass: Negotiate Like A Pro"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-administration-management/?couponCode=AB093700DD2A83A7D55F",
