@@ -1,96 +1,120 @@
 {
-  "updated_at": "2026-01-07T05:33:07Z",
-  "count": 944,
+  "updated_at": "2026-01-07T06:45:36Z",
+  "count": 945,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/azure-data-engineering-masters/?couponCode=DFAF4CEDC5E29530BD36",
-      "coupon_code": "DFAF4CEDC5E29530BD36",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=05B75C82265AFE786CE1",
       "coupon_code": "05B75C82265AFE786CE1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5377010_fb30_4.jpg",
+      "title": "Build a Robust RESTful API with PHP 8, from Scratch!"
     },
     {
       "url": "https://www.udemy.com/course/complete-nodejs-bootcamp-from-basics-to-advanced/?couponCode=5104B69F34D1FD8973E1",
       "coupon_code": "5104B69F34D1FD8973E1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6696081_61f0_3.jpg",
+      "title": "Complete Node.js Bootcamp: From Basics to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=61CB7941F344ABFDF75B",
       "coupon_code": "61CB7941F344ABFDF75B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6712869_0b21_3.jpg",
+      "title": "Superhumain – Investir en soi en apprenant en continu"
     },
     {
       "url": "https://www.udemy.com/course/excel-microsoft-excel-course-beginner-to-expert-2022/?couponCode=ALHAMDULILLAH_010726",
       "coupon_code": "ALHAMDULILLAH_010726",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4758504_f0ea_4.jpg",
+      "title": "Excel - Microsoft Excel Course Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=C2D0C0C9AF4C5AF47CDB",
       "coupon_code": "C2D0C0C9AF4C5AF47CDB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5800130_dfbb.jpg",
+      "title": "Learn AngularJS Course for Beginners to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/?couponCode=067B72B98CD438BE2B04",
       "coupon_code": "067B72B98CD438BE2B04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173817_8c19_2.jpg",
+      "title": "Master Java, Python, C & C++: All-in-One Programming Course"
     },
     {
       "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=8FC830B06D8DEC849B40",
       "coupon_code": "8FC830B06D8DEC849B40",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
+      "title": "Master PHP Programming: From Beginner to Advanced Developer"
     },
     {
       "url": "https://www.udemy.com/course/php-bootcamp-the-complete-programming-course-with-mysql/?couponCode=2661628A3B3A1C11FF07",
       "coupon_code": "2661628A3B3A1C11FF07",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173981_30e7_2.jpg",
+      "title": "PHP Bootcamp: The Complete Programming Course With MYSQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-digital-business-unit-economics/?couponCode=7A811C59529D7235C630",
+      "coupon_code": "7A811C59529D7235C630",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917806_0ba8.jpg",
+      "title": "Professional Certificate: Digital Business & Unit Economics"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-procurement-and-purchasing/?couponCode=395A031FB0DD27ADA63E",
       "coupon_code": "395A031FB0DD27ADA63E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916870_69a8.jpg",
+      "title": "Professional Certificate in Procurement and Purchasing"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-of-agile-and-scrum-business-analyst/?couponCode=3F3F34D24278C26C49B7",
       "coupon_code": "3F3F34D24278C26C49B7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916838_a9f9.jpg",
+      "title": "Professional Certificate of Agile and Scrum Business Analyst"
     },
     {
       "url": "https://www.udemy.com/course/python-programming-build-and-deploy-your-own-applications/?couponCode=2DCC7AB214055645AEBC",
       "coupon_code": "2DCC7AB214055645AEBC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6509823_1c8a.jpg",
+      "title": "Python Programming: Build and Deploy Your Own Applications."
     },
     {
       "url": "https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=SUBHANALLAH_010726",
       "coupon_code": "SUBHANALLAH_010726",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4965774_88c7_8.jpg",
+      "title": "The Complete SEO Guide: SEO For Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/the-shopify-dropshipping-course-start-selling-online-today/?couponCode=C72FAD9BC997B81A2E42",
       "coupon_code": "C72FAD9BC997B81A2E42",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6521065_ba07_2.jpg",
+      "title": "Shopify Dropshipping Course 2026: Start Selling Online Today"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-seo-course-2024-beginner-to-advanced-seo/?couponCode=C78F81523474216C7EC8",
       "coupon_code": "C78F81523474216C7EC8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5908172_2f2a.jpg",
+      "title": "Ultimate SEO Course 2026: Beginner to Advanced SEO with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/azure-data-engineering-masters/?couponCode=DFAF4CEDC5E29530BD36",
+      "coupon_code": "DFAF4CEDC5E29530BD36",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6786309_1da8.jpg",
+      "title": "Azure Data Engineering Masters: Build Scalable Solutions"
     },
     {
       "url": "https://www.udemy.com/course/data-analytics-masters-basics-to-advanced/?couponCode=8FF756D93359767C93DB",
       "coupon_code": "8FF756D93359767C93DB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5182120_a68b.jpg",
+      "title": "Data Analytics Masters 2025 - From Basics To Advanced"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-strategic-management/?couponCode=9355A87AC7B2DD5167E6",
       "coupon_code": "9355A87AC7B2DD5167E6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916746_5964.jpg",
+      "title": "Executive Diploma in Strategic Management"
     },
     {
       "url": "https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=154B5575DFC2E15F31D4",
       "coupon_code": "154B5575DFC2E15F31D4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3694430_429b.jpg",
+      "title": "Python Complete Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/vivre-librement/?couponCode=B19C71AA8D3C232B78BD",
