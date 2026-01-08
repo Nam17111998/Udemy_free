@@ -1,86 +1,192 @@
 {
-  "updated_at": "2026-01-08T07:31:19Z",
-  "count": 925,
+  "updated_at": "2026-01-08T08:40:34Z",
+  "count": 940,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/?couponCode=07012026",
+      "coupon_code": "07012026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713657_81e2.jpg",
+      "title": "Building Basic AI Agents and Custom GPTs"
+    },
+    {
+      "url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/?couponCode=BF6655FA1FEAF8B5ECD5",
+      "coupon_code": "BF6655FA1FEAF8B5ECD5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5465518_4f1b_2.jpg",
+      "title": "Computer Engineering Mastery: From Beginner to Expert!"
+    },
+    {
+      "url": "https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/?couponCode=08JANUARY2026",
+      "coupon_code": "08JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6715099_6b9e_3.jpg",
+      "title": "Cursor AI for Beginners: AI Coding Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analysis-and-data-visualization-with-microsoft-copilot/?couponCode=07012026",
+      "coupon_code": "07012026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6723387_5ac5.jpg",
+      "title": "Data Analysis and Data Visualization with Microsoft Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-deep-dive-build-ship-and-run-containers/?couponCode=08JANUARY2026",
+      "coupon_code": "08JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6707623_30dc.jpg",
+      "title": "Docker Deep Dive: Build, Ship, and Run Containers"
+    },
+    {
+      "url": "https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/?couponCode=08JANUARY2026",
+      "coupon_code": "08JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691789_eafc_3.jpg",
+      "title": "GitHub Copilot for Beginners: AI Coding Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/kling-ai-guide-how-to-make-videos-using-generative-ai/?couponCode=08JANUARY2026",
+      "coupon_code": "08JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6711725_03eb.jpg",
+      "title": "Kling AI Guide: How to Make Videos Using Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/leonardo-ai-bootcamp-explore-visual-storytelling-with-ai/?couponCode=08JANUARY2026",
+      "coupon_code": "08JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6611185_7322.jpg",
+      "title": "Leonardo AI Bootcamp: Explore Visual Storytelling with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/llama-4-ai-mastering-prompt-engineering/?couponCode=08JANUARY2026",
+      "coupon_code": "08JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685183_a0d4.jpg",
+      "title": "Llama 4: AI Mastering Prompt Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-de-champion/?couponCode=8EEBDD0B3E7262979AB9",
+      "coupon_code": "8EEBDD0B3E7262979AB9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6840037_3e21.jpg",
+      "title": "Mental de Champion transformer tes problèmes en opportunités"
+    },
+    {
+      "url": "https://www.udemy.com/course/n8n-ai-agent-creation-guide/?couponCode=08JANUARY2026",
+      "coupon_code": "08JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6692461_9104_3.jpg",
+      "title": "N8N: AI Agent Creation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-mastery-from-novice-to-ninja/?couponCode=1F59124EC937E8046CA4",
+      "coupon_code": "1F59124EC937E8046CA4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5840414_06b8_2.jpg",
+      "title": "Python Mastery: From \"Novice to Ninja\""
+    },
+    {
+      "url": "https://www.udemy.com/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/?couponCode=6AED7D433B62481A2D42",
+      "coupon_code": "6AED7D433B62481A2D42",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6139833_c60f_2.jpg",
+      "title": "Rewrite Your Reality: 10x Your Writing Skills Effortlessly"
+    },
+    {
+      "url": "https://www.udemy.com/course/think-like-a-machine-computer-architecture-unlocked/?couponCode=44A4E094964112FA5357",
+      "coupon_code": "44A4E094964112FA5357",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6760561_3101.jpg",
+      "title": "Think Like a Machine: Computer Architecture Unlocked"
+    },
+    {
+      "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=71A9A465C7718F6D66E4",
+      "coupon_code": "71A9A465C7718F6D66E4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860025_1f3c_3.jpg",
+      "title": "Liberté et Efficacité : vivre du minimalisme en voyageant"
+    },
     {
       "url": "https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=E32DDCBDD815001FAF25",
       "coupon_code": "E32DDCBDD815001FAF25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6053807_9ccc_4.jpg",
+      "title": "Burp Suite Mastery: From Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/canva-for-social-media-graphic-design-and-video-editing/?couponCode=0B7A3D808D92BBDA43F9",
       "coupon_code": "0B7A3D808D92BBDA43F9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5896370_2474.jpg",
+      "title": "Canva for Social Media Graphic Design and Video Editing"
     },
     {
       "url": "https://www.udemy.com/course/complete-fundamental-analysis-master-course/?couponCode=9FEF18612CBA0330C13D",
       "coupon_code": "9FEF18612CBA0330C13D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5167766_4b1e.jpg",
+      "title": "Complete Fundamental Analysis In Forex Trading Master Course"
     },
     {
       "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=7197E970611C1F9B291F",
       "coupon_code": "7197E970611C1F9B291F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5508760_4f2a_3.jpg",
+      "title": "Ethically Hack the Planet"
     },
     {
       "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=4A23E0B8E60547263181",
       "coupon_code": "4A23E0B8E60547263181",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5523566_a9a6_8.jpg",
+      "title": "Ethically Hack the Planet Part 2"
     },
     {
       "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=030F16206357D8995AB4",
       "coupon_code": "030F16206357D8995AB4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5565704_3b4c_5.jpg",
+      "title": "Ethically Hack the Planet Part 3"
     },
     {
       "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=36846CCB075E175C324C",
       "coupon_code": "36846CCB075E175C324C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5622490_3f65_7.jpg",
+      "title": "Ethically Hack the Planet Part 4"
     },
     {
       "url": "https://www.udemy.com/course/forex-trading-master-course-zero-to-hero/?couponCode=B5BD1AFA189D0F94CE6E",
       "coupon_code": "B5BD1AFA189D0F94CE6E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5167392_e986.jpg",
+      "title": "Forex Trading Master Course - Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/forextradingrobotcreationcourse/?couponCode=A0A47FFE1C58CD3D789C",
       "coupon_code": "A0A47FFE1C58CD3D789C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4263694_0138_4.jpg",
+      "title": "Create Winning MT4/MT5 Forex Trading Robots without Coding"
     },
     {
       "url": "https://www.udemy.com/course/graphic-design-masterclass-adobe-photoshop-illustrator-indesign-canva/?couponCode=9976AFCBDF814894C43F",
       "coupon_code": "9976AFCBDF814894C43F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5803102_5223_3.jpg",
+      "title": "Learn Graphic Design with Photoshop Illustrator and InDesign"
     },
     {
       "url": "https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=DBAC925D621DB206D496",
       "coupon_code": "DBAC925D621DB206D496",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5760192_580e_3.jpg",
+      "title": "Network Mastery for Ethical Hackers"
     },
     {
       "url": "https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=A3E52A6967727D933665",
       "coupon_code": "A3E52A6967727D933665",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6163031_3fcc_2.jpg",
+      "title": "SQLMap From Scratch for Ethical Hackers"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-capcut-course-beginner-to-pro/?couponCode=F3F6C1000068BE212349",
       "coupon_code": "F3F6C1000068BE212349",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917712_da55_4.jpg",
+      "title": "The Complete CapCut Course with Social Media Video Editing"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-filmora-video-editing-course-beginner-to-pro/?couponCode=27750B7F6ABC68232C62",
       "coupon_code": "27750B7F6ABC68232C62",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906506_1469.jpg",
+      "title": "The Ultimate Filmora Video Editing Course: Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/webhack-for-ethical-hacking-ultimate-defensive-skills-h/?couponCode=8E4A470B25ACD2F045CD",
       "coupon_code": "8E4A470B25ACD2F045CD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6959693_0d25_3.jpg",
+      "title": "WebHack for Ethical Hacking  Ultimate Defensive Skills"
     },
     {
       "url": "https://www.udemy.com/course/adobe-graphics-design-video-editing/?couponCode=C3AD7C3BEE717A98F9F8",
       "coupon_code": "C3AD7C3BEE717A98F9F8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5048144_f746_3.jpg",
+      "title": "Essential Photoshop Course Beginner to Intermediate"
     },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-for-beginners/?couponCode=D9A02DBE35369B4CF7BD",
