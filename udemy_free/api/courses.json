@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-07T23:28:02Z",
-  "count": 957,
+  "updated_at": "2026-01-08T02:20:13Z",
+  "count": 965,
   "courses": [
     {
       "url": "https://www.udemy.com/course/ai-movie-making/?couponCode=5835F76F2AA5CCCFB191",
@@ -9,15 +9,94 @@
       "title": "AI movie making"
     },
     {
+      "url": "https://www.udemy.com/course/changement-climatique/?couponCode=DA7D37049862DA870B50",
+      "coupon_code": "DA7D37049862DA870B50",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6628521_45e4_2.jpg",
+      "title": "Le Changement Climatique : Causes, Conséquences et Solutions"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=4E93AE609532CC5979FC",
+      "coupon_code": "4E93AE609532CC5979FC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5032410_a449.jpg",
+      "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/doughnut-economics-framework/?couponCode=3AFB561AAC15DDF90D00",
+      "coupon_code": "3AFB561AAC15DDF90D00",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6946295_968f.jpg",
+      "title": "The Doughnut Economics"
+    },
+    {
+      "url": "https://www.udemy.com/course/ekbtfcmd/?couponCode=2EC739DD453A1DB9EDD0",
+      "coupon_code": "2EC739DD453A1DB9EDD0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6628565_5783_2.jpg",
+      "title": "التغير المناخي: الأسباب والعواقب والحلول"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-business-leadership/?couponCode=4AAC54754A434813D909",
+      "coupon_code": "4AAC54754A434813D909",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5949140_fb0f.jpg",
+      "title": "Executive Certificate in Business Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-build-in-public/?couponCode=A64DA4F84BAD1B3E6B1D",
+      "coupon_code": "A64DA4F84BAD1B3E6B1D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6098499_0cff_3.jpg",
+      "title": "BUILD IN PUBLIC Your Learning like a Film & Grow an Audience"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=17C7B151871213416BA6",
+      "coupon_code": "17C7B151871213416BA6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4976816_e82f.jpg",
+      "title": "Java And C++ Complete Course for Java And C++ Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-career-coaching/?couponCode=AB6CB3055EDAAD72E848",
+      "coupon_code": "AB6CB3055EDAAD72E848",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5952512_8382.jpg",
+      "title": "Professional Certificate in Career Coaching"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-coaching/?couponCode=F277695D4019F4207C80",
+      "coupon_code": "F277695D4019F4207C80",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5952498_ce24.jpg",
+      "title": "Professional Certificate in Coaching"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-mortgage-and-lending-broker/?couponCode=9F739EE0836692A1EAB5",
+      "coupon_code": "9F739EE0836692A1EAB5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5953608_4713.jpg",
+      "title": "Professional Diploma of Mortgage and Lending Broker"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ethical-hacking-pentest-for-hackers-scripting-basics/?couponCode=6E341A119DB2D233CCAB",
+      "coupon_code": "6E341A119DB2D233CCAB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6934389_b44a_2.jpg",
+      "title": "Python Ethical Hacking Pentest for Hackers Scripting Basics"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-marketing-mastery-2025-9-social-ad-platforms/?couponCode=5DE633BE46A2EAFDF4D7",
+      "coupon_code": "5DE633BE46A2EAFDF4D7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6634739_49f7.jpg",
+      "title": "Social Media Marketing MASTERY 2026 + 9 Social Ad Platforms!"
+    },
+    {
+      "url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/?couponCode=F7186BCE3277AA9FF291",
+      "coupon_code": "F7186BCE3277AA9FF291",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg",
+      "title": "Unleash Your Full Potential: Learn English Now!"
+    },
+    {
+      "url": "https://www.udemy.com/course/youtuber-university-2026-solo-organic-youtube-channel-build/?couponCode=2E98CE6BCE6FB25504A3",
+      "coupon_code": "2E98CE6BCE6FB25504A3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6789527_c77e_3.jpg",
+      "title": "Youtuber University 2026: Solo Organic Youtube Channel Build"
+    },
+    {
       "url": "https://www.udemy.com/course/amazon-afiliados-como-crear-una-pagina-web-de-nicho/?couponCode=PWN-GR59",
       "coupon_code": "PWN-GR59",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6048071_f079.jpg",
       "title": "Amazon Afiliados: Cómo Crear una Página Web de Nicho 2026"
-    },
-    {
-      "url": "https://www.udemy.com/course/changement-climatique/?couponCode=DA7D37049862DA870B50",
-      "coupon_code": "DA7D37049862DA870B50",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-campana-de-email-marketing-efectiva/?couponCode=EM-GRA56",
@@ -38,26 +117,10 @@
       "title": "Curso Básico de MailerLite: Crea Automatizaciones de Correo"
     },
     {
-      "url": "https://www.udemy.com/course/doughnut-economics-framework/?couponCode=3AFB561AAC15DDF90D00",
-      "coupon_code": "3AFB561AAC15DDF90D00",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6946295_968f.jpg",
-      "title": "The Doughnut Economics"
-    },
-    {
-      "url": "https://www.udemy.com/course/ekbtfcmd/?couponCode=2EC739DD453A1DB9EDD0",
-      "coupon_code": "2EC739DD453A1DB9EDD0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/elementor-ecommerce-hosting-crea-una-tienda-online-con-wordpress/?couponCode=ELECO-GR49",
       "coupon_code": "ELECO-GR49",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6210445_7e35_2.jpg",
       "title": "Elementor Hosting 2026: Crea una Tienda Online con WordPress"
-    },
-    {
-      "url": "https://www.udemy.com/course/executive-certificate-in-business-leadership/?couponCode=4AAC54754A434813D909",
-      "coupon_code": "4AAC54754A434813D909",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/foundational-english-language-skills-course/?couponCode=2AFD33AE3EC4A6D5D248",
@@ -76,18 +139,6 @@
       "coupon_code": "PLWS-GR56",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6076289_555e_3.jpg",
       "title": "Plugins de WordPress Para SiteGround 2026"
-    },
-    {
-      "url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/?couponCode=F7186BCE3277AA9FF291",
-      "coupon_code": "F7186BCE3277AA9FF291",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg",
-      "title": "Unleash Your Full Potential: Learn English Now!"
-    },
-    {
-      "url": "https://www.udemy.com/course/youtuber-university-2026-solo-organic-youtube-channel-build/?couponCode=2E98CE6BCE6FB25504A3",
-      "coupon_code": "2E98CE6BCE6FB25504A3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6789527_c77e_3.jpg",
-      "title": "Youtuber University 2026: Solo Organic Youtube Channel Build"
     },
     {
       "url": "https://www.udemy.com/course/como-usar-el-creador-de-sitios-web-con-ia-de-hostinger/?couponCode=CSW-GR59",
