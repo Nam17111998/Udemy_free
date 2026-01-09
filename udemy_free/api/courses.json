@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-01-09T16:37:55Z",
-  "count": 926,
+  "updated_at": "2026-01-09T17:29:27Z",
+  "count": 941,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=05415DA8C738FA4382C8",
+      "coupon_code": "05415DA8C738FA4382C8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=C1680E94F53F645D3748",
+      "coupon_code": "C1680E94F53F645D3748",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6919079_3c72.jpg",
+      "title": "AGI Systems and Alignment Professional Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/applied-ai-foundations-8-week-professional-course/?couponCode=D852D97898A4B8188B35",
+      "coupon_code": "D852D97898A4B8188B35",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6810199_db56_2.jpg",
+      "title": "Applied AI Foundations: 8-Week Professional Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=FA6251A9DCE830A4B105",
+      "coupon_code": "FA6251A9DCE830A4B105",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6916045_bf00.jpg",
+      "title": "Artificial Intelligence Journey: Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-data-analyst-foundations-course/?couponCode=2C6F411E22F2154F6935",
+      "coupon_code": "2C6F411E22F2154F6935",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6758921_a291.jpg",
+      "title": "Certified Data Analyst Foundations Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-data-engineering-foundation-course/?couponCode=BF936AB047EA4D7E10A6",
+      "coupon_code": "BF936AB047EA4D7E10A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6766877_f8b6_4.jpg",
+      "title": "Data Engineer Foundations: Build Modern Data Systems"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/?couponCode=90B1C7D5EAFB85E2D8C2",
+      "coupon_code": "90B1C7D5EAFB85E2D8C2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891327_151d_2.jpg",
+      "title": "Complete RAG Bootcamp: Build, Optimize, and Deploy AI Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-science-ai-mastery-100-days-to-career-success/?couponCode=8337D258D15C0C9C179B",
+      "coupon_code": "8337D258D15C0C9C179B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818091_ce55_3.jpg",
+      "title": "Data Science & AI Mastery: 100 Days to Career Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-science-ai-mastery-from-basics-to-deployment/?couponCode=E52F944230055B83631C",
+      "coupon_code": "E52F944230055B83631C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6824767_6877_2.jpg",
+      "title": "Data Science & AI Mastery: From Basics to Deployment"
+    },
+    {
+      "url": "https://www.udemy.com/course/deep-learning-specialization-advanced-ai-architectures/?couponCode=1FC05A86258E92DD9AC9",
+      "coupon_code": "1FC05A86258E92DD9AC9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6785809_5f88_2.jpg",
+      "title": "Deep Learning Specialization: Advanced AI, Hands on Lab"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-engineering-with-openai-anthropic/?couponCode=C936D1450E4BA44BB858",
+      "coupon_code": "C936D1450E4BA44BB858",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6901057_e04e.jpg",
+      "title": "Generative AI Engineering with OpenAI, Anthropic"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-llms-foundations-from-basics-to-application/?couponCode=424F74E56D03A262BCB0",
+      "coupon_code": "424F74E56D03A262BCB0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6797231_ab5d_2.jpg",
+      "title": "Generative AI & LLMs Foundations: From Basics to Application"
+    },
+    {
+      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=JANUARY_FREE_2026",
+      "coupon_code": "JANUARY_FREE_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6949313_7782_4.jpg",
+      "title": "Language Learning with AI: Practical Skills Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-ai-foundations-course/?couponCode=4140BA2FEE6FF4A217AF",
+      "coupon_code": "4140BA2FEE6FF4A217AF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6777123_c064_2.jpg",
+      "title": "Machine Learning & AI Foundations Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/neural-signal-processing-applied-ai/?couponCode=21B43186ECF6BC246641",
+      "coupon_code": "21B43186ECF6BC246641",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6956873_96bb.jpg",
+      "title": "Neural Signal Processing & Applied AI"
+    },
     {
       "url": "https://www.udemy.com/course/become-a-certified-people-partner-your-path-to-a-rewarding/?couponCode=PAPAHR_JAN_09",
       "coupon_code": "PAPAHR_JAN_09",
@@ -17,7 +106,8 @@
     {
       "url": "https://www.udemy.com/course/certificate-in-business-and-operations-management-excellence/?couponCode=08E0790CD9B256441AD7",
       "coupon_code": "08E0790CD9B256441AD7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6248035_c1c7.jpg",
+      "title": "Certificate in Business & Operations Management Excellence"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-hr-and-recruiters-12-academic-hours-200-tools/?couponCode=PAPAHR_JAN_09",
@@ -46,12 +136,14 @@
     {
       "url": "https://www.udemy.com/course/fleet-management-step-by-step-p/?couponCode=5E04DAB6CCC90483CF88",
       "coupon_code": "5E04DAB6CCC90483CF88",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6801369_de8e.jpg",
+      "title": "Fleet Management Step By Step"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-and-artificial-intelligence-ai-for-leaders/?couponCode=AF8024863AB9C0A2F9E3",
       "coupon_code": "AF8024863AB9C0A2F9E3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6247569_39b6_2.jpg",
+      "title": "Generative AI and Artificial Intelligence (AI) for Leaders"
     },
     {
       "url": "https://www.udemy.com/course/javascript-for-beginners-complete-course/?couponCode=BE847A8F7FE38C2681D5",
@@ -62,7 +154,8 @@
     {
       "url": "https://www.udemy.com/course/learn-canva-from-basic-to-advanced-and-earn-money-in-2025/?couponCode=BFB3AAA044A50AEB8889",
       "coupon_code": "BFB3AAA044A50AEB8889",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407183_634a_2.jpg",
+      "title": "Learn Canva from Basic to Advanced and Earn Money in 2025"
     },
     {
       "url": "https://www.udemy.com/course/master-stress-management-build-resilient-workplaces/?couponCode=PAPAHR_JAN_09",
@@ -73,12 +166,14 @@
     {
       "url": "https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=LEARNIN2026",
       "coupon_code": "LEARNIN2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5677236_c927_5.jpg",
+      "title": "Kali Linux for Ethical Hackers"
     },
     {
       "url": "https://www.udemy.com/course/practical-malware-analysis-for-beginners/?couponCode=778045230EF5CCE1C65C",
       "coupon_code": "778045230EF5CCE1C65C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5410060_1c96.jpg",
+      "title": "Practical Malware Analysis for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/wastewater-treatment-explained/?couponCode=B051B9669387F53E8D76",
