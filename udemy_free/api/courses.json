@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-01-09T07:32:35Z",
-  "count": 970,
+  "updated_at": "2026-01-09T08:40:05Z",
+  "count": 971,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=805E498228CB00E8253D",
+      "coupon_code": "805E498228CB00E8253D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6194967_151b.jpg",
+      "title": "Advanced Program in Business and Entrepreneurship"
+    },
     {
       "url": "https://www.udemy.com/course/canva-social-media-video-editing-masterclass-edit-like-a-pro/?couponCode=6AC6C1BFEA65AB15C8BD",
       "coupon_code": "6AC6C1BFEA65AB15C8BD",
@@ -23,7 +29,8 @@
     {
       "url": "https://www.udemy.com/course/certificate-of-leadership-excellence-in-business-management/?couponCode=D8F854A370DEB5F8E789",
       "coupon_code": "D8F854A370DEB5F8E789",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180625_ba83.jpg",
+      "title": "Certificate of Leadership Excellence in Business Management"
     },
     {
       "url": "https://www.udemy.com/course/complete-capcut-for-social-media-video-editing-masterclass/?couponCode=495ED80B84CC7F468C19",
@@ -68,12 +75,6 @@
       "title": "Microsoft PowerPoint School to Corporate : Basic to Advance"
     },
     {
-      "url": "https://www.udemy.com/course/olympic-games-analytics-project-in-apache-spark-for-beginner/?couponCode=93B9C1CA14415848AFED",
-      "coupon_code": "93B9C1CA14415848AFED",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/2281524_7ac1.jpg",
-      "title": "Olympic Games Analytics Project in Apache Spark for beginner"
-    },
-    {
       "url": "https://www.udemy.com/course/practical-osint/?couponCode=FB0C13A5841882F6CD7A",
       "coupon_code": "FB0C13A5841882F6CD7A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5045846_fc5f_2.jpg",
@@ -90,6 +91,12 @@
       "coupon_code": "DACE3BF0FE18515D0F8D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4831684_ddc6.jpg",
       "title": "Write Article Content for SEO and Affiliate Marketing Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/olympic-games-analytics-project-in-apache-spark-for-beginner/?couponCode=93B9C1CA14415848AFED",
+      "coupon_code": "93B9C1CA14415848AFED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2281524_7ac1.jpg",
+      "title": "Olympic Games Analytics Project in Apache Spark for beginner"
     },
     {
       "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=384D18305162AC87A8F3",
