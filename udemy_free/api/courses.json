@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-09T04:05:52Z",
-  "count": 949,
+  "updated_at": "2026-01-09T05:33:30Z",
+  "count": 957,
   "courses": [
     {
       "url": "https://www.udemy.com/course/anti-corruption-and-anti-bribery/?couponCode=9E994558DC7FC4F90600",
@@ -9,10 +9,22 @@
       "title": "Anti-Corruption and Anti-Bribery Training for Professionals"
     },
     {
-      "url": "https://www.udemy.com/course/business-english-in-hindi/?couponCode=B95DF55103302F8B7E0A",
-      "coupon_code": "B95DF55103302F8B7E0A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6332041_7fe8.jpg",
-      "title": "Business English for Hindi-Speaking Professionals"
+      "url": "https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=9B4614FF9366307C75D4",
+      "coupon_code": "9B4614FF9366307C75D4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6142065_e635.jpg",
+      "title": "Business & Science Method, Analysis & Research Methodologies"
+    },
+    {
+      "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=384D18305162AC87A8F3",
+      "coupon_code": "384D18305162AC87A8F3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-the-complete-guide-to-css-zero-to-hero/?couponCode=1AE1B4FEB6231492878B",
+      "coupon_code": "1AE1B4FEB6231492878B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636428_79ca_2.jpg",
+      "title": "CSS - The Complete Guide to CSS for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/cybersecurity-ai-safety-awareness/?couponCode=AD76949EAE0D01E7FBBB",
@@ -25,6 +37,66 @@
       "coupon_code": "81B6AFE83D6594FBFEC6",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6876481_ea6f_3.jpg",
       "title": "Data Security in the age of Generative AI in the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-digital-transformation/?couponCode=C696A22EE29B3614D267",
+      "coupon_code": "C696A22EE29B3614D267",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6156323_644d_2.jpg",
+      "title": "Executive Certificate in Digital Transformation"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-git-in-less-than-3-hours/?couponCode=E90C89B23CF3AE629584",
+      "coupon_code": "E90C89B23CF3AE629584",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6889341_a1b5_9.jpg",
+      "title": "Learn Git & GitHub for Beginners Practical Workflow (2026)"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-hr-generative-ai/?couponCode=C793C3488D6FA507BA47",
+      "coupon_code": "C793C3488D6FA507BA47",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6249369_d210_4.jpg",
+      "title": "Modern HR: Generative AI, AI and Data Analysis in HR"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-posh/?couponCode=731B5FB243AF89EFA5B8",
+      "coupon_code": "731B5FB243AF89EFA5B8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6986823_9c1d_3.jpg",
+      "title": "Modern POSH: Prevent Digital & Workplace Sexual Harassment"
+    },
+    {
+      "url": "https://www.udemy.com/course/olympic-games-analytics-project-in-apache-spark-for-beginner/?couponCode=93B9C1CA14415848AFED",
+      "coupon_code": "93B9C1CA14415848AFED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2281524_7ac1.jpg",
+      "title": "Olympic Games Analytics Project in Apache Spark for beginner"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=32970FEFB7BE40D6617A",
+      "coupon_code": "32970FEFB7BE40D6617A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636472_7921.jpg",
+      "title": "PHP Master Class - The Complete PHP Developer Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-manager-skillpath/?couponCode=96982C7DAABEA125F4E8",
+      "coupon_code": "96982C7DAABEA125F4E8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6808411_89e6_3.jpg",
+      "title": "Project Manager Skillpath: Agile, Scrum, SAFe® & Jira®"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-mysql-postgresql-mongodb-all-in-one-database-course/?couponCode=38284F599032D73B4986",
+      "coupon_code": "38284F599032D73B4986",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119595_498e.jpg",
+      "title": "SQL, MYSQL, POSTGRESQL & MONGODB: All-in-One Database Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/?couponCode=F206A6CA1474FFF35987",
+      "coupon_code": "F206A6CA1474FFF35987",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5642330_9d84_2.jpg",
+      "title": "The Complete C & C++ Programming Course - Mastering  C & C++"
+    },
+    {
+      "url": "https://www.udemy.com/course/business-english-in-hindi/?couponCode=B95DF55103302F8B7E0A",
+      "coupon_code": "B95DF55103302F8B7E0A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6332041_7fe8.jpg",
+      "title": "Business English for Hindi-Speaking Professionals"
     },
     {
       "url": "https://www.udemy.com/course/developing-business-partnerships/?couponCode=8E7C9EAE945489AB2AAD",
@@ -51,24 +123,6 @@
       "title": "Inclusive Product Development & Design for Product Managers"
     },
     {
-      "url": "https://www.udemy.com/course/learn-git-in-less-than-3-hours/?couponCode=E90C89B23CF3AE629584",
-      "coupon_code": "E90C89B23CF3AE629584",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6889341_a1b5_9.jpg",
-      "title": "Learn Git & GitHub for Beginners Practical Workflow (2026)"
-    },
-    {
-      "url": "https://www.udemy.com/course/modern-hr-generative-ai/?couponCode=C793C3488D6FA507BA47",
-      "coupon_code": "C793C3488D6FA507BA47",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6249369_d210_4.jpg",
-      "title": "Modern HR: Generative AI, AI and Data Analysis in HR"
-    },
-    {
-      "url": "https://www.udemy.com/course/modern-posh/?couponCode=731B5FB243AF89EFA5B8",
-      "coupon_code": "731B5FB243AF89EFA5B8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6986823_9c1d_3.jpg",
-      "title": "Modern POSH: Prevent Digital & Workplace Sexual Harassment"
-    },
-    {
       "url": "https://www.udemy.com/course/product-growth/?couponCode=E58698D74FC68AB40852",
       "coupon_code": "E58698D74FC68AB40852",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6696753_1fdc.jpg",
@@ -79,12 +133,6 @@
       "coupon_code": "ACBE8405916CFC793542",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6510495_508a.jpg",
       "title": "Product Portfolio Management Essentials for Product Managers"
-    },
-    {
-      "url": "https://www.udemy.com/course/project-manager-skillpath/?couponCode=96982C7DAABEA125F4E8",
-      "coupon_code": "96982C7DAABEA125F4E8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6808411_89e6_3.jpg",
-      "title": "Project Manager Skillpath: Agile, Scrum, SAFe® & Jira®"
     },
     {
       "url": "https://www.udemy.com/course/reskilling-organization/?couponCode=7490CA4D4F5517957666",
