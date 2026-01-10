@@ -1,16 +1,18 @@
 {
-  "updated_at": "2026-01-10T18:38:20Z",
-  "count": 967,
+  "updated_at": "2026-01-10T19:21:43Z",
+  "count": 968,
   "courses": [
     {
       "url": "https://www.udemy.com/course/agile-marketing-mastery-implementing-marketing-sprints/?couponCode=DISCUDEMY.COM",
       "coupon_code": "DISCUDEMY.COM",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6525295_2f68.jpg",
+      "title": "Agile Marketing Mastery: Implementing Marketing Sprints"
     },
     {
       "url": "https://www.udemy.com/course/ai-personal-branding-secure-high-paying-jobs-as-a-student/?couponCode=074732C21A17C27D97AF",
       "coupon_code": "074732C21A17C27D97AF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6102055_1441_3.jpg",
+      "title": "AI Personal Branding: Secure High-Paying Jobs as a Student"
     },
     {
       "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=4E269A6628BFF9E17E36",
@@ -21,7 +23,8 @@
     {
       "url": "https://www.udemy.com/course/data-based-decision-making-and-cost-benefit-analysis-cba/?couponCode=0141EDCBEE0C862BC386",
       "coupon_code": "0141EDCBEE0C862BC386",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6477309_e02a_4.jpg",
+      "title": "Data-Driven Decision Making & Cost-Benefit Analysis (CBA)"
     },
     {
       "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_149",
@@ -38,7 +41,14 @@
     {
       "url": "https://www.udemy.com/course/from-basics-to-advanced-data-analysis-using-chatgpt/?couponCode=FBA6D1ED52EA2A45119C",
       "coupon_code": "FBA6D1ED52EA2A45119C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6352815_41b5_3.jpg",
+      "title": "Data Analysis Mastery with ChatGPT and Manus AI Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/market-research-competitive-analysis-executive-certificate/?couponCode=9B9A14BF5301FF63F806",
+      "coupon_code": "9B9A14BF5301FF63F806",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6510181_0ab4_2.jpg",
+      "title": "Market Research & Competitive Analysis Executive Certificate"
     },
     {
       "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_151",
@@ -49,12 +59,14 @@
     {
       "url": "https://www.udemy.com/course/mastering-go-to-market-gtm-a-step-by-step-guide/?couponCode=8C7A2A54633EA8D74614",
       "coupon_code": "8C7A2A54633EA8D74614",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6449343_3376_2.jpg",
+      "title": "Mastering Go-To-Market (GTM): A Step-by-Step Guide"
     },
     {
       "url": "https://www.udemy.com/course/office-politics-step-by-step-f/?couponCode=C7A39416562A7A5B2B4A",
       "coupon_code": "C7A39416562A7A5B2B4A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6803571_e7dd.jpg",
+      "title": "Office Politics Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/python-for-ai/?couponCode=AR_FREE_148",
@@ -75,15 +87,16 @@
       "title": "Python for Scientific Research"
     },
     {
+      "url": "https://www.udemy.com/course/sales-and-service-data-analysis-and-analytics-expert-certificate/?couponCode=4A887831A43B813CE1A1",
+      "coupon_code": "4A887831A43B813CE1A1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6477559_dccd.jpg",
+      "title": "Sales & Service Data Analysis & Analytics Expert Certificate"
+    },
+    {
       "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_155",
       "coupon_code": "AR_FREE_155",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
       "title": "R for Researchers: From Basics to Advanced Analysis"
-    },
-    {
-      "url": "https://www.udemy.com/course/sales-and-service-data-analysis-and-analytics-expert-certificate/?couponCode=4A887831A43B813CE1A1",
-      "coupon_code": "4A887831A43B813CE1A1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_152",
