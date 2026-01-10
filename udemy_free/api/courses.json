@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-01-10T03:59:42Z",
-  "count": 978,
+  "updated_at": "2026-01-10T04:43:38Z",
+  "count": 981,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-certificate-in-customer-experience-management/?couponCode=10CFBE4D7BF86112D3CD",
+      "coupon_code": "10CFBE4D7BF86112D3CD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-risks-in-cybersecurity/?couponCode=E358986703D351A53CEA",
       "coupon_code": "E358986703D351A53CEA",
@@ -25,9 +30,63 @@
       "title": "Excellence in Management Case Analysis using AI Coaching"
     },
     {
+      "url": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=B0374044564B62E56E5B",
+      "coupon_code": "B0374044564B62E56E5B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/google-display-ads-masterclass-2021-all-campaigns-features/?couponCode=54722F25FEC590700EB4",
       "coupon_code": "54722F25FEC590700EB4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4068710_a587_2.jpg",
+      "title": "All-in-One 2026 Course: SEO, Paid Ads, GTM, Web Dev, Content"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-system-administration-with-red-hat-fedora/?couponCode=4EBBF499B64E42C584E0",
+      "coupon_code": "4EBBF499B64E42C584E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6964717_be3d_2.jpg",
+      "title": "Linux System Administration with Red Hat & Fedora"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-sql-and-sql-for-data-analysis/?couponCode=4070B75C912448761438",
+      "coupon_code": "4070B75C912448761438",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6358693_a332.jpg",
+      "title": "Professional Certificate in SQL and SQL for Data Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-methodologies-agile-scrum-and-pmp/?couponCode=BAD61717C1EADC277183",
+      "coupon_code": "BAD61717C1EADC277183",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6362573_2f2e.jpg",
+      "title": "Project Management Methodologies: Agile, Scrum, and PMP"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-all-levels/?couponCode=C2B7346830719B50AE41",
+      "coupon_code": "C2B7346830719B50AE41",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6961271_0971_3.jpg",
+      "title": "Python Course All Levels"
+    },
+    {
+      "url": "https://www.udemy.com/course/rust-programming-language-z/?couponCode=A85055C028A5527F67A2",
+      "coupon_code": "A85055C028A5527F67A2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4289586_9f7a_2.jpg",
+      "title": "Rust Fundamentals and Ecosystem"
+    },
+    {
+      "url": "https://www.udemy.com/course/testgenai/?couponCode=C9741E92291BD415D679",
+      "coupon_code": "C9741E92291BD415D679",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6620523_da1c_2.jpg",
+      "title": "How to test or Evaluate Gen AI, LLM, RAG, Agentic AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-social-media-marketing-2025-master-9-ad-platforms/?couponCode=B3E3938012D97ED92DFB",
+      "coupon_code": "B3E3938012D97ED92DFB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6682739_146d_2.jpg",
+      "title": "Ultimate Social Media Marketing 2026 + Master 9 Ad Platforms"
+    },
+    {
+      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=ADF6E473E980B14FF872",
+      "coupon_code": "ADF6E473E980B14FF872",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
+      "title": "User Interviews & User Onboarding"
     },
     {
       "url": "https://www.udemy.com/course/guesstimates-and-case-interviews-excellence/?couponCode=FDA8EF7BED016241FFE9",
@@ -46,44 +105,6 @@
       "coupon_code": "EEDB1AAD84C9452924B7",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4314450_1511_6.jpg",
       "title": "How to make right career choices & choosing one for success"
-    },
-    {
-      "url": "https://www.udemy.com/course/linux-system-administration-with-red-hat-fedora/?couponCode=4EBBF499B64E42C584E0",
-      "coupon_code": "4EBBF499B64E42C584E0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6964717_be3d_2.jpg",
-      "title": "Linux System Administration with Red Hat & Fedora"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-sql-and-sql-for-data-analysis/?couponCode=4070B75C912448761438",
-      "coupon_code": "4070B75C912448761438",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/project-management-methodologies-agile-scrum-and-pmp/?couponCode=BAD61717C1EADC277183",
-      "coupon_code": "BAD61717C1EADC277183",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-course-all-levels/?couponCode=C2B7346830719B50AE41",
-      "coupon_code": "C2B7346830719B50AE41",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6961271_0971_3.jpg",
-      "title": "Python Course All Levels"
-    },
-    {
-      "url": "https://www.udemy.com/course/rust-programming-language-z/?couponCode=A85055C028A5527F67A2",
-      "coupon_code": "A85055C028A5527F67A2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/testgenai/?couponCode=C9741E92291BD415D679",
-      "coupon_code": "C9741E92291BD415D679",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=ADF6E473E980B14FF872",
-      "coupon_code": "ADF6E473E980B14FF872",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
-      "title": "User Interviews & User Onboarding"
     },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/?couponCode=8A23681A2FF56537D926",
