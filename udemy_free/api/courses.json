@@ -1,11 +1,102 @@
 {
-  "updated_at": "2026-01-10T05:28:56Z",
-  "count": 984,
+  "updated_at": "2026-01-10T06:40:37Z",
+  "count": 999,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-metrics-project-management/?couponCode=BA9E1CD125A4DC7CA2C5",
+      "coupon_code": "BA9E1CD125A4DC7CA2C5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4452188_d653.jpg",
+      "title": "Agile Metrics for Agile Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-project-management-genman/?couponCode=7A83A8B22FC8DBE744CD",
+      "coupon_code": "7A83A8B22FC8DBE744CD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3533698_42a6.jpg",
+      "title": "Agile Project Management: Agile, Scrum, Kanban & XP"
+    },
+    {
+      "url": "https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=78DAA4080C78120F37F4",
+      "coupon_code": "78DAA4080C78120F37F4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3423978_990e.jpg",
+      "title": "Atlassian Confluence A-Z: Confluence for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-management-genman/?couponCode=D196E16ED7E49C00977B",
+      "coupon_code": "D196E16ED7E49C00977B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5591170_5618_2.jpg",
+      "title": "ChatGPT for Product Management & Innovation"
+    },
+    {
+      "url": "https://www.udemy.com/course/diversity-inclusion-unconscious-bias-in-hindi/?couponCode=440E7E769DCC7DB8EC7D",
+      "coupon_code": "440E7E769DCC7DB8EC7D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5953012_bf90_3.jpg",
+      "title": "Diversity, Inclusion & Unconscious Bias in Hindi (हिंदी)"
+    },
+    {
+      "url": "https://www.udemy.com/course/employee-recognition-program/?couponCode=CE483CC04DCC36FD7FA3",
+      "coupon_code": "CE483CC04DCC36FD7FA3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5453786_d980.jpg",
+      "title": "Mastering Employee Recognition: Development & Implementation"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-masterclass-genman/?couponCode=A548690471E27578B7BF",
+      "coupon_code": "A548690471E27578B7BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6206461_cc76_3.jpg",
+      "title": "HR Masterclass: Complete Guide to Human Resource Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/jira-with-atlassian-intelligence-ai-rovo/?couponCode=49A9D1348C9B9F1E7FBB",
+      "coupon_code": "49A9D1348C9B9F1E7FBB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3748046_151c.jpg",
+      "title": "Mastering Jira® with Atlassian® Intelligence (AI) & Rovo®"
+    },
+    {
+      "url": "https://www.udemy.com/course/lean-quality-management-six-sigma-continuous-improvement/?couponCode=8ABE8C901A46A90F77C3",
+      "coupon_code": "8ABE8C901A46A90F77C3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6408335_2e49.jpg",
+      "title": "Lean & Quality Management, Six Sigma, Continuous Improvement"
+    },
+    {
+      "url": "https://www.udemy.com/course/location-inclusive-mindsets-genman-solutions/?couponCode=184DD1689B98BB1723A3",
+      "coupon_code": "184DD1689B98BB1723A3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6113885_eb28.jpg",
+      "title": "Location-Inclusive Mindsets: For Leaders, Managers, and HR"
+    },
+    {
+      "url": "https://www.udemy.com/course/non-tech-product-management/?couponCode=723BF80EE873EE03098D",
+      "coupon_code": "723BF80EE873EE03098D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5120564_52a9.jpg",
+      "title": "Product Management Masterclass for Business Professionals"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-management-product-ownership-in-hindi/?couponCode=73400CC2F3F4EFEA918C",
+      "coupon_code": "73400CC2F3F4EFEA918C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5620834_2128_2.jpg",
+      "title": "Product Management & Product Ownership in Hindi (हिंदी)"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-basics-genman/?couponCode=AE0FC2F47E6E3939874E",
+      "coupon_code": "AE0FC2F47E6E3939874E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5842382_a796.jpg",
+      "title": "Project Management Basics for Non-Project Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-managers-project-sponsors/?couponCode=4DB508C570AFFE1E353D",
+      "coupon_code": "4DB508C570AFFE1E353D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5951368_aeb9_2.jpg",
+      "title": "Working with Project Managers & Project Sponsors"
+    },
+    {
+      "url": "https://www.udemy.com/course/scaled-agile-framework-safe-genman/?couponCode=92DECF0C860592CB9672",
+      "coupon_code": "92DECF0C860592CB9672",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5761916_f2d4_2.jpg",
+      "title": "Introduction to Scaled Agile Framework® (Latest SAFe® 6.0)"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-customer-experience-management/?couponCode=10CFBE4D7BF86112D3CD",
       "coupon_code": "10CFBE4D7BF86112D3CD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6362575_6b46_2.jpg",
+      "title": "Advanced Certificate in Customer Experience Management"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-risks-in-cybersecurity/?couponCode=E358986703D351A53CEA",
@@ -16,32 +107,38 @@
     {
       "url": "https://www.udemy.com/course/chatgpt-midjourney-23-proven-methods-to-earn-with-ai/?couponCode=5EDA5A8D19AF77277966",
       "coupon_code": "5EDA5A8D19AF77277966",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6158605_c6df_2.jpg",
+      "title": "Master AI Tools in 2026: ChatGPT, Midjourney, Gemini Firefly"
     },
     {
       "url": "https://www.udemy.com/course/clojures-core-syntax/?couponCode=F54E361F65733F382165",
       "coupon_code": "F54E361F65733F382165",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3307992_db17.jpg",
+      "title": "Clojure in Depth"
     },
     {
       "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=BDA873C796B94043876C",
       "coupon_code": "BDA873C796B94043876C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4202336_b8f3_5.jpg",
+      "title": "Object Oriented Programming in C++"
     },
     {
       "url": "https://www.udemy.com/course/data-quality-data-management-data-governance-certificate/?couponCode=D50BCC9E50D9B0A84DA6",
       "coupon_code": "D50BCC9E50D9B0A84DA6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6406727_798e.jpg",
+      "title": "Data Quality, Data Management & Data Governance Certificate"
     },
     {
       "url": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=B0374044564B62E56E5B",
       "coupon_code": "B0374044564B62E56E5B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3407178_5bd8_3.jpg",
+      "title": "Python And Flask Framework Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/google-ads-free-course-2021-campaign-creations/?couponCode=400D92BA29E99371B475",
       "coupon_code": "400D92BA29E99371B475",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2875568_d521_6.jpg",
+      "title": "Master 11 Ads Platforms in 1 Course 2026: Paid Advertising!"
     },
     {
       "url": "https://www.udemy.com/course/google-display-ads-masterclass-2021-all-campaigns-features/?couponCode=54722F25FEC590700EB4",
