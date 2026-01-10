@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-01-10T02:10:42Z",
-  "count": 971,
+  "updated_at": "2026-01-10T03:59:42Z",
+  "count": 978,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/?couponCode=8A23681A2FF56537D926",
-      "coupon_code": "8A23681A2FF56537D926",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6319245_fb69.jpg",
-      "title": "Advanced Certificate in Program and Project Management"
-    },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-risks-in-cybersecurity/?couponCode=E358986703D351A53CEA",
       "coupon_code": "E358986703D351A53CEA",
@@ -15,10 +9,14 @@
       "title": "Artificial Intelligence Risks in Cybersecurity"
     },
     {
-      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=236DC2E8024D664E8A66",
-      "coupon_code": "236DC2E8024D664E8A66",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5032410_a449.jpg",
-      "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
+      "url": "https://www.udemy.com/course/chatgpt-midjourney-23-proven-methods-to-earn-with-ai/?couponCode=5EDA5A8D19AF77277966",
+      "coupon_code": "5EDA5A8D19AF77277966",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=BDA873C796B94043876C",
+      "coupon_code": "BDA873C796B94043876C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-management-case-analysis/?couponCode=903D62226C5DEF87EBC6",
@@ -27,10 +25,9 @@
       "title": "Excellence in Management Case Analysis using AI Coaching"
     },
     {
-      "url": "https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/?couponCode=9E2F2A7000EF56A81CFA",
-      "coupon_code": "9E2F2A7000EF56A81CFA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6336195_214a.jpg",
-      "title": "Gestão de Empresas e Empreendedorismo"
+      "url": "https://www.udemy.com/course/google-display-ads-masterclass-2021-all-campaigns-features/?couponCode=54722F25FEC590700EB4",
+      "coupon_code": "54722F25FEC590700EB4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/guesstimates-and-case-interviews-excellence/?couponCode=FDA8EF7BED016241FFE9",
@@ -43,6 +40,68 @@
       "coupon_code": "3A2236E25C607D30355C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4285624_64ed_4.jpg",
       "title": "How to prepare for job interview and get the job you want!"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-in-69-mins-how-to-make-right-career-choices/?couponCode=EEDB1AAD84C9452924B7",
+      "coupon_code": "EEDB1AAD84C9452924B7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4314450_1511_6.jpg",
+      "title": "How to make right career choices & choosing one for success"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-system-administration-with-red-hat-fedora/?couponCode=4EBBF499B64E42C584E0",
+      "coupon_code": "4EBBF499B64E42C584E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6964717_be3d_2.jpg",
+      "title": "Linux System Administration with Red Hat & Fedora"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-sql-and-sql-for-data-analysis/?couponCode=4070B75C912448761438",
+      "coupon_code": "4070B75C912448761438",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-methodologies-agile-scrum-and-pmp/?couponCode=BAD61717C1EADC277183",
+      "coupon_code": "BAD61717C1EADC277183",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-all-levels/?couponCode=C2B7346830719B50AE41",
+      "coupon_code": "C2B7346830719B50AE41",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6961271_0971_3.jpg",
+      "title": "Python Course All Levels"
+    },
+    {
+      "url": "https://www.udemy.com/course/rust-programming-language-z/?couponCode=A85055C028A5527F67A2",
+      "coupon_code": "A85055C028A5527F67A2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/testgenai/?couponCode=C9741E92291BD415D679",
+      "coupon_code": "C9741E92291BD415D679",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=ADF6E473E980B14FF872",
+      "coupon_code": "ADF6E473E980B14FF872",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
+      "title": "User Interviews & User Onboarding"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/?couponCode=8A23681A2FF56537D926",
+      "coupon_code": "8A23681A2FF56537D926",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6319245_fb69.jpg",
+      "title": "Advanced Certificate in Program and Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=236DC2E8024D664E8A66",
+      "coupon_code": "236DC2E8024D664E8A66",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5032410_a449.jpg",
+      "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/?couponCode=9E2F2A7000EF56A81CFA",
+      "coupon_code": "9E2F2A7000EF56A81CFA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6336195_214a.jpg",
+      "title": "Gestão de Empresas e Empreendedorismo"
     },
     {
       "url": "https://www.udemy.com/course/how-to-get-calls-for-an-interview-for-a-desired-role/?couponCode=A478A1224A0F4AAB1D09",
@@ -63,34 +122,10 @@
       "title": "Inteligencia Artificial y Herramientas TIC para Docentes"
     },
     {
-      "url": "https://www.udemy.com/course/learn-in-69-mins-how-to-make-right-career-choices/?couponCode=EEDB1AAD84C9452924B7",
-      "coupon_code": "EEDB1AAD84C9452924B7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4314450_1511_6.jpg",
-      "title": "How to make right career choices & choosing one for success"
-    },
-    {
-      "url": "https://www.udemy.com/course/linux-system-administration-with-red-hat-fedora/?couponCode=4EBBF499B64E42C584E0",
-      "coupon_code": "4EBBF499B64E42C584E0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6964717_be3d_2.jpg",
-      "title": "Linux System Administration with Red Hat & Fedora"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-course-all-levels/?couponCode=C2B7346830719B50AE41",
-      "coupon_code": "C2B7346830719B50AE41",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6961271_0971_3.jpg",
-      "title": "Python Course All Levels"
-    },
-    {
       "url": "https://www.udemy.com/course/retoqueconia/?couponCode=8591CC5C5863AD1AAF2D",
       "coupon_code": "8591CC5C5863AD1AAF2D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6421653_343e_3.jpg",
       "title": "Photoshop y Evoto  Ultra Retoque con inteligencia artificial"
-    },
-    {
-      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=ADF6E473E980B14FF872",
-      "coupon_code": "ADF6E473E980B14FF872",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
-      "title": "User Interviews & User Onboarding"
     },
     {
       "url": "https://www.udemy.com/course/adapting-to-global-disruptions-in-operations-a/?couponCode=BCD3A0DFDE5AD761BACF",
