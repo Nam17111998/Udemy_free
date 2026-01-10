@@ -1,12 +1,17 @@
 {
-  "updated_at": "2026-01-10T16:33:46Z",
-  "count": 960,
+  "updated_at": "2026-01-10T17:24:28Z",
+  "count": 962,
   "courses": [
     {
       "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_152",
       "coupon_code": "AR_FREE_152",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
       "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-based-decision-making-and-cost-benefit-analysis-cba/?couponCode=0141EDCBEE0C862BC386",
+      "coupon_code": "0141EDCBEE0C862BC386",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_149",
@@ -21,12 +26,6 @@
       "title": "Essentials for PyQGIS: Python for Geospatial Automation"
     },
     {
-      "url": "https://www.udemy.com/course/expert-certificate-marketing-data-analysis-data-analytics/?couponCode=EAFCECA44CD799AF9635",
-      "coupon_code": "EAFCECA44CD799AF9635",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6461631_bbce_3.jpg",
-      "title": "Expert Certificate: Marketing Data Analysis & Data Analytics"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_151",
       "coupon_code": "AR_FREE_151",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
@@ -39,10 +38,9 @@
       "title": "Metasploit from Scratch: Beginner to Professional"
     },
     {
-      "url": "https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?couponCode=E3616F6E4CB6EA3DCF5F",
-      "coupon_code": "E3616F6E4CB6EA3DCF5F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6106075_a530_2.jpg",
-      "title": "NMAP Mastery: Ultimate Guide to Network Scanning"
+      "url": "https://www.udemy.com/course/office-politics-step-by-step-f/?couponCode=C7A39416562A7A5B2B4A",
+      "coupon_code": "C7A39416562A7A5B2B4A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_153",
@@ -91,6 +89,18 @@
       "coupon_code": "20F8C5E01449CCE54009",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5687670_7496_2.jpg",
       "title": "Windows Command Mastery for Ethical Hackers"
+    },
+    {
+      "url": "https://www.udemy.com/course/expert-certificate-marketing-data-analysis-data-analytics/?couponCode=EAFCECA44CD799AF9635",
+      "coupon_code": "EAFCECA44CD799AF9635",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6461631_bbce_3.jpg",
+      "title": "Expert Certificate: Marketing Data Analysis & Data Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?couponCode=E3616F6E4CB6EA3DCF5F",
+      "coupon_code": "E3616F6E4CB6EA3DCF5F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6106075_a530_2.jpg",
+      "title": "NMAP Mastery: Ultimate Guide to Network Scanning"
     },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-business-marketing-strategy/?couponCode=962F2DFA19A7B207D764",
