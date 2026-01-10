@@ -1,12 +1,22 @@
 {
-  "updated_at": "2026-01-10T17:24:28Z",
-  "count": 962,
+  "updated_at": "2026-01-10T18:38:20Z",
+  "count": 967,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_152",
-      "coupon_code": "AR_FREE_152",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
-      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+      "url": "https://www.udemy.com/course/agile-marketing-mastery-implementing-marketing-sprints/?couponCode=DISCUDEMY.COM",
+      "coupon_code": "DISCUDEMY.COM",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-personal-branding-secure-high-paying-jobs-as-a-student/?couponCode=074732C21A17C27D97AF",
+      "coupon_code": "074732C21A17C27D97AF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=4E269A6628BFF9E17E36",
+      "coupon_code": "4E269A6628BFF9E17E36",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5377010_fb30_4.jpg",
+      "title": "Build a Robust RESTful API with PHP 8, from Scratch!"
     },
     {
       "url": "https://www.udemy.com/course/data-based-decision-making-and-cost-benefit-analysis-cba/?couponCode=0141EDCBEE0C862BC386",
@@ -26,27 +36,25 @@
       "title": "Essentials for PyQGIS: Python for Geospatial Automation"
     },
     {
+      "url": "https://www.udemy.com/course/from-basics-to-advanced-data-analysis-using-chatgpt/?couponCode=FBA6D1ED52EA2A45119C",
+      "coupon_code": "FBA6D1ED52EA2A45119C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_151",
       "coupon_code": "AR_FREE_151",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
       "title": "Django Essentials: Build and Deploy Real-World Apps"
     },
     {
-      "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=2267441369C84F6FD678",
-      "coupon_code": "2267441369C84F6FD678",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5981806_11d8_2.jpg",
-      "title": "Metasploit from Scratch: Beginner to Professional"
+      "url": "https://www.udemy.com/course/mastering-go-to-market-gtm-a-step-by-step-guide/?couponCode=8C7A2A54633EA8D74614",
+      "coupon_code": "8C7A2A54633EA8D74614",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/office-politics-step-by-step-f/?couponCode=C7A39416562A7A5B2B4A",
       "coupon_code": "C7A39416562A7A5B2B4A",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_153",
-      "coupon_code": "AR_FREE_153",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
-      "title": "Programming for Scientific Research with Python and R"
     },
     {
       "url": "https://www.udemy.com/course/python-for-ai/?couponCode=AR_FREE_148",
@@ -71,6 +79,29 @@
       "coupon_code": "AR_FREE_155",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
       "title": "R for Researchers: From Basics to Advanced Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/sales-and-service-data-analysis-and-analytics-expert-certificate/?couponCode=4A887831A43B813CE1A1",
+      "coupon_code": "4A887831A43B813CE1A1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_152",
+      "coupon_code": "AR_FREE_152",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
+      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=2267441369C84F6FD678",
+      "coupon_code": "2267441369C84F6FD678",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5981806_11d8_2.jpg",
+      "title": "Metasploit from Scratch: Beginner to Professional"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_153",
+      "coupon_code": "AR_FREE_153",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
+      "title": "Programming for Scientific Research with Python and R"
     },
     {
       "url": "https://www.udemy.com/course/the-beginners-guide-to-bash-scripting-and-automation/?couponCode=4FCE89F98610FC115E37",
@@ -1379,12 +1410,6 @@
       "coupon_code": "7490CA4D4F5517957666",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6303859_d617.jpg",
       "title": "Reskilling Your Organization: Build a Future-Ready Workforce"
-    },
-    {
-      "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=4E269A6628BFF9E17E36",
-      "coupon_code": "4E269A6628BFF9E17E36",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5377010_fb30_4.jpg",
-      "title": "Build a Robust RESTful API with PHP 8, from Scratch!"
     },
     {
       "url": "https://www.udemy.com/course/certificado-profissional-em-lideranca-e-gestao/?couponCode=D5B7913F9B143043FDCD",
