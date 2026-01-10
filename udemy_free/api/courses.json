@@ -1,12 +1,96 @@
 {
-  "updated_at": "2026-01-10T10:28:19Z",
-  "count": 923,
+  "updated_at": "2026-01-10T11:23:19Z",
+  "count": 933,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-cc-principal-essential-course-for-beginners/?couponCode=BE0E9C565B7BA28EE7C2",
+      "coupon_code": "BE0E9C565B7BA28EE7C2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3361030_7ccc_9.jpg",
+      "title": "Adobe Photoshop CC Fundamentals and Essentials Training"
+    },
     {
       "url": "https://www.udemy.com/course/ai-powered-product-marketing-and-market-research/?couponCode=7974966EA99D3A02AF79",
       "coupon_code": "7974966EA99D3A02AF79",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6429141_259b_3.jpg",
       "title": "AI-Powered Product Marketing and Market Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/art-gallery-management-mastery-course/?couponCode=20C0E4B724B4D42F9658",
+      "coupon_code": "20C0E4B724B4D42F9658",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6020592_4cfd_8.jpg",
+      "title": "Art Gallery Management for Absolute Beginners in 30 minutes"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-adobe-photoshop-free-photoshop-crash-course/?couponCode=91AEB7F96EB87B32796D",
+      "coupon_code": "91AEB7F96EB87B32796D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3444190_c544.jpg",
+      "title": "Adobe Photoshop CC Crash Course Learn Photoshop In Two Hour"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-git-in-less-than-3-hours/?couponCode=BE540901B14A5858C9BF",
+      "coupon_code": "BE540901B14A5858C9BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6889341_a1b5_9.jpg",
+      "title": "Learn Git & GitHub for Beginners Practical Workflow (2026)"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-graphic-design-using-ai-canva-gemini-and-grok-imagine/?couponCode=3B8CC2016C1E320A3F4B",
+      "coupon_code": "3B8CC2016C1E320A3F4B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6884715_005e.jpg",
+      "title": "Learn Graphic Design Using AI Canva Gemini and Grok Imagine"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-ms-word-excel-powerpoint-and-google-doc-google-sheets/?couponCode=115B72E8E1584BFAD626",
+      "coupon_code": "115B72E8E1584BFAD626",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935723_651e.jpg",
+      "title": "Master MS Word Excel PowerPoint and Google Doc Google Sheets"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-specialist-microsoft-excel-advanced-expert/?couponCode=760A83B77B317C454B9C",
+      "coupon_code": "760A83B77B317C454B9C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6422925_7726_2.jpg",
+      "title": "Microsoft Office Specialist: Microsoft Excel Advanced Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-office-automation-masterclass-word-excel-powerpoint/?couponCode=5F1047F7B8EE8BD5D05A",
+      "coupon_code": "5F1047F7B8EE8BD5D05A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6997639_b1e3.jpg",
+      "title": "MS Office Automation MasterClass Word Excel PowerPoint"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2022-build-php-and-mysql-projects/?couponCode=PHPMYSQLPROJECTS68",
+      "coupon_code": "PHPMYSQLPROJECTS68",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4931232_fc3a.jpg",
+      "title": "PHP with MySQL: Build 8 PHP and MySQL Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-based-python-create-8-powerful-tools-step-by-step/?couponCode=701310DA656DDF137536",
+      "coupon_code": "701310DA656DDF137536",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6829705_e830_2.jpg",
+      "title": "Project Based Python Create 8 Powerful Tools Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-and-php-essentials-complete-coding-bootcamp/?couponCode=8C4B55447F8C171C1B6F",
+      "coupon_code": "8C4B55447F8C171C1B6F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6150957_d964_3.jpg",
+      "title": "Python, Java and PHP Essentials: Complete Coding Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/uiux-design-masterclass-with-adobe-xd-from-beginner-to-pro/?couponCode=97FFC24CF04AB3D2B2D5",
+      "coupon_code": "97FFC24CF04AB3D2B2D5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860254_4378.jpg",
+      "title": "UI/UX Design Masterclass with Adobe XD: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/?couponCode=B623F68593E7D824EF1B",
+      "coupon_code": "B623F68593E7D824EF1B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3406388_848f_4.jpg",
+      "title": "Ultimate Adobe Photoshop CC Masterclass Basics To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-freelancing-course-from-beginner-to-expert-success/?couponCode=D030F9F37D225CB96996",
+      "coupon_code": "D030F9F37D225CB96996",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6222597_b766_2.jpg",
+      "title": "Ultimate Freelancing Course From Beginner to  Expert Success"
     },
     {
       "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=CD739AA8FE4E4F41959D",
@@ -45,28 +129,10 @@
       "title": "JavaScript, jQuery & TypeScript: Full-Stack Web Development"
     },
     {
-      "url": "https://www.udemy.com/course/learn-git-in-less-than-3-hours/?couponCode=BE540901B14A5858C9BF",
-      "coupon_code": "BE540901B14A5858C9BF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6889341_a1b5_9.jpg",
-      "title": "Learn Git & GitHub for Beginners Practical Workflow (2026)"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-office-specialist-microsoft-excel-advanced-expert/?couponCode=760A83B77B317C454B9C",
-      "coupon_code": "760A83B77B317C454B9C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6422925_7726_2.jpg",
-      "title": "Microsoft Office Specialist: Microsoft Excel Advanced Expert"
-    },
-    {
       "url": "https://www.udemy.com/course/pharmacovigilance-course/?couponCode=7E92EF8D4F9C26C8877F",
       "coupon_code": "7E92EF8D4F9C26C8877F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5521094_9c66.jpg",
       "title": "Pharmacovigilance Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/php-with-mysql-2022-build-php-and-mysql-projects/?couponCode=PHPMYSQLPROJECTS68",
-      "coupon_code": "PHPMYSQLPROJECTS68",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4931232_fc3a.jpg",
-      "title": "PHP with MySQL: Build 8 PHP and MySQL Projects"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-risk-management/?couponCode=E87E23752A0CD92E3A99",
@@ -79,12 +145,6 @@
       "coupon_code": "BBDCF5453D7DF3AE5EAA",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6432773_21e1.jpg",
       "title": "Master Prompt Engineering: ChatGPT & Gemini—Any AI Tool"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-java-and-php-essentials-complete-coding-bootcamp/?couponCode=8C4B55447F8C171C1B6F",
-      "coupon_code": "8C4B55447F8C171C1B6F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6150957_d964_3.jpg",
-      "title": "Python, Java and PHP Essentials: Complete Coding Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/reactjs-the-complete-reactjs-course-for-beginners/?couponCode=8554DF232048D3BC8231",
