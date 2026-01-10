@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-01-10T15:26:52Z",
-  "count": 945,
+  "updated_at": "2026-01-10T16:33:46Z",
+  "count": 960,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_152",
+      "coupon_code": "AR_FREE_152",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
+      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_149",
+      "coupon_code": "AR_FREE_149",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_150",
+      "coupon_code": "AR_FREE_150",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
+      "title": "Essentials for PyQGIS: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/expert-certificate-marketing-data-analysis-data-analytics/?couponCode=EAFCECA44CD799AF9635",
+      "coupon_code": "EAFCECA44CD799AF9635",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6461631_bbce_3.jpg",
+      "title": "Expert Certificate: Marketing Data Analysis & Data Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_151",
+      "coupon_code": "AR_FREE_151",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
+      "title": "Django Essentials: Build and Deploy Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=2267441369C84F6FD678",
+      "coupon_code": "2267441369C84F6FD678",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5981806_11d8_2.jpg",
+      "title": "Metasploit from Scratch: Beginner to Professional"
+    },
+    {
+      "url": "https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?couponCode=E3616F6E4CB6EA3DCF5F",
+      "coupon_code": "E3616F6E4CB6EA3DCF5F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6106075_a530_2.jpg",
+      "title": "NMAP Mastery: Ultimate Guide to Network Scanning"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_153",
+      "coupon_code": "AR_FREE_153",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
+      "title": "Programming for Scientific Research with Python and R"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-ai/?couponCode=AR_FREE_148",
+      "coupon_code": "AR_FREE_148",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6749075_4cc0.jpg",
+      "title": "Python for AI and Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-gis-automation/?couponCode=AR_FREE_147",
+      "coupon_code": "AR_FREE_147",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6762543_37bf.jpg",
+      "title": "Python for GIS Automation and Geospatial Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_154",
+      "coupon_code": "AR_FREE_154",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
+      "title": "Python for Scientific Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_155",
+      "coupon_code": "AR_FREE_155",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
+      "title": "R for Researchers: From Basics to Advanced Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-beginners-guide-to-bash-scripting-and-automation/?couponCode=4FCE89F98610FC115E37",
+      "coupon_code": "4FCE89F98610FC115E37",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5729506_f6ef_2.jpg",
+      "title": "The Beginner's Guide to Bash Scripting and Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=7153A43C5CD9617DD802",
+      "coupon_code": "7153A43C5CD9617DD802",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5883002_82a3_2.jpg",
+      "title": "Web Hacking For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/windows-command-mastery-for-ethical-hackers/?couponCode=20F8C5E01449CCE54009",
+      "coupon_code": "20F8C5E01449CCE54009",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5687670_7496_2.jpg",
+      "title": "Windows Command Mastery for Ethical Hackers"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-business-marketing-strategy/?couponCode=962F2DFA19A7B207D764",
       "coupon_code": "962F2DFA19A7B207D764",
@@ -29,7 +119,8 @@
     {
       "url": "https://www.udemy.com/course/iso-37001anti-bribery-management-system-abmsstep-by-step/?couponCode=A961B1223D2A3BFBD7F6",
       "coupon_code": "A961B1223D2A3BFBD7F6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6872555_d7f9.jpg",
+      "title": "ISO 37001:Anti-Bribery Management System (ABMS)–Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/java-coding-interview-questions/?couponCode=A2EB856DDFF9FCEABC59",
@@ -82,7 +173,8 @@
     {
       "url": "https://www.udemy.com/course/strategic-market-research-key-methods-for-success/?couponCode=126B6C27C17FCCBF70E5",
       "coupon_code": "126B6C27C17FCCBF70E5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5478212_b9d8_4.jpg",
+      "title": "Market Research: Strategies for Business Decision-Making"
     },
     {
       "url": "https://www.udemy.com/course/transform-your-life-in-5-days-i-challenge-you-to-fail/?couponCode=494293FCEDBDBF4D5299",
