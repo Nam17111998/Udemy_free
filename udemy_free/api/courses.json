@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-01-11T22:27:08Z",
-  "count": 973,
+  "updated_at": "2026-01-11T23:26:14Z",
+  "count": 974,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/business-strategy-and-innovation-frameworks/?couponCode=6641C7C864FE3656D1F4",
+      "coupon_code": "6641C7C864FE3656D1F4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6627259_626f.jpg",
+      "title": "Business Strategy & Innovation Frameworks"
+    },
     {
       "url": "https://www.udemy.com/course/contract-management-step-by-step/?couponCode=59B36A14F733AFFF4B52",
       "coupon_code": "59B36A14F733AFFF4B52",
@@ -51,12 +57,6 @@
       "title": "सीखें WordPress हिन्दी में"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-solidity/?couponCode=86715F2D226578287C9C",
-      "coupon_code": "86715F2D226578287C9C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5519696_6ece_5.jpg",
-      "title": "Mastering Solidity, the Ethereum Programming Language"
-    },
-    {
       "url": "https://www.udemy.com/course/officeadministrationmanagement/?couponCode=1AE0EE9AD01101E3A8CF",
       "coupon_code": "1AE0EE9AD01101E3A8CF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6241035_25ed_3.jpg",
@@ -91,6 +91,12 @@
       "coupon_code": "3CC0BDAB3589913EE832",
       "image_url": "https://img-c.udemycdn.com/course/480x270/1490124_3f2f_2.jpg",
       "title": "Complete Wordpress Website Developer Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-solidity/?couponCode=86715F2D226578287C9C",
+      "coupon_code": "86715F2D226578287C9C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5519696_6ece_5.jpg",
+      "title": "Mastering Solidity, the Ethereum Programming Language"
     },
     {
       "url": "https://www.udemy.com/course/gmat-quantitative-master-course/?couponCode=5F8C78F5122F143F4E67",
