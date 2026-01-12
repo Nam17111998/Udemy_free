@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-01-12T22:26:08Z",
-  "count": 922,
+  "updated_at": "2026-01-12T23:23:22Z",
+  "count": 924,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/a-knowledge-workers-guide-to-focus-and-fulfilment/?couponCode=577C4B802D3645C5530C",
+      "coupon_code": "577C4B802D3645C5530C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/canva-graphics-design-course-for-beginners-non-designers/?couponCode=0E1FE682279D36890050",
       "coupon_code": "0E1FE682279D36890050",
@@ -19,6 +24,12 @@
       "coupon_code": "A0ECAD99D71AC01FE9C0",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4608318_ba6d.jpg",
       "title": "Professional Diploma in Corporate Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=384D18305162AC87A8F3",
+      "coupon_code": "384D18305162AC87A8F3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
     },
     {
       "url": "https://www.udemy.com/course/fire-safety-training-fire-safety-training-complete-course-a-z/?couponCode=3E24A585E8D4D245C0EE",
@@ -51,12 +62,6 @@
       "title": "Executive Diploma in Marketing Management"
     },
     {
-      "url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=196DD97AA8C138D62123",
-      "coupon_code": "196DD97AA8C138D62123",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4740068_c1b7_2.jpg",
-      "title": "Professional Diploma in Omnichannel Sales&Service Management"
-    },
-    {
       "url": "https://www.udemy.com/course/postgraduate-executive-diploma-general-management/?couponCode=327F283568742B794957",
       "coupon_code": "327F283568742B794957",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5152536_8ae8.jpg",
@@ -75,16 +80,27 @@
       "title": "Power BI For Beginners: Power BI Zero to Hero FAST-TRACK"
     },
     {
-      "url": "https://www.udemy.com/course/project-managers/?couponCode=A863B5614DE85FF1C6D7",
-      "coupon_code": "A863B5614DE85FF1C6D7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4606632_2a39.jpg",
-      "title": "Professional Diploma in Project Management"
-    },
-    {
       "url": "https://www.udemy.com/course/securing-the-budget-for-your-project-with-a-winning-pitch-deck/?couponCode=64C7A84F0D9543F6EC4B",
       "coupon_code": "64C7A84F0D9543F6EC4B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5201664_eedb_5.jpg",
       "title": "Executive Diploma in Business Presenting Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/womens-leadership/?couponCode=4F1ACF1657F1284DEBC0",
+      "coupon_code": "4F1ACF1657F1284DEBC0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=196DD97AA8C138D62123",
+      "coupon_code": "196DD97AA8C138D62123",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4740068_c1b7_2.jpg",
+      "title": "Professional Diploma in Omnichannel Sales&Service Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-managers/?couponCode=A863B5614DE85FF1C6D7",
+      "coupon_code": "A863B5614DE85FF1C6D7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4606632_2a39.jpg",
+      "title": "Professional Diploma in Project Management"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-manager-management-skills-for-all-levels/?couponCode=39348DDCC02D6F145E1C",
@@ -2827,12 +2843,6 @@
       "coupon_code": "93B9C1CA14415848AFED",
       "image_url": "https://img-c.udemycdn.com/course/480x270/2281524_7ac1.jpg",
       "title": "Olympic Games Analytics Project in Apache Spark for beginner"
-    },
-    {
-      "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=384D18305162AC87A8F3",
-      "coupon_code": "384D18305162AC87A8F3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
-      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
     },
     {
       "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=32970FEFB7BE40D6617A",
