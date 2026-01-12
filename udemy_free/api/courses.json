@@ -1,46 +1,126 @@
 {
-  "updated_at": "2026-01-12T14:34:06Z",
-  "count": 982,
+  "updated_at": "2026-01-12T15:34:23Z",
+  "count": 991,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-after-effects-cc-master-course-vfx-motion-graphics/?couponCode=822D51DCED90B216F8F0",
       "coupon_code": "822D51DCED90B216F8F0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6836271_0108.jpg",
+      "title": "Adobe After Effects CC Master Course - VFX & Motion Graphics"
+    },
+    {
+      "url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=4E7EFFC13C01649E3B92",
+      "coupon_code": "4E7EFFC13C01649E3B92",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4508686_ba6e.jpg",
+      "title": "Professional Diploma in CRM Platforms Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/cyber-security-anti-virus/?couponCode=HAPPYNY2026",
+      "coupon_code": "HAPPYNY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4801944_235e.jpg",
+      "title": "Cyber Security: Anti-Virus"
+    },
+    {
+      "url": "https://www.udemy.com/course/cyber-security-os-security/?couponCode=HAPPYNY2026",
+      "coupon_code": "HAPPYNY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4800918_ca46.jpg",
+      "title": "Cyber Security: OS Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/deep-reinforcement-learning-using-python/?couponCode=0D1E5F90E863661A45ED",
+      "coupon_code": "0D1E5F90E863661A45ED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4884246_63da.jpg",
+      "title": "Deep Reinforcement Learning using python 2025"
     },
     {
       "url": "https://www.udemy.com/course/digitisation/?couponCode=3122DA288027B2D7F567",
       "coupon_code": "3122DA288027B2D7F567",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4480366_71d4.jpg",
+      "title": "Professional Diploma in Digitalization of Retail Banking"
     },
     {
       "url": "https://www.udemy.com/course/excel-fuer-einsteiger/?couponCode=BEB9CBE5663929C9AAAC",
       "coupon_code": "BEB9CBE5663929C9AAAC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1352432_9449_2.jpg",
+      "title": "Excel Kurs für Einsteiger. Arbeiten mit Excel und Formeln."
+    },
+    {
+      "url": "https://www.udemy.com/course/feature-engineering-for-machine-learning-101/?couponCode=E19D4A4023304269D760",
+      "coupon_code": "E19D4A4023304269D760",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6141171_c75f_3.jpg",
+      "title": "Feature Engineering  For Machine Learning 101"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals1/?couponCode=BF5333BA08507A7A4D5B",
+      "coupon_code": "BF5333BA08507A7A4D5B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6870005_3ae1_2.jpg",
+      "title": "Fundamentals of Marketing and Brand Management Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-training-crash-course-2022/?couponCode=C8D13C66BDFEAFAB47C7",
+      "coupon_code": "C8D13C66BDFEAFAB47C7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4983448_3bd8.jpg",
+      "title": "Java Training Crash Course for Java Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-flutter-complete-guide/?couponCode=402912C30931EED886C2",
+      "coupon_code": "402912C30931EED886C2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5706106_d90c.jpg",
+      "title": "Flutter Masterclass -  (Dart, Api & More)"
+    },
+    {
+      "url": "https://www.udemy.com/course/markstategy/?couponCode=70D5CE7EFE6DA08F8445",
+      "coupon_code": "70D5CE7EFE6DA08F8445",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6977579_6a0d.jpg",
+      "title": "Marketing Strategy Masterclass: Build a Winning Growth Plan"
+    },
+    {
+      "url": "https://www.udemy.com/course/object-detection-from-zero-to-hero/?couponCode=19A23D35174F8363D202",
+      "coupon_code": "19A23D35174F8363D202",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761811_b0ab.jpg",
+      "title": "Object Detection From Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/offensive-security-pathway/?couponCode=1CAC4B18BB8D2EF444DE",
+      "coupon_code": "1CAC4B18BB8D2EF444DE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6510435_d2cc_8.jpg",
+      "title": "Offensive Security Pathway"
+    },
+    {
+      "url": "https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=12THJAN26",
+      "coupon_code": "12THJAN26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4762718_0127_2.jpg",
+      "title": "Self Discipline will Change Your life for GOOD"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
+      "title": "Financial Services - Basics of Business & Corporate Banking"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6611461_d0c7_3.jpg",
+      "title": "Financial Services - Basics of Regulation & Compliance"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6560763_3fe2.jpg",
+      "title": "Financial Services - Funds Flow Optimization Concepts"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
+      "title": "Financial Services - Overview of Retail Banking"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6656207_ffa4.jpg",
+      "title": "Financial Services - Understanding Interest Rates"
     },
     {
       "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=12THJAN26",
@@ -49,29 +129,16 @@
       "title": "Financial Stewardship for Decision Makers and Leaders"
     },
     {
-      "url": "https://www.udemy.com/course/java-training-crash-course-2022/?couponCode=C8D13C66BDFEAFAB47C7",
-      "coupon_code": "C8D13C66BDFEAFAB47C7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/offensive-security-pathway/?couponCode=1CAC4B18BB8D2EF444DE",
-      "coupon_code": "1CAC4B18BB8D2EF444DE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=12THJAN26",
-      "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/sportsmanagement/?couponCode=DECMFREE_13",
       "coupon_code": "DECMFREE_13",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6062405_e1f5.jpg",
+      "title": "Winning Game Plan: Sports Management & Marketing Mastery"
     },
     {
       "url": "https://www.udemy.com/course/virtual-assistants/?couponCode=DECMFREE_15",
       "coupon_code": "DECMFREE_15",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005164_f4b3_3.jpg",
+      "title": "AI Skills and Management for Virtual Assistants (VA's)"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=12THJAN26",
@@ -82,22 +149,26 @@
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
+      "title": "Emotional Intelligence in Leadership"
     },
     {
       "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
+      "title": "Empathy and Emotional Intelligence for Project Managers"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
+      "title": "Financial Services: Introduction to ETFs"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=12THJAN26",
