@@ -1,36 +1,120 @@
 {
-  "updated_at": "2026-01-12T05:36:40Z",
-  "count": 905,
+  "updated_at": "2026-01-12T06:50:21Z",
+  "count": 916,
   "courses": [
     {
       "url": "https://www.udemy.com/course/advanced-supply-chain-master-optimisation-ai-strategies/?couponCode=F109924C84FB5392D458",
       "coupon_code": "F109924C84FB5392D458",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6719791_a520.jpg",
+      "title": "Advanced Supply Chain: Master Optimisation & AI Strategies"
     },
     {
-      "url": "https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/?couponCode=8023E02C794D8EBAFF3B",
-      "coupon_code": "8023E02C794D8EBAFF3B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/ai-digital-marketing-master-seo-ads-sales/?couponCode=4444608AA53153AE1EB9",
+      "coupon_code": "4444608AA53153AE1EB9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6746061_ee3e.jpg",
+      "title": "AI Digital Marketing: Master SEO, Ads & Sales"
     },
     {
-      "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=2746C66E7CA6C54505B6",
-      "coupon_code": "2746C66E7CA6C54505B6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/complete-python-game-development-course-from-zero-to-hero/?couponCode=55DE1DB2DEA222FBB587",
+      "coupon_code": "55DE1DB2DEA222FBB587",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6147203_b67f_3.jpg",
+      "title": "Ultimate Python Game Development 2025  : From Zero To Gamer"
     },
     {
-      "url": "https://www.udemy.com/course/data-science-ai-masters-from-python-to-gen-ai/?couponCode=9D1D07FCDD9DDC9D688C",
-      "coupon_code": "9D1D07FCDD9DDC9D688C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/complete-sqlite-crash-course-from-zero-to-hero/?couponCode=CA503EFB2E32F759EBD8",
+      "coupon_code": "CA503EFB2E32F759EBD8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5861030_4c1a_3.jpg",
+      "title": "SQLite Ultimate Course 2025 : From Zero to SQL Expert"
     },
     {
-      "url": "https://www.udemy.com/course/executive-program-in-advanced-feminine-leadership/?couponCode=339C667D57EDFA427FBB",
-      "coupon_code": "339C667D57EDFA427FBB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/javascript-fundamentals-course-for-beginners/?couponCode=22435703F41520DED480",
+      "coupon_code": "22435703F41520DED480",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638522_57a6.jpg",
+      "title": "JavaScript Fundamentals Course for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=2030E0FDCDEB0F9755B1",
       "coupon_code": "2030E0FDCDEB0F9755B1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
+      "title": "Master PHP Programming: From Beginner to Advanced Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-excel-data-analysis-techniques-unlock-insights/?couponCode=38BD22CF71D397378273",
+      "coupon_code": "38BD22CF71D397378273",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767733_8430.jpg",
+      "title": "Mastering Excel Data Analysis Techniques: Unlock Insights"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-for-basic-to-expert/?couponCode=CAF164D275050222F807",
+      "coupon_code": "CAF164D275050222F807",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6764657_c74f_2.jpg",
+      "title": "Microsoft Excel Formulas and Functions For Basic to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/prisma-orm-fundamentals/?couponCode=DDE3BE4F515B9D5607FB",
+      "coupon_code": "DDE3BE4F515B9D5607FB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802763_eaad.jpg",
+      "title": "Prisma ORM Fundamentals"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-visualization-mastery-from-beginner-to-expert/?couponCode=E2458D3D416593ED3B0D",
+      "coupon_code": "E2458D3D416593ED3B0D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695873_5008.jpg",
+      "title": "Python Data Visualization Mastery: From Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=D13CDECF88AC49415946",
+      "coupon_code": "D13CDECF88AC49415946",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119559_527e.jpg",
+      "title": "Python & Java: Master Backend & Frontend Web Developments"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-oop-a-complete-course-in-object-oriented-programming/?couponCode=B2F0E870A87D73A6D3B5",
+      "coupon_code": "B2F0E870A87D73A6D3B5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6146277_cacb_2.jpg",
+      "title": "Python OOP: A Complete Course in Object Oriented Programming"
+    },
+    {
+      "url": "https://www.udemy.com/course/salesforce-fundamentals-a-complete-guide-for-beginners/?couponCode=0ED741EFC23375A34B8D",
+      "coupon_code": "0ED741EFC23375A34B8D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5668638_f94e_2.jpg",
+      "title": "Salesforce Fundamentals : A Complete Guide for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/spark-machine-learning-project-house-sale-price-prediction/?couponCode=0013004F241B0F8E3E9E",
+      "coupon_code": "0013004F241B0F8E3E9E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2452496_efda_2.jpg",
+      "title": "Spark Machine Learning Project (House Sale Price Prediction)"
+    },
+    {
+      "url": "https://www.udemy.com/course/yolov11-complete-machine-learning-project-from-scratch/?couponCode=CE684655E129BB220A87",
+      "coupon_code": "CE684655E129BB220A87",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6263627_f2a4.jpg",
+      "title": "YOLOv11 : Complete Machine Learning Project For Experts"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/?couponCode=8023E02C794D8EBAFF3B",
+      "coupon_code": "8023E02C794D8EBAFF3B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6492449_88f1_5.jpg",
+      "title": "Full AI Course 2026: ChatGPT, Midjourney, Gemini, Firefly!"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=2746C66E7CA6C54505B6",
+      "coupon_code": "2746C66E7CA6C54505B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173757_cf20.jpg",
+      "title": "Complete JavaScript Programming: From Novice to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-science-ai-masters-from-python-to-gen-ai/?couponCode=9D1D07FCDD9DDC9D688C",
+      "coupon_code": "9D1D07FCDD9DDC9D688C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6342521_3968_2.jpg",
+      "title": "Data Science & AI Masters 2026 - From Python To Gen AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-program-in-advanced-feminine-leadership/?couponCode=339C667D57EDFA427FBB",
+      "coupon_code": "339C667D57EDFA427FBB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668409_bbc8.jpg",
+      "title": "Executive Program in Advanced Feminine Leadership"
     },
     {
       "url": "https://www.udemy.com/course/master-website-creation-15-website-platforms-in-1-course-s/?couponCode=8C1823101008E8449EA7",
@@ -57,11 +141,6 @@
       "title": "Python Complete Course For Python Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/python-data-visualization-mastery-from-beginner-to-expert/?couponCode=E2458D3D416593ED3B0D",
-      "coupon_code": "E2458D3D416593ED3B0D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/python-mastery-the-complete-web-programming-course/?couponCode=EDBD7204D849C70F62C3",
       "coupon_code": "EDBD7204D849C70F62C3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6173959_c9b3_2.jpg",
@@ -70,12 +149,8 @@
     {
       "url": "https://www.udemy.com/course/smart-money-trading-become-a-profitable-trader-in-nasdaq/?couponCode=B6FB92AB7287064BDC5E",
       "coupon_code": "B6FB92AB7287064BDC5E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/spark-machine-learning-project-house-sale-price-prediction/?couponCode=0013004F241B0F8E3E9E",
-      "coupon_code": "0013004F241B0F8E3E9E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5129962_6be3.jpg",
+      "title": "Smart Money Trading : Become A Profitable Trader In Nasdaq"
     },
     {
       "url": "https://www.udemy.com/course/strategic-esg-and-sustainability-in-business-operations/?couponCode=63C935DBB889F0606522",
@@ -122,7 +197,8 @@
     {
       "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=E916DCB1DE169A18C924",
       "coupon_code": "E916DCB1DE169A18C924",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-interpersonal-skills/?couponCode=5C94BB3E0CC54CE2A535",
