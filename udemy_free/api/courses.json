@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-01-13T10:33:10Z",
-  "count": 991,
+  "updated_at": "2026-01-13T11:28:00Z",
+  "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-everyone-design-like-a-pro/?couponCode=61A4D01FA233F0E45881",
+      "coupon_code": "61A4D01FA233F0E45881",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5719700_ccbe.jpg",
+      "title": "Adobe Illustrator for Everyone: Design Like a Pro"
+    },
     {
       "url": "https://www.udemy.com/course/canva-social-media-masterclass-graphic-design-video-editing/?couponCode=EC712D78F5C31FD6E6A5",
       "coupon_code": "EC712D78F5C31FD6E6A5",
@@ -9,16 +15,10 @@
       "title": "Canva Social Media Masterclass Graphic Design Video Editing"
     },
     {
-      "url": "https://www.udemy.com/course/chatbot-marketing-course/?couponCode=13JANUARY2026",
-      "coupon_code": "13JANUARY2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4651160_5b0e_3.jpg",
-      "title": "Grow your business with Chatbot Marketing!"
-    },
-    {
-      "url": "https://www.udemy.com/course/cold-marketing-strategy/?couponCode=13JANUARY2026",
-      "coupon_code": "13JANUARY2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4989860_36d3.jpg",
-      "title": "Build Your Best Cold Email Strategy!"
+      "url": "https://www.udemy.com/course/complete-generative-ai-build-pro-web-mobile-saas-apps/?couponCode=JAN_26_26",
+      "coupon_code": "JAN_26_26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6168067_c159_4.jpg",
+      "title": "Complete Generative AI : Build Pro Web, Mobile & SaaS Apps"
     },
     {
       "url": "https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=13JANUARY2026",
@@ -27,22 +27,22 @@
       "title": "Generative AI for Digital Marketing: From Basics to Pro"
     },
     {
-      "url": "https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=13JANUARY2026",
-      "coupon_code": "13JANUARY2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4204914_120f_4.jpg",
-      "title": "Email Marketing. Increase Sales With Email Marketing!"
-    },
-    {
       "url": "https://www.udemy.com/course/essential-after-effects-from-beginner-to-motion-master/?couponCode=391198B30BA641F6E805",
       "coupon_code": "391198B30BA641F6E805",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5803016_9a0a_2.jpg",
       "title": "Essential After Effects: From Beginner to Motion Master"
     },
     {
-      "url": "https://www.udemy.com/course/facebook-ads-launch-pro-advertising-campaigns/?couponCode=13JANUARY2026",
-      "coupon_code": "13JANUARY2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4793900_b22f.jpg",
-      "title": "Facebook Ads 2025: Launch Your Best Advertising Campaign"
+      "url": "https://www.udemy.com/course/essential-canva-for-graphics-design-to-boost-productivity/?couponCode=2787624083A29661A9EF",
+      "coupon_code": "2787624083A29661A9EF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5712636_b2e1_2.jpg",
+      "title": "Essential Canva for Graphics Design to Boost Productivity"
+    },
+    {
+      "url": "https://www.udemy.com/course/figma-essential-for-user-interface-and-user-experience-ui-ux/?couponCode=0209B6A2902EBB597B57",
+      "coupon_code": "0209B6A2902EBB597B57",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641704_bd3b.jpg",
+      "title": "Figma Essential for User Interface and User Experience UI UX"
     },
     {
       "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=2C995729D997D0DEFEDB",
@@ -63,10 +63,58 @@
       "title": "Hands-On Python Machine Learning with Real World Projects"
     },
     {
+      "url": "https://www.udemy.com/course/learn-advanced-excel-formulas-functions-vba-macros/?couponCode=284657AFC0012123FC42",
+      "coupon_code": "284657AFC0012123FC42",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641722_6dfe.jpg",
+      "title": "Learn Advanced Excel: Formulas, Functions, VBA Macros"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-canva-for-advance-graphics-design/?couponCode=8B84E8432B6238AA3734",
+      "coupon_code": "8B84E8432B6238AA3734",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5780890_09a1.jpg",
+      "title": "Learn Canva for Advance Graphics Design"
+    },
+    {
       "url": "https://www.udemy.com/course/mastering-adobe-premiere-pro-cc-from-beginner-to-pro-editor/?couponCode=68ACE80857D4EA6F3F47",
       "coupon_code": "68ACE80857D4EA6F3F47",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5797752_cf8c_3.jpg",
       "title": "Mastering Adobe Premiere Pro CC: From Beginner to Pro Editor"
+    },
+    {
+      "url": "https://www.udemy.com/course/smm-social-media-marketing/?couponCode=0B0C1411A2EDE87E7565",
+      "coupon_code": "0B0C1411A2EDE87E7565",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5319916_04da.jpg",
+      "title": "Professional Diploma in Social Media Marketing & Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-bootcamp-photoshop-illustrator-canva/?couponCode=5CBFC0DEC231DF3956BB",
+      "coupon_code": "5CBFC0DEC231DF3956BB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5789946_1f41.jpg",
+      "title": "T-Shirt Design Bootcamp: Photoshop, Illustrator & Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatbot-marketing-course/?couponCode=13JANUARY2026",
+      "coupon_code": "13JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4651160_5b0e_3.jpg",
+      "title": "Grow your business with Chatbot Marketing!"
+    },
+    {
+      "url": "https://www.udemy.com/course/cold-marketing-strategy/?couponCode=13JANUARY2026",
+      "coupon_code": "13JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4989860_36d3.jpg",
+      "title": "Build Your Best Cold Email Strategy!"
+    },
+    {
+      "url": "https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=13JANUARY2026",
+      "coupon_code": "13JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4204914_120f_4.jpg",
+      "title": "Email Marketing. Increase Sales With Email Marketing!"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-ads-launch-pro-advertising-campaigns/?couponCode=13JANUARY2026",
+      "coupon_code": "13JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4793900_b22f.jpg",
+      "title": "Facebook Ads 2025: Launch Your Best Advertising Campaign"
     },
     {
       "url": "https://www.udemy.com/course/midjourney-comprehensive/?couponCode=13JANUARY2026",
@@ -79,12 +127,6 @@
       "coupon_code": "13JANUARY2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5672308_9867.jpg",
       "title": "Shopify: Your Essential Guide to E-commerce Success"
-    },
-    {
-      "url": "https://www.udemy.com/course/smm-social-media-marketing/?couponCode=0B0C1411A2EDE87E7565",
-      "coupon_code": "0B0C1411A2EDE87E7565",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5319916_04da.jpg",
-      "title": "Professional Diploma in Social Media Marketing & Management"
     },
     {
       "url": "https://www.udemy.com/course/vibe-coding-for-coders-to-build-enterprise-solutions/?couponCode=13JANUARY2026",
