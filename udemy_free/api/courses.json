@@ -1,12 +1,87 @@
 {
-  "updated_at": "2026-01-15T02:19:53Z",
-  "count": 966,
+  "updated_at": "2026-01-15T04:08:30Z",
+  "count": 975,
   "courses": [
     {
       "url": "https://www.udemy.com/course/act-for-a-living/?couponCode=0DBC729FCCAE66C6BC9C",
       "coupon_code": "0DBC729FCCAE66C6BC9C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6095593_1372.jpg",
       "title": "Act For A Living"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-data-driven-management-excellence/?couponCode=0839069150DB466082F2",
+      "coupon_code": "0839069150DB466082F2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713235_10ea.jpg",
+      "title": "AI for Data Driven Management Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-java-training-crash-course-2022/?couponCode=6743D7FC5531DA27737E",
+      "coupon_code": "6743D7FC5531DA27737E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4980262_a70c.jpg",
+      "title": "C++ And Java Training Crash Course for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-java-programming-bootcamp-learn-to-code-in-java/?couponCode=2BD2140D6707670C90ED",
+      "coupon_code": "2BD2140D6707670C90ED",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=5AF2C0F6CCB080D6BFFB",
+      "coupon_code": "5AF2C0F6CCB080D6BFFB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5032410_a449.jpg",
+      "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-chief-digital-officer/?couponCode=A82064BEA0A4005791AC",
+      "coupon_code": "A82064BEA0A4005791AC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-css-java-javascript-full-stack-programming-course/?couponCode=F053F20F0E5AA6E2D4DC",
+      "coupon_code": "F053F20F0E5AA6E2D4DC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=482ED40556E49ED4F663",
+      "coupon_code": "482ED40556E49ED4F663",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5000842_fcec_3.jpg",
+      "title": "Learn Salesforce (Admin + Developer) with LWC Live Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-human-resources-management/?couponCode=5F8AE2F65FA75A677AC7",
+      "coupon_code": "5F8AE2F65FA75A677AC7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-pandas-python-for-data-analysis-a-complete-guide/?couponCode=4427876060BE504982D9",
+      "coupon_code": "4427876060BE504982D9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/powershell-for-sql-server-dba-automation-installation/?couponCode=DC83824FAAD2A5CA08EA",
+      "coupon_code": "DC83824FAAD2A5CA08EA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-unit-economics-and-sales-funnels/?couponCode=BA8BE6866FED9B1C9F9B",
+      "coupon_code": "BA8BE6866FED9B1C9F9B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-framework-and-html-5-complete-course-2022/?couponCode=8609849F25288581AF84",
+      "coupon_code": "8609849F25288581AF84",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-the-complete-course-for-success/?couponCode=625A5421143E7756D629",
+      "coupon_code": "625A5421143E7756D629",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/talent-acquisition-hr-planning-recruiting-and-onboarding/?couponCode=9076CF177B23FE64CD4D",
+      "coupon_code": "9076CF177B23FE64CD4D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5613690_efae.jpg",
+      "title": "Talent Acquisition: HR Planning, Recruiting and Onboarding"
     },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-hr-hrm-excellence/?couponCode=95CD2E3141360C0F9C7F",
@@ -33,12 +108,6 @@
       "title": "AI for CRM (Customer Relationship Management)  Excellence"
     },
     {
-      "url": "https://www.udemy.com/course/ai-for-data-driven-management-excellence/?couponCode=0839069150DB466082F2",
-      "coupon_code": "0839069150DB466082F2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6713235_10ea.jpg",
-      "title": "AI for Data Driven Management Excellence"
-    },
-    {
       "url": "https://www.udemy.com/course/ai-for-marketing-and-advertising-excellence/?couponCode=027E5DE916A8CFCA2CA6",
       "coupon_code": "027E5DE916A8CFCA2CA6",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6658657_64eb.jpg",
@@ -51,28 +120,10 @@
       "title": "AI for Risk Management & Compliance Excellence"
     },
     {
-      "url": "https://www.udemy.com/course/c-and-java-training-crash-course-2022/?couponCode=6743D7FC5531DA27737E",
-      "coupon_code": "6743D7FC5531DA27737E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4980262_a70c.jpg",
-      "title": "C++ And Java Training Crash Course for Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=5AF2C0F6CCB080D6BFFB",
-      "coupon_code": "5AF2C0F6CCB080D6BFFB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5032410_a449.jpg",
-      "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
-    },
-    {
       "url": "https://www.udemy.com/course/excellence-in-crisis-management-bcp/?couponCode=935F671B2B15AB0DE7B6",
       "coupon_code": "935F671B2B15AB0DE7B6",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6488113_e061_2.jpg",
       "title": "Excellence in Crisis Management & BCP"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=482ED40556E49ED4F663",
-      "coupon_code": "482ED40556E49ED4F663",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5000842_fcec_3.jpg",
-      "title": "Learn Salesforce (Admin + Developer) with LWC Live Project"
     },
     {
       "url": "https://www.udemy.com/course/master-in-construction-management/?couponCode=99135FEAA923E0F4387A",
@@ -85,12 +136,6 @@
       "coupon_code": "FEF3397A75CECE793A56",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6282555_eda3.jpg",
       "title": "Master in New Business Development and Entrepreneurship"
-    },
-    {
-      "url": "https://www.udemy.com/course/talent-acquisition-hr-planning-recruiting-and-onboarding/?couponCode=9076CF177B23FE64CD4D",
-      "coupon_code": "9076CF177B23FE64CD4D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5613690_efae.jpg",
-      "title": "Talent Acquisition: HR Planning, Recruiting and Onboarding"
     },
     {
       "url": "https://www.udemy.com/course/create-blog-on-wordpress-hindi/?couponCode=MAKARSANKRANT2026",
