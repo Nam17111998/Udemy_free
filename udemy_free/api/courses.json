@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-01-15T08:40:40Z",
-  "count": 925,
+  "updated_at": "2026-01-15T09:35:21Z",
+  "count": 934,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-power-bi-expert-data-analysis-and-visualization/?couponCode=54C1378C06F4FC1AED44",
+      "coupon_code": "54C1378C06F4FC1AED44",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/augmented-reality-in-depth-101-by-debayandey-thnewagetraveller/?couponCode=JAN_26_B",
+      "coupon_code": "JAN_26_B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/duhayqqz/?couponCode=3BBB832CB678088F1899",
+      "coupon_code": "3BBB832CB678088F1899",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=1677746B0260573F1AB2",
+      "coupon_code": "1677746B0260573F1AB2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29.jpg",
+      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
+    },
+    {
+      "url": "https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=926F8AF52B931FA4154E",
+      "coupon_code": "926F8AF52B931FA4154E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/homwdzpw/?couponCode=72F26889B53BC3B2E408",
+      "coupon_code": "72F26889B53BC3B2E408",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-diploma-in-performance-management-and-employee-development/?couponCode=551B278BABA77499CB16",
+      "coupon_code": "551B278BABA77499CB16",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-visualization-with-management-technique/?couponCode=0E3A4FA1DA4D4DB66B35",
+      "coupon_code": "0E3A4FA1DA4D4DB66B35",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6766001_369d.jpg",
+      "title": "Excel Data Analysis Visualization with Management Technique"
+    },
+    {
+      "url": "https://www.udemy.com/course/poultry-farming-bacterial-diseases-hindering-satisfying-prod/?couponCode=93431629BC9DCBCE12DA",
+      "coupon_code": "93431629BC9DCBCE12DA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-dax-mastery-advanced-formulas-and-data-analysis/?couponCode=951A891E1291459336D8",
+      "coupon_code": "951A891E1291459336D8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/qyguacym/?couponCode=EC99BE585B76E34C5F30",
+      "coupon_code": "EC99BE585B76E34C5F30",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-expert/?couponCode=9889743C53F134176A11",
+      "coupon_code": "9889743C53F134176A11",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6549357_4b96_2.jpg",
+      "title": "The Complete Microsoft Excel Course: Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-java-programming-course-hands-on-training/?couponCode=7BF01D7F2F518FA83C1A",
+      "coupon_code": "7BF01D7F2F518FA83C1A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790875_65ba_2.jpg",
+      "title": "The Ultimate Java Programming Course: Hands-On Training"
+    },
+    {
+      "url": "https://www.udemy.com/course/unit-economics-crm-ltv-churn-retention-rates-cohorts/?couponCode=BFDB735E127EF1B54CD6",
+      "coupon_code": "BFDB735E127EF1B54CD6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5648162_5cf8_3.jpg",
+      "title": "Unit Economics & CRM: LTV, Churn, Retention Rates, Cohorts"
+    },
+    {
+      "url": "https://www.udemy.com/course/vivre-librement/?couponCode=64ECACF738BE61E21018",
+      "coupon_code": "64ECACF738BE61E21018",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
+      "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
+    },
     {
       "url": "https://www.udemy.com/course/automated-trading-on-mt5-step-by-step/?couponCode=2BFF881B64E7DAF69F8B",
       "coupon_code": "2BFF881B64E7DAF69F8B",
@@ -19,12 +100,6 @@
       "coupon_code": "E9FD82E112629CF1ADF9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6547371_e1ac_9.jpg",
       "title": "Divergence Forex Trading Strategy + software as a gift"
-    },
-    {
-      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=1677746B0260573F1AB2",
-      "coupon_code": "1677746B0260573F1AB2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29.jpg",
-      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
     },
     {
       "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=919FE65352D3B5E5CA65",
@@ -51,12 +126,6 @@
       "title": "Master Programming with C and C++: From Beginner to Advanced"
     },
     {
-      "url": "https://www.udemy.com/course/microsoft-excel-data-visualization-with-management-technique/?couponCode=0E3A4FA1DA4D4DB66B35",
-      "coupon_code": "0E3A4FA1DA4D4DB66B35",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6766001_369d.jpg",
-      "title": "Excel Data Analysis Visualization with Management Technique"
-    },
-    {
       "url": "https://www.udemy.com/course/modern-web-development-with-javascript-jquery-typescript/?couponCode=32C5D677DCA053ADE654",
       "coupon_code": "32C5D677DCA053ADE654",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7005833_07b7_3.jpg",
@@ -67,30 +136,6 @@
       "coupon_code": "0D2715AE4BB35EFD9D4A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7004411_e752.jpg",
       "title": "Python Data Science and Machine Learning Made Easy"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-expert/?couponCode=9889743C53F134176A11",
-      "coupon_code": "9889743C53F134176A11",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6549357_4b96_2.jpg",
-      "title": "The Complete Microsoft Excel Course: Beginner to Expert"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-ultimate-java-programming-course-hands-on-training/?couponCode=7BF01D7F2F518FA83C1A",
-      "coupon_code": "7BF01D7F2F518FA83C1A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6790875_65ba_2.jpg",
-      "title": "The Ultimate Java Programming Course: Hands-On Training"
-    },
-    {
-      "url": "https://www.udemy.com/course/unit-economics-crm-ltv-churn-retention-rates-cohorts/?couponCode=BFDB735E127EF1B54CD6",
-      "coupon_code": "BFDB735E127EF1B54CD6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5648162_5cf8_3.jpg",
-      "title": "Unit Economics & CRM: LTV, Churn, Retention Rates, Cohorts"
-    },
-    {
-      "url": "https://www.udemy.com/course/vivre-librement/?couponCode=64ECACF738BE61E21018",
-      "coupon_code": "64ECACF738BE61E21018",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
-      "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
     },
     {
       "url": "https://www.udemy.com/course/after-effects-mastery-course-master-vfx-motion-graphics/?couponCode=D16DC3CCE345B7537BE2",
