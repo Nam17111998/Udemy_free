@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-01-15T13:01:38Z",
-  "count": 971,
+  "updated_at": "2026-01-15T14:32:52Z",
+  "count": 986,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=CBCDC988231975A27254",
+      "coupon_code": "CBCDC988231975A27254",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-essentials-introduction-to-artificial-intelligence/?couponCode=25E9985D705950A67D7B",
+      "coupon_code": "25E9985D705950A67D7B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5681724_5f41.jpg",
+      "title": "AI Essentials: Introduction to Artificial Intelligence"
+    },
+    {
+      "url": "https://www.udemy.com/course/applied-prompt-engineering-for-ai-systems/?couponCode=72784F9BB93F50C9F848",
+      "coupon_code": "72784F9BB93F50C9F848",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=ED017D91921BB8513032",
+      "coupon_code": "ED017D91921BB8513032",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/coding-the-brain-ai-machine-learning-for-bcis/?couponCode=5FE8873BBE7E66176424",
+      "coupon_code": "5FE8873BBE7E66176424",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/?couponCode=FC20CBEB83BE8B70CEBB",
+      "coupon_code": "FC20CBEB83BE8B70CEBB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=5AEB9F099562F6865D15",
+      "coupon_code": "5AEB9F099562F6865D15",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-engineer-deep-learning-ii/?couponCode=57771775B48BD2811FDE",
+      "coupon_code": "57771775B48BD2811FDE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-engineer-machine-learning-foundations/?couponCode=B56A61C2D0544DAFA270",
+      "coupon_code": "B56A61C2D0544DAFA270",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-engineering-with-openai-anthropic/?couponCode=04166A314ACF827A7293",
+      "coupon_code": "04166A314ACF827A7293",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/global-career-development-job-search-interviewing-skills/?couponCode=FA9B03E98628C1931AA5",
+      "coupon_code": "FA9B03E98628C1931AA5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-transition-to-product-management-and-succeed/?couponCode=32006E1C25444BF5F39F",
+      "coupon_code": "32006E1C25444BF5F39F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-generative-ai-with-adobe-firefly-genai/?couponCode=7167CAF81310BC0B8EF0",
+      "coupon_code": "7167CAF81310BC0B8EF0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/neural-signal-processing-applied-ai/?couponCode=2845AC2BC9D4127518A0",
+      "coupon_code": "2845AC2BC9D4127518A0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-coffee-shop-system/?couponCode=PHPCOFFEE54",
+      "coupon_code": "PHPCOFFEE54",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/?couponCode=0EBB81F55FE29C58F731",
       "coupon_code": "0EBB81F55FE29C58F731",
@@ -40,157 +116,188 @@
     {
       "url": "https://www.udemy.com/course/master-filmora-editing-motion-graphics-and-color-grading/?couponCode=F4810DA18E0DD146377A",
       "coupon_code": "F4810DA18E0DD146377A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5932528_9420_2.jpg",
+      "title": "Master Filmora: Editing, Motion Graphics, and Color Grading"
     },
     {
       "url": "https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=32EF5259F560B3A9E5B8",
       "coupon_code": "32EF5259F560B3A9E5B8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3213441_6289_4.jpg",
+      "title": "Professional Adobe Photoshop CC Course With Advance Training"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-product-management/?couponCode=89F102C4268FE441EF2D",
       "coupon_code": "89F102C4268FE441EF2D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663241_004b.jpg",
+      "title": "Advanced Program in Product & CX Management and Development"
     },
     {
       "url": "https://www.udemy.com/course/professional-ms-office-with-ai-chatgpt-gemini-copilot/?couponCode=5623BB6373248C919BE3",
       "coupon_code": "5623BB6373248C919BE3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6862377_9398.jpg",
+      "title": "Professional MS Office With AI - ChatGpt, Gemini Copilot"
     },
     {
       "url": "https://www.udemy.com/course/the-art-of-influence-in-supply-chain/?couponCode=D65E11579186610DEB4D",
       "coupon_code": "D65E11579186610DEB4D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6987201_6222_2.jpg",
+      "title": "The Art of Influence in Supply Chain"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-da-vinci-resolve-course-beginner-to-filmmaker/?couponCode=F1A1EA2EEFA8768EE18E",
       "coupon_code": "F1A1EA2EEFA8768EE18E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5946086_4f80.jpg",
+      "title": "The Complete Da Vinci Resolve Course: Beginner to Filmmaker"
     },
     {
       "url": "https://www.udemy.com/course/uiux-design-masterclass-with-adobe-xd-from-beginner-to-pro/?couponCode=03C0E3D9CFD814DEBD60",
       "coupon_code": "03C0E3D9CFD814DEBD60",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860254_4378.jpg",
+      "title": "UI/UX Design Masterclass with Adobe XD: From Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/?couponCode=9A46E31D6B7B4035151A",
       "coupon_code": "9A46E31D6B7B4035151A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3406388_848f_4.jpg",
+      "title": "Ultimate Adobe Photoshop CC Masterclass Basics To Advanced"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-essentials-design-like-a-pro-in-days/?couponCode=829935CAB8C9AF110CE4",
       "coupon_code": "829935CAB8C9AF110CE4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5928512_3d47.jpg",
+      "title": "Adobe Illustrator Essentials: Design Like a Pro in Days"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/?couponCode=5F257B3AB4AB06A81093",
       "coupon_code": "5F257B3AB4AB06A81093",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5926794_6929.jpg",
+      "title": "Adobe Illustrator Essentials: Zero to Hero for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-masterclass-for-video-editing/?couponCode=930069727B79A1D863FA",
       "coupon_code": "930069727B79A1D863FA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5555872_e793_2.jpg",
+      "title": "Adobe Premiere Pro CC Masterclass for Video Editing"
     },
     {
       "url": "https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=F3D7C71A6B4AF79133EB",
       "coupon_code": "F3D7C71A6B4AF79133EB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5895048_9832.jpg",
+      "title": "Advanced Adobe Premiere Pro Add Hollywood-level Effects"
     },
     {
       "url": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?couponCode=17E4A0896EC794C22FE1",
       "coupon_code": "17E4A0896EC794C22FE1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6501521_9cab_5.jpg",
+      "title": "Build 11  JavaScript Application and Web JavaScript BootCamp"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-technology-management/?couponCode=0BBF2418131C79CB1CDC",
       "coupon_code": "0BBF2418131C79CB1CDC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5659378_0fba_3.jpg",
+      "title": "Executive Diploma in Technology Management"
     },
     {
       "url": "https://www.udemy.com/course/learn-ui-ux-design-adobe-xd-figma-uiuxdesign/?couponCode=98FAA3254E2451E1C741",
       "coupon_code": "98FAA3254E2451E1C741",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5568332_c25d.jpg",
+      "title": "Learn UI UX Design Adobe XD : Learn User Experience Design"
     },
     {
       "url": "https://www.udemy.com/course/mastering-adobe-illustrator-projects-build-your-portfolio/?couponCode=E8C615646E5A74459668",
       "coupon_code": "E8C615646E5A74459668",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5555880_c4cd_2.jpg",
+      "title": "Mastering Adobe Illustrator Projects: Build Your Portfolio"
     },
     {
       "url": "https://www.udemy.com/course/python-mobile-app-development-build-8-mobile-application/?couponCode=7B7C5D810301BFCC66B6",
       "coupon_code": "7B7C5D810301BFCC66B6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6576193_f0bd_2.jpg",
+      "title": "Python Mobile App Development: Build 8+ Mobile Application"
     },
     {
       "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=5F4323ECE0AA7239E0D3",
       "coupon_code": "5F4323ECE0AA7239E0D3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5236430_f326_2.jpg",
+      "title": "Advanced Excel Course With Shortcuts Tips and Tricks for JOB"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-email-marketing-a-complete-guide/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6161423_50b2.jpg",
+      "title": "AI-Powered Email Marketing: A Complete Guide"
     },
     {
       "url": "https://www.udemy.com/course/complete-freelance-mba-2024-digitalize-service-businesses/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6082215_68d0_2.jpg",
+      "title": "Complete Freelance MBA 2025: Digitalize Service Businesses"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-chief-executive-officer/?couponCode=C354F5EE9AD3C2AEA9C6",
       "coupon_code": "C354F5EE9AD3C2AEA9C6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5657630_8ab4_3.jpg",
+      "title": "Executive Diploma of Chief Executive Officer"
     },
     {
       "url": "https://www.udemy.com/course/how-to-break-into-web3/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5894582_1500_2.jpg",
+      "title": "Land Analyst Job in Web3 VC – Intensive  Course"
     },
     {
       "url": "https://www.udemy.com/course/investing-options-from-basics-to-mastery/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6114417_77f2_2.jpg",
+      "title": "Investing & Options: From Basics to Mastery"
     },
     {
       "url": "https://www.udemy.com/course/master-lead-generation-grow-subscribers-sales-with-popups/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6190027_dede.jpg",
+      "title": "Master Lead Generation: Grow Subscribers & Sales with Popups"
     },
     {
       "url": "https://www.udemy.com/course/mastering-aws-serverless-hands-on-with-core-aws-services/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6148101_580f.jpg",
+      "title": "Mastering AWS Serverless: Hands-On with Core AWS Services"
     },
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-word-a-comprehensive-guide-to-boost-you/?couponCode=4927C33BA0E4DAC9879F",
       "coupon_code": "4927C33BA0E4DAC9879F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5229322_0aa4_2.jpg",
+      "title": "Mastering Microsoft Word: A Comprehensive Guide to Boost You"
     },
     {
       "url": "https://www.udemy.com/course/mobile-app-design-in-figma-from-concept-to-prototype/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5974670_355b.jpg",
+      "title": "Mobile App Design in Figma: From Concept to Prototype"
     },
     {
       "url": "https://www.udemy.com/course/react-crash-course-from-zero-to-hero/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6012556_1e60.jpg",
+      "title": "React Crash Course: From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/ultimate-product-management/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5936948_c002_3.jpg",
+      "title": "Product Management Core Skills and Concepts"
     },
     {
       "url": "https://www.udemy.com/course/youtube-startrack-for-beginners-launch-your-channel-today/?couponCode=15JANUARY2026",
       "coupon_code": "15JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6012554_271f.jpg",
+      "title": "YouTube Startrack For Beginners: Launch Your Channel Today"
     },
     {
       "url": "https://www.udemy.com/course/advanced-power-bi-expert-data-analysis-and-visualization/?couponCode=54C1378C06F4FC1AED44",
       "coupon_code": "54C1378C06F4FC1AED44",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6143653_4c4a.jpg",
+      "title": "Advanced Power BI: Expert Data Analysis and Visualization"
     },
     {
       "url": "https://www.udemy.com/course/augmented-reality-in-depth-101-by-debayandey-thnewagetraveller/?couponCode=JAN_26_B",
@@ -225,7 +332,8 @@
     {
       "url": "https://www.udemy.com/course/hr-diploma-in-performance-management-and-employee-development/?couponCode=551B278BABA77499CB16",
       "coupon_code": "551B278BABA77499CB16",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5657534_7543.jpg",
+      "title": "HR Diploma in Performance Management & Employee Development"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-data-visualization-with-management-technique/?couponCode=0E3A4FA1DA4D4DB66B35",
@@ -236,12 +344,14 @@
     {
       "url": "https://www.udemy.com/course/poultry-farming-bacterial-diseases-hindering-satisfying-prod/?couponCode=93431629BC9DCBCE12DA",
       "coupon_code": "93431629BC9DCBCE12DA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4744630_fef9_3.jpg",
+      "title": "Combating Bacterial Diseases in Poultry Farming:"
     },
     {
       "url": "https://www.udemy.com/course/power-bi-dax-mastery-advanced-formulas-and-data-analysis/?couponCode=951A891E1291459336D8",
       "coupon_code": "951A891E1291459336D8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6144027_526a_2.jpg",
+      "title": "Power BI DAX Mastery: Advanced Formulas and Data Analysis"
     },
     {
       "url": "https://www.udemy.com/course/qyguacym/?couponCode=EC99BE585B76E34C5F30",
