@@ -1,86 +1,158 @@
 {
-  "updated_at": "2026-01-16T16:38:45Z",
-  "count": 905,
+  "updated_at": "2026-01-16T17:31:28Z",
+  "count": 915,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/bash-fundamentals-for-linux-users/?couponCode=A3C4E98AA7B379E989BE",
-      "coupon_code": "A3C4E98AA7B379E989BE",
+      "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/chatgpt-dall-e-masterclass-2025/?couponCode=7844A0B57A09DBE60BF4",
-      "coupon_code": "7844A0B57A09DBE60BF4",
+      "url": "https://www.udemy.com/course/applied-prompt-engineering-for-ai-systems/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/blue-prism-beginners-course-step-by-step/?couponCode=LTPONGAL-2026",
+      "coupon_code": "LTPONGAL-2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/coding-the-brain-ai-machine-learning-for-bcis/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6929045_5efe.jpg",
+      "title": "Coding the Brain: AI & Machine Learning for BCIs"
     },
     {
       "url": "https://www.udemy.com/course/complete-advance-ethical-hacking-keylogger-practical-cahkp/?couponCode=JAN_26_B",
       "coupon_code": "JAN_26_B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3808428_dc01.jpg",
+      "title": "Complete Advance Ethical Hacking Keylogger Practical C|AHKP"
     },
     {
-      "url": "https://www.udemy.com/course/digital-platforms-and-ecosystems-business-and-partnership/?couponCode=64DB3D9148963FFD4E93",
-      "coupon_code": "64DB3D9148963FFD4E93",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/docker-crash-course/?couponCode=2331B77F1D77EF7E2E74",
-      "coupon_code": "2331B77F1D77EF7E2E74",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891327_151d_2.jpg",
+      "title": "Complete RAG Bootcamp: Build, Optimize, and Deploy AI Apps"
     },
     {
       "url": "https://www.udemy.com/course/entrepreneurship-ideas-market-analysis-competitors-place/?couponCode=B65A84A9762E2349DAB8",
       "coupon_code": "B65A84A9762E2349DAB8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5836030_9a0e.jpg",
+      "title": "Entrepreneurship: Ideas, Market Analysis, Competitors, Place"
     },
     {
-      "url": "https://www.udemy.com/course/essential-amazon-affiliate-marketing-for-beginners/?couponCode=99A8DDD6AA1CA642D907",
-      "coupon_code": "99A8DDD6AA1CA642D907",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/git-vsc-essentials/?couponCode=40F23F20F6CFA46CAEC4",
-      "coupon_code": "40F23F20F6CFA46CAEC4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/generative-ai-engineering-with-openai-anthropic/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6901057_e04e.jpg",
+      "title": "Generative AI Engineering with OpenAI, Anthropic"
     },
     {
       "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=3ECE69D8414D971EC6EC",
       "coupon_code": "3ECE69D8414D971EC6EC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6591509_ee81_3.jpg",
+      "title": "GNU Nano Crash Course | Linux Terminal Productivity"
     },
     {
-      "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-advanced-with-project/?couponCode=7DA6060A1EE69EA75CF0",
-      "coupon_code": "7DA6060A1EE69EA75CF0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/neural-signal-processing-applied-ai/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6956873_96bb.jpg",
+      "title": "Neural Signal Processing & Applied AI"
     },
     {
-      "url": "https://www.udemy.com/course/prisma-orm-fundamentals/?couponCode=EE81FC5966A65C82CB59",
-      "coupon_code": "EE81FC5966A65C82CB59",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/professional-diploma-in-business-models-development/?couponCode=3356F58F299102B73286",
+      "coupon_code": "3356F58F299102B73286",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5844848_0d75.jpg",
+      "title": "Professional Diploma in Business Models Development"
     },
     {
-      "url": "https://www.udemy.com/course/signals-in-angular-v19/?couponCode=9C2E6AF1C5DB31F9CB77",
-      "coupon_code": "9C2E6AF1C5DB31F9CB77",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=07C46A22E58E2BD3322A",
+      "coupon_code": "07C46A22E58E2BD3322A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6311131_636f.jpg",
+      "title": "Recon Ninja: Advanced Info Gathering for Ethical Hackers"
     },
     {
       "url": "https://www.udemy.com/course/tmux-fundamentals/?couponCode=E294CD92D6F729033070",
       "coupon_code": "E294CD92D6F729033070",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589641_29f8_6.jpg",
+      "title": "Tmux Fundamentals | Linux Terminal Productivity"
     },
     {
       "url": "https://www.udemy.com/course/vim-fundamentals/?couponCode=B398CBD3B20EB7955ADA",
       "coupon_code": "B398CBD3B20EB7955ADA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581417_b19b.jpg",
+      "title": "Mastering Vim and Neovim: Vim for Linux Users and Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/bash-fundamentals-for-linux-users/?couponCode=A3C4E98AA7B379E989BE",
+      "coupon_code": "A3C4E98AA7B379E989BE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6982145_933f_2.jpg",
+      "title": "Mastering Bash Scripting | For developers and Linux users"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-dall-e-masterclass-2025/?couponCode=7844A0B57A09DBE60BF4",
+      "coupon_code": "7844A0B57A09DBE60BF4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6318827_2c8f.jpg",
+      "title": "ChatGPT & DALL-E Masterclass: Complete AI Guide 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-platforms-and-ecosystems-business-and-partnership/?couponCode=64DB3D9148963FFD4E93",
+      "coupon_code": "64DB3D9148963FFD4E93",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5836026_510c.jpg",
+      "title": "Digital Platforms and Ecosystems Business and Partnership"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-crash-course/?couponCode=2331B77F1D77EF7E2E74",
+      "coupon_code": "2331B77F1D77EF7E2E74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6886555_cde8.jpg",
+      "title": "Docker Containers | Crash course for developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-amazon-affiliate-marketing-for-beginners/?couponCode=99A8DDD6AA1CA642D907",
+      "coupon_code": "99A8DDD6AA1CA642D907",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4382276_2209.jpg",
+      "title": "Essential Amazon Affiliate Marketing for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-vsc-essentials/?couponCode=40F23F20F6CFA46CAEC4",
+      "coupon_code": "40F23F20F6CFA46CAEC4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6866891_2adb_3.jpg",
+      "title": "Git Version Control for Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-advanced-with-project/?couponCode=7DA6060A1EE69EA75CF0",
+      "coupon_code": "7DA6060A1EE69EA75CF0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4944610_de53_3.jpg",
+      "title": "Microsoft PowerPoint School to Corporate : Basic to Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/prisma-orm-fundamentals/?couponCode=EE81FC5966A65C82CB59",
+      "coupon_code": "EE81FC5966A65C82CB59",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802763_eaad.jpg",
+      "title": "Prisma ORM Fundamentals"
+    },
+    {
+      "url": "https://www.udemy.com/course/signals-in-angular-v19/?couponCode=9C2E6AF1C5DB31F9CB77",
+      "coupon_code": "9C2E6AF1C5DB31F9CB77",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6636705_c8de_2.jpg",
+      "title": "Reactivity with Signals in Angular v19+"
     },
     {
       "url": "https://www.udemy.com/course/write-article-content-for-seo-and-affiliate-marketing-course/?couponCode=F9D20FC59746FD300C02",
       "coupon_code": "F9D20FC59746FD300C02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4831684_ddc6.jpg",
+      "title": "Write Article Content for SEO and Affiliate Marketing Course"
     },
     {
       "url": "https://www.udemy.com/course/learn-canva-from-basic-to-advanced-and-earn-money-in-2025/?couponCode=AADD68190DAAA60E994C",
       "coupon_code": "AADD68190DAAA60E994C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407183_634a_2.jpg",
+      "title": "Learn Canva from Basic to Advanced and Earn Money in 2025"
     },
     {
       "url": "https://www.udemy.com/course/ai-to-empower-your-marketing-team/?couponCode=16JANUARY2026",
