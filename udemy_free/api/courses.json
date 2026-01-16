@@ -1,23 +1,12 @@
 {
-  "updated_at": "2026-01-16T06:45:24Z",
-  "count": 945,
+  "updated_at": "2026-01-16T07:31:37Z",
+  "count": 951,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=JAN_FREE_02",
-      "coupon_code": "JAN_FREE_02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6496525_b818_3.jpg",
-      "title": "AI & Python Development Megaclass - 300+ Hands-on Projects"
-    },
-    {
-      "url": "https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/?couponCode=JAN_FREE_02",
-      "coupon_code": "JAN_FREE_02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6535141_5559_4.jpg",
-      "title": "AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)"
-    },
     {
       "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=12THJAN26",
       "coupon_code": "12THJAN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5297378_1508_2.jpg",
+      "title": "Authentic Leadership"
     },
     {
       "url": "https://www.udemy.com/course/bootcamp-de-devops-a-mlops-transicion-hacia-la-ingenieria-p/?couponCode=JAN_FREE_02",
@@ -32,22 +21,28 @@
       "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
     },
     {
-      "url": "https://www.udemy.com/course/devops-to-mlops-bootcamp/?couponCode=JAN_FREE_02",
-      "coupon_code": "JAN_FREE_02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6565297_6f61_3.jpg",
-      "title": "Ultimate DevOps to MLOps Bootcamp - Build ML CI/CD Pipelines"
-    },
-    {
       "url": "https://www.udemy.com/course/devopsmlopsml/?couponCode=JAN_FREE_02",
       "coupon_code": "JAN_FREE_02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6581047_079b_4.jpg",
       "title": "MLOpsブートキャンプ：モデルのCI/CD構築"
     },
     {
-      "url": "https://www.udemy.com/course/llm-engineer/?couponCode=JAN_FREE_02",
-      "coupon_code": "JAN_FREE_02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6561937_c4ca_4.jpg",
-      "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects"
+      "url": "https://www.udemy.com/course/executive-diploma-in-business-management-and-administration/?couponCode=FB10592E77C4E714EB67",
+      "coupon_code": "FB10592E77C4E714EB67",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5799108_7fe2.jpg",
+      "title": "Executive Diploma in Business Management and Administration"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-leadership-and-management/?couponCode=787C9EB026F70A254E67",
+      "coupon_code": "787C9EB026F70A254E67",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5805546_9b91_2.jpg",
+      "title": "Executive Diploma in Leadership and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-fundamentals-course-for-beginners/?couponCode=53C3444A7B5F479DB5E9",
+      "coupon_code": "53C3444A7B5F479DB5E9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638424_41f4.jpg",
+      "title": "Java Fundamentals Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/masterclass-de-ingenieria-en-ia-de-cero-a-heroe-de-la-ia/?couponCode=JAN_FREE_02",
@@ -56,31 +51,76 @@
       "title": "[ES] Masterclass IA: De Cero a Héroe de la IA"
     },
     {
+      "url": "https://www.udemy.com/course/mastering-javascript-and-jquery-course-beginners-to-advanced/?couponCode=D313AE0E8167D00761DB",
+      "coupon_code": "D313AE0E8167D00761DB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5652818_10f1_2.jpg",
+      "title": "Mastering JavaScript and jQuery Course Beginners to Advanced"
+    },
+    {
       "url": "https://www.udemy.com/course/professional-diploma-in-life-coaching-business-mentorship/?couponCode=9C818D9D15FEC215DCDB",
       "coupon_code": "9C818D9D15FEC215DCDB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5796500_ddbb.jpg",
+      "title": "Professional Diploma in Life Coaching & Business Mentorship"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-social-media-marketing-copywriting/?couponCode=A37B4DAD6B26E420D023",
       "coupon_code": "A37B4DAD6B26E420D023",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5795130_8ace.jpg",
+      "title": "Professional Diploma in Social Media Marketing & Copywriting"
     },
     {
-      "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=JAN_FREE_02",
-      "coupon_code": "JAN_FREE_02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6533119_fd9a_5.jpg",
-      "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing"
+      "url": "https://www.udemy.com/course/python-for-data-science-pro-the-complete-mastery-course/?couponCode=BAEE9D071A5CB7F4AA1A",
+      "coupon_code": "BAEE9D071A5CB7F4AA1A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6137323_e6a1_3.jpg",
+      "title": "Python for Data Science Pro: The Complete Mastery Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-and-php-essentials-complete-coding-bootcamp/?couponCode=786A4F15EA98B8803429",
+      "coupon_code": "786A4F15EA98B8803429",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6150957_d964_3.jpg",
+      "title": "Python, Java and PHP Essentials: Complete Coding Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/the-self-help-masterclass-life-lessons-from-books/?couponCode=636B1F74474206818F3D",
       "coupon_code": "636B1F74474206818F3D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6782099_ce34.jpg",
+      "title": "“The Self-Help Masterclass: Life Lessons from Books\""
     },
     {
       "url": "https://www.udemy.com/course/the-time-management-mastery/?couponCode=NEW-YEAR",
       "coupon_code": "NEW-YEAR",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6936121_7424_2.jpg",
       "title": "Time Management Masterclass: Focus, Productivity and Balance"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6496525_b818_3.jpg",
+      "title": "AI & Python Development Megaclass - 300+ Hands-on Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6535141_5559_4.jpg",
+      "title": "AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)"
+    },
+    {
+      "url": "https://www.udemy.com/course/devops-to-mlops-bootcamp/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6565297_6f61_3.jpg",
+      "title": "Ultimate DevOps to MLOps Bootcamp - Build ML CI/CD Pipelines"
+    },
+    {
+      "url": "https://www.udemy.com/course/llm-engineer/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561937_c4ca_4.jpg",
+      "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6533119_fd9a_5.jpg",
+      "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing"
     },
     {
       "url": "https://www.udemy.com/course/ultimate_devsecops_bootcamp/?couponCode=JAN_FREE_02",
