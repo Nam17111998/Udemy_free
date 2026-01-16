@@ -1,81 +1,186 @@
 {
-  "updated_at": "2026-01-16T04:05:47Z",
-  "count": 926,
+  "updated_at": "2026-01-16T05:33:46Z",
+  "count": 941,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6496525_b818_3.jpg",
+      "title": "AI & Python Development Megaclass - 300+ Hands-on Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6492625_085b.jpg",
+      "title": "AI & Quantum Computing Mastery: From Zero to Expert Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6535141_5559_4.jpg",
+      "title": "AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootcamp-de-devops-a-mlops-transicion-hacia-la-ingenieria-p/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6582431_325b_3.jpg",
+      "title": "Bootcamp MLOps: CI/CD para Modelos"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
+      "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/devops-to-mlops-bootcamp/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6565297_6f61_3.jpg",
+      "title": "Ultimate DevOps to MLOps Bootcamp - Build ML CI/CD Pipelines"
+    },
+    {
+      "url": "https://www.udemy.com/course/devopsmlopsml/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581047_079b_4.jpg",
+      "title": "MLOpsブートキャンプ：モデルのCI/CD構築"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6465823_9d68_2.jpg",
+      "title": "Full-Stack AI with Ollama: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/llm-engineer/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561937_c4ca_4.jpg",
+      "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-de-ingenieria-en-ia-de-cero-a-heroe-de-la-ia/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581483_07d8_2.jpg",
+      "title": "[ES] Masterclass IA: De Cero a Héroe de la IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-ai-agents-bootcamp-build-smart-chatbots-tools/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6487855_4b85.jpg",
+      "title": "Mastering AI Agents Bootcamp: Build Smart Chatbots & Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6464197_01e8_3.jpg",
+      "title": "Mastering DeepScaleR: Build & Deploy AI Models with Ollama"
+    },
+    {
+      "url": "https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6459811_f9be.jpg",
+      "title": "Mistral AI Development: AI with Mistral, LangChain & Ollama"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6533119_fd9a_5.jpg",
+      "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate_devsecops_bootcamp/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6550789_640e_6.jpg",
+      "title": "Ultimate DevSecOps Bootcamp by School of Devops"
+    },
     {
       "url": "https://www.udemy.com/course/ai-ethicsresponsible-use/?couponCode=55EB2F7B8F89BFE4E61B",
       "coupon_code": "55EB2F7B8F89BFE4E61B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6936915_998a.jpg",
+      "title": "AI Ethics/Responsible Use"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-product-management-innovation-r/?couponCode=3E39AD9A590DFD4F2491",
       "coupon_code": "3E39AD9A590DFD4F2491",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6632815_249d.jpg",
+      "title": "AI for Product Management & Innovation"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-aec/?couponCode=5B52EE48611EDA615562",
       "coupon_code": "5B52EE48611EDA615562",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5786022_2e4a_2.jpg",
+      "title": "ChatGPT for Product Management & Innovation"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-product-owners/?couponCode=1A93F258C3A53BF92EFE",
       "coupon_code": "1A93F258C3A53BF92EFE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6466427_3465.jpg",
+      "title": "ChatGPT for Product Management"
     },
     {
       "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=BE1EED0421BE1E511019",
       "coupon_code": "BE1EED0421BE1E511019",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3972018_b05f.jpg",
+      "title": "HTML 5,Python,Flask Framework All In One Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/interview-resume-mastery-from-resume-to-job-offer/?couponCode=B8D1437775E460A256CB",
       "coupon_code": "B8D1437775E460A256CB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6817911_c1e1.jpg",
+      "title": "Interview & Resume Mastery: From Resume to Job Offer"
     },
     {
       "url": "https://www.udemy.com/course/master-agile-scrum-basics/?couponCode=A3DD7075ECE51D651A95",
       "coupon_code": "A3DD7075ECE51D651A95",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5628029_6ac3_6.jpg",
+      "title": "Master Agile & Scrum Basics"
     },
     {
       "url": "https://www.udemy.com/course/presentations-with-chatgpt-aec/?couponCode=DCC960F50EE72BDB7BD4",
       "coupon_code": "DCC960F50EE72BDB7BD4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6217497_d55a_2.jpg",
+      "title": "Presentations with ChatGPT"
     },
     {
       "url": "https://www.udemy.com/course/presentations-with-chatgpt-aece/?couponCode=8DCE241F0084C0A728FB",
       "coupon_code": "8DCE241F0084C0A728FB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6363967_434c.jpg",
+      "title": "Presentations with AI"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-scrum/?couponCode=94F89D9287501FCFC3B9",
       "coupon_code": "94F89D9287501FCFC3B9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5754968_5307.jpg",
+      "title": "Professional Diploma in Agile and Scrum"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-the-executive-assistant/?couponCode=9919A1D97D961B1AC865",
       "coupon_code": "9919A1D97D961B1AC865",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5769960_3125.jpg",
+      "title": "Professional Diploma of the Executive Assistant"
     },
     {
       "url": "https://www.udemy.com/course/safe-general-overview-course-aece/?couponCode=6DE5468E7130D5B7F52D",
       "coupon_code": "6DE5468E7130D5B7F52D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6364385_1f05_3.jpg",
+      "title": "SAFe 6.0 Fundamentals: Scaled Agile Framework (SAFe) Basics"
     },
     {
       "url": "https://www.udemy.com/course/safe-general-overview-course/?couponCode=ECC720D49970A48D3785",
       "coupon_code": "ECC720D49970A48D3785",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6048331_349b_2.jpg",
+      "title": "SAFe®: General Overview course"
     },
     {
       "url": "https://www.udemy.com/course/salesforce-lwc-lightning-web-component-with-live-project/?couponCode=9D643F18EAE1E1BB1B1C",
       "coupon_code": "9D643F18EAE1E1BB1B1C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5629280_1f9c.jpg",
+      "title": "Salesforce LWC (Lightning Web Component) with Live Project"
     },
     {
       "url": "https://www.udemy.com/course/scrum-master-certification-aecl/?couponCode=17D8C301E87ACAC814A0",
       "coupon_code": "17D8C301E87ACAC814A0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6081469_f23a_2.jpg",
+      "title": "Scrum Master Certification"
     },
     {
       "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=3682D163CD385F753B8E",
