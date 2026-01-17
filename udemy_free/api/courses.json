@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-17T06:40:29Z",
-  "count": 978,
+  "updated_at": "2026-01-17T07:26:07Z",
+  "count": 983,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=9BEAC7FF9B06B666D00A",
@@ -13,8 +13,13 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/ecommerce-weblog-report-generation-project-in-apache-spark/?couponCode=3753AFB2854E69C80DF3",
-      "coupon_code": "3753AFB2854E69C80DF3",
+      "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=0D3EDEB1DC93837EEC87",
+      "coupon_code": "0D3EDEB1DC93837EEC87",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-ms-word-excel-powerpoint-course-for-job-success/?couponCode=1DF080086B395AADADEF",
+      "coupon_code": "1DF080086B395AADADEF",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -43,13 +48,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/illustrator-adobe-after-effects-cc/?couponCode=DC9571DB078CA8E5E2DB",
-      "coupon_code": "DC9571DB078CA8E5E2DB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/linux-for-data-engineers-hands-on/?couponCode=650B1B68BEF4E5800AD1",
-      "coupon_code": "650B1B68BEF4E5800AD1",
+      "url": "https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/?couponCode=94F6F7FED64FBFA46554",
+      "coupon_code": "94F6F7FED64FBFA46554",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -58,24 +58,56 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/professional-diploma-of-product-owner/?couponCode=17433E629C4923A661A7",
+      "coupon_code": "17433E629C4923A661A7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/python-automation-and-data-science-bootcamp-zero-to-hero/?couponCode=B927E2D68931890441AE",
       "coupon_code": "B927E2D68931890441AE",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/the-adobe-illustrator-cc-mega-mastery-course/?couponCode=F32D229BDB768D65B4C7",
+      "coupon_code": "F32D229BDB768D65B4C7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6836267_0b2a_2.jpg",
+      "title": "The Adobe Illustrator CC Mega Mastery Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-design-course-with-html-css-and-wordpress/?couponCode=F1B54DC7993A0D9D3C71",
+      "coupon_code": "F1B54DC7993A0D9D3C71",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266094_ae5a.jpg",
+      "title": "Web Design Course with HTML CSS and Wordpress"
+    },
+    {
+      "url": "https://www.udemy.com/course/ecommerce-weblog-report-generation-project-in-apache-spark/?couponCode=3753AFB2854E69C80DF3",
+      "coupon_code": "3753AFB2854E69C80DF3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2354532_1cdb_2.jpg",
+      "title": "Learn Apache Spark to Generate Weblog Reports for Websites"
+    },
+    {
+      "url": "https://www.udemy.com/course/illustrator-adobe-after-effects-cc/?couponCode=DC9571DB078CA8E5E2DB",
+      "coupon_code": "DC9571DB078CA8E5E2DB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6435243_aaab_3.jpg",
+      "title": "Adobe Illustrator & After Effects 2 in 1 Course for Newbies"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-for-data-engineers-hands-on/?couponCode=650B1B68BEF4E5800AD1",
+      "coupon_code": "650B1B68BEF4E5800AD1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4368656_0f79_2.jpg",
+      "title": "Linux for Data Engineers (Hands On)"
+    },
+    {
       "url": "https://www.udemy.com/course/python-game-development-and-app-programming-masterclass/?couponCode=5B19CB089DD82139F508",
       "coupon_code": "5B19CB089DD82139F508",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6894225_32bd.jpg",
+      "title": "Python Game Development and App Programming Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/spark-machine-learning-project-house-sale-price-prediction/?couponCode=A6A60A4B1E12E6749179",
       "coupon_code": "A6A60A4B1E12E6749179",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-adobe-illustrator-cc-mega-mastery-course/?couponCode=F32D229BDB768D65B4C7",
-      "coupon_code": "F32D229BDB768D65B4C7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2452496_efda_2.jpg",
+      "title": "Spark Machine Learning Project (House Sale Price Prediction)"
     },
     {
       "url": "https://www.udemy.com/course/agile-coach-certification/?couponCode=3820216CA4F35004BA7C",
