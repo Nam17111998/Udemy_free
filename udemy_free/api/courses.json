@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-01-17T05:27:44Z",
-  "count": 963,
+  "updated_at": "2026-01-17T06:40:29Z",
+  "count": 978,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=9BEAC7FF9B06B666D00A",
+      "coupon_code": "9BEAC7FF9B06B666D00A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=2D4AB1A787AB09C0CF4D",
+      "coupon_code": "2D4AB1A787AB09C0CF4D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ecommerce-weblog-report-generation-project-in-apache-spark/?couponCode=3753AFB2854E69C80DF3",
+      "coupon_code": "3753AFB2854E69C80DF3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-canva-course-for-graphics-design-learn-in-2-hour/?couponCode=423D406A5815786BC7E7",
+      "coupon_code": "423D406A5815786BC7E7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-excel-with-tips-trick-shortcuts-and-job-success/?couponCode=07B21F529645DA058574",
+      "coupon_code": "07B21F529645DA058574",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-automation-with-python-from-basics-to-advanced-tasks/?couponCode=5432A8E91AF4B14785C0",
+      "coupon_code": "5432A8E91AF4B14785C0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/forex-trading-master-course-zero-to-hero/?couponCode=3D348B0951D3217BEED8",
+      "coupon_code": "3D348B0951D3217BEED8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/forextradingrobotcreationcourse/?couponCode=9B238CC72D75925EC7E7",
+      "coupon_code": "9B238CC72D75925EC7E7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/illustrator-adobe-after-effects-cc/?couponCode=DC9571DB078CA8E5E2DB",
+      "coupon_code": "DC9571DB078CA8E5E2DB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-for-data-engineers-hands-on/?couponCode=650B1B68BEF4E5800AD1",
+      "coupon_code": "650B1B68BEF4E5800AD1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/motion-graphics-in-after-effects-cc-2022/?couponCode=417F360E2554B3D3C9DC",
+      "coupon_code": "417F360E2554B3D3C9DC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-automation-and-data-science-bootcamp-zero-to-hero/?couponCode=B927E2D68931890441AE",
+      "coupon_code": "B927E2D68931890441AE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-game-development-and-app-programming-masterclass/?couponCode=5B19CB089DD82139F508",
+      "coupon_code": "5B19CB089DD82139F508",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/spark-machine-learning-project-house-sale-price-prediction/?couponCode=A6A60A4B1E12E6749179",
+      "coupon_code": "A6A60A4B1E12E6749179",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-adobe-illustrator-cc-mega-mastery-course/?couponCode=F32D229BDB768D65B4C7",
+      "coupon_code": "F32D229BDB768D65B4C7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/agile-coach-certification/?couponCode=3820216CA4F35004BA7C",
       "coupon_code": "3820216CA4F35004BA7C",
@@ -47,17 +122,20 @@
     {
       "url": "https://www.udemy.com/course/mastering-innovation-competitions-hackathon-crowdsourcing/?couponCode=DB9E885F23796154D7FF",
       "coupon_code": "DB9E885F23796154D7FF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6047443_b3ba_5.jpg",
+      "title": "Mastering Innovation Competitions, Hackathon & Crowdsourcing"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/?couponCode=97CDA058087A912D89CB",
       "coupon_code": "97CDA058087A912D89CB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg",
+      "title": "Microsoft Excel Data Analysis for Business & Finance"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-for-beginners-excel-for-everyday-use/?couponCode=A41E53308D5CF3502947",
       "coupon_code": "A41E53308D5CF3502947",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6764699_301f.jpg",
+      "title": "Microsoft Excel for Beginners: Excel for Everyday Use"
     },
     {
       "url": "https://www.udemy.com/course/product-owner-certification-agileenterprisecoach/?couponCode=E889F5517F91EB82F2AB",
@@ -68,12 +146,14 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-finance-business-partner/?couponCode=DE4A1A0B1069BFA4EA20",
       "coupon_code": "DE4A1A0B1069BFA4EA20",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873934_a8d6.jpg",
+      "title": "Professional Diploma of Finance Business Partner"
     },
     {
       "url": "https://www.udemy.com/course/purrfect-companions/?couponCode=99ED2808BAE49C328A35",
       "coupon_code": "99ED2808BAE49C328A35",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6783595_04d9.jpg",
+      "title": "Mastering Cat Care: Be Your Cat’s Best Friend"
     },
     {
       "url": "https://www.udemy.com/course/python-programming-python-bootcamp-for-beginners/?couponCode=A5483777ABF6621D6C70",
@@ -84,7 +164,8 @@
     {
       "url": "https://www.udemy.com/course/wild-instincts-discover-the-secret-life-of-animals/?couponCode=EF7573C3DE659FD416FF",
       "coupon_code": "EF7573C3DE659FD416FF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6921061_e071.jpg",
+      "title": "Etholog in actiony: How Animals Think & Survive in the Wild"
     },
     {
       "url": "https://www.udemy.com/course/build-product-management-deliverable-portfolio-using-chatgpt-aec/?couponCode=8B821466072CBE2F6DB0",
