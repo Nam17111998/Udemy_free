@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-01-18T05:31:00Z",
-  "count": 986,
+  "updated_at": "2026-01-18T06:41:00Z",
+  "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-course-for-beginner/?couponCode=569C11638288B2E7D1BE",
+      "coupon_code": "569C11638288B2E7D1BE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-powerpoint-course-for-professional-and-job-success/?couponCode=9000E3BC52C6BB7CE97D",
+      "coupon_code": "9000E3BC52C6BB7CE97D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=7BB9F7B31A693F48BC60",
+      "coupon_code": "7BB9F7B31A693F48BC60",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
+      "title": "Build a Backend REST API with Node JS from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/ceo-chief-executive-officer-program/?couponCode=EFA3A039BD8DA3FEACFE",
+      "coupon_code": "EFA3A039BD8DA3FEACFE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-master-in-agentic-ai/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600645_d4bb_6.jpg",
+      "title": "Certified Master in Agentic AI: A 52-Week Applied Program"
+    },
+    {
+      "url": "https://www.udemy.com/course/dominio-de-python-100-dias-100-proyectos/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=FA3B83918FC3E17BC4E5",
+      "coupon_code": "FA3B83918FC3E17BC4E5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-for-business-leaders-and-executives/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=9C0303FC5E3F6B7606E8",
+      "coupon_code": "9C0303FC5E3F6B7606E8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/pre-algebra-made-easy-the-complete-beginners-guide/?couponCode=53CE40092AD024730D94",
+      "coupon_code": "53CE40092AD024730D94",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/pro-photo-editing-with-photoshop-illustrator-lightroom-canva/?couponCode=EA4506EC1CA57FF1D976",
+      "coupon_code": "EA4506EC1CA57FF1D976",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
+      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
+    },
+    {
+      "url": "https://www.udemy.com/course/think-like-a-machine-computer-architecture-unlocked/?couponCode=B98B8D3C699E11BE96E4",
+      "coupon_code": "B98B8D3C699E11BE96E4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/unlock-the-secrets-of-polynomials-command-on-algebra/?couponCode=19378A5D85B749C2F5A0",
+      "coupon_code": "19378A5D85B749C2F5A0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-and-machine-learning-in-arabic/?couponCode=C9BC296A98EDF726E363",
       "coupon_code": "C9BC296A98EDF726E363",
@@ -13,18 +91,6 @@
       "coupon_code": "JAN_FREE_02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6602695_401e_2.jpg",
       "title": "AI Hero: A 12-Month Journey Taking You from Zero to Expert"
-    },
-    {
-      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=7BB9F7B31A693F48BC60",
-      "coupon_code": "7BB9F7B31A693F48BC60",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
-      "title": "Build a Backend REST API with Node JS from Scratch"
-    },
-    {
-      "url": "https://www.udemy.com/course/certified-master-in-agentic-ai/?couponCode=JAN_FREE_02",
-      "coupon_code": "JAN_FREE_02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6600645_d4bb_6.jpg",
-      "title": "Certified Master in Agentic AI: A 52-Week Applied Program"
     },
     {
       "url": "https://www.udemy.com/course/certified-nvidia-ai-expert/?couponCode=JAN_FREE_02",
@@ -85,12 +151,6 @@
       "coupon_code": "JAN_FREE_02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
       "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=JAN_FREE_02",
-      "coupon_code": "JAN_FREE_02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
-      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
     },
     {
       "url": "https://www.udemy.com/course/agentic-ai-playbook-for-tech-leaders/?couponCode=JAN_FREE_02",
