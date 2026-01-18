@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-01-18T04:10:12Z",
-  "count": 971,
+  "updated_at": "2026-01-18T05:31:00Z",
+  "count": 986,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-artificial-intelligence-and-machine-learning-in-arabic/?couponCode=C9BC296A98EDF726E363",
+      "coupon_code": "C9BC296A98EDF726E363",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5936318_e320_2.jpg",
+      "title": "أساسيات الذكاء الاصطناعي: مقدمة عن تقنيات الذكاء الاصطناعي"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602695_401e_2.jpg",
+      "title": "AI Hero: A 12-Month Journey Taking You from Zero to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=7BB9F7B31A693F48BC60",
+      "coupon_code": "7BB9F7B31A693F48BC60",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
+      "title": "Build a Backend REST API with Node JS from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-master-in-agentic-ai/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600645_d4bb_6.jpg",
+      "title": "Certified Master in Agentic AI: A 52-Week Applied Program"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-nvidia-ai-expert/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602697_ed18_4.jpg",
+      "title": "Certified Infra AI Expert: End-to-End GPU-Accelerated AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
+      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602567_4008.jpg",
+      "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
+      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605733_721d.jpg",
+      "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605637_60b2.jpg",
+      "title": "[FR] IA Full-Stack avec Ollama : Llama, Deepseek, Mistral"
+    },
+    {
+      "url": "https://www.udemy.com/course/ia-full-stack-con-ollama-llama-deepseek-mistral-qwq/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605609_456b_2.jpg",
+      "title": "[ES] IA Full-Stack con Ollama: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-toefl-ibt-the-ultimate-preparation-course/?couponCode=8EF16E927F9FC4AF8C46",
+      "coupon_code": "8EF16E927F9FC4AF8C46",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5933440_a544_4.jpg",
+      "title": "Mastering TOEFL iBT: The Ultimate Preparation Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600653_cf7b_3.jpg",
+      "title": "NCA‑AIIO SoAI‑Certified Associate: AI Infrastructure & Ops"
+    },
+    {
+      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
+      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
+      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
+    },
     {
       "url": "https://www.udemy.com/course/agentic-ai-playbook-for-tech-leaders/?couponCode=JAN_FREE_02",
       "coupon_code": "JAN_FREE_02",
