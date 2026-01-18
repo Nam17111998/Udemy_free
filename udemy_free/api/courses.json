@@ -1,96 +1,201 @@
 {
-  "updated_at": "2026-01-18T08:35:17Z",
-  "count": 926,
+  "updated_at": "2026-01-18T09:28:35Z",
+  "count": 941,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=BFCE09F1D07059996867",
+      "coupon_code": "BFCE09F1D07059996867",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-accounting-professionals-financial-statement-analysis-audit/?couponCode=FF749242CB51C099E96C",
+      "coupon_code": "FF749242CB51C099E96C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-brand-storytelling-branding-fast-track-using-chatgpt/?couponCode=AC665478688903ADE7E1",
+      "coupon_code": "AC665478688903ADE7E1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-creative-leaders-generative-ai-chatgpt-fast-track/?couponCode=971B401B4D370FAA373A",
+      "coupon_code": "971B401B4D370FAA373A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6862183_b31d.jpg",
+      "title": "AI for Creative Leaders: Generative AI & ChatGPT Fast-Track"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-creative-marketing-master-ai-chatgpt-for-marketing/?couponCode=50FE6A76EA83FAA6EA88",
+      "coupon_code": "50FE6A76EA83FAA6EA88",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6998499_e9ce_2.jpg",
+      "title": "AI for Creative Marketing: Master AI & ChatGPT For Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/basic-wordpress-web-development-course-for-beginner-zero-to-hero/?couponCode=F39A8F07E2FA88C0F0D7",
+      "coupon_code": "F39A8F07E2FA88C0F0D7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4382174_4217.jpg",
+      "title": "Wordpress Web Development for Absolute Beginner Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-pcep-python-certification-course-beginner-friendly/?couponCode=5ACFFC2A3F422506666F",
+      "coupon_code": "5ACFFC2A3F422506666F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6922633_a6ea.jpg",
+      "title": "Complete PCEP Python Certification Course Beginner Friendly"
+    },
+    {
+      "url": "https://www.udemy.com/course/fiverr-freelancing-for-absolute-beginners-basic-to-advance/?couponCode=7C4A4678AFA0FBA15288",
+      "coupon_code": "7C4A4678AFA0FBA15288",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4171640_fe6a_2.jpg",
+      "title": "Fiverr Freelancing For Absolute Beginners: Basic to Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-fundamental-of-python-machine-learning/?couponCode=F810C8613075BFB747BB",
+      "coupon_code": "F810C8613075BFB747BB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5646364_b845_4.jpg",
+      "title": "Machine Learning - Fundamental of Python Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini/?couponCode=8B12EBB75B06756DBE01",
+      "coupon_code": "8B12EBB75B06756DBE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6815619_7008_4.jpg",
+      "title": "MS Office with AI - Word Excel PowerPoint ChatGpt Gemini"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/?couponCode=BF3137ABE469E6F84FF7",
+      "coupon_code": "BF3137ABE469E6F84FF7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663784_d3d0_2.jpg",
+      "title": "NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-customer-centricity-and-design-thinking/?couponCode=DBC3609B96155109030A",
+      "coupon_code": "DBC3609B96155109030A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5942356_9e8f.jpg",
+      "title": "Professional Diploma: Customer Centricity & Design Thinking"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-automation-automate-tasks-excel-web-and-files/?couponCode=9F95E970A580EF69817E",
+      "coupon_code": "9F95E970A580EF69817E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6897205_937d.jpg",
+      "title": "Python for Automation: Automate Tasks, Excel, Web and Files"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=4241CB04427D44946361",
+      "coupon_code": "4241CB04427D44946361",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119559_527e.jpg",
+      "title": "Python & Java: Master Backend & Frontend Web Developments"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-mysql-bootcamp-go-from-beginner-to-expert/?couponCode=D299D6ADF84E49203821",
+      "coupon_code": "D299D6ADF84E49203821",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5658548_cef9_2.jpg",
+      "title": "The Complete MySQL Bootcamp: Go from Beginner to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/ai-hr-become-master-of-ai-in-hr-world-learn-100-ai-tools/?couponCode=PAPAHR_JAN_18",
       "coupon_code": "PAPAHR_JAN_18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6336037_af91_4.jpg",
+      "title": "AI HR Artificial Intelligence ChatGPT Human Resources [EN]"
     },
     {
       "url": "https://www.udemy.com/course/aws-essentials-a-complete-beginners-guide/?couponCode=1B0447C0EF9856E2D1DC",
       "coupon_code": "1B0447C0EF9856E2D1DC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6137243_6d44.jpg",
+      "title": "AWS Essentials: A Complete Beginner's Guide"
     },
     {
       "url": "https://www.udemy.com/course/become-a-certified-people-partner-your-path-to-a-rewarding/?couponCode=PAPAHR_JAN_18",
       "coupon_code": "PAPAHR_JAN_18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6305507_0e25_7.jpg",
+      "title": "People Partner HR certification program for future HRBP [EN]"
     },
     {
       "url": "https://www.udemy.com/course/become-better-people-manager-with-these-50-tools/?couponCode=PAPAHR_JAN_18",
       "coupon_code": "PAPAHR_JAN_18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6338105_df92_6.jpg",
+      "title": "People Manager Certification Course [EN]"
     },
     {
       "url": "https://www.udemy.com/course/become-certified-hr-director-and-get-200-hr-tools/?couponCode=PAPAHR_JAN_18",
       "coupon_code": "PAPAHR_JAN_18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6322135_03f0_6.jpg",
+      "title": "HR Director 2026 Ultimate course with 500+ HR Tools [EN]"
     },
     {
       "url": "https://www.udemy.com/course/capcut-canva-masterclass-graphic-design-with-video-edit/?couponCode=2FBA52B90467EBE688CF",
       "coupon_code": "2FBA52B90467EBE688CF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6704861_1997.jpg",
+      "title": "CapCut and Canva Masterclass Graphic Design With Video Edit"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-hr-and-recruiters-12-academic-hours-200-tools/?couponCode=PAPAHR_JAN_18",
       "coupon_code": "PAPAHR_JAN_18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6334125_5d0d_5.jpg",
+      "title": "ChatGPT for HR AI Powered Automation Talent Management [EN]"
     },
     {
       "url": "https://www.udemy.com/course/director-de-rrhh-curso-en-linea-en-espanol/?couponCode=PAPAHR_JAN_18",
       "coupon_code": "PAPAHR_JAN_18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6297335_1b4f_6.jpg",
+      "title": "Director de RRHH (Recursos Humanos): Curso 2026 [ES]"
     },
     {
       "url": "https://www.udemy.com/course/future-of-hr-master-2025-2030-trends-and-strategies/?couponCode=PAPAHR_JAN_18",
       "coupon_code": "PAPAHR_JAN_18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6346421_7af3_3.jpg",
+      "title": "HR Trends 2026-2030: AI and Digital HR, Hybrid Work [EN]"
     },
     {
       "url": "https://www.udemy.com/course/master-logo-design-with-photoshop-illustrator-zero-to-pro/?couponCode=8660C344B69FB79C5C8C",
       "coupon_code": "8660C344B69FB79C5C8C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6078937_4e36_3.jpg",
+      "title": "Master Logo Design with Photoshop Illustrator Zero to Pro"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-vba-excel-automation-reports-dashboards-and-task/?couponCode=20DD915DD5F9E62329F4",
       "coupon_code": "20DD915DD5F9E62329F4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995645_866e_4.jpg",
+      "title": "Microsoft VBA Excel Automation: Reports, Dashboards and Task"
     },
     {
       "url": "https://www.udemy.com/course/modern-leadership-be-your-team-coach-not-a-boss/?couponCode=PAPAHR_JAN_18",
       "coupon_code": "PAPAHR_JAN_18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6337753_4e27_7.jpg",
+      "title": "Leadership skills for managers and PM in AI era [EN]"
     },
     {
       "url": "https://www.udemy.com/course/python-course-for-app-developers-build-your-first-app/?couponCode=DB520DE17A07AB809ABE",
       "coupon_code": "DB520DE17A07AB809ABE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6104657_1cc1_3.jpg",
+      "title": "Python Course for App Developers: Build Your First App"
     },
     {
       "url": "https://www.udemy.com/course/python-programming-for-beginners-learn-python-from-scratch/?couponCode=DBC5819453BA917C604A",
       "coupon_code": "DBC5819453BA917C604A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6053693_14e0_2.jpg",
+      "title": "Python Programming for Beginners: Learn Python from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/social-media-recruitment-from-linkedin-to-facebook-github/?couponCode=PAPAHR_JAN_18",
       "coupon_code": "PAPAHR_JAN_18",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6337673_b692_4.jpg",
+      "title": "Social Recruiting: Facebook, Github, LinkedIn Recruiter [EN]"
     },
     {
       "url": "https://www.udemy.com/course/bootcamp-de-agentes-de-ia-crea-chatbots-inteligentes/?couponCode=JAN_FREE_02",
       "coupon_code": "JAN_FREE_02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6588621_57bb_3.jpg",
+      "title": "[ES] Bootcamp Agentes IA: Crea Chatbots Inteligentes"
     },
     {
       "url": "https://www.udemy.com/course/bootcamp-de-ia-practica-y-certificacion-en-7-dias/?couponCode=JAN_FREE_02",
       "coupon_code": "JAN_FREE_02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6587237_acc6_2.jpg",
+      "title": "[ES] Bootcamp de IA Práctica y Certificación en 7 Días"
     },
     {
       "url": "https://www.udemy.com/course/ceo-chief-executive-officer-program/?couponCode=EFA3A039BD8DA3FEACFE",
       "coupon_code": "EFA3A039BD8DA3FEACFE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5937098_185b.jpg",
+      "title": "Chief Executive Officer (CEO) Program"
     },
     {
       "url": "https://www.udemy.com/course/digital-electronics-from-basic-to-advance/?couponCode=10BEA88ECD0FF77F1185",
@@ -101,42 +206,50 @@
     {
       "url": "https://www.udemy.com/course/engineering-mathematics-sd/?couponCode=74CD99F9E69EB350AB16",
       "coupon_code": "74CD99F9E69EB350AB16",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4906554_6e03.jpg",
+      "title": "Mastering Fourier Series and Infinite Series in Engineering"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-for-business-leaders-and-executives/?couponCode=JAN_FREE_02",
       "coupon_code": "JAN_FREE_02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6595497_64d5.jpg",
+      "title": "Generative AI for Business Leaders and Executives"
     },
     {
       "url": "https://www.udemy.com/course/hypnotic-speech/?couponCode=BC8111663A8B3EF304B5",
       "coupon_code": "BC8111663A8B3EF304B5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4667710_4d53.jpg",
+      "title": "Master Hypnotic Speech: Mesmerize everyone!"
     },
     {
       "url": "https://www.udemy.com/course/introduction-with-amines-organic-chemistry/?couponCode=2A0A0151C2E90107DDA1",
       "coupon_code": "2A0A0151C2E90107DDA1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4597978_5b23.jpg",
+      "title": "Introduction with Amines (Organic Chemistry)"
     },
     {
       "url": "https://www.udemy.com/course/lets-learn-modern-physics/?couponCode=B3F6635FB4D41C960C25",
       "coupon_code": "B3F6635FB4D41C960C25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4642722_5e28.jpg",
+      "title": "The Modern Physics Blueprint: Learn to Think Like Physicist"
     },
     {
       "url": "https://www.udemy.com/course/master-inverse-trigonometry-from-basic-to-advancemaths/?couponCode=8188388882F0F68C5556",
       "coupon_code": "8188388882F0F68C5556",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4212802_e115_3.jpg",
+      "title": "Unlocking Inverse Trigonometry: Mastering From Scratch (WOW)"
     },
     {
       "url": "https://www.udemy.com/course/master-set-theory-from-scratch/?couponCode=3F115C5E66B1569BE3A7",
       "coupon_code": "3F115C5E66B1569BE3A7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4230804_d544_5.jpg",
+      "title": "SET THEORY"
     },
     {
       "url": "https://www.udemy.com/course/number-theory-unvisited-applications-in-the-real-world/?couponCode=96B7F6301B0D9F9D7CFF",
       "coupon_code": "96B7F6301B0D9F9D7CFF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4018274_b94f_4.jpg",
+      "title": "Number Theory (Unvisited applications in the Real World)"
     },
     {
       "url": "https://www.udemy.com/course/physics-in-motion/?couponCode=5FEDB4B4E3ED82D40E00",
@@ -159,12 +272,14 @@
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-course-for-beginner/?couponCode=569C11638288B2E7D1BE",
       "coupon_code": "569C11638288B2E7D1BE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5182936_0106_2.jpg",
+      "title": "Adobe Illustrator Course For Beginner"
     },
     {
       "url": "https://www.udemy.com/course/advanced-powerpoint-course-for-professional-and-job-success/?couponCode=9000E3BC52C6BB7CE97D",
       "coupon_code": "9000E3BC52C6BB7CE97D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5182934_d5cc.jpg",
+      "title": "Advanced PowerPoint Course For Professional and Job Success"
     },
     {
       "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=7BB9F7B31A693F48BC60",
@@ -181,12 +296,14 @@
     {
       "url": "https://www.udemy.com/course/dominio-de-python-100-dias-100-proyectos/?couponCode=JAN_FREE_02",
       "coupon_code": "JAN_FREE_02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6597337_e3b2.jpg",
+      "title": "[ES] Dominio de Python: 100 Días, 100 Proyectos"
     },
     {
       "url": "https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=FA3B83918FC3E17BC4E5",
       "coupon_code": "FA3B83918FC3E17BC4E5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5238908_582c.jpg",
+      "title": "Essential Lightroom Course for Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=9C0303FC5E3F6B7606E8",
@@ -221,12 +338,14 @@
     {
       "url": "https://www.udemy.com/course/think-like-a-machine-computer-architecture-unlocked/?couponCode=B98B8D3C699E11BE96E4",
       "coupon_code": "B98B8D3C699E11BE96E4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6760561_3101.jpg",
+      "title": "Think Like a Machine: Computer Architecture Unlocked"
     },
     {
       "url": "https://www.udemy.com/course/unlock-the-secrets-of-polynomials-command-on-algebra/?couponCode=19378A5D85B749C2F5A0",
       "coupon_code": "19378A5D85B749C2F5A0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182265_ef71_6.jpg",
+      "title": "Unlock the Secrets of Polynomials: Command On Algebra inside"
     },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-and-machine-learning-in-arabic/?couponCode=C9BC296A98EDF726E363",
