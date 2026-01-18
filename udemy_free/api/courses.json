@@ -1,21 +1,18 @@
 {
-  "updated_at": "2026-01-18T09:28:35Z",
-  "count": 941,
+  "updated_at": "2026-01-18T10:30:34Z",
+  "count": 948,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=BFCE09F1D07059996867",
-      "coupon_code": "BFCE09F1D07059996867",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/ai-for-accounting-professionals-financial-statement-analysis-audit/?couponCode=FF749242CB51C099E96C",
       "coupon_code": "FF749242CB51C099E96C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6850421_8180.jpg",
+      "title": "AI For Accounting Pros: Financial Statement Analysis & Audit"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-brand-storytelling-branding-fast-track-using-chatgpt/?couponCode=AC665478688903ADE7E1",
       "coupon_code": "AC665478688903ADE7E1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6859917_4adb.jpg",
+      "title": "AI for Brand Storytelling: Branding FAST TRACK Using ChatGPT"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-creative-leaders-generative-ai-chatgpt-fast-track/?couponCode=971B401B4D370FAA373A",
@@ -28,6 +25,78 @@
       "coupon_code": "50FE6A76EA83FAA6EA88",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6998499_e9ce_2.jpg",
       "title": "AI for Creative Marketing: Master AI & ChatGPT For Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/interior-design-for-living-room-simple-fast/?couponCode=0AC772C088AE643E7E5A",
+      "coupon_code": "0AC772C088AE643E7E5A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6827313_3217.jpg",
+      "title": "Interior Design For Your Dream Living Room - Simple & Fast"
+    },
+    {
+      "url": "https://www.udemy.com/course/logo-design-ai-master-logo-design-with-ai-logo-design/?couponCode=1F05BBA03EEC72B719E9",
+      "coupon_code": "1F05BBA03EEC72B719E9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6678553_0ec6.jpg",
+      "title": "Logo Design AI: Master Logo Design With AI (Logo Design A-Z)"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-fundamental-of-python-machine-learning/?couponCode=F810C8613075BFB747BB",
+      "coupon_code": "F810C8613075BFB747BB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5646364_b845_4.jpg",
+      "title": "Machine Learning - Fundamental of Python Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/navigating-the-crypto-universe-and-blockchain/?couponCode=938B21B6217285402276",
+      "coupon_code": "938B21B6217285402276",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5942956_65e5_2.jpg",
+      "title": "Navigating the Crypto Universe"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/?couponCode=BF3137ABE469E6F84FF7",
+      "coupon_code": "BF3137ABE469E6F84FF7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663784_d3d0_2.jpg",
+      "title": "NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-amazing-streaming-service/?couponCode=PHPSTREAMING53",
+      "coupon_code": "PHPSTREAMING53",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5338380_fc35.jpg",
+      "title": "PHP with MySQL: Build Amazing Streaming Service"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=4241CB04427D44946361",
+      "coupon_code": "4241CB04427D44946361",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119559_527e.jpg",
+      "title": "Python & Java: Master Backend & Frontend Web Developments"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-machine-learning-from-beginner-to-pro/?couponCode=BC8BC69A681D4AD098AF",
+      "coupon_code": "BC8BC69A681D4AD098AF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6136815_6345_2.jpg",
+      "title": "Python Machine Learning: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/rank-your-social-media-and-go-viral-be-social-media-master/?couponCode=2379B748F6DF55386B31",
+      "coupon_code": "2379B748F6DF55386B31",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6128285_7fd4_2.jpg",
+      "title": "Rank Your Social Media and Go Viral - Be Social Media Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-guide-to-instagram-marketing-for-businesses/?couponCode=582E72CE1783B46190EA",
+      "coupon_code": "582E72CE1783B46190EA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992018_0d73.jpg",
+      "title": "The Complete Guide to Instagram Marketing for Businesses"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-mysql-bootcamp-go-from-beginner-to-expert/?couponCode=D299D6ADF84E49203821",
+      "coupon_code": "D299D6ADF84E49203821",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5658548_cef9_2.jpg",
+      "title": "The Complete MySQL Bootcamp: Go from Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=BFCE09F1D07059996867",
+      "coupon_code": "BFCE09F1D07059996867",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3604676_63b5_4.jpg",
+      "title": "Adobe Premiere Pro CC Essential Video Editing Zero To Hero"
     },
     {
       "url": "https://www.udemy.com/course/basic-wordpress-web-development-course-for-beginner-zero-to-hero/?couponCode=F39A8F07E2FA88C0F0D7",
@@ -48,22 +117,10 @@
       "title": "Fiverr Freelancing For Absolute Beginners: Basic to Advance"
     },
     {
-      "url": "https://www.udemy.com/course/machine-learning-fundamental-of-python-machine-learning/?couponCode=F810C8613075BFB747BB",
-      "coupon_code": "F810C8613075BFB747BB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5646364_b845_4.jpg",
-      "title": "Machine Learning - Fundamental of Python Machine Learning"
-    },
-    {
       "url": "https://www.udemy.com/course/ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini/?couponCode=8B12EBB75B06756DBE01",
       "coupon_code": "8B12EBB75B06756DBE01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6815619_7008_4.jpg",
       "title": "MS Office with AI - Word Excel PowerPoint ChatGpt Gemini"
-    },
-    {
-      "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/?couponCode=BF3137ABE469E6F84FF7",
-      "coupon_code": "BF3137ABE469E6F84FF7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5663784_d3d0_2.jpg",
-      "title": "NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-customer-centricity-and-design-thinking/?couponCode=DBC3609B96155109030A",
@@ -76,18 +133,6 @@
       "coupon_code": "9F95E970A580EF69817E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6897205_937d.jpg",
       "title": "Python for Automation: Automate Tasks, Excel, Web and Files"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=4241CB04427D44946361",
-      "coupon_code": "4241CB04427D44946361",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6119559_527e.jpg",
-      "title": "Python & Java: Master Backend & Frontend Web Developments"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-mysql-bootcamp-go-from-beginner-to-expert/?couponCode=D299D6ADF84E49203821",
-      "coupon_code": "D299D6ADF84E49203821",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5658548_cef9_2.jpg",
-      "title": "The Complete MySQL Bootcamp: Go from Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/ai-hr-become-master-of-ai-in-hr-world-learn-100-ai-tools/?couponCode=PAPAHR_JAN_18",
