@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-01-18T13:34:25Z",
-  "count": 962,
+  "updated_at": "2026-01-18T14:25:56Z",
+  "count": 970,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584537_9e04_2.jpg",
+      "title": "[AR] دورة ماجستير في هندسة الذكاء الاصطناعي (AI)"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+    },
     {
       "url": "https://www.udemy.com/course/executive-certificate-in-business-leadership/?couponCode=439A328C798EE688B14C",
       "coupon_code": "439A328C798EE688B14C",
@@ -9,16 +21,82 @@
       "title": "Executive Certificate in Business Leadership"
     },
     {
-      "url": "https://www.udemy.com/course/google-sheets-bootcamp-boost-productivity-and-efficiency/?couponCode=24BC524D39E0B1DDD9D8",
-      "coupon_code": "24BC524D39E0B1DDD9D8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5815014_67b6_2.jpg",
-      "title": "Google Sheets Bootcamp Boost Productivity Expert in Cloud"
-    },
-    {
       "url": "https://www.udemy.com/course/growth-hacking-scarcity-marketing-in-the-digital-age/?couponCode=E40862DE4953BD8907D1",
       "coupon_code": "E40862DE4953BD8907D1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6930633_e549.jpg",
       "title": "Growth Hacking: Scarcity Marketing in the Digital Age"
+    },
+    {
+      "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584541_734c_2.jpg",
+      "title": "[DE] KI-Masterclass: Vom Anfänger zum KI-Helden"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584543_c6a8_2.jpg",
+      "title": "[PT] Masterclass de Engenharia de IA: Do Zero ao Herói da IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-en-ingenierie-de-lia-de-zero-a-heros-de-lia/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584539_825f_2.jpg",
+      "title": "[FR] Masterclass IA : De zéro à héros de l'IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/ncp-aii-nvidia-certified-professional-ai-infrastructure/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583073_4e3b_4.jpg",
+      "title": "SoAI-Certified Professional: AI Infrastructure (NCP-AII)"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-career-coaching/?couponCode=9BCB67D1FDCEB2AD5005",
+      "coupon_code": "9BCB67D1FDCEB2AD5005",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5952512_8382.jpg",
+      "title": "Professional Certificate in Career Coaching"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-coaching/?couponCode=4095F60F18D75CEFBDE2",
+      "coupon_code": "4095F60F18D75CEFBDE2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5952498_ce24.jpg",
+      "title": "Professional Certificate in Coaching"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-3/?couponCode=9902D1ED9D54A0795DF8",
+      "coupon_code": "9902D1ED9D54A0795DF8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182333_40a0_5.jpg",
+      "title": "Power Start in Project Management 3.0"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-for-beginner-to-expert-with-photoshop/?couponCode=311E45E920B9E9844EB2",
+      "coupon_code": "311E45E920B9E9844EB2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5658744_33bc_2.jpg",
+      "title": "T-Shirt Design for Beginner to Expert With Photoshop"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-in-adobe-illustrator-for-beginner-to-advanced/?couponCode=B9C4B997631DE6DFCDF7",
+      "coupon_code": "B9C4B997631DE6DFCDF7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638356_014e.jpg",
+      "title": "T-Shirt Design In Adobe Illustrator for Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
+    {
+      "url": "https://www.udemy.com/course/wastewater-treatment-explained/?couponCode=4CC6B6691CC3B308E40C",
+      "coupon_code": "4CC6B6691CC3B308E40C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5114376_18d7_5.jpg",
+      "title": "Introduction to Wastewater Management & Treatment"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-sheets-bootcamp-boost-productivity-and-efficiency/?couponCode=24BC524D39E0B1DDD9D8",
+      "coupon_code": "24BC524D39E0B1DDD9D8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5815014_67b6_2.jpg",
+      "title": "Google Sheets Bootcamp Boost Productivity Expert in Cloud"
     },
     {
       "url": "https://www.udemy.com/course/learn-t-shirt-design-with-photoshop-illustrator-and-canva/?couponCode=7423BD43070327E0FBD6",
@@ -39,34 +117,10 @@
       "title": "CyberSecurity Bootcamp: The Ultimate Beginner's Course"
     },
     {
-      "url": "https://www.udemy.com/course/professional-certificate-in-coaching/?couponCode=4095F60F18D75CEFBDE2",
-      "coupon_code": "4095F60F18D75CEFBDE2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5952498_ce24.jpg",
-      "title": "Professional Certificate in Coaching"
-    },
-    {
-      "url": "https://www.udemy.com/course/project-management-3/?couponCode=9902D1ED9D54A0795DF8",
-      "coupon_code": "9902D1ED9D54A0795DF8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6182333_40a0_5.jpg",
-      "title": "Power Start in Project Management 3.0"
-    },
-    {
       "url": "https://www.udemy.com/course/social-media-video-editing-with-premiere-pro-canva-filmora/?couponCode=A32182995A3D9855940A",
       "coupon_code": "A32182995A3D9855940A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5767990_03ce_2.jpg",
       "title": "Social Media Video Editing With Premiere Pro Canva Filmora"
-    },
-    {
-      "url": "https://www.udemy.com/course/t-shirt-design-for-beginner-to-expert-with-photoshop/?couponCode=311E45E920B9E9844EB2",
-      "coupon_code": "311E45E920B9E9844EB2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5658744_33bc_2.jpg",
-      "title": "T-Shirt Design for Beginner to Expert With Photoshop"
-    },
-    {
-      "url": "https://www.udemy.com/course/t-shirt-design-in-adobe-illustrator-for-beginner-to-advanced/?couponCode=B9C4B997631DE6DFCDF7",
-      "coupon_code": "B9C4B997631DE6DFCDF7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5638356_014e.jpg",
-      "title": "T-Shirt Design In Adobe Illustrator for Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-video-editing-bootcamp-from-beginning-to-expert/?couponCode=3230F9933CE26F321A7F",
@@ -85,12 +139,6 @@
       "coupon_code": "EA4E74B80B7902D91074",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5713346_2215.jpg",
       "title": "The Ultimate Microsoft Word: Essential Comprehensive Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/wastewater-treatment-explained/?couponCode=4CC6B6691CC3B308E40C",
-      "coupon_code": "4CC6B6691CC3B308E40C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5114376_18d7_5.jpg",
-      "title": "Introduction to Wastewater Management & Treatment"
     },
     {
       "url": "https://www.udemy.com/course/rank-your-social-media-and-go-viral-be-social-media-master/?couponCode=2379B748F6DF55386B31",
