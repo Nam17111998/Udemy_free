@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-01-18T02:29:27Z",
-  "count": 956,
+  "updated_at": "2026-01-18T04:10:12Z",
+  "count": 971,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agentic-ai-playbook-for-tech-leaders/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6739135_5917_2.jpg",
+      "title": "Agentic AI Playbook: Complete Guide for Tech Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-driven-infrastructure-as-code-iac-and-cloud-automation/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6733627_159a.jpg",
+      "title": "AI-Driven Infrastructure as Code (IaC) and Cloud Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-engineer-professional-certificate-course/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668985_b8fe.jpg",
+      "title": "AI Engineer Professional Certificate Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-product-manager-certificate/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6731869_7a3f_2.jpg",
+      "title": "[Non-Technical] AI Product Manager Explorer Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-product-manager-explorer-certificate/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6674999_550c.jpg",
+      "title": "[Technical] AI Product Manager Explorer Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/ceo-masterclass/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6718177_7f72_3.jpg",
+      "title": "The Certified Global CEO Masterclass: Leading at the Top"
+    },
+    {
+      "url": "https://www.udemy.com/course/cours-de-certification-professionnelle-en-ingenierie-de-lia/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685749_cffe_2.jpg",
+      "title": "Cours de Certification Professionnelle en Ingénierie de l’IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681103_07e8_3.jpg",
+      "title": "[ES] Certificado de Explorador en Ingeniería de IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-curso-de-certificacion-de-ingeniero-asociado-en-ia/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681191_52dd_2.jpg",
+      "title": "[ES] Curso de Certificación de Ingeniero Asociado en IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-curso-de-certificacion-profesional-en-ingenieria-de-ia/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6682597_e2a3_2.jpg",
+      "title": "[ES] Curso de Certificación Profesional en Ingeniería de IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
+      "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-cours-de-certification-ingenieur-associe-en-ia/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685687_8854.jpg",
+      "title": "[FR] Cours de Certification Ingénieur Associé en IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-foundational-certificate-course/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6738679_1d7d.jpg",
+      "title": "Generative AI Foundational Certificate Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/ml-ai-beginners-course/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6694141_0bc0_2.jpg",
+      "title": "Machine Learning & Artificial Intelligence Beginners Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/nca-genl-nvidia-certified-generative-ai-llms-specialization/?couponCode=JAN_FREE_02",
+      "coupon_code": "JAN_FREE_02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742031_6416.jpg",
+      "title": "NCA-GENL: SoAI-Certified Generative AI LLMs Specialization"
+    },
     {
       "url": "https://www.udemy.com/course/anti-corruption-and-anti-bribery/?couponCode=943EB708CBE3E4F485A6",
       "coupon_code": "943EB708CBE3E4F485A6",
