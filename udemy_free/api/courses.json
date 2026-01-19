@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-01-19T05:37:34Z",
-  "count": 925,
+  "updated_at": "2026-01-19T06:51:03Z",
+  "count": 940,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-graphics-design-video-editing/?couponCode=768E1B0CA0DD22412FC8",
+      "coupon_code": "768E1B0CA0DD22412FC8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5048144_f746_3.jpg",
+      "title": "Essential Photoshop Course Beginner to Intermediate"
+    },
+    {
+      "url": "https://www.udemy.com/course/automl-for-ai-powered-professionals/?couponCode=AIBRAIN01",
+      "coupon_code": "AIBRAIN01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4204684_a7e6_2.jpg",
+      "title": "Automated Machine Learning for Beginners (Google & Apple)"
+    },
+    {
+      "url": "https://www.udemy.com/course/bach-flower-therapy/?couponCode=357A4D00AF3237E94DDF",
+      "coupon_code": "357A4D00AF3237E94DDF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6754205_2363_2.jpg",
+      "title": "Bach Flower Therapy with Energy Healing and Emotional Reset"
+    },
+    {
+      "url": "https://www.udemy.com/course/commercial-contract-management-for-business-legal/?couponCode=385B0C38BD6F9F526691",
+      "coupon_code": "385B0C38BD6F9F526691",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6842927_bf11.jpg",
+      "title": "Commercial Contract Management for Business & Legal Use"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-video-editing-bootcamp-beginner-to-advanced/?couponCode=99BFE797AD8FC3DAD815",
+      "coupon_code": "99BFE797AD8FC3DAD815",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5408172_62aa.jpg",
+      "title": "Complete Video Editing BootCamp Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-excel-for-beginner-to-advanced/?couponCode=2252F80DBD867634A953",
+      "coupon_code": "2252F80DBD867634A953",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5002062_aa6a.jpg",
+      "title": "Essential Microsoft Excel from Beginner to Advance level"
+    },
+    {
+      "url": "https://www.udemy.com/course/fire-safety-for-construction-education-and-care-workers/?couponCode=06818C1819C86D0A341E",
+      "coupon_code": "06818C1819C86D0A341E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6928263_29ba.jpg",
+      "title": "Fire Safety for Construction, Education and Care Workers"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-for-european-business-leaders/?couponCode=C4DEA1A0F0BD1DDFE420",
+      "coupon_code": "C4DEA1A0F0BD1DDFE420",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863745_9ac6.jpg",
+      "title": "Generative AI for European Business Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/hormone-health-and-balance/?couponCode=DECMFREE_4",
+      "coupon_code": "DECMFREE_4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6730077_131c.jpg",
+      "title": "Hormonal Health Mastery: Stress, Sex, Diet & Steroid Effects"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-aviation-airlines-air-transportation-airports/?couponCode=C3A6678B14D203C096C3",
+      "coupon_code": "C3A6678B14D203C096C3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6038622_9308_2.jpg",
+      "title": "Diploma in Aviation, Airlines, Air Transportation & Airports"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-for-beginner-to-advanced-with-adobe-photoshop/?couponCode=757ABE0142462D060D8A",
+      "coupon_code": "757ABE0142462D060D8A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5408160_8b72_3.jpg",
+      "title": "T-Shirt Design for Beginner to Advanced with Adobe Photoshop"
+    },
+    {
+      "url": "https://www.udemy.com/course/uiux-with-figma-and-adobe-xd/?couponCode=6DA761B40D2B8123E33C",
+      "coupon_code": "6DA761B40D2B8123E33C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5463624_6dc8.jpg",
+      "title": "UIUX with Figma and Adobe XD"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-design-for-beginner-to-advanced/?couponCode=F2417738145C359B7B45",
+      "coupon_code": "F2417738145C359B7B45",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5026508_76f2_2.jpg",
+      "title": "Web Design Course For Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-development-bootcamp-with-html-css-php-mysql-wordpress/?couponCode=00F79F8273B460603CB3",
+      "coupon_code": "00F79F8273B460603CB3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5427554_4eab_2.jpg",
+      "title": "Web Development Bootcamp with HTML CSS PHP MySQL Wordpress"
+    },
+    {
+      "url": "https://www.udemy.com/course/youtube-masterclass-with-video-editing-and-graphics-design/?couponCode=7C1C6B0703B80C135CF9",
+      "coupon_code": "7C1C6B0703B80C135CF9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5466344_ac0f.jpg",
+      "title": "Youtube Masterclass With Video Editing and Graphics Design"
+    },
     {
       "url": "https://www.udemy.com/course/capie-certified-api-hacking-expert-course-content/?couponCode=644EACA2DE1C8D116473",
       "coupon_code": "644EACA2DE1C8D116473",
