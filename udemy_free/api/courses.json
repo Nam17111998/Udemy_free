@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-01-19T14:36:11Z",
-  "count": 906,
+  "updated_at": "2026-01-19T15:34:43Z",
+  "count": 910,
   "courses": [
     {
       "url": "https://www.udemy.com/course/advanced-prompt-engineering-certification/?couponCode=CE48A74A41E930D8580F",
       "coupon_code": "CE48A74A41E930D8580F",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/?couponCode=19JANUARY2026",
-      "coupon_code": "19JANUARY2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6713657_81e2.jpg",
-      "title": "Building Basic AI Agents and Custom GPTs"
     },
     {
       "url": "https://www.udemy.com/course/certificado-profissional-em-lideranca-e-gestao/?couponCode=7A3C0136BE0546867F26",
@@ -32,18 +26,6 @@
       "title": "CSS And JavaScript Complete Course For Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/?couponCode=19JANUARY2026",
-      "coupon_code": "19JANUARY2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6715099_6b9e_3.jpg",
-      "title": "Cursor AI for Beginners: AI Coding Crash Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/docker-deep-dive-build-ship-and-run-containers/?couponCode=19JANUARY2026",
-      "coupon_code": "19JANUARY2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6707623_30dc.jpg",
-      "title": "Docker Deep Dive: Build, Ship, and Run Containers"
-    },
-    {
       "url": "https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/?couponCode=19JANUARY2026",
       "coupon_code": "19JANUARY2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6691789_eafc_3.jpg",
@@ -54,6 +36,11 @@
       "coupon_code": "D713E8E3218250E7766C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6118139_f59a.jpg",
       "title": "Introdução à Gestão"
+    },
+    {
+      "url": "https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/?couponCode=371148C4D628773EF489",
+      "coupon_code": "371148C4D628773EF489",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/leonardo-ai-bootcamp-explore-visual-storytelling-with-ai/?couponCode=19JANUARY2026",
@@ -68,10 +55,9 @@
       "title": "Llama 4: AI Mastering Prompt Engineering"
     },
     {
-      "url": "https://www.udemy.com/course/n8n-ai-agent-creation-guide/?couponCode=19JANUARY2026",
-      "coupon_code": "19JANUARY2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6692461_9104_3.jpg",
-      "title": "N8N: AI Agent Creation Guide"
+      "url": "https://www.udemy.com/course/mastering-solidity/?couponCode=6866C809A58EA055063A",
+      "coupon_code": "6866C809A58EA055063A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/prompt-engineering-certification-master-ai/?couponCode=C0984BF8184F7B7768A7",
@@ -90,6 +76,40 @@
       "coupon_code": "526FE0365616C30AA60F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6697149_a02e.jpg",
       "title": "Supporting Autism & Dyslexia in Early Childhood Education"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-manager-management-skills-for-all-levels/?couponCode=A419D7681DFDD74E8B96",
+      "coupon_code": "A419D7681DFDD74E8B96",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-a-step-by-step-approach/?couponCode=NEW012026",
+      "coupon_code": "NEW012026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/?couponCode=19JANUARY2026",
+      "coupon_code": "19JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713657_81e2.jpg",
+      "title": "Building Basic AI Agents and Custom GPTs"
+    },
+    {
+      "url": "https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/?couponCode=19JANUARY2026",
+      "coupon_code": "19JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6715099_6b9e_3.jpg",
+      "title": "Cursor AI for Beginners: AI Coding Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-deep-dive-build-ship-and-run-containers/?couponCode=19JANUARY2026",
+      "coupon_code": "19JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6707623_30dc.jpg",
+      "title": "Docker Deep Dive: Build, Ship, and Run Containers"
+    },
+    {
+      "url": "https://www.udemy.com/course/n8n-ai-agent-creation-guide/?couponCode=19JANUARY2026",
+      "coupon_code": "19JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6692461_9104_3.jpg",
+      "title": "N8N: AI Agent Creation Guide"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-project-management-with-clickup/?couponCode=19JANUARY2026",
