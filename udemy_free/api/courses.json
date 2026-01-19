@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-01-19T16:38:55Z",
-  "count": 924,
+  "updated_at": "2026-01-19T17:30:07Z",
+  "count": 926,
   "courses": [
     {
       "url": "https://www.udemy.com/course/complete-css-web-design-course-front-end-web-development/?couponCode=6BFB83CE602D779122C4",
       "coupon_code": "6BFB83CE602D779122C4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000839_54b3.jpg",
+      "title": "Complete CSS Web Design Course: Front End Web Development"
     },
     {
       "url": "https://www.udemy.com/course/complete-python-bootcamp-for-data-science/?couponCode=EAB8A9403A5C8B88F12A",
       "coupon_code": "EAB8A9403A5C8B88F12A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6658989_1004.jpg",
+      "title": "Complete Python Bootcamp for Data Science in 2026"
     },
     {
       "url": "https://www.udemy.com/course/effective-customer-service/?couponCode=CC5DA7CA653A4B4161D8",
       "coupon_code": "CC5DA7CA653A4B4161D8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6945269_0834.jpg",
+      "title": "Effective Customer Service"
     },
     {
       "url": "https://www.udemy.com/course/egyptian-arabic-for-travelers/?couponCode=EGYPTIANARABI",
       "coupon_code": "EGYPTIANARABI",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7003549_9f91.jpg",
+      "title": "Egyptian Arabic for Travelers:  Real Street Language in 2026"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-for-the-workplace-t/?couponCode=5D2025FB37600A5F7A46",
       "coupon_code": "5D2025FB37600A5F7A46",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6919063_326e_2.jpg",
+      "title": "Emotional Intelligence for the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/fast-track-to-shell-scripting-for-linux-admins/?couponCode=D95F438049B2B65A0455",
@@ -34,24 +39,34 @@
       "title": "Learn Linux Shell Scripting for Admins & DevOps in 2 Hours"
     },
     {
+      "url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/?couponCode=0F90AAE44597DD66A721",
+      "coupon_code": "0F90AAE44597DD66A721",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6131097_b544_4.jpg",
+      "title": "GIT, GitLab, GitHub Fundamentals for Software Developers"
+    },
+    {
       "url": "https://www.udemy.com/course/how-to-do-bookkeeping-for-beginners-theory-practical/?couponCode=2365ED17CF48E5032E29",
       "coupon_code": "2365ED17CF48E5032E29",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619303_6052.jpg",
+      "title": "How to do Bookkeeping for Beginners (Theory & Practical)"
     },
     {
       "url": "https://www.udemy.com/course/mastering-grep-sed-and-awk/?couponCode=539C3BE7C37F534B2E7B",
       "coupon_code": "539C3BE7C37F534B2E7B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6982351_bb77_2.jpg",
+      "title": "Mastering Text Processing with Grep, Sed and Awk"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-master-formulas-functions-and-data-tools/?couponCode=B9C069E163BBF460A1B0",
       "coupon_code": "B9C069E163BBF460A1B0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6867819_6d2d.jpg",
+      "title": "Microsoft Excel: Master Formulas, Functions, and Data Tools"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-power-automate-desktop-course-zero-to-expert-2/?couponCode=JAN-FREE-1000",
       "coupon_code": "JAN-FREE-1000",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4113334_ae3b_4.jpg",
+      "title": "Microsoft Power Automate Desktop - Zero to Expert : Part 2"
     },
     {
       "url": "https://www.udemy.com/course/python-for-mlops/?couponCode=4080B9F0046D3F33DD59",
@@ -60,24 +75,34 @@
       "title": "Python for MLOPS"
     },
     {
-      "url": "https://www.udemy.com/course/stress-management-overthinking-control/?couponCode=BEB59F018DEC7B7E8926",
-      "coupon_code": "BEB59F018DEC7B7E8926",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/the-fundamentals-of-inheritance-tax-in-uk-tax-system/?couponCode=83FED877133F44583F09",
       "coupon_code": "83FED877133F44583F09",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6979107_ae20_2.jpg",
+      "title": "The Fundamentals of Inheritance Tax in UK Tax System"
+    },
+    {
+      "url": "https://www.udemy.com/course/wild-instincts-discover-the-secret-life-of-animals/?couponCode=BAC9FE2DF4D0A1083BD2",
+      "coupon_code": "BAC9FE2DF4D0A1083BD2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6921061_e071.jpg",
+      "title": "Etholog in actiony: How Animals Think & Survive in the Wild"
     },
     {
       "url": "https://www.udemy.com/course/wordpress-web-development-in-urduhindi-beginner-to-pro/?couponCode=MAKECAREERIN2026",
       "coupon_code": "MAKECAREERIN2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000281_ecf8_5.jpg",
+      "title": "WordPress Web Development in Urdu/Hindi | Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/stress-management-overthinking-control/?couponCode=BEB59F018DEC7B7E8926",
+      "coupon_code": "BEB59F018DEC7B7E8926",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6985695_1c68.jpg",
+      "title": "Stress Management & Overthinking Control"
     },
     {
       "url": "https://www.udemy.com/course/advanced-prompt-engineering-certification/?couponCode=CE48A74A41E930D8580F",
       "coupon_code": "CE48A74A41E930D8580F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6869555_8341_6.jpg",
+      "title": "Advanced Prompt Engineering Certification"
     },
     {
       "url": "https://www.udemy.com/course/certificado-profissional-em-lideranca-e-gestao/?couponCode=7A3C0136BE0546867F26",
@@ -112,7 +137,8 @@
     {
       "url": "https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/?couponCode=371148C4D628773EF489",
       "coupon_code": "371148C4D628773EF489",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2948290_00a8_3.jpg",
+      "title": "Python Complete Course: with 30+ Hands-on Tasks and Solution"
     },
     {
       "url": "https://www.udemy.com/course/leonardo-ai-bootcamp-explore-visual-storytelling-with-ai/?couponCode=19JANUARY2026",
@@ -129,7 +155,8 @@
     {
       "url": "https://www.udemy.com/course/mastering-solidity/?couponCode=6866C809A58EA055063A",
       "coupon_code": "6866C809A58EA055063A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5519696_6ece_5.jpg",
+      "title": "Mastering Solidity, the Ethereum Programming Language"
     },
     {
       "url": "https://www.udemy.com/course/prompt-engineering-certification-master-ai/?couponCode=C0984BF8184F7B7768A7",
@@ -152,12 +179,14 @@
     {
       "url": "https://www.udemy.com/course/the-complete-manager-management-skills-for-all-levels/?couponCode=A419D7681DFDD74E8B96",
       "coupon_code": "A419D7681DFDD74E8B96",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5911350_c35a_3.jpg",
+      "title": "The Complete Manager: Management Skills Guide for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-a-step-by-step-approach/?couponCode=NEW012026",
       "coupon_code": "NEW012026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6201007_b527_22.jpg",
+      "title": "SQL Bootcamp 2026: Learn SQL from Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/?couponCode=19JANUARY2026",
