@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-01-19T20:32:10Z",
-  "count": 934,
+  "updated_at": "2026-01-19T21:27:28Z",
+  "count": 938,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=2FCC50DF6C30E9C7EB70",
+      "coupon_code": "2FCC50DF6C30E9C7EB70",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6194967_151b.jpg",
+      "title": "Advanced Program in Business and Entrepreneurship"
+    },
     {
       "url": "https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=DA0DECAF3BC0EC8051A7",
       "coupon_code": "DA0DECAF3BC0EC8051A7",
@@ -11,12 +17,14 @@
     {
       "url": "https://www.udemy.com/course/certificado-profissional-em-gestao-de-projetos/?couponCode=19999CB95D031194A92E",
       "coupon_code": "19999CB95D031194A92E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6166379_e3a9_2.jpg",
+      "title": "Certificado Profissional em Gestão de Projetos"
     },
     {
       "url": "https://www.udemy.com/course/certificate-of-leadership-excellence-in-business-management/?couponCode=6F2531CD795F21EDC13B",
       "coupon_code": "6F2531CD795F21EDC13B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180625_ba83.jpg",
+      "title": "Certificate of Leadership Excellence in Business Management"
     },
     {
       "url": "https://www.udemy.com/course/complete-python-bootcamp-for-data-science/?couponCode=EAB8A9403A5C8B88F12A",
@@ -25,9 +33,16 @@
       "title": "Complete Python Bootcamp for Data Science in 2026"
     },
     {
+      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=C54E173ADB392501EEF1",
+      "coupon_code": "C54E173ADB392501EEF1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6712869_0b21_3.jpg",
+      "title": "Superhumain – Investir en soi en apprenant en continu"
+    },
+    {
       "url": "https://www.udemy.com/course/diploma-in-office-management/?couponCode=DF2596B7C7C8E1AEF573",
       "coupon_code": "DF2596B7C7C8E1AEF573",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6716205_4e39_2.jpg",
+      "title": "Professional Diploma in Office Management (PDOM)"
     },
     {
       "url": "https://www.udemy.com/course/executive-certificate-in-digital-transformation/?couponCode=C5A128DEF4653ADAD0AD",
@@ -42,9 +57,40 @@
       "title": "GIT, GitLab, GitHub Fundamentals for Software Developers"
     },
     {
+      "url": "https://www.udemy.com/course/implement-isoiec-38500-it-governance-made-simple-x/?couponCode=2EF3637C5D812903BCC6",
+      "coupon_code": "2EF3637C5D812903BCC6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6748981_359a.jpg",
+      "title": "Implement ISO/IEC 38500: IT Governance Made Simple"
+    },
+    {
       "url": "https://www.udemy.com/course/iso-17020-lead-auditor-course-clause-by-clause/?couponCode=C54EC08DA368D4403495",
       "coupon_code": "C54EC08DA368D4403495",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6983749_746c_2.jpg",
+      "title": "ISO/IEC 17020:2012 & Lead Auditor Course (Clause-by-Clause)"
+    },
+    {
+      "url": "https://www.udemy.com/course/pgd-in-scom/?couponCode=816557B895FCF3C217E5",
+      "coupon_code": "816557B895FCF3C217E5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6609829_4ec7_2.jpg",
+      "title": "Postgraduate Diploma in Supply Chain & Operations Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=7EC1C45145EFE45B142E",
+      "coupon_code": "7EC1C45145EFE45B142E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860025_1f3c_3.jpg",
+      "title": "Liberté et Efficacité : vivre du minimalisme en voyageant"
+    },
+    {
+      "url": "https://www.udemy.com/course/warehousemanagement/?couponCode=1E0468FCE662648D0C59",
+      "coupon_code": "1E0468FCE662648D0C59",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180261_af84_2.jpg",
+      "title": "Professional Diploma in Warehouse Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/wild-instincts-discover-the-secret-life-of-animals/?couponCode=BAC9FE2DF4D0A1083BD2",
+      "coupon_code": "BAC9FE2DF4D0A1083BD2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6921061_e071.jpg",
+      "title": "Etholog in actiony: How Animals Think & Survive in the Wild"
     },
     {
       "url": "https://www.udemy.com/course/mastering-grep-sed-and-awk/?couponCode=539C3BE7C37F534B2E7B",
@@ -59,26 +105,10 @@
       "title": "Microsoft Power Automate Desktop - Zero to Expert : Part 2"
     },
     {
-      "url": "https://www.udemy.com/course/pgd-in-scom/?couponCode=816557B895FCF3C217E5",
-      "coupon_code": "816557B895FCF3C217E5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/python-for-mlops/?couponCode=4080B9F0046D3F33DD59",
       "coupon_code": "4080B9F0046D3F33DD59",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6711069_b42c.jpg",
       "title": "Python for MLOPS"
-    },
-    {
-      "url": "https://www.udemy.com/course/warehousemanagement/?couponCode=1E0468FCE662648D0C59",
-      "coupon_code": "1E0468FCE662648D0C59",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/wild-instincts-discover-the-secret-life-of-animals/?couponCode=BAC9FE2DF4D0A1083BD2",
-      "coupon_code": "BAC9FE2DF4D0A1083BD2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6921061_e071.jpg",
-      "title": "Etholog in actiony: How Animals Think & Survive in the Wild"
     },
     {
       "url": "https://www.udemy.com/course/wordpress-web-development-in-urduhindi-beginner-to-pro/?couponCode=MAKECAREERIN2026",
