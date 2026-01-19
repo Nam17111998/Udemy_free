@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-01-18T23:26:44Z",
-  "count": 903,
+  "updated_at": "2026-01-19T02:26:33Z",
+  "count": 908,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=63FF094A30312F8B829B",
+      "coupon_code": "63FF094A30312F8B829B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5112922_e7f7_9.jpg",
+      "title": "Learn React by Building the Simplest App from Scratch"
+    },
     {
       "url": "https://www.udemy.com/course/communication-skills-acquire-effective-communication/?couponCode=617A661AACB31A78C3F2",
       "coupon_code": "617A661AACB31A78C3F2",
@@ -11,7 +17,8 @@
     {
       "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=52CA0BE8C504DA958994",
       "coupon_code": "52CA0BE8C504DA958994",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
     },
     {
       "url": "https://www.udemy.com/course/data-analytics-visualization-acquire-demanded-tech-skills/?couponCode=58A4415FE6A49D3C10B4",
@@ -26,10 +33,28 @@
       "title": "Data Science Mastery 2025: Excel, Python & Tableau"
     },
     {
-      "url": "https://www.udemy.com/course/flutter-bloc-atoz/?couponCode=AYLAMOSTAFA",
-      "coupon_code": "AYLAMOSTAFA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5866534_a922_4.jpg",
-      "title": "Learn Flutter Bloc 2024"
+      "url": "https://www.udemy.com/course/decision-making-for-leaders-and-managers/?couponCode=9B784EC1C44D812D01FB",
+      "coupon_code": "9B784EC1C44D812D01FB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6011408_208c.jpg",
+      "title": "Decision Making for Leaders and Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/diploma-executivo-em-lideranca/?couponCode=50089A7EE88EAD456238",
+      "coupon_code": "50089A7EE88EAD456238",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5990764_25b2.jpg",
+      "title": "Diploma Executivo em Liderança"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-sales-management/?couponCode=1E1B81EE2AA2031808F7",
+      "coupon_code": "1E1B81EE2AA2031808F7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992344_c0b5.jpg",
+      "title": "Executive Certificate in Sales Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-business-and-data-analysis/?couponCode=7F858619288B59629FB3",
+      "coupon_code": "7F858619288B59629FB3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6011380_ea0b.jpg",
+      "title": "Business Data Analysis: The Strategic Thinking Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/llms-foundations-tokenization-and-word-embeddings-models/?couponCode=16CB74DAA754F47B4754",
@@ -42,18 +67,6 @@
       "coupon_code": "099DAFC01061F861E450",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5106238_d639_4.jpg",
       "title": "Mastering Social Media Marketing: Brand Building & Growth"
-    },
-    {
-      "url": "https://www.udemy.com/course/pgdincapitalmarket/?couponCode=94D33445797896735116",
-      "coupon_code": "94D33445797896735116",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6647621_9e8b_2.jpg",
-      "title": "Postgraduate Diploma in Capital Market (PGDCM)"
-    },
-    {
-      "url": "https://www.udemy.com/course/procurementandscm/?couponCode=1B60BB13CB1135AC66D1",
-      "coupon_code": "1B60BB13CB1135AC66D1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6118667_2363_4.jpg",
-      "title": "Mastering Procurement and Supply Chain Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-customer-experience-management/?couponCode=E74838BA6EE3FAF4C7A9",
@@ -74,16 +87,34 @@
       "title": "Professional Certificate in SMM Social Media Marketing"
     },
     {
-      "url": "https://www.udemy.com/course/python-development-and-python-programming-fundamentals/?couponCode=5AA79B5A36868E7402A5",
-      "coupon_code": "5AA79B5A36868E7402A5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5966548_dec0.jpg",
-      "title": "Python Development and Python Programming Fundamentals"
-    },
-    {
       "url": "https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=C0595B0176B926F38F2F",
       "coupon_code": "C0595B0176B926F38F2F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5429784_9725_2.jpg",
       "title": "Python for Data Science with Assignments"
+    },
+    {
+      "url": "https://www.udemy.com/course/flutter-bloc-atoz/?couponCode=AYLAMOSTAFA",
+      "coupon_code": "AYLAMOSTAFA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5866534_a922_4.jpg",
+      "title": "Learn Flutter Bloc 2024"
+    },
+    {
+      "url": "https://www.udemy.com/course/pgdincapitalmarket/?couponCode=94D33445797896735116",
+      "coupon_code": "94D33445797896735116",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6647621_9e8b_2.jpg",
+      "title": "Postgraduate Diploma in Capital Market (PGDCM)"
+    },
+    {
+      "url": "https://www.udemy.com/course/procurementandscm/?couponCode=1B60BB13CB1135AC66D1",
+      "coupon_code": "1B60BB13CB1135AC66D1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6118667_2363_4.jpg",
+      "title": "Mastering Procurement and Supply Chain Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-development-and-python-programming-fundamentals/?couponCode=5AA79B5A36868E7402A5",
+      "coupon_code": "5AA79B5A36868E7402A5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5966548_dec0.jpg",
+      "title": "Python Development and Python Programming Fundamentals"
     },
     {
       "url": "https://www.udemy.com/course/smartphone-detox-for-kids/?couponCode=2121DBBFC5B6B63BD29A",
