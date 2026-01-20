@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-01-20T02:22:04Z",
-  "count": 969,
+  "updated_at": "2026-01-20T04:10:46Z",
+  "count": 974,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/apache-zeppelin-big-data-visualization-tool/?couponCode=AF98B5DB3759CD427EF8",
+      "coupon_code": "AF98B5DB3759CD427EF8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=5C9385AF363F4A7A4E1F",
+      "coupon_code": "5C9385AF363F4A7A4E1F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificate-in-business-and-operations-management-excellence/?couponCode=EED00C4DE35172BE6CAE",
+      "coupon_code": "EED00C4DE35172BE6CAE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=6624E62B0A3166356C3D",
       "coupon_code": "6624E62B0A3166356C3D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg",
       "title": "CSS, JavaScript And PHP Complete Course For Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/diploma-in-digital-transformation-and-operational-excellence/?couponCode=4FFEE64F81E5438B0697",
-      "coupon_code": "4FFEE64F81E5438B0697",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242723_b925_2.jpg",
-      "title": "Diploma in Digital Transformation and Operational Excellence"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-management-case-analysis/?couponCode=075875846D272C7368B6",
@@ -51,22 +60,45 @@
       "title": "Best Resume, CV, Application Covering Letter writing course"
     },
     {
-      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=JANUARY_FREE2_2026",
-      "coupon_code": "JANUARY_FREE2_2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6949313_7782_4.jpg",
-      "title": "Language Learning with AI: Practical Skills Guide"
-    },
-    {
       "url": "https://www.udemy.com/course/learn-in-69-mins-how-to-make-right-career-choices/?couponCode=8798F08110E152A984AD",
       "coupon_code": "8798F08110E152A984AD",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4314450_1511_6.jpg",
       "title": "How to make right career choices & choosing one for success"
     },
     {
+      "url": "https://www.udemy.com/course/marketing-and-customer-experience-management-cxm-excellence/?couponCode=A30F5C6948FA9A726220",
+      "coupon_code": "A30F5C6948FA9A726220",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/nutritional-insights-mastering-healthy-eating-habits/?couponCode=B91B44482D2C14812ED0",
       "coupon_code": "B91B44482D2C14812ED0",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6269831_0298_4.jpg",
       "title": "Nutritional Insights- Mastering Healthy Eating Habits"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-remote-work-blueprint-build-your-anywhere-office/?couponCode=B36EB447726B8C7CB349",
+      "coupon_code": "B36EB447726B8C7CB349",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6169975_ca22_5.jpg",
+      "title": "The Remote Work Blueprint: Build Your Anywhere Office"
+    },
+    {
+      "url": "https://www.udemy.com/course/tiktok-marketing-mastery-learn-to-grow-go-viral/?couponCode=F880A06DFFF53448DEEB",
+      "coupon_code": "F880A06DFFF53448DEEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6174813_3e0f_4.jpg",
+      "title": "TikTok Domination: Unlock the Secrets to Viral Growth"
+    },
+    {
+      "url": "https://www.udemy.com/course/diploma-in-digital-transformation-and-operational-excellence/?couponCode=4FFEE64F81E5438B0697",
+      "coupon_code": "4FFEE64F81E5438B0697",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242723_b925_2.jpg",
+      "title": "Diploma in Digital Transformation and Operational Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=JANUARY_FREE2_2026",
+      "coupon_code": "JANUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6949313_7782_4.jpg",
+      "title": "Language Learning with AI: Practical Skills Guide"
     },
     {
       "url": "https://www.udemy.com/course/powerpoint-business-presentations-with-chatgpt-generative-ai/?couponCode=732D06207908542DFD01",
@@ -85,12 +117,6 @@
       "coupon_code": "JANUARY_FREE2_2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6705809_864e.jpg",
       "title": "Secure Code in Java and Spring Boot: Build Resilient Apps"
-    },
-    {
-      "url": "https://www.udemy.com/course/tiktok-marketing-mastery-learn-to-grow-go-viral/?couponCode=F880A06DFFF53448DEEB",
-      "coupon_code": "F880A06DFFF53448DEEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6174813_3e0f_4.jpg",
-      "title": "TikTok Domination: Unlock the Secrets to Viral Growth"
     },
     {
       "url": "https://www.udemy.com/course/agile-mindset-learnit/?couponCode=JANUARY_FREE2_2026",
