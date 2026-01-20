@@ -1,21 +1,109 @@
 {
-  "updated_at": "2026-01-20T04:10:46Z",
-  "count": 974,
+  "updated_at": "2026-01-20T05:36:42Z",
+  "count": 988,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-after-effect-essential-learn-video-motion-animation/?couponCode=66C0E792496859AC7EDA",
+      "coupon_code": "66C0E792496859AC7EDA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=E51E06BAE50D1978FAB0",
+      "coupon_code": "E51E06BAE50D1978FAB0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-product-management-innovation/?couponCode=4AAC6C6728467BDE96BD",
+      "coupon_code": "4AAC6C6728467BDE96BD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-graphics-design-bootcamp-beginner-to-advanced/?couponCode=7BCC4FF478A0244CA1AE",
+      "coupon_code": "7BCC4FF478A0244CA1AE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-guide-in-html-css-build-responsive-website/?couponCode=C4935B2801E1FCA39B7B",
+      "coupon_code": "C4935B2801E1FCA39B7B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-user-experience-design-adobe-xd-ui-ux-design/?couponCode=E1EAC2F723AF66DE49D0",
+      "coupon_code": "E1EAC2F723AF66DE49D0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5401788_18e8.jpg",
+      "title": "Essentials User Experience Design Adobe XD UI UX Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?couponCode=80978C3C5CBFEBF2A427",
+      "coupon_code": "80978C3C5CBFEBF2A427",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5840638_98b7_4.jpg",
+      "title": "Cloud Computing Fundamentals – Basics for Beginners [2026]"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-machine-learning-course-with-python-ml/?couponCode=80535BAC4D7F2F2AA232",
+      "coupon_code": "80535BAC4D7F2F2AA232",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5806954_502d_5.jpg",
+      "title": "Learn Machine Learning Course with Python A to Z"
+    },
+    {
+      "url": "https://www.udemy.com/course/marketing-and-customer-experience-management-cxm-excellence/?couponCode=A30F5C6948FA9A726220",
+      "coupon_code": "A30F5C6948FA9A726220",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6249413_d2b4_2.jpg",
+      "title": "Marketing & Customer Experience Management CXM Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-mysql-database-creation-management-sql-queries/?couponCode=F3E4939AF645B7645DCA",
+      "coupon_code": "F3E4939AF645B7645DCA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182905_c45a.jpg",
+      "title": "Mastering MYSQL: Database Creation, Management & SQL Queries"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-marketing-and-development-go-to-market-strategy/?couponCode=D3E73E01D4DD324862F1",
+      "coupon_code": "D3E73E01D4DD324862F1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6252799_37be.jpg",
+      "title": "Product Marketing: Advanced Go-to-Market (GTM) Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/safe-scaled-agile-framework/?couponCode=0BA8A12E0A47B3BD31E5",
+      "coupon_code": "0BA8A12E0A47B3BD31E5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5778316_fbd9.jpg",
+      "title": "SAFe (Scaled Agile Framework) Overview"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-mysql-postgresql-mongodb-all-in-one-database-course/?couponCode=5A397AEC6F1271539AAF",
+      "coupon_code": "5A397AEC6F1271539AAF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119595_498e.jpg",
+      "title": "SQL, MYSQL, POSTGRESQL & MONGODB: All-in-One Database Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/?couponCode=96F31902E3A9744C2950",
+      "coupon_code": "96F31902E3A9744C2950",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5642330_9d84_2.jpg",
+      "title": "The Complete C & C++ Programming Course - Mastering  C & C++"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-python-bootcamp-from-zero-to-expert/?couponCode=31E7F3F354A509820D38",
+      "coupon_code": "31E7F3F354A509820D38",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663772_24d8_5.jpg",
+      "title": "The Complete Python Bootcamp from Zero to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/apache-zeppelin-big-data-visualization-tool/?couponCode=AF98B5DB3759CD427EF8",
       "coupon_code": "AF98B5DB3759CD427EF8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2704742_a819_2.jpg",
+      "title": "Apache Zeppelin - Big Data Visualization Tool"
     },
     {
       "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=5C9385AF363F4A7A4E1F",
       "coupon_code": "5C9385AF363F4A7A4E1F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5049552_545e.jpg",
+      "title": "C++ And PHP Complete Course for C++ and PHP Beginners"
     },
     {
       "url": "https://www.udemy.com/course/certificate-in-business-and-operations-management-excellence/?couponCode=EED00C4DE35172BE6CAE",
       "coupon_code": "EED00C4DE35172BE6CAE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6248035_c1c7.jpg",
+      "title": "Certificate in Business & Operations Management Excellence"
     },
     {
       "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=6624E62B0A3166356C3D",
@@ -64,11 +152,6 @@
       "coupon_code": "8798F08110E152A984AD",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4314450_1511_6.jpg",
       "title": "How to make right career choices & choosing one for success"
-    },
-    {
-      "url": "https://www.udemy.com/course/marketing-and-customer-experience-management-cxm-excellence/?couponCode=A30F5C6948FA9A726220",
-      "coupon_code": "A30F5C6948FA9A726220",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/nutritional-insights-mastering-healthy-eating-habits/?couponCode=B91B44482D2C14812ED0",
