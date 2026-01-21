@@ -1,36 +1,132 @@
 {
-  "updated_at": "2026-01-21T04:10:27Z",
-  "count": 909,
+  "updated_at": "2026-01-21T05:35:59Z",
+  "count": 924,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-course-for-graphics-design/?couponCode=BCD7E43599DD395C58D1",
+      "coupon_code": "BCD7E43599DD395C58D1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346428_7b74_2.jpg",
+      "title": "Adobe Illustrator Course for Graphics Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/?couponCode=1158498D1E628CB9DEA2",
+      "coupon_code": "1158498D1E628CB9DEA2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346430_f677.jpg",
+      "title": "Adobe Photoshop Course from Basic to Advacned for Graphics"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-wordpress-course-for-professionals/?couponCode=AC6C70A459E000669138",
+      "coupon_code": "AC6C70A459E000669138",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346432_a2d4.jpg",
+      "title": "Advanced Wordpress Course for Professionals"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificado-profesional-en-gestion-de-riesgos/?couponCode=85A7D3A5F7D84AD350DD",
+      "coupon_code": "85A7D3A5F7D84AD350DD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6540485_eaec_2.jpg",
+      "title": "Certificado Profesional en Gestión de Riesgos"
+    },
+    {
+      "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=12B8486ABE135E7D1C99",
+      "coupon_code": "12B8486ABE135E7D1C99",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886376_a387_2.jpg",
+      "title": "Django Masterclass: Get Started With Django Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=BEACEC4EFA182093F469",
+      "coupon_code": "BEACEC4EFA182093F469",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346438_96d4.jpg",
+      "title": "Essential Microsoft PowerPoint Course for Everyone"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-the-complete-guide-to-html-zero-to-hero/?couponCode=1A94D29DFBBA19BB00FF",
+      "coupon_code": "1A94D29DFBBA19BB00FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636404_8f50_2.jpg",
+      "title": "HTML -  The Complete Guide to HTML for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-masterclass-beginner-to-master/?couponCode=4B01177160E9A75A8E06",
+      "coupon_code": "4B01177160E9A75A8E06",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638204_76bd.jpg",
+      "title": "Java Programming Masterclass - Beginner to Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=18B5FA263CC21BBCE374",
+      "coupon_code": "18B5FA263CC21BBCE374",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5800130_dfbb.jpg",
+      "title": "Learn AngularJS Course for Beginners to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-project-f/?couponCode=EE8334841833A5C23D78",
+      "coupon_code": "EE8334841833A5C23D78",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791305_0f54_5.jpg",
+      "title": "Mastering Microsoft Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=3311438E7D449047579F",
+      "coupon_code": "3311438E7D449047579F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636472_7921.jpg",
+      "title": "PHP Master Class - The Complete PHP Developer Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-cost-management-estimating-budgeting-earned-value/?couponCode=8366E742201800B40638",
+      "coupon_code": "8366E742201800B40638",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935619_e729_3.jpg",
+      "title": "Project Cost Management-Estimating"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantity-surveying-for-g11-high-rise-buildings-estimation/?couponCode=9DB1CEE988A191204537",
+      "coupon_code": "9DB1CEE988A191204537",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6833151_ef77.jpg",
+      "title": "Building Estimation Masterclass: G+11 High-Rise Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-r-programming-language-beginners-to-pro/?couponCode=CCF76A45AEDF1DE95BD0",
+      "coupon_code": "CCF76A45AEDF1DE95BD0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5890956_f61d_2.jpg",
+      "title": "R Programming - R Programming Language Beginners to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-javascript-course-from-zero-to-expert-o/?couponCode=D5A494ED79D7E6B60540",
+      "coupon_code": "D5A494ED79D7E6B60540",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638532_1c7a.jpg",
+      "title": "The Complete JavaScript Course: From Zero to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/ai-enginner-2026-complete-course-gen-ai-deep-machine-llm/?couponCode=F316B8B8625F9A2E15E7",
       "coupon_code": "F316B8B8625F9A2E15E7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7019205_f248.jpg",
+      "title": "AI Enginner 2026 Complete Course, GEN AI, Deep, Machine, LLM"
     },
     {
       "url": "https://www.udemy.com/course/ai-tools-for-diabetes-apps-for-management-prevention/?couponCode=C4A295072132C32A1CB6",
       "coupon_code": "C4A295072132C32A1CB6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893699_3703_2.jpg",
+      "title": "AI Tools for Diabetes: Apps for Management & Prevention"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-complete-chatgpt-guide-for-beginners/?couponCode=SUBHANALLAH_012126",
       "coupon_code": "SUBHANALLAH_012126",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5114066_c56b_2.jpg",
+      "title": "ChatGPT: Complete ChatGPT Guide For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/excel-microsoft-excel-course-beginner-to-expert-2022/?couponCode=SUBHANALLAH_012126",
       "coupon_code": "SUBHANALLAH_012126",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4758504_f0ea_4.jpg",
+      "title": "Excel - Microsoft Excel Course Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/executive-presence-foundations-of-confident-leadership/?couponCode=9D4D56EFD23BC655F7DD",
       "coupon_code": "9D4D56EFD23BC655F7DD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6529345_9bf3_4.jpg",
+      "title": "Executive Presence: Foundations of Confident Leadership"
     },
     {
       "url": "https://www.udemy.com/course/full-stack-ai-engineer-2026-generative-ai-llms-iii/?couponCode=15EE8A3C5794991A996B",
       "coupon_code": "15EE8A3C5794991A996B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7010895_01e9.jpg",
+      "title": "Full Stack AI Engineer 2026 - Generative AI & LLMs III"
     },
     {
       "url": "https://www.udemy.com/course/google-ads-masterclass-2025-all-features-campaign-setups/?couponCode=C5E89BDAECD45A7C498F",
@@ -47,12 +143,14 @@
     {
       "url": "https://www.udemy.com/course/market-research-for-product-management/?couponCode=D47DF55B2829A6CFB629",
       "coupon_code": "D47DF55B2829A6CFB629",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6510357_61bc.jpg",
+      "title": "Market Research for Product Management"
     },
     {
       "url": "https://www.udemy.com/course/master-11-ad-platforms-2025-the-ultimate-paid-ads-course/?couponCode=D18C8EA78C64DDA54E7D",
       "coupon_code": "D18C8EA78C64DDA54E7D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6688119_a75a_4.jpg",
+      "title": "Master 11 Ad Platforms 2026: The Ultimate Paid Ads Course!"
     },
     {
       "url": "https://www.udemy.com/course/master-ai-tools-2025-chatgpt-gemini-firefly-midjourney/?couponCode=3576C8C21CFB026084CD",
@@ -63,17 +161,20 @@
     {
       "url": "https://www.udemy.com/course/master-listening-to-transform-your-relationships/?couponCode=C9748D4CF374AF68B009",
       "coupon_code": "C9748D4CF374AF68B009",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6436865_9128_2.jpg",
+      "title": "Master listening to transform your relationships"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-finance-data-analysis-analytics/?couponCode=EE1A85BBD31BF578B57C",
       "coupon_code": "EE1A85BBD31BF578B57C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6536711_5b57_2.jpg",
+      "title": "Professional Certificate: Finance Data Analysis & Analytics"
     },
     {
       "url": "https://www.udemy.com/course/python-for-beginners-course-/?couponCode=12C6E359A70C579A93F6",
       "coupon_code": "12C6E359A70C579A93F6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3378022_637b.jpg",
+      "title": "Python And Flask Framework Complete Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/social-media-marketing-mastery-2025-9-social-ad-platforms/?couponCode=0CD16A824BC8F96ADF15",
