@@ -1,26 +1,120 @@
 {
-  "updated_at": "2026-01-21T13:06:01Z",
-  "count": 905,
+  "updated_at": "2026-01-21T14:39:17Z",
+  "count": 920,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-cybersecurity-for-beginners/?couponCode=4660EA6B76C0225D434C",
+      "coupon_code": "4660EA6B76C0225D434C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6865773_da48_2.jpg",
+      "title": "AI & Cybersecurity for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_162",
+      "coupon_code": "AR_FREE_162",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
+      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-storytelling-communicating-data-insights-effectively/?couponCode=68D137DE7D83F07D9883",
+      "coupon_code": "68D137DE7D83F07D9883",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581019_bc1a.jpg",
+      "title": "Data Storytelling: Communicating Data Insights Effectively"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-marketing-ai-chatgpt-ai-driven-digital-marketing/?couponCode=82ED23CC4FCD6AC1DE8B",
+      "coupon_code": "82ED23CC4FCD6AC1DE8B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6961957_62c6.jpg",
+      "title": "Digital Marketing AI: ChatGPT & AI Driven Digital Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_159",
+      "coupon_code": "AR_FREE_159",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_160",
+      "coupon_code": "AR_FREE_160",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
+      "title": "Essentials for PyQGIS: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/?couponCode=AR_FREE_156",
+      "coupon_code": "AR_FREE_156",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6823217_2c07.jpg",
+      "title": "Geospatial AI: Deep Learning for Satellite Imagery"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_161",
+      "coupon_code": "AR_FREE_161",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
+      "title": "Django Essentials: Build and Deploy Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/powerpoint-presentation-design-principles/?couponCode=63CD0DADCED4D04C2DDB",
+      "coupon_code": "63CD0DADCED4D04C2DDB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6793499_aebd_5.jpg",
+      "title": "Master PowerPoint Design Principles: The 3 Core Foundations."
+    },
+    {
+      "url": "https://www.udemy.com/course/powershell-functions-master-class/?couponCode=581CDC96BBE274ACAA19",
+      "coupon_code": "581CDC96BBE274ACAA19",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4290468_8982_3.jpg",
+      "title": "PowerShell Functions Master Class"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_163",
+      "coupon_code": "AR_FREE_163",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
+      "title": "Programming for Scientific Research with Python and R"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-ai/?couponCode=AR_FREE_158",
+      "coupon_code": "AR_FREE_158",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6749075_4cc0.jpg",
+      "title": "Python for AI and Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-gis-automation/?couponCode=AR_FREE_157",
+      "coupon_code": "AR_FREE_157",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6762543_37bf.jpg",
+      "title": "Python for GIS Automation and Geospatial Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_164",
+      "coupon_code": "AR_FREE_164",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
+      "title": "Python for Scientific Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_165",
+      "coupon_code": "AR_FREE_165",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
+      "title": "R for Researchers: From Basics to Advanced Analysis"
+    },
     {
       "url": "https://www.udemy.com/course/a-collection-of-mind-videos-mind-movies/?couponCode=AFFB632B630DA575810A",
       "coupon_code": "AFFB632B630DA575810A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5092054_3011.jpg",
+      "title": "A Collection of Mind Videos/ Mind Movies"
     },
     {
       "url": "https://www.udemy.com/course/capcut-video-edit-with-ai-chatgpt-and-motion-cinematography/?couponCode=5C389A1B5A74F78ADE8E",
       "coupon_code": "5C389A1B5A74F78ADE8E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6731221_bc2a_2.jpg",
+      "title": "CapCut Video Edit With AI ChatGPT and Motion Cinematography"
     },
     {
       "url": "https://www.udemy.com/course/complete-social-media-video-editing-masterclass-zero-to-hero/?couponCode=717CAF93CFC641C7D829",
       "coupon_code": "717CAF93CFC641C7D829",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6708763_5e49.jpg",
+      "title": "Complete Social Media Video Editing MasterClass Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/disruptive-thinking-and-disruptive-innovations/?couponCode=C9A6EECB25AF38DBDA88",
       "coupon_code": "C9A6EECB25AF38DBDA88",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6573409_3867.jpg",
+      "title": "Disruptive Thinking: Innovation, Creativity, Transformation"
     },
     {
       "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=F1A02080B75FA1AB4562",
@@ -31,27 +125,32 @@
     {
       "url": "https://www.udemy.com/course/gestion-del-tiempo-y-timeboxing-en-negocios-y-organizaciones/?couponCode=7FC9BED5AA40B6C1C70C",
       "coupon_code": "7FC9BED5AA40B6C1C70C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6571667_1d4b_2.jpg",
+      "title": "Gestión del Tiempo y Timeboxing en Negocios y Organizaciones"
     },
     {
       "url": "https://www.udemy.com/course/implementation-of-occupational-health-and-safety-in-industry/?couponCode=D16B8195D3E48BE2A30C",
       "coupon_code": "D16B8195D3E48BE2A30C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6120939_7b45_3.jpg",
+      "title": "Implementation of Occupational Health and Safety in Industry"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-occupational-health-and-safety-professional/?couponCode=F05988FE50E13ED513E5",
       "coupon_code": "F05988FE50E13ED513E5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6314837_9642_3.jpg",
+      "title": "Introduction to Occupational Health and Safety Professional"
     },
     {
       "url": "https://www.udemy.com/course/learn-graphic-design-using-ai-canva-gemini-and-grok-imagine/?couponCode=ED32903AF4AF3620E0C8",
       "coupon_code": "ED32903AF4AF3620E0C8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6884715_005e.jpg",
+      "title": "Learn Graphic Design Using AI Canva Gemini and Grok Imagine"
     },
     {
       "url": "https://www.udemy.com/course/manifest-your-desires-by-finding-your-trueself/?couponCode=37DCBF7E1738C79AD16B",
       "coupon_code": "37DCBF7E1738C79AD16B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5233116_d4a0.jpg",
+      "title": "Manifest your Desires by - Finding Your Trueself"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-advanced-with-project/?couponCode=27E512EE768C6CE5834E",
@@ -74,12 +173,14 @@
     {
       "url": "https://www.udemy.com/course/wild-instincts-discover-the-secret-life-of-animals/?couponCode=E7FB4FFE336E87577A61",
       "coupon_code": "E7FB4FFE336E87577A61",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6921061_e071.jpg",
+      "title": "Etholog in actiony: How Animals Think & Survive in the Wild"
     },
     {
       "url": "https://www.udemy.com/course/windows-command-mastery-for-ethical-hackers/?couponCode=524D1CB33227CCD82992",
       "coupon_code": "524D1CB33227CCD82992",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5687670_7496_2.jpg",
+      "title": "Windows Command Mastery for Ethical Hackers"
     },
     {
       "url": "https://www.udemy.com/course/capm-exam-prep-complete-certification-guide/?couponCode=21JANUARY2026",
