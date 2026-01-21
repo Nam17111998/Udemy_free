@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-01-21T07:36:24Z",
-  "count": 944,
+  "updated_at": "2026-01-21T08:41:00Z",
+  "count": 955,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-public-speaking/?couponCode=11E274021D226FCFCF64",
+      "coupon_code": "11E274021D226FCFCF64",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-certificated/?couponCode=OCSALY.COM-ACADEMY",
+      "coupon_code": "OCSALY.COM-ACADEMY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6520381_8909_3.jpg",
+      "title": "Python for AI: Master Prompt Engineering & LLM Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/body-language-non-verbal-communication-for-leaders-y/?couponCode=2CFB4808BBFBB7CAF4D2",
+      "coupon_code": "2CFB4808BBFBB7CAF4D2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6514103_9a53_2.jpg",
+      "title": "Body Language & Non-Verbal Communication for Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/computer_science/?couponCode=5-STAR-PLEASE",
+      "coupon_code": "5-STAR-PLEASE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6480627_a023_3.jpg",
+      "title": "Computer Engineering & C++: Electronics and Low Level Coding"
+    },
+    {
+      "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=74A8A7542868BC50FBE1",
+      "coupon_code": "74A8A7542868BC50FBE1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5941852_757f_3.jpg",
+      "title": "Efficacité et Concentration pour RÉSULTATS EXTRÊMES"
+    },
+    {
+      "url": "https://www.udemy.com/course/crisis-communications-training-for-oil-and-gas-executives/?couponCode=4E4BF0EE552EBF09F4A4",
+      "coupon_code": "4E4BF0EE552EBF09F4A4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/294698_ce3c_4.jpg",
+      "title": "Public Relations: Crisis Communications Oil and Gas Industry"
+    },
+    {
+      "url": "https://www.udemy.com/course/democratic-candidate-communications-training/?couponCode=446099855C83914E7744",
+      "coupon_code": "446099855C83914E7744",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/294870_69e9_4.jpg",
+      "title": "Media Training for Democratic Candidates: You Can Win"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-python-data-science-data-science-bootcamp/?couponCode=4BD92116A19E2A74CABA",
+      "coupon_code": "4BD92116A19E2A74CABA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6186047_4713.jpg",
+      "title": "Hands On Python Data Science - Data Science Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=97481A0A0F8545F32C91",
+      "coupon_code": "97481A0A0F8545F32C91",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6189863_aae8.jpg",
+      "title": "Hands-On Python Machine Learning with Real World Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-ask-for-a-raise2/?couponCode=BA32417A935FF00F8392",
+      "coupon_code": "BA32417A935FF00F8392",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/296377_9d3a_3.jpg",
+      "title": "Salary Negotiation - How to Ask for and Receive a Pay Raise"
+    },
+    {
+      "url": "https://www.udemy.com/course/human-resources-expert-certificate-hr-metrics-and-analytics/?couponCode=F71C88EA5261650037D1",
+      "coupon_code": "F71C88EA5261650037D1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6552009_3a29_3.jpg",
+      "title": "Human Resources Expert Certificate: HR Metrics and Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-business-english-for-successful-networking-skills/?couponCode=EDB8E16B5F95B7F7B2CD",
+      "coupon_code": "EDB8E16B5F95B7F7B2CD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6487857_f1e2.jpg",
+      "title": "Master Business English for Successful Networking Skills !"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/?couponCode=3D17D4D0FFE499074FE9",
+      "coupon_code": "3D17D4D0FFE499074FE9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6185785_a817_3.jpg",
+      "title": "MS Excel Masterclass for Job Seekers Accounting Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-product-development-a-practical-guide-to-research/?couponCode=97310612C42295AFD8FF",
+      "coupon_code": "97310612C42295AFD8FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6552099_5f99_2.jpg",
+      "title": "Strategic Product Development: A Practical Guide to Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-science-of-happiness-simple-secrets-to-a-joyful-life/?couponCode=3CEB49E1D6F3CF90070D",
+      "coupon_code": "3CEB49E1D6F3CF90070D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6503823_040a_3.jpg",
+      "title": "The Science of Happiness - Simple Secrets to a Joyful Life"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-capcut-course-learn-professional-video-editing/?couponCode=92996C0784174159E130",
       "coupon_code": "92996C0784174159E130",
@@ -33,24 +122,6 @@
       "title": "Flutter Masterclass - Your Complete Guide to App Development"
     },
     {
-      "url": "https://www.udemy.com/course/hands-on-python-data-science-data-science-bootcamp/?couponCode=4BD92116A19E2A74CABA",
-      "coupon_code": "4BD92116A19E2A74CABA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6186047_4713.jpg",
-      "title": "Hands On Python Data Science - Data Science Bootcamp"
-    },
-    {
-      "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=97481A0A0F8545F32C91",
-      "coupon_code": "97481A0A0F8545F32C91",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6189863_aae8.jpg",
-      "title": "Hands-On Python Machine Learning with Real World Projects"
-    },
-    {
-      "url": "https://www.udemy.com/course/human-resources-expert-certificate-hr-metrics-and-analytics/?couponCode=F71C88EA5261650037D1",
-      "coupon_code": "F71C88EA5261650037D1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6552009_3a29_3.jpg",
-      "title": "Human Resources Expert Certificate: HR Metrics and Analytics"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-c-learn-building-games-application-softwares/?couponCode=0C57B7EF226E99771D7B",
       "coupon_code": "0C57B7EF226E99771D7B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6457969_889b_2.jpg",
@@ -61,12 +132,6 @@
       "coupon_code": "5B88C5D4515BECC01BC7",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6689827_71dd.jpg",
       "title": "Missile Technology: Fundamentals, Systems, and Strategic App"
-    },
-    {
-      "url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/?couponCode=3D17D4D0FFE499074FE9",
-      "coupon_code": "3D17D4D0FFE499074FE9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6185785_a817_3.jpg",
-      "title": "MS Excel Masterclass for Job Seekers Accounting Success"
     },
     {
       "url": "https://www.udemy.com/course/purrfect-companions/?couponCode=8F4DEA9EB765E4D9996A",
