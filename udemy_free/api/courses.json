@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-01-21T18:53:27Z",
-  "count": 926,
+  "updated_at": "2026-01-21T19:34:48Z",
+  "count": 930,
   "courses": [
     {
       "url": "https://www.udemy.com/course/chatgpt-for-product-management-business-and-innovation/?couponCode=917EE08B62D773AAD7E5",
       "coupon_code": "917EE08B62D773AAD7E5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/customer-experience-management-cx-frameworks-strategies/?couponCode=5B4AB12311EC30DC8708",
+      "coupon_code": "5B4AB12311EC30DC8708",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -26,21 +31,14 @@
       "title": "Essentials for ArcPy: Python for Geospatial Automation"
     },
     {
-      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_160",
-      "coupon_code": "AR_FREE_160",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
-      "title": "Essentials for PyQGIS: Python for Geospatial Automation"
-    },
-    {
       "url": "https://www.udemy.com/course/leadership-how-to-become-a-thought-leader-in-your-industry/?couponCode=1B60B85727B797C38ECE",
       "coupon_code": "1B60B85727B797C38ECE",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_161",
-      "coupon_code": "AR_FREE_161",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
-      "title": "Django Essentials: Build and Deploy Real-World Apps"
+      "url": "https://www.udemy.com/course/love-after-baby/?couponCode=742E21815EF04AFADF5D",
+      "coupon_code": "742E21815EF04AFADF5D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/mini-course-on-effective-communications-skills/?couponCode=37F2202D110BC72CEBCD",
@@ -48,16 +46,15 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/omnichannel-sales-service-management/?couponCode=0C9F0371D205A5435E58",
+      "coupon_code": "0C9F0371D205A5435E58",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/powershell-functions-master-class/?couponCode=581CDC96BBE274ACAA19",
       "coupon_code": "581CDC96BBE274ACAA19",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4290468_8982_3.jpg",
       "title": "PowerShell Functions Master Class"
-    },
-    {
-      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_163",
-      "coupon_code": "AR_FREE_163",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
-      "title": "Programming for Scientific Research with Python and R"
     },
     {
       "url": "https://www.udemy.com/course/python-for-ai/?couponCode=AR_FREE_158",
@@ -78,15 +75,38 @@
       "title": "Python for GIS Automation and Geospatial Applications"
     },
     {
-      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_164",
-      "coupon_code": "AR_FREE_164",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
-      "title": "Python for Scientific Research"
+      "url": "https://www.udemy.com/course/supplychain-procurement-logistics/?couponCode=F5617B4DDA4D2AF8D66C",
+      "coupon_code": "F5617B4DDA4D2AF8D66C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/web-development-with-wordpress-build-professional-websites/?couponCode=E828ADAF9F674468960D",
       "coupon_code": "E828ADAF9F674468960D",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_160",
+      "coupon_code": "AR_FREE_160",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
+      "title": "Essentials for PyQGIS: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_161",
+      "coupon_code": "AR_FREE_161",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
+      "title": "Django Essentials: Build and Deploy Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_163",
+      "coupon_code": "AR_FREE_163",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
+      "title": "Programming for Scientific Research with Python and R"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_164",
+      "coupon_code": "AR_FREE_164",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
+      "title": "Python for Scientific Research"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_162",
