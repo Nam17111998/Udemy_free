@@ -1,11 +1,102 @@
 {
-  "updated_at": "2026-01-21T09:40:11Z",
-  "count": 969,
+  "updated_at": "2026-01-21T10:38:14Z",
+  "count": 984,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/anti-money-laundering-aml-kyc-compliance/?couponCode=8004907D41CA8F318ACD",
+      "coupon_code": "8004907D41CA8F318ACD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583467_2314_4.jpg",
+      "title": "Anti Money Laundering (AML) Insights for Financial Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/b2b-sales-skills-for-business-development-lead-generation/?couponCode=96BC76FAFF1E8C403082",
+      "coupon_code": "96BC76FAFF1E8C403082",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7009465_90cc.jpg",
+      "title": "B2B Sales Skills for Business Development & Lead Generation"
+    },
+    {
+      "url": "https://www.udemy.com/course/capm-exam-prep-complete-certification-guide/?couponCode=21JANUARY2026",
+      "coupon_code": "21JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6960271_fd0b.jpg",
+      "title": "CAPM Exam Prep: Complete Certification Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-vba-for-beginner-to-advanced/?couponCode=E8A917A4D4A6A44A2B51",
+      "coupon_code": "E8A917A4D4A6A44A2B51",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5433348_2f69.jpg",
+      "title": "Excel VBA for Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestion-des-risques/?couponCode=C7B73F180A455E5137D1",
+      "coupon_code": "C7B73F180A455E5137D1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561809_589d_2.jpg",
+      "title": "Certificat Professionnel en Gestion des Risques"
+    },
+    {
+      "url": "https://www.udemy.com/course/gh-300-github-copilot-exam-preparation/?couponCode=21JANUARY2026",
+      "coupon_code": "21JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6943967_c72a_4.jpg",
+      "title": "GH-300: Github Copilot – Complete Exam Preparation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/global-human-resource/?couponCode=0312FE8E78CA5AE0DA7C",
+      "coupon_code": "0312FE8E78CA5AE0DA7C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6430265_8794_4.jpg",
+      "title": "Certification in Global Human Resources Professional"
+    },
+    {
+      "url": "https://www.udemy.com/course/human-resource/?couponCode=82FD41FF95789A905B04",
+      "coupon_code": "82FD41FF95789A905B04",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6425717_84a8_4.jpg",
+      "title": "Diploma in Administrative Human Resources Management (HRM)"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-fast-entry-programming-for-everyone/?couponCode=21JANUARY2026",
+      "coupon_code": "21JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927805_2691.jpg",
+      "title": "JavaScript Fast Entry: Programming for Everyone"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-google-sheets-and-microsoft-excel-at-once-from-basic/?couponCode=6687525A91577C0C7B17",
+      "coupon_code": "6687525A91577C0C7B17",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611690_575b.jpg",
+      "title": "Learn Google Sheets and Microsoft Excel at Once from Basic"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-sap-successfactors-employee-central/?couponCode=SAPSUCCESSFACTOR",
+      "coupon_code": "SAPSUCCESSFACTOR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6801201_cda6.jpg",
+      "title": "Master SAP SuccessFactors Employee Central"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-system-center-intro-to-virtual-machine-manager/?couponCode=67092EC62A74450C2AAA",
+      "coupon_code": "67092EC62A74450C2AAA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2730408_5314_3.jpg",
+      "title": "Server Virtualization with Hyper-V and System Center"
+    },
+    {
+      "url": "https://www.udemy.com/course/revenue-operations-intelligence-revops-roi-blueprint/?couponCode=8BF442B0EFC2D3E38E05",
+      "coupon_code": "8BF442B0EFC2D3E38E05",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6946703_7c62.jpg",
+      "title": "Revenue Operations & Intelligence (RevOps & RO&I) Blueprint"
+    },
+    {
+      "url": "https://www.udemy.com/course/time-management-energy-optimization-for-peak-productivity/?couponCode=B8A8789AEF7322DE893C",
+      "coupon_code": "B8A8789AEF7322DE893C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6879427_258b_2.jpg",
+      "title": "Time Management & Energy Optimization for Peak Productivity"
+    },
+    {
+      "url": "https://www.udemy.com/course/webflow-for-beginners-create-your-first-website/?couponCode=2299C71D792917FC92B3",
+      "coupon_code": "2299C71D792917FC92B3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611686_c2b0.jpg",
+      "title": "Webflow for Beginners: Create Your First Website"
+    },
     {
       "url": "https://www.udemy.com/course/apis-in-php-php-rest-api-crash-course-2026/?couponCode=PHPRESTAPI28",
       "coupon_code": "PHPRESTAPI28",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873679_c863_6.jpg",
+      "title": "APIs in PHP: PHP Rest API Crash Course 2026"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-certificated/?couponCode=OCSALY.COM-ACADEMY",
@@ -16,72 +107,86 @@
     {
       "url": "https://www.udemy.com/course/beginner-guide-to-learn-t-shirt-design-with-photoshop/?couponCode=30399AA31845040E8505",
       "coupon_code": "30399AA31845040E8505",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641684_642f.jpg",
+      "title": "Beginner Guide to Learn T-Shirt Design With Photoshop"
     },
     {
       "url": "https://www.udemy.com/course/complete-jquery-course-learn-from-beginner-to-advanced/?couponCode=35D609252241F64C7257",
       "coupon_code": "35D609252241F64C7257",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5816906_3215_3.jpg",
+      "title": "Complete jQuery Course: Learn From Beginner To Advanced"
     },
     {
       "url": "https://www.udemy.com/course/complete-python-course-learn-from-beginner-to-advanced/?couponCode=D7992EA2259F71299667",
       "coupon_code": "D7992EA2259F71299667",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5854076_b7ff.jpg",
+      "title": "Complete Python Course: Learn From Beginner To Advanced"
     },
     {
       "url": "https://www.udemy.com/course/essential-microsoft-excel-vba-learn-vba-for-become-expert/?couponCode=4F52282475BA08FE285F",
       "coupon_code": "4F52282475BA08FE285F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611696_6a1f.jpg",
+      "title": "Essential Microsoft Excel VBA: Learn VBA for become Expert"
     },
     {
       "url": "https://www.udemy.com/course/excel-data-insights-power-query-pivot-analysis-and-visuals/?couponCode=B6E15F69C61FBE059487",
       "coupon_code": "B6E15F69C61FBE059487",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790885_6fd8_2.jpg",
+      "title": "Excel Data Insights: Power Query Pivot Analysis and Visuals"
     },
     {
       "url": "https://www.udemy.com/course/flappy-bird-from-scratch-unity6/?couponCode=AB9C1617AFCF4DC85978",
       "coupon_code": "AB9C1617AFCF4DC85978",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6899183_aad2_4.jpg",
+      "title": "Make a Flappy Bird Game From Scratch in Unity 6.3 & C#"
     },
     {
       "url": "https://www.udemy.com/course/mastering-excel-data-analysis-techniques-unlock-insights/?couponCode=FDEABDE85E8C3D60DEAB",
       "coupon_code": "FDEABDE85E8C3D60DEAB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767733_8430.jpg",
+      "title": "Mastering Excel Data Analysis Techniques: Unlock Insights"
     },
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-excel-a-comprehensive-guide-to-boost-you/?couponCode=250064443755942173BA",
       "coupon_code": "250064443755942173BA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611698_9d6c_4.jpg",
+      "title": "Mastering Microsoft Excel A Comprehensive Guide to Boost You"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-presentation-pro/?couponCode=8843843E981F5CEB67A7",
       "coupon_code": "8843843E981F5CEB67A7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790825_22c9_2.jpg",
+      "title": "Microsoft PowerPoint: From Beginner to Presentation Pro"
     },
     {
       "url": "https://www.udemy.com/course/operations-and-process-management-data-analysis-analytics/?couponCode=EDC1D5999DEDFF430597",
       "coupon_code": "EDC1D5999DEDFF430597",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561535_4d3f.jpg",
+      "title": "Operations and Process Management Data Analysis & Analytics"
     },
     {
       "url": "https://www.udemy.com/course/t-shirt-design-in-adobe-illustrator-beginner-guide-to-expert/?couponCode=B95E63E5A60D8BC0D76D",
       "coupon_code": "B95E63E5A60D8BC0D76D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638110_36b8_3.jpg",
+      "title": "T-Shirt Design in Adobe Illustrator Beginner Guide to Expert"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/?couponCode=3906FF78DD31A2E29D17",
       "coupon_code": "3906FF78DD31A2E29D17",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5786672_2c3f.jpg",
+      "title": "The Complete C Programming Course for Basic to Expert"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-java-programming-course-hands-on-training/?couponCode=D8CD6F4AFD6D7909A852",
       "coupon_code": "D8CD6F4AFD6D7909A852",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790875_65ba_2.jpg",
+      "title": "The Ultimate Java Programming Course: Hands-On Training"
     },
     {
       "url": "https://www.udemy.com/course/advanced-public-speaking/?couponCode=11E274021D226FCFCF64",
       "coupon_code": "11E274021D226FCFCF64",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/296403_d72f_4.jpg",
+      "title": "The Complete Public Speaking Course:  Become a Great Speaker"
     },
     {
       "url": "https://www.udemy.com/course/body-language-non-verbal-communication-for-leaders-y/?couponCode=2CFB4808BBFBB7CAF4D2",
