@@ -1,24 +1,17 @@
 {
-  "updated_at": "2026-01-22T21:31:08Z",
-  "count": 970,
+  "updated_at": "2026-01-22T22:31:22Z",
+  "count": 977,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/all-in-one-java-spring-boot-spring-and-hibernate/?couponCode=CB15BF757E37E788BDCF",
-      "coupon_code": "CB15BF757E37E788BDCF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6265681_d70d_4.jpg",
-      "title": "ALL IN ONE! Java + Spring Boot, Spring and Hibernate [NEW]"
+      "url": "https://www.udemy.com/course/ai-for-image-video-and-music-creation/?couponCode=5A95EDEDD7C5EA11988C",
+      "coupon_code": "5A95EDEDD7C5EA11988C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/auditing-iso-270012022-people-controls/?couponCode=23D4951D485F52B00E71",
       "coupon_code": "23D4951D485F52B00E71",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6764379_3c14_2.jpg",
       "title": "Auditing ISO 27001:2022 – People Controls"
-    },
-    {
-      "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=A03E5FEF217E8C5AB8D2",
-      "coupon_code": "A03E5FEF217E8C5AB8D2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6753061_5882.jpg",
-      "title": "Comment Avoir Une Belle Vie"
     },
     {
       "url": "https://www.udemy.com/course/consumer_lending/?couponCode=77C511747222BB9D55C1",
@@ -33,6 +26,81 @@
       "title": "Professional Diploma in Corporate Management"
     },
     {
+      "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=2B513E09B35B70E35991",
+      "coupon_code": "2B513E09B35B70E35991",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=C54E173ADB392501EEF1",
+      "coupon_code": "C54E173ADB392501EEF1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6712869_0b21_3.jpg",
+      "title": "Superhumain – Investir en soi en apprenant en continu"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-product-owner/?couponCode=BA4ED03A77B15832D458",
+      "coupon_code": "BA4ED03A77B15832D458",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4592914_5934.jpg",
+      "title": "Professional Diploma in Digital Products Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/dp-900-azure-data-fundamentals-codaming/?couponCode=1E702563B317D575F7F1",
+      "coupon_code": "1E702563B317D575F7F1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6854657_82a0_5.jpg",
+      "title": "DP-900 Azure Data Fundamentals Practice Exam Questions 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/leadershipdiploma/?couponCode=C1338F6F250FC0672711",
+      "coupon_code": "C1338F6F250FC0672711",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=F28E58012CD53C58CBBF",
+      "coupon_code": "F28E58012CD53C58CBBF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=7D8A0A2F88F1B06A3737",
+      "coupon_code": "7D8A0A2F88F1B06A3737",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4740068_c1b7_2.jpg",
+      "title": "Professional Diploma in Omnichannel Sales&Service Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgraduate-executive-diploma-leadership/?couponCode=0190B26960BB1AB61B73",
+      "coupon_code": "0190B26960BB1AB61B73",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5152396_f419_3.jpg",
+      "title": "Executive Diploma in Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/procurementdiploma/?couponCode=CA140A77224349628372",
+      "coupon_code": "CA140A77224349628372",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180185_1f8c.jpg",
+      "title": "Professional Diploma in Procurement"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-managers/?couponCode=FB675363D605C623616A",
+      "coupon_code": "FB675363D605C623616A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4606632_2a39.jpg",
+      "title": "Professional Diploma in Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/sustainable-manufacturing/?couponCode=2E59B1BD9DFD68B487C1",
+      "coupon_code": "2E59B1BD9DFD68B487C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742555_099c.jpg",
+      "title": "Sustainable Manufacturing: Review & Emerging Advances"
+    },
+    {
+      "url": "https://www.udemy.com/course/all-in-one-java-spring-boot-spring-and-hibernate/?couponCode=CB15BF757E37E788BDCF",
+      "coupon_code": "CB15BF757E37E788BDCF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6265681_d70d_4.jpg",
+      "title": "ALL IN ONE! Java + Spring Boot, Spring and Hibernate [NEW]"
+    },
+    {
+      "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=A03E5FEF217E8C5AB8D2",
+      "coupon_code": "A03E5FEF217E8C5AB8D2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753061_5882.jpg",
+      "title": "Comment Avoir Une Belle Vie"
+    },
+    {
       "url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=CAE5111466BBA7CF5A3A",
       "coupon_code": "CAE5111466BBA7CF5A3A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4508686_ba6e.jpg",
@@ -45,22 +113,10 @@
       "title": "Digital Forensics Masterclass :Computer Forensics DFMC+ DFIR"
     },
     {
-      "url": "https://www.udemy.com/course/digital-product-owner/?couponCode=BA4ED03A77B15832D458",
-      "coupon_code": "BA4ED03A77B15832D458",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4592914_5934.jpg",
-      "title": "Professional Diploma in Digital Products Management"
-    },
-    {
       "url": "https://www.udemy.com/course/digitisation/?couponCode=F9727D640CA55917E084",
       "coupon_code": "F9727D640CA55917E084",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4480366_71d4.jpg",
       "title": "Professional Diploma in Digitalization of Retail Banking"
-    },
-    {
-      "url": "https://www.udemy.com/course/dp-900-azure-data-fundamentals-codaming/?couponCode=1E702563B317D575F7F1",
-      "coupon_code": "1E702563B317D575F7F1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6854657_82a0_5.jpg",
-      "title": "DP-900 Azure Data Fundamentals Practice Exam Questions 2026"
     },
     {
       "url": "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=NEWYEAR26",
@@ -75,22 +131,10 @@
       "title": "Ultimate Guide to Spring 6, Spring Boot 3 & Hibernate [NEW]"
     },
     {
-      "url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=7D8A0A2F88F1B06A3737",
-      "coupon_code": "7D8A0A2F88F1B06A3737",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4740068_c1b7_2.jpg",
-      "title": "Professional Diploma in Omnichannel Sales&Service Management"
-    },
-    {
       "url": "https://www.udemy.com/course/postgraduate-diploma-in-office-administration-management/?couponCode=B4777C795B7310511EEE",
       "coupon_code": "B4777C795B7310511EEE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4559658_8ef3_3.jpg",
       "title": "Professional Diploma in Office Administration Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/project-managers/?couponCode=FB675363D605C623616A",
-      "coupon_code": "FB675363D605C623616A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4606632_2a39.jpg",
-      "title": "Professional Diploma in Project Management"
     },
     {
       "url": "https://www.udemy.com/course/tableau-bi-masterclass-create-actionable-dashboards/?couponCode=FDE3B7D0C7836BF3521F",
@@ -2611,12 +2655,6 @@
       "coupon_code": "6F2531CD795F21EDC13B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6180625_ba83.jpg",
       "title": "Certificate of Leadership Excellence in Business Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=C54E173ADB392501EEF1",
-      "coupon_code": "C54E173ADB392501EEF1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6712869_0b21_3.jpg",
-      "title": "Superhumain – Investir en soi en apprenant en continu"
     },
     {
       "url": "https://www.udemy.com/course/diploma-in-office-management/?couponCode=DF2596B7C7C8E1AEF573",
