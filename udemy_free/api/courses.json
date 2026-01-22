@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-01-22T11:29:44Z",
-  "count": 939,
+  "updated_at": "2026-01-22T13:06:59Z",
+  "count": 954,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/3d-printing-business-side-hustle-masterclass/?couponCode=A14784A82EC32219C1EF",
+      "coupon_code": "A14784A82EC32219C1EF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6981121_1054.jpg",
+      "title": "3D Printing Business & Side Hustle Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-beginners-to-professional/?couponCode=2A01EDD5D50AEA8E06DD",
+      "coupon_code": "2A01EDD5D50AEA8E06DD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4060610_17f8.jpg",
+      "title": "Adobe Premiere Pro CC Video Editing Course Beginners To Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-wireshark/?couponCode=OCSALY-5-STAR-PLS",
+      "coupon_code": "OCSALY-5-STAR-PLS",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6909459_d153_4.jpg",
+      "title": "Advanced Wireshark for Threat Hunting and Network Forensics"
+    },
+    {
+      "url": "https://www.udemy.com/course/azure-for-beginners-portal-virtual-machine-and-compute/?couponCode=CF13B1EED80D67122366",
+      "coupon_code": "CF13B1EED80D67122366",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2075100_e558_4.jpg",
+      "title": "Microsoft Azure Administrator Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/bash-scripting-certificated/?couponCode=BASH-OCSALY-5-STAR",
+      "coupon_code": "BASH-OCSALY-5-STAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6799569_8328_5.jpg",
+      "title": "Bash Scripting & Shell Automation: The Linux Architect Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-adobe-photoshop-free-photoshop-crash-course/?couponCode=D2D3F62C12D5CDC7FE6F",
+      "coupon_code": "D2D3F62C12D5CDC7FE6F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3444190_c544.jpg",
+      "title": "Adobe Photoshop CC Crash Course Learn Photoshop In Two Hour"
+    },
+    {
+      "url": "https://www.udemy.com/course/iso-270012022-lead-auditor-course-module-by-module/?couponCode=5FF781F40F225F19B180",
+      "coupon_code": "5FF781F40F225F19B180",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6982579_0278.jpg",
+      "title": "ISO/IEC 27001:2022 & Lead Auditor Course (Module by Module)"
+    },
+    {
+      "url": "https://www.udemy.com/course/iso-90012015-lead-auditor-course-module-by-module/?couponCode=40F821EA889D65D6A4C1",
+      "coupon_code": "40F821EA889D65D6A4C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6909289_e415_3.jpg",
+      "title": "ISO 9001:2015 Lead Auditor Course (Module by Module)"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/?couponCode=DAD6BE793C1B68DCC870",
+      "coupon_code": "DAD6BE793C1B68DCC870",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg",
+      "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-social-media-marketing-a-comprehensive-guide/?couponCode=45872B21716CF4DCC526",
+      "coupon_code": "45872B21716CF4DCC526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6160915_d7bd_5.jpg",
+      "title": "Mastering Social Media Marketing: A Comprehensive Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-development-research-with-generative-ai/?couponCode=2EB0138D98AEBF5BCA53",
+      "coupon_code": "2EB0138D98AEBF5BCA53",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6892359_89e7_3.jpg",
+      "title": "Product Development & Research with Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-from-beginner-to-pro/?couponCode=7F6C7C8AA12F9E1B22E4",
+      "coupon_code": "7F6C7C8AA12F9E1B22E4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5882370_eba5_2.jpg",
+      "title": "Social Media Video Editing with Canva: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/tableau-bi-masterclass-create-actionable-dashboards/?couponCode=FDE3B7D0C7836BF3521F",
+      "coupon_code": "FDE3B7D0C7836BF3521F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6856781_c5d9.jpg",
+      "title": "The Complete Tableau BI Masterclass 2025: Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/?couponCode=166CB22A175C3AA4496D",
+      "coupon_code": "166CB22A175C3AA4496D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3406388_848f_5.jpg",
+      "title": "Modern Graphic Design MasterClass with AI Driven Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/windows-powershell-masterclass/?couponCode=POWERSHELL-5-STAR",
+      "coupon_code": "POWERSHELL-5-STAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6906861_d4f5_4.jpg",
+      "title": "PowerShell Masterclass: Essential IT Automation & Scripting"
+    },
     {
       "url": "https://www.udemy.com/course/bvcm-basiques-du-management-de-la-chaine-de-valeur/?couponCode=JANV-FREE",
       "coupon_code": "JANV-FREE",
