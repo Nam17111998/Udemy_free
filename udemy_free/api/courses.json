@@ -1,36 +1,126 @@
 {
-  "updated_at": "2026-01-22T04:13:34Z",
-  "count": 968,
+  "updated_at": "2026-01-22T05:36:31Z",
+  "count": 977,
   "courses": [
     {
       "url": "https://www.udemy.com/course/7-days-of-hands-on-ai-development-bootcamp/?couponCode=JANFREE03",
       "coupon_code": "JANFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241851_995e_9.jpg",
+      "title": "7 Days of Hands-On AI Development Bootcamp and Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-made-easy-step-by-step-guide/?couponCode=408E1A3256017CF5DF53",
+      "coupon_code": "408E1A3256017CF5DF53",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6861949_acd4.jpg",
+      "title": "Adobe Premiere Pro Made Easy: Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-program-in-advanced-feminine-leadership/?couponCode=FD60D81733198AE0D42A",
+      "coupon_code": "FD60D81733198AE0D42A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668409_bbc8.jpg",
+      "title": "Executive Program in Advanced Feminine Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-to-react-template-convert-full-complete-guided-project/?couponCode=1219F7B2290E086D3C22",
+      "coupon_code": "1219F7B2290E086D3C22",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5953704_7a6e_2.jpg",
+      "title": "HTML to React Template Convert: Full Complete Guided Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-fundamentals-course-for-beginners/?couponCode=2559FFBE1E5D71B7C605",
+      "coupon_code": "2559FFBE1E5D71B7C605",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638522_57a6.jpg",
+      "title": "JavaScript Fundamentals Course for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/jquery-complete-jquery-course-from-beginner-to-advanced/?couponCode=E9FB214D4582139777C3",
+      "coupon_code": "E9FB214D4582139777C3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636534_c4c8_5.jpg",
+      "title": "jQuery - Complete jQuery Course From Beginner To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-c-language-c-programming-language-for-beginners/?couponCode=00DF9EA2B9751707A072",
+      "coupon_code": "00DF9EA2B9751707A072",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5618828_4904.jpg",
+      "title": "Mastering C Language - C Programming For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-html-for-modern-web-design-front-end-web-development/?couponCode=0CB61F43B2457EAC5C54",
+      "coupon_code": "0CB61F43B2457EAC5C54",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000869_4e34.jpg",
+      "title": "Master HTML for Modern Web Design: Front End Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/?couponCode=A0BD7FF57E192FCBAB11",
+      "coupon_code": "A0BD7FF57E192FCBAB11",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5623458_170b_3.jpg",
+      "title": "Mastering C++ Language - C++ Programming For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-management-and-visualization/?couponCode=160F4F25E813A778A12E",
+      "coupon_code": "160F4F25E813A778A12E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6868193_d0d6.jpg",
+      "title": "Microsoft Excel: Data Analysis, Management and Visualization"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-beginner-to-advanced/?couponCode=7F59C309CD1358699D63",
+      "coupon_code": "7F59C309CD1358699D63",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893803_851c.jpg",
+      "title": "Microsoft Excel Formulas and Functions: Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-master-data-analysis-cleaning-dashboards/?couponCode=DFEF4C147706CAC20570",
+      "coupon_code": "DFEF4C147706CAC20570",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6868137_498d.jpg",
+      "title": "Microsoft Excel: Master Data Analysis, Cleaning & Dashboards"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=A90A00DC157E77C4338B",
+      "coupon_code": "A90A00DC157E77C4338B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3495852_8004.jpg",
+      "title": "Python For Beginners Course In-Depth"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-esg-and-sustainability-in-business-operations/?couponCode=404E7CBD39EEFBE4A0E3",
+      "coupon_code": "404E7CBD39EEFBE4A0E3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6712013_364e.jpg",
+      "title": "Strategic ESG & Sustainability for Business Operations"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels-j/?couponCode=C55AF32A68B9944ED36C",
+      "coupon_code": "C55AF32A68B9944ED36C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6868297_b130.jpg",
+      "title": "The Complete Microsoft Excel Course: Master All Levels"
     },
     {
       "url": "https://www.udemy.com/course/ai-agents-for-everyone-and-artificial-intelligence-bootcamp/?couponCode=JANFREE03",
       "coupon_code": "JANFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6413173_84ff.jpg",
+      "title": "AI Agents for Everyone & AI Bootcamp with 100 Hands-on Labs"
     },
     {
       "url": "https://www.udemy.com/course/ai-machine-learning-for-executives-managers-leaders/?couponCode=605744BDCF9B5F9D8A3F",
       "coupon_code": "605744BDCF9B5F9D8A3F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6549401_c9d0_2.jpg",
+      "title": "Artificial Intelligence & Machine Learning with Python 2025"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-customer-experience/?couponCode=C6C191F23AAE0918C921",
       "coupon_code": "C6C191F23AAE0918C921",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6665295_a70e.jpg",
+      "title": "AI-Powered Customer Experience (CX)"
     },
     {
       "url": "https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/?couponCode=JANFREE03",
       "coupon_code": "JANFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6492625_085b.jpg",
+      "title": "AI & Quantum Computing Mastery: From Zero to Expert Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/bootcamp-de-agentes-de-ia-crea-chatbots-inteligentes/?couponCode=JANFREE03",
       "coupon_code": "JANFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6588621_57bb_3.jpg",
+      "title": "[ES] Bootcamp Agentes IA: Crea Chatbots Inteligentes"
     },
     {
       "url": "https://www.udemy.com/course/bootcamp-de-ia-practica-y-certificacion-en-7-dias/?couponCode=JANFREE03",
@@ -41,42 +131,20 @@
     {
       "url": "https://www.udemy.com/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/?couponCode=JANFREE03",
       "coupon_code": "JANFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/javascript-fundamentals-course-for-beginners/?couponCode=2559FFBE1E5D71B7C605",
-      "coupon_code": "2559FFBE1E5D71B7C605",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/jquery-complete-jquery-course-from-beginner-to-advanced/?couponCode=E9FB214D4582139777C3",
-      "coupon_code": "E9FB214D4582139777C3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-c-language-c-programming-language-for-beginners/?couponCode=00DF9EA2B9751707A072",
-      "coupon_code": "00DF9EA2B9751707A072",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6380935_ddd8.jpg",
+      "title": "Custom ChatGPT Publishing & AI Bootcamp Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/mastering-ai-agents-bootcamp-build-smart-chatbots-tools/?couponCode=JANFREE03",
       "coupon_code": "JANFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/?couponCode=A0BD7FF57E192FCBAB11",
-      "coupon_code": "A0BD7FF57E192FCBAB11",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=A90A00DC157E77C4338B",
-      "coupon_code": "A90A00DC157E77C4338B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6487855_4b85.jpg",
+      "title": "Mastering AI Agents Bootcamp: Build Smart Chatbots & Tools"
     },
     {
       "url": "https://www.udemy.com/course/rust-programming-bootcamp/?couponCode=JANFREE03",
       "coupon_code": "JANFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6352791_0655.jpg",
+      "title": "Rust Programming Bootcamp - 100 Projects in 100 Days"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-interpersonal-skills-excellence/?couponCode=0DB06BC1973FD5E3E0C3",
