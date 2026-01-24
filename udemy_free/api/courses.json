@@ -1,16 +1,102 @@
 {
-  "updated_at": "2026-01-24T17:24:48Z",
-  "count": 928,
+  "updated_at": "2026-01-24T18:39:19Z",
+  "count": 932,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/ai-literacy-and-eu-ai-act-compliance/?couponCode=39218FD827640F5207F6",
-      "coupon_code": "39218FD827640F5207F6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/ai-powered-algorithmic-trading-build-using-lstm-model/?couponCode=39FB007490711954FBB4",
       "coupon_code": "39FB007490711954FBB4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6623891_567e_2.jpg",
+      "title": "Deep Learning for Trading with LSTM: Smarter Than Signals"
+    },
+    {
+      "url": "https://www.udemy.com/course/consumer-products-retail-qsr-a-complete-business-guide/?couponCode=8453A6568A3C13578E22",
+      "coupon_code": "8453A6568A3C13578E22",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6491695_65c7_4.jpg",
+      "title": "Consumer Products, Retail & QSR: A Complete Business Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-lake-design-architecture-and-implementation/?couponCode=0FF74A6625ACB3945957",
+      "coupon_code": "0FF74A6625ACB3945957",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5951404_c2dc.jpg",
+      "title": "Data Lake: Design, Architecture, and Implementation"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-transformation-for-hr/?couponCode=E277AEBCEA2621C156A0",
+      "coupon_code": "E277AEBCEA2621C156A0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865182_fde0.jpg",
+      "title": "Digital Transformation for HR"
+    },
+    {
+      "url": "https://www.udemy.com/course/edge-computing-essentials/?couponCode=13BDF056437E0961DB00",
+      "coupon_code": "13BDF056437E0961DB00",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906514_f9f5.jpg",
+      "title": "Edge Computing: An Introduction for IT Professionals"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-101-for-beginners/?couponCode=20567317428F3B17A8CB",
+      "coupon_code": "20567317428F3B17A8CB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5566306_68db_4.jpg",
+      "title": "Microsoft Excel Fundamentals: A Beginner’s Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-governance-build-a-responsible-ai-coe/?couponCode=1286F3078996F63AC8C4",
+      "coupon_code": "1286F3078996F63AC8C4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6268673_b5be.jpg",
+      "title": "AI Ethics, Governance & Responsible Use for Enterprises"
+    },
+    {
+      "url": "https://www.udemy.com/course/learning-development-with-generative-ai/?couponCode=7ED15EDEA030B8A50354",
+      "coupon_code": "7ED15EDEA030B8A50354",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865144_bf94.jpg",
+      "title": "Learning & Development with Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=610289E7DFFBA0BE8BE3",
+      "coupon_code": "610289E7DFFBA0BE8BE3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5560460_2aa2.jpg",
+      "title": "Advanced Program in Entrepreneurship"
+    },
+    {
+      "url": "https://www.udemy.com/course/omnichannel-sales-service-management/?couponCode=57B2B2D7715483BD8937",
+      "coupon_code": "57B2B2D7715483BD8937",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241125_336d.jpg",
+      "title": "Omnichannel Sales & Service Management: Professional Diploma"
+    },
+    {
+      "url": "https://www.udemy.com/course/prompt-engineering-for-developers/?couponCode=891006FF1997329A7F09",
+      "coupon_code": "891006FF1997329A7F09",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6334541_bf31.jpg",
+      "title": "Prompt Engineering for Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/sbo-skills-based-organization/?couponCode=C1E82492543E27ECB6CD",
+      "coupon_code": "C1E82492543E27ECB6CD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6095237_5c04_2.jpg",
+      "title": "Skills-Based Organizations: Build Agile, Future-Ready Teams"
+    },
+    {
+      "url": "https://www.udemy.com/course/sleep-management/?couponCode=DAC075CD544ECC032C86",
+      "coupon_code": "DAC075CD544ECC032C86",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6438429_6998_3.jpg",
+      "title": "Professional Diploma in Quality Sleep Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-thinking-for-leaders-managers/?couponCode=BDF83A8503E6FEFFABAA",
+      "coupon_code": "BDF83A8503E6FEFFABAA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6759369_58ca.jpg",
+      "title": "Strategic Thinking for Leaders & Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/web3-development-essentials/?couponCode=D93BDA60A58BDAA8F569",
+      "coupon_code": "D93BDA60A58BDAA8F569",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5544558_1473_2.jpg",
+      "title": "Web3 Development Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-literacy-and-eu-ai-act-compliance/?couponCode=39218FD827640F5207F6",
+      "coupon_code": "39218FD827640F5207F6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6837073_b4d7_2.jpg",
+      "title": "AI Literacy and EU AI Act Compliance Training"
     },
     {
       "url": "https://www.udemy.com/course/auditor-lider-iso-14001-una-guia-practica/?couponCode=47AA6C14949C33F957CA",
@@ -19,64 +105,16 @@
       "title": "Auditor Líder ISO 14001 - Una Guía Práctica"
     },
     {
-      "url": "https://www.udemy.com/course/consumer-products-retail-qsr-a-complete-business-guide/?couponCode=8453A6568A3C13578E22",
-      "coupon_code": "8453A6568A3C13578E22",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=C8F043B154ECC792A3D3",
       "coupon_code": "C8F043B154ECC792A3D3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/data-lake-design-architecture-and-implementation/?couponCode=0FF74A6625ACB3945957",
-      "coupon_code": "0FF74A6625ACB3945957",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/digital-transformation-for-hr/?couponCode=E277AEBCEA2621C156A0",
-      "coupon_code": "E277AEBCEA2621C156A0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/edge-computing-essentials/?couponCode=13BDF056437E0961DB00",
-      "coupon_code": "13BDF056437E0961DB00",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/generative-ai-governance-build-a-responsible-ai-coe/?couponCode=1286F3078996F63AC8C4",
-      "coupon_code": "1286F3078996F63AC8C4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/learning-development-with-generative-ai/?couponCode=7ED15EDEA030B8A50354",
-      "coupon_code": "7ED15EDEA030B8A50354",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4202336_b8f3_5.jpg",
+      "title": "Object Oriented Programming in C++"
     },
     {
       "url": "https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/?couponCode=C4B88BD334A9E97C3548",
       "coupon_code": "C4B88BD334A9E97C3548",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/prompt-engineering-for-developers/?couponCode=891006FF1997329A7F09",
-      "coupon_code": "891006FF1997329A7F09",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/sbo-skills-based-organization/?couponCode=C1E82492543E27ECB6CD",
-      "coupon_code": "C1E82492543E27ECB6CD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/strategic-thinking-for-leaders-managers/?couponCode=BDF83A8503E6FEFFABAA",
-      "coupon_code": "BDF83A8503E6FEFFABAA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/web3-development-essentials/?couponCode=D93BDA60A58BDAA8F569",
-      "coupon_code": "D93BDA60A58BDAA8F569",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5544090_702e.jpg",
+      "title": "Advanced Diploma in Innovations and Digital Transformation"
     },
     {
       "url": "https://www.udemy.com/course/a-knowledge-workers-guide-to-focus-and-fulfilment/?couponCode=65BDE7469F071501042F",
