@@ -1,24 +1,12 @@
 {
-  "updated_at": "2026-01-25T14:27:11Z",
-  "count": 953,
+  "updated_at": "2026-01-25T15:28:14Z",
+  "count": 956,
   "courses": [
     {
       "url": "https://www.udemy.com/course/active-directory-deploying-and-managing-certificates-adcs/?couponCode=17A68F03E3F724F1B6E9",
       "coupon_code": "17A68F03E3F724F1B6E9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/2625950_7829_2.jpg",
       "title": "Active Directory: Deploying and managing Certificate Service"
-    },
-    {
-      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=F53A012A10F305A10695",
-      "coupon_code": "F53A012A10F305A10695",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6174285_af41_3.jpg",
-      "title": "C# Mastering Course For Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?couponCode=1B29247D3F3797F3810B",
-      "coupon_code": "1B29247D3F3797F3810B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6191737_6836.jpg",
-      "title": "C# Mastering Course For Intermediates"
     },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-professionals/?couponCode=CCCE73434BEAA1CE5BA3",
@@ -29,18 +17,26 @@
     {
       "url": "https://www.udemy.com/course/cssbootstrapjavascriptreact-overview-course-for-beginners/?couponCode=82CECD4BF44EC5B3BEA8",
       "coupon_code": "82CECD4BF44EC5B3BEA8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5039564_6b62.jpg",
+      "title": "Foundations of Web Development: CSS, Bootstrap, JS, React"
     },
     {
       "url": "https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=49F0F085B68A6C58A6F2",
       "coupon_code": "49F0F085B68A6C58A6F2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6699075_bc0d_2.jpg",
+      "title": "Mastering Black Hat Techniques: A Guide to Hacking & Cyberse"
     },
     {
       "url": "https://www.udemy.com/course/design-a-website-template-using-html5-css3/?couponCode=918455FE8D2C12F91F29",
       "coupon_code": "918455FE8D2C12F91F29",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5983538_9b76_2.jpg",
       "title": "Design a Website Template using HTML5 & CSS3"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-chief-technology-officer/?couponCode=7BB5C5E2DC0F1A5EC271",
+      "coupon_code": "7BB5C5E2DC0F1A5EC271",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5743116_a7f2.jpg",
+      "title": "Executive Diploma of Chief Technology Officer"
     },
     {
       "url": "https://www.udemy.com/course/global-career-development-job-search-interviewing-skills/?couponCode=20C4A107EDEF0FCA77C4",
@@ -63,28 +59,56 @@
     {
       "url": "https://www.udemy.com/course/micro-mba-in-business-administration/?couponCode=6844FE52EEA6B0BE110B",
       "coupon_code": "6844FE52EEA6B0BE110B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5697982_df4d.jpg",
+      "title": "Business Administration"
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-hacking-pentesting-guide/?couponCode=B1CE77F327B3AD80DF1B",
+      "coupon_code": "B1CE77F327B3AD80DF1B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4796642_f9c6_2.jpg",
+      "title": "Practical hacking and pentesting course for beginners"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-advertising-management/?couponCode=CBB1DDEFFA95C9DDD6B4",
       "coupon_code": "CBB1DDEFFA95C9DDD6B4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5730306_09f6_2.jpg",
+      "title": "Professional Diploma in Advertising & Advertising Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-public-relations-and-pr-management/?couponCode=A00E0D42B17C5A8C4877",
+      "coupon_code": "A00E0D42B17C5A8C4877",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5743088_1a0f.jpg",
+      "title": "Professional Diploma in Public Relations and PR Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/special-education-inclusion/?couponCode=DECMFREE_16",
+      "coupon_code": "DECMFREE_16",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5893372_7148_3.jpg",
+      "title": "Certificate in Special Education Inclusion in Schools (SEND)"
+    },
+    {
+      "url": "https://www.udemy.com/course/sports-marketing/?couponCode=DECMFREE_14",
+      "coupon_code": "DECMFREE_14",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6043642_b2fb_3.jpg",
+      "title": "Sports Marketing: Principles & Strategies"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=F53A012A10F305A10695",
+      "coupon_code": "F53A012A10F305A10695",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6174285_af41_3.jpg",
+      "title": "C# Mastering Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?couponCode=1B29247D3F3797F3810B",
+      "coupon_code": "1B29247D3F3797F3810B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6191737_6836.jpg",
+      "title": "C# Mastering Course For Intermediates"
     },
     {
       "url": "https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/?couponCode=3BB3533C1FE1FBEA7481",
       "coupon_code": "3BB3533C1FE1FBEA7481",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6095163_4255_2.jpg",
       "title": "Python from Zero-to-Hero (Beginner Level)"
-    },
-    {
-      "url": "https://www.udemy.com/course/special-education-inclusion/?couponCode=DECMFREE_16",
-      "coupon_code": "DECMFREE_16",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/sports-marketing/?couponCode=DECMFREE_14",
-      "coupon_code": "DECMFREE_14",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-2-intermediate-level/?couponCode=5DDD02E12B061FDDCFB6",
