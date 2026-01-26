@@ -1,21 +1,96 @@
 {
-  "updated_at": "2026-01-26T07:35:15Z",
-  "count": 988,
+  "updated_at": "2026-01-26T08:43:15Z",
+  "count": 992,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-graphics-design-video-editing/?couponCode=3BF75CE7A53B658D8232",
       "coupon_code": "3BF75CE7A53B658D8232",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5048144_f746_3.jpg",
+      "title": "Essential Photoshop Course Beginner to Intermediate"
     },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-for-beginners/?couponCode=C0697ED3B551435E78A0",
       "coupon_code": "C0697ED3B551435E78A0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5114558_ebfd_3.jpg",
+      "title": "Adobe Premiere Pro CC Video Editing  Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/angularjs-essentials-from-beginner-to-advanced-developer/?couponCode=B056C3813751F002A8A9",
+      "coupon_code": "B056C3813751F002A8A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6262525_eb9c_2.jpg",
+      "title": "AngularJS Essentials - From Beginner to Advanced Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-8-python-apps-games-and-web-application-python-master/?couponCode=823364AF443636F2C13A",
+      "coupon_code": "823364AF443636F2C13A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6395467_02fd.jpg",
+      "title": "Build 8 Python Apps Games and Web Application Python Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-mastery-create-stunning-social-media-videos/?couponCode=EC7F78554ACA92DA77C0",
+      "coupon_code": "EC7F78554ACA92DA77C0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285257_8aeb_3.jpg",
+      "title": "Capcut Mastery: Create Stunning Social Media Videos"
     },
     {
       "url": "https://www.udemy.com/course/complete-microsoft-word-excel-powerpoint-course/?couponCode=608DE442DB8D5B4E2537",
       "coupon_code": "608DE442DB8D5B4E2537",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5100256_f721.jpg",
+      "title": "Complete Microsoft Word Excel PowerPoint Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-excel-for-beginner-to-advanced/?couponCode=536829C35CF5871070B4",
+      "coupon_code": "536829C35CF5871070B4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5002062_aa6a.jpg",
+      "title": "Essential Microsoft Excel from Beginner to Advance level"
+    },
+    {
+      "url": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=F702F238C81B62BB3A4B",
+      "coupon_code": "F702F238C81B62BB3A4B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3407178_5bd8_3.jpg",
+      "title": "Python And Flask Framework Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-add-value-in-the-project-management-role/?couponCode=NEWYEARLEARNING",
+      "coupon_code": "NEWYEARLEARNING",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5194730_960b_3.jpg",
+      "title": "How to Add Value in the Project Management Role"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-php-complete-course/?couponCode=9683DC41E098523CBDD4",
+      "coupon_code": "9683DC41E098523CBDD4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5025724_f9f4.jpg",
+      "title": "Java And PHP Complete Course For Java And PHP Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-master-course-from-beginner-to-expert-developer/?couponCode=20C1D5464E1810A4581E",
+      "coupon_code": "20C1D5464E1810A4581E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6395555_6dfe_2.jpg",
+      "title": "JavaScript Master Course From Beginner to Expert Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-data-science-pro-the-complete-mastery-course/?couponCode=9DC80F4F5ABEBC620214",
+      "coupon_code": "9DC80F4F5ABEBC620214",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6137323_e6a1_3.jpg",
+      "title": "Python for Data Science Pro: The Complete Mastery Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-oop-a-complete-course-in-object-oriented-programming/?couponCode=662A5BA28A7954766719",
+      "coupon_code": "662A5BA28A7954766719",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6146277_cacb_2.jpg",
+      "title": "Python OOP: A Complete Course in Object Oriented Programming"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-the-complete-course-for-success/?couponCode=83BC54A24913642E2FD9",
+      "coupon_code": "83BC54A24913642E2FD9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6151001_aa1b.jpg",
+      "title": "Python Programming: The Complete Course for Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-design-for-beginner-to-advanced/?couponCode=A989B4F1072D962B0CA7",
+      "coupon_code": "A989B4F1072D962B0CA7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5026508_76f2_2.jpg",
+      "title": "Web Design Course For Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/create-business-model-canvas-step-by-step-with-templates/?couponCode=49DBC7F54A27A60BA617",
@@ -30,27 +105,6 @@
       "title": "CSS, Bootstrap, JavaScript And PHP Stack Complete Course"
     },
     {
-      "url": "https://www.udemy.com/course/essential-excel-for-beginner-to-advanced/?couponCode=536829C35CF5871070B4",
-      "coupon_code": "536829C35CF5871070B4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=F702F238C81B62BB3A4B",
-      "coupon_code": "F702F238C81B62BB3A4B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/how-to-add-value-in-the-project-management-role/?couponCode=NEWYEARLEARNING",
-      "coupon_code": "NEWYEARLEARNING",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/java-and-php-complete-course/?couponCode=9683DC41E098523CBDD4",
-      "coupon_code": "9683DC41E098523CBDD4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5025724_f9f4.jpg",
-      "title": "Java And PHP Complete Course For Java And PHP Beginners"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-in-life-coaching-business-mentorship/?couponCode=3AB12081A975FFD4A70C",
       "coupon_code": "3AB12081A975FFD4A70C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5796500_ddbb.jpg",
@@ -61,27 +115,6 @@
       "coupon_code": "FFE2C81662508B24FE13",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5795130_8ace.jpg",
       "title": "Professional Diploma in Social Media Marketing & Copywriting"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-for-data-science-pro-the-complete-mastery-course/?couponCode=9DC80F4F5ABEBC620214",
-      "coupon_code": "9DC80F4F5ABEBC620214",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-oop-a-complete-course-in-object-oriented-programming/?couponCode=662A5BA28A7954766719",
-      "coupon_code": "662A5BA28A7954766719",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6146277_cacb_2.jpg",
-      "title": "Python OOP: A Complete Course in Object Oriented Programming"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-programming-the-complete-course-for-success/?couponCode=83BC54A24913642E2FD9",
-      "coupon_code": "83BC54A24913642E2FD9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/web-design-for-beginner-to-advanced/?couponCode=A989B4F1072D962B0CA7",
-      "coupon_code": "A989B4F1072D962B0CA7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/mini-mba-in-marketing-public-relations-and-advertising/?couponCode=E3A2BB8CE0A429209D9D",
