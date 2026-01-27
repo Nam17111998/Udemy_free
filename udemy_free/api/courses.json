@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-01-27T05:35:23Z",
-  "count": 918,
+  "updated_at": "2026-01-27T06:48:37Z",
+  "count": 932,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/all-you-need-to-know-react-with-practical-project/?couponCode=DDCF7E0F15DB19EAF40E",
+      "coupon_code": "DDCF7E0F15DB19EAF40E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5605628_a22c_8.jpg",
+      "title": "React: All You Need to Know with Practical Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/blender-essential-from-beginner-to-3d-masterclass/?couponCode=20FB0A0DFA724F17A3BB",
+      "coupon_code": "20FB0A0DFA724F17A3BB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5950120_e1c7_3.jpg",
+      "title": "Blender Essential: From Beginner to 3D Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-mastery-create-stunning-social-media-videos/?couponCode=EC7F78554ACA92DA77C0",
+      "coupon_code": "EC7F78554ACA92DA77C0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285257_8aeb_3.jpg",
+      "title": "Capcut Mastery: Create Stunning Social Media Videos"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-ai-automate-tasks-and-write-code-effortlessly/?couponCode=E2B141A704158EC44BD0",
+      "coupon_code": "E2B141A704158EC44BD0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6835699_b190_5.jpg",
+      "title": "Deepseek AI: Automate Tasks and Write Code Effortlessly"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-for-financial-modeling-valuation-the-complete-guide/?couponCode=2094132A39EBA229E48D",
+      "coupon_code": "2094132A39EBA229E48D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847477_16f6_3.jpg",
+      "title": "Excel for Financial Modeling & Valuation: The Complete Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-python-data-science-for-business-and-ai/?couponCode=122C66B14C98036B0974",
+      "coupon_code": "122C66B14C98036B0974",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6813871_421c_3.jpg",
+      "title": "Machine Learning & Python Data Science for Business and AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-desarrollo-pablo-tilotta-alvaro-chirou-python-golang-hacking/?couponCode=854E14D49547D213CFDF",
+      "coupon_code": "854E14D49547D213CFDF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2535300_6b1a_14.jpg",
+      "title": "Curso Completo sobre Desarrollo desde 0 a Experto.+50 Horas."
+    },
+    {
+      "url": "https://www.udemy.com/course/master-logo-design-with-photoshop-illustrator-zero-to-pro/?couponCode=9C17E168DBD945780192",
+      "coupon_code": "9C17E168DBD945780192",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6078937_4e36_3.jpg",
+      "title": "Master Logo Design with Photoshop Illustrator Zero to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/perplexity-ai-transform-your-research-and-writing-workflow/?couponCode=3AFC5104C5234684E385",
+      "coupon_code": "3AFC5104C5234684E385",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6835803_8a17_6.jpg",
+      "title": "Perplexity AI: Transform Your Research and Writing Workflow"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-digital-business-unit-economics/?couponCode=727EAA39E62A76974184",
+      "coupon_code": "727EAA39E62A76974184",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917806_0ba8.jpg",
+      "title": "Professional Certificate: Digital Business & Unit Economics"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-of-secretary/?couponCode=CE7FD5243256D864E55D",
+      "coupon_code": "CE7FD5243256D864E55D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917850_6c1f.jpg",
+      "title": "Professional Certificate of Secretary"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-for-beginners-learn-python-from-scratch/?couponCode=09EA5ACD6D8FCB331213",
+      "coupon_code": "09EA5ACD6D8FCB331213",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6053693_14e0_2.jpg",
+      "title": "Python Programming for Beginners: Learn Python from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/tensorflow-course-basic-to-advanced-neural-network-beyond/?couponCode=B32BD176AFAB910F5FF8",
+      "coupon_code": "B32BD176AFAB910F5FF8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6813825_de20.jpg",
+      "title": "TensorFlow Course: Basic to Advanced Neural Network & Beyond"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-guide-to-instagram-marketing-for-businesses/?couponCode=E3C3FD38A54D08090E5F",
+      "coupon_code": "E3C3FD38A54D08090E5F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992018_0d73.jpg",
+      "title": "The Complete Guide to Instagram Marketing for Businesses"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-advanced/?couponCode=BDA24D57954B5A74A43B",
+      "coupon_code": "BDA24D57954B5A74A43B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6848609_db52.jpg",
+      "title": "The Complete Microsoft Excel Course: Beginner to Advanced"
+    },
     {
       "url": "https://www.udemy.com/course/agile-coach-certification/?couponCode=079C6A4D3797E513D520",
       "coupon_code": "079C6A4D3797E513D520",
@@ -25,12 +115,6 @@
       "coupon_code": "3C3DF069A171091FD374",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6178275_e45a.jpg",
       "title": "ChatGPT for Business Analysts"
-    },
-    {
-      "url": "https://www.udemy.com/course/capcut-mastery-create-stunning-social-media-videos/?couponCode=EC7F78554ACA92DA77C0",
-      "coupon_code": "EC7F78554ACA92DA77C0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6285257_8aeb_3.jpg",
-      "title": "Capcut Mastery: Create Stunning Social Media Videos"
     },
     {
       "url": "https://www.udemy.com/course/complete-css-web-design-course-front-end-web-development/?couponCode=D4571481E63DA6E7DCA1",
