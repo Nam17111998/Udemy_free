@@ -1,11 +1,102 @@
 {
-  "updated_at": "2026-01-27T10:37:14Z",
-  "count": 974,
+  "updated_at": "2026-01-27T11:29:50Z",
+  "count": 987,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/excel-automation-with-python-from-basics-to-advanced-tasks/?couponCode=3C1D7F54BE5C97E942D9",
+      "coupon_code": "3C1D7F54BE5C97E942D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6865603_46df.jpg",
+      "title": "Excel Automation with Python From Basics to Advanced Tasks"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-for-everyone-essential-skills-for-work-and-life/?couponCode=A73E8704589FC916F6E8",
+      "coupon_code": "A73E8704589FC916F6E8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6043382_b2e6_2.jpg",
+      "title": "Excel for Everyone: Essential Skills for Work and Life"
+    },
+    {
+      "url": "https://www.udemy.com/course/gmat-verbal-critical-reasoning-reading-comprehension/?couponCode=606771F7B84D00A64CB5",
+      "coupon_code": "606771F7B84D00A64CB5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5685894_0398.jpg",
+      "title": "GMAT Verbal | CR | RC | Verbal DI | 2026 Updated"
+    },
+    {
+      "url": "https://www.udemy.com/course/gre-gmat-advanced-learners-math-marathon/?couponCode=C3F57026B842D1CD6E19",
+      "coupon_code": "C3F57026B842D1CD6E19",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3514010_7486_2.jpg",
+      "title": "GRE - GMAT | Advanced Learners | Math Marathon"
+    },
+    {
+      "url": "https://www.udemy.com/course/ielts-pro-reading-writing-listening-speaking/?couponCode=2F0F8646B5A6D8B13768",
+      "coupon_code": "2F0F8646B5A6D8B13768",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4415574_98a8.jpg",
+      "title": "IELTS Pro: Reading | Writing | Listening | Speaking"
+    },
+    {
+      "url": "https://www.udemy.com/course/ipv6-mastery/?couponCode=7EB6490F72576416671B",
+      "coupon_code": "7EB6490F72576416671B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6690299_3fad_2.jpg",
+      "title": "IPv6 Mastery: Deploy, Configure & Migrate with Confidence"
+    },
+    {
+      "url": "https://www.udemy.com/course/lpic-1-ultimate-prep/?couponCode=573DBA77759611E4B0E0",
+      "coupon_code": "573DBA77759611E4B0E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6171551_01af_7.jpg",
+      "title": "Linux Mastery: LPIC-1 (101-500 and 102-500) Ultimate Prep"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-word-mastery-essential-skill-for-job-and-business/?couponCode=0FDA9D70F6EDD3F0152F",
+      "coupon_code": "0FDA9D70F6EDD3F0152F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6043410_7f4a.jpg",
+      "title": "Microsoft Word Mastery: Essential Skill for Job and Business"
+    },
+    {
+      "url": "https://www.udemy.com/course/new-gre-verbal-master-english-course-2024-updated/?couponCode=D5C32C8C67F2526332FB",
+      "coupon_code": "D5C32C8C67F2526332FB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6016340_bbbc_4.jpg",
+      "title": "New GRE Verbal | Master English Course | 2026 Updated"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-administration-management/?couponCode=9D188FA18A0C4545F1BF",
+      "coupon_code": "9D188FA18A0C4545F1BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5927342_8b19.jpg",
+      "title": "Professional Diploma in Administration Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-based-microsoft-office-with-chatgpt-and-gemini/?couponCode=5825018544D8F4E08775",
+      "coupon_code": "5825018544D8F4E08775",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6872703_03c0_2.jpg",
+      "title": "Project Based Microsoft Office With ChatGPT And Gemini"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-automation-and-data-science-bootcamp-zero-to-hero/?couponCode=B58419C12447E2BE72F0",
+      "coupon_code": "B58419C12447E2BE72F0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6836911_f120_3.jpg",
+      "title": "Python Automation and Data Science Bootcamp Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/remotely-operated-vehicles-rovs-a-subsea-enabler/?couponCode=463ACF39B5DA2C9A5657",
+      "coupon_code": "463ACF39B5DA2C9A5657",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5489138_aae9_3.jpg",
+      "title": "Remotely Operated Vehicles (ROVs), A Subsea Enabler"
+    },
+    {
+      "url": "https://www.udemy.com/course/sat-digital-english-prep-course-reading-writing-language/?couponCode=E8969615624E7FBAB792",
+      "coupon_code": "E8969615624E7FBAB792",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5864608_5532.jpg",
+      "title": "SAT Digital English| Reading, Writing, Language|2026 Updated"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-artificial-intelligence-ai-for-professionals/?couponCode=OFFER_26_26",
+      "coupon_code": "OFFER_26_26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5352294_5f15_14.jpg",
+      "title": "The Complete Artificial Intelligence (AI) for Professionals"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-cc-masterpiece-unleashing-creative-magic/?couponCode=B5ECAFB9DD1814D0681E",
       "coupon_code": "B5ECAFB9DD1814D0681E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5575870_3173.jpg",
+      "title": "Adobe Illustrator CC Masterpiece: Unleashing Creative Magic"
     },
     {
       "url": "https://www.udemy.com/course/advanced-ms-word-course-from-beginner-to-expert/?couponCode=AE440F313C1991DB25E5",
@@ -16,12 +107,14 @@
     {
       "url": "https://www.udemy.com/course/anger-management-master-your-emotions/?couponCode=2436777F2296425DF091",
       "coupon_code": "2436777F2296425DF091",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7009451_c641_2.jpg",
+      "title": "Anger Management: Master Your Emotions"
     },
     {
       "url": "https://www.udemy.com/course/anti-corruption-and-anti-bribery/?couponCode=40672B878251F8B0A19E",
       "coupon_code": "40672B878251F8B0A19E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6258401_4fe2.jpg",
+      "title": "Anti-Corruption and Anti-Bribery Training for Professionals"
     },
     {
       "url": "https://www.udemy.com/course/excel-microsoft-excel-formulas-and-functions-for-beginners/?couponCode=FF5D985F67E508C3153A",
@@ -40,16 +133,6 @@
       "coupon_code": "853C78A10DF04EA0BB7E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg",
       "title": "Microsoft Excel Data Analysis for Business & Finance"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-administration-management/?couponCode=9D188FA18A0C4545F1BF",
-      "coupon_code": "9D188FA18A0C4545F1BF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/remotely-operated-vehicles-rovs-a-subsea-enabler/?couponCode=463ACF39B5DA2C9A5657",
-      "coupon_code": "463ACF39B5DA2C9A5657",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/research-methodologies-in-strategy-and-product-development/?couponCode=50A8E903ED80FB15D462",
