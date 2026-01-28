@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-01-28T20:40:25Z",
-  "count": 966,
+  "updated_at": "2026-01-28T21:37:09Z",
+  "count": 971,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=AE7DC9FD3991F81D8739",
+      "coupon_code": "AE7DC9FD3991F81D8739",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/break-the-chains-from-broken-to-boundless-full-course/?couponCode=0A1DCEFE36B1F90A80AE",
+      "coupon_code": "0A1DCEFE36B1F90A80AE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=4F6AF88274EA749FF456",
       "coupon_code": "4F6AF88274EA749FF456",
@@ -51,16 +61,37 @@
       "title": "GIT, GitLab, GitHub Fundamentals for Software Developers"
     },
     {
-      "url": "https://www.udemy.com/course/learn-flutter-complete-guide/?couponCode=E8998010C801CD6214A9",
-      "coupon_code": "E8998010C801CD6214A9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5706106_d90c.jpg",
-      "title": "Flutter Masterclass -  (Dart, Api & More)"
-    },
-    {
       "url": "https://www.udemy.com/course/master-looker-studio-build-ai-powered-dashboards-reports/?couponCode=D297D427DD082EC776CA",
       "coupon_code": "D297D427DD082EC776CA",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7017541_4973.jpg",
       "title": "Master Looker Studio: Build AI-Powered Dashboards & Reports"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-billing-coding-certification-prep-for-beginners/?couponCode=7D95E84387C94A7E687F",
+      "coupon_code": "7D95E84387C94A7E687F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/salesforce-fundamentals-a-complete-guide-for-beginners/?couponCode=5E019FC8CD1D165336BB",
+      "coupon_code": "5E019FC8CD1D165336BB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5668638_f94e_2.jpg",
+      "title": "Salesforce Fundamentals : A Complete Guide for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/scrum-master-certification-prepartion-course/?couponCode=58EBC3B8FC518B58DE5F",
+      "coupon_code": "58EBC3B8FC518B58DE5F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-happiness-method/?couponCode=61BE8B711756E877F698",
+      "coupon_code": "61BE8B711756E877F698",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-flutter-complete-guide/?couponCode=E8998010C801CD6214A9",
+      "coupon_code": "E8998010C801CD6214A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5706106_d90c.jpg",
+      "title": "Flutter Masterclass -  (Dart, Api & More)"
     },
     {
       "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/?couponCode=298B4667094AA28564BB",
@@ -79,12 +110,6 @@
       "coupon_code": "2944D4DF48379449DBE7",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5663766_280c.jpg",
       "title": "Python Programming: Python Bootcamp For Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/salesforce-fundamentals-a-complete-guide-for-beginners/?couponCode=5E019FC8CD1D165336BB",
-      "coupon_code": "5E019FC8CD1D165336BB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5668638_f94e_2.jpg",
-      "title": "Salesforce Fundamentals : A Complete Guide for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-mysql-bootcamp-go-from-beginner-to-expert/?couponCode=A394ACE5798235F348B2",
