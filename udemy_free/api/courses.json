@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-28T16:49:30Z",
-  "count": 958,
+  "updated_at": "2026-01-28T17:39:09Z",
+  "count": 960,
   "courses": [
     {
       "url": "https://www.udemy.com/course/curso-basico-de-redes-com-fio-para-hackers-do-bem/?couponCode=7F6A22F62B9409D0504A",
@@ -12,6 +12,16 @@
       "coupon_code": "4EEE621C76B8228863F1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6946295_968f.jpg",
       "title": "The Doughnut Economics"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?couponCode=926CC24D0465270356E9",
+      "coupon_code": "926CC24D0465270356E9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/?couponCode=92373AD0CC32FD411D62",
+      "coupon_code": "92373AD0CC32FD411D62",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=OCSALY.COM_NMAP",
@@ -60,22 +70,10 @@
       "title": "Python Programming: Python Bootcamp For Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/real_pentest/?couponCode=OCSALY.COM-ACADEMY",
-      "coupon_code": "OCSALY.COM-ACADEMY",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5541762_0c23_2.jpg",
-      "title": "Defensive Cyber Operations: The Blue Team & Network Security"
-    },
-    {
       "url": "https://www.udemy.com/course/salesforce-fundamentals-a-complete-guide-for-beginners/?couponCode=5E019FC8CD1D165336BB",
       "coupon_code": "5E019FC8CD1D165336BB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5668638_f94e_2.jpg",
       "title": "Salesforce Fundamentals : A Complete Guide for Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/shellcode/?couponCode=OCSALY.COM-5-STARPLS",
-      "coupon_code": "OCSALY.COM-5-STARPLS",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5504352_627d_8.jpg",
-      "title": "Red Teaming | Exploit Development with Assembly & C | MSAC+"
     },
     {
       "url": "https://www.udemy.com/course/software_defined_radio/?couponCode=SDR_OCSALY-ACADEMY",
@@ -88,6 +86,18 @@
       "coupon_code": "A394ACE5798235F348B2",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5658548_cef9_2.jpg",
       "title": "The Complete MySQL Bootcamp: Go from Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/real_pentest/?couponCode=OCSALY.COM-ACADEMY",
+      "coupon_code": "OCSALY.COM-ACADEMY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5541762_0c23_2.jpg",
+      "title": "Defensive Cyber Operations: The Blue Team & Network Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/shellcode/?couponCode=OCSALY.COM-5-STARPLS",
+      "coupon_code": "OCSALY.COM-5-STARPLS",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5504352_627d_8.jpg",
+      "title": "Red Teaming | Exploit Development with Assembly & C | MSAC+"
     },
     {
       "url": "https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/?couponCode=ABEE09DA5D5B312FEE92",
