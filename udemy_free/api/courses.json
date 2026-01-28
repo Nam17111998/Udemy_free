@@ -1,26 +1,114 @@
 {
-  "updated_at": "2026-01-28T14:38:50Z",
-  "count": 940,
+  "updated_at": "2026-01-28T15:41:21Z",
+  "count": 950,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/?couponCode=ABEE09DA5D5B312FEE92",
+      "coupon_code": "ABEE09DA5D5B312FEE92",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6905893_f165.jpg",
+      "title": "AI in Healthcare: A-Z Guide on Tech, Applications & Ethics"
+    },
+    {
+      "url": "https://www.udemy.com/course/assembly-best/?couponCode=OCSALY.COM_5-STARPLS",
+      "coupon_code": "OCSALY.COM_5-STARPLS",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5486740_0e07_3.jpg",
+      "title": "Mastering x86-64 Real Assembly Language from Zero | ASMCert+"
+    },
+    {
+      "url": "https://www.udemy.com/course/doughnut-economics-framework/?couponCode=4EEE621C76B8228863F1",
+      "coupon_code": "4EEE621C76B8228863F1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6946295_968f.jpg",
+      "title": "The Doughnut Economics"
+    },
+    {
+      "url": "https://www.udemy.com/course/free-google-maps-api-course-for-beginners/?couponCode=DOESNTMATTER",
+      "coupon_code": "DOESNTMATTER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6800033_4552.jpg",
+      "title": "Free Google Maps API Tutorial - Free Google Maps API Course for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=OCSALY.COM_NMAP",
+      "coupon_code": "OCSALY.COM_NMAP",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6341477_a404_6.jpg",
+      "title": "Wireless Networks & SDR : GSM, SS7, GPRS, LTE & 5G Hacks"
+    },
+    {
+      "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=4728AEE530A39CBE7B0A",
+      "coupon_code": "4728AEE530A39CBE7B0A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6118139_f59a.jpg",
+      "title": "Introdução à Gestão"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn_sql/?couponCode=OCSALY.COM_5-STAR",
+      "coupon_code": "OCSALY.COM_5-STAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5307690_aa48_4.jpg",
+      "title": "Learn SQL in 3 Hours : A tutorial for fast learners"
+    },
+    {
+      "url": "https://www.udemy.com/course/manus-ai-mastery-build-real-world-projects-with-ai-agents/?couponCode=1EDFEE40B73978C0AD32",
+      "coupon_code": "1EDFEE40B73978C0AD32",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6991983_3c63_2.jpg",
+      "title": "Manus AI Mastery: Build Real-World Projects with AI Agents"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-network-security/?couponCode=OCSALY.COM-2026",
+      "coupon_code": "OCSALY.COM-2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5341290_0d75_2.jpg",
+      "title": "Mastering Network Security: Defend Against Cyber Attacks"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-nlp-for-ai-engineers-data-scientists/?couponCode=3E0332E109833DCD5477",
+      "coupon_code": "3E0332E109833DCD5477",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018971_c2c7.jpg",
+      "title": "Modern NLP for AI Engineers & Data Scientists"
+    },
+    {
+      "url": "https://www.udemy.com/course/nmap-training/?couponCode=OCSALY.COM-5-STAR",
+      "coupon_code": "OCSALY.COM-5-STAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5409334_2658.jpg",
+      "title": "Real NMAP: Network Scanning, Recon & Exploit Discovery|CNMP+"
+    },
+    {
+      "url": "https://www.udemy.com/course/real_pentest/?couponCode=OCSALY.COM-ACADEMY",
+      "coupon_code": "OCSALY.COM-ACADEMY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5541762_0c23_2.jpg",
+      "title": "Defensive Cyber Operations: The Blue Team & Network Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=OCSALY.COM_5-STARPLS",
+      "coupon_code": "OCSALY.COM_5-STARPLS",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5504668_c118_4.jpg",
+      "title": "Reverse Engineering Bootcamp:Ghidra, IDA, Linux, and x86_64"
+    },
+    {
+      "url": "https://www.udemy.com/course/shellcode/?couponCode=OCSALY.COM-5-STARPLS",
+      "coupon_code": "OCSALY.COM-5-STARPLS",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5504352_627d_8.jpg",
+      "title": "Red Teaming | Exploit Development with Assembly & C | MSAC+"
+    },
+    {
+      "url": "https://www.udemy.com/course/software_defined_radio/?couponCode=SDR_OCSALY-ACADEMY",
+      "coupon_code": "SDR_OCSALY-ACADEMY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6304635_b3c3_6.jpg",
+      "title": "Mastering Software Defined Radio (SDR): GNU Radio and SDR++"
+    },
     {
       "url": "https://www.udemy.com/course/28-days-to-master-ai-art-generation-system/?couponCode=28JANUARY2026",
       "coupon_code": "28JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6842907_092f.jpg",
+      "title": "28 Days to Master AI Art Generation System"
     },
     {
       "url": "https://www.udemy.com/course/ai-agents-with-openai-agentkit-hands-on-guide/?couponCode=28JANUARY2026",
       "coupon_code": "28JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/?couponCode=ABEE09DA5D5B312FEE92",
-      "coupon_code": "ABEE09DA5D5B312FEE92",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6861611_1c6e_5.jpg",
+      "title": "OpenAI AgentKit: Build AI Agents & Automate Workflows"
     },
     {
       "url": "https://www.udemy.com/course/c-bootcamp-job-ready-skills-for-net-development/?couponCode=770609448C460FFF03A7",
       "coupon_code": "770609448C460FFF03A7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017275_67fd.jpg",
+      "title": "C# Bootcamp – Job Ready Skills for .NET Development"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-developers-ai-coding-crash-course/?couponCode=28JANUARY2026",
@@ -31,62 +119,50 @@
     {
       "url": "https://www.udemy.com/course/complete-sql-course-become-an-expert-in-database-management/?couponCode=0298FCB8D23EA81CA65D",
       "coupon_code": "0298FCB8D23EA81CA65D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/free-google-maps-api-course-for-beginners/?couponCode=DOESNTMATTER",
-      "coupon_code": "DOESNTMATTER",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017263_42ab.jpg",
+      "title": "Complete SQL Course: Become an Expert in Database Management"
     },
     {
       "url": "https://www.udemy.com/course/google-maps-for-developers/?couponCode=DDF778A6883A61888042",
       "coupon_code": "DDF778A6883A61888042",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761105_56cc_8.jpg",
+      "title": "Google Maps JavaScript API for Developers (2026)"
     },
     {
       "url": "https://www.udemy.com/course/graphics-design-and-video-edting-canva/?couponCode=87691D8F6593547F5DCF",
       "coupon_code": "87691D8F6593547F5DCF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7008005_cb24_8.jpg",
+      "title": "Graphics Design: Canva Photoshop, Illustrator & Premier Pro"
     },
     {
       "url": "https://www.udemy.com/course/html-css-the-complete-web-development-guide/?couponCode=7C7E4BC89C8E424929FA",
       "coupon_code": "7C7E4BC89C8E424929FA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/introducao-a-gestao/?couponCode=4728AEE530A39CBE7B0A",
-      "coupon_code": "4728AEE530A39CBE7B0A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/manus-ai-mastery-build-real-world-projects-with-ai-agents/?couponCode=1EDFEE40B73978C0AD32",
-      "coupon_code": "1EDFEE40B73978C0AD32",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/modern-nlp-for-ai-engineers-data-scientists/?couponCode=3E0332E109833DCD5477",
-      "coupon_code": "3E0332E109833DCD5477",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017987_e138.jpg",
+      "title": "HTML & CSS: The Complete Web Development Guide"
     },
     {
       "url": "https://www.udemy.com/course/postgresql-database-administration-complete-course/?couponCode=2890D8EAD46BD6CA973B",
       "coupon_code": "2890D8EAD46BD6CA973B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017321_5c69.jpg",
+      "title": "PostgreSQL Database Administration Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/python-data-analysis-matplotlib-seaborn-pandas-numpy/?couponCode=67766E8D4301CD2FA1B8",
       "coupon_code": "67766E8D4301CD2FA1B8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017173_7c3e.jpg",
+      "title": "Python Data Analysis - Matplotlib, Seaborn, Pandas & NumPy"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/?couponCode=E49D62F7DAEF17E84DCE",
       "coupon_code": "E49D62F7DAEF17E84DCE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860312_861b.jpg",
+      "title": "Adobe Illustrator for T-Shirt Design: From Sketch to Print"
     },
     {
       "url": "https://www.udemy.com/course/advanced-prompt-engineering-certification/?couponCode=FDC15B0034216B313333",
       "coupon_code": "FDC15B0034216B313333",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6869555_8341_6.jpg",
+      "title": "Advanced Prompt Engineering Certification"
     },
     {
       "url": "https://www.udemy.com/course/canva-mastery-design-like-a-pro-in-just-days/?couponCode=C3C7A8A0DD0E2FE7DE98",
@@ -97,7 +173,8 @@
     {
       "url": "https://www.udemy.com/course/complete-generative-ai-build-pro-web-mobile-saas-apps/?couponCode=LEARN_AI_26",
       "coupon_code": "LEARN_AI_26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6168067_c159_4.jpg",
+      "title": "Complete Generative AI : Build Pro Web, Mobile & SaaS Apps"
     },
     {
       "url": "https://www.udemy.com/course/complete-uiux-design-with-canva-design-smart-interface/?couponCode=E0A51B95E530C2E7B8BE",
@@ -114,17 +191,20 @@
     {
       "url": "https://www.udemy.com/course/diploma-human-resources-compensation-benefits-management/?couponCode=C25EE9CA2A96038B433F",
       "coupon_code": "C25EE9CA2A96038B433F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6111707_3082.jpg",
+      "title": "Diploma: Human Resources, Compensation & Benefits Management"
     },
     {
       "url": "https://www.udemy.com/course/esg-basics-for-a-sustainable-future/?couponCode=687D7CCC91967644BA49",
       "coupon_code": "687D7CCC91967644BA49",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5998434_77f6_2.jpg",
+      "title": "ESG 101: Basics for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/global-wealth-management-account-opening-onboarding-kyc/?couponCode=B15532F76B535C1B8F82",
       "coupon_code": "B15532F76B535C1B8F82",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6054509_54ef.jpg",
+      "title": "Global Wealth Management: Account Opening, Onboarding, KYC"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-financial-analysis/?couponCode=386F82390C2D0C8BAA28",
@@ -135,22 +215,26 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-operations-management/?couponCode=879337E8A42852F23176",
       "coupon_code": "879337E8A42852F23176",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6111257_784b_2.jpg",
+      "title": "Professional Certificate in Operations Management"
     },
     {
       "url": "https://www.udemy.com/course/prompt-engineering-certification-master-ai/?couponCode=820C7D146CCE81A9D0C6",
       "coupon_code": "820C7D146CCE81A9D0C6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6846673_9d62_5.jpg",
+      "title": "Prompt Engineering Certification: Master AI"
     },
     {
       "url": "https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=D061A4E98608C5B6448A",
       "coupon_code": "D061A4E98608C5B6448A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5429784_9725_2.jpg",
+      "title": "Python for Data Science with Assignments"
     },
     {
       "url": "https://www.udemy.com/course/sustainable-manufacturing/?couponCode=C0CC64344C45FB1AC5B2",
       "coupon_code": "C0CC64344C45FB1AC5B2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742555_099c.jpg",
+      "title": "Sustainable Manufacturing: Review & Emerging Advances"
     },
     {
       "url": "https://www.udemy.com/course/uiux-design-masterclass-with-adobe-xd-from-beginner-to-pro/?couponCode=5C4812E277CE28AC5822",
@@ -173,12 +257,14 @@
     {
       "url": "https://www.udemy.com/course/full-stack-development-for-beginner-react-nextjs-nodejs/?couponCode=28JANUARY2026",
       "coupon_code": "28JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6813953_b17a.jpg",
+      "title": "Full-Stack Development for Beginner: React, Next.js, Node.js"
     },
     {
       "url": "https://www.udemy.com/course/master-microsoft-power-bi-from-beginner-to-data-analyst-pro/?couponCode=28JANUARY2026",
       "coupon_code": "28JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6843149_aaa1.jpg",
+      "title": "Master Microsoft Power BI: From Beginner to Data Analyst Pro"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-aviation-airlines-air-transportation-airports/?couponCode=75650D2D8BF90637F05A",
