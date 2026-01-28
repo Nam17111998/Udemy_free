@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-01-28T05:35:47Z",
-  "count": 977,
+  "updated_at": "2026-01-28T06:48:54Z",
+  "count": 992,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/aprende-canvas-html5/?couponCode=37B91064B0377BBEDA51",
+      "coupon_code": "37B91064B0377BBEDA51",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/aprende-javascript-sin-dolor/?couponCode=379B04282302CE55331E",
+      "coupon_code": "379B04282302CE55331E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/beginner-guide-to-learn-t-shirt-design-with-photoshop/?couponCode=375149401F9BC50E1FCA",
+      "coupon_code": "375149401F9BC50E1FCA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-microsoft-excel-vba-learn-vba-for-become-expert/?couponCode=483D10B7A07FCBB5EA15",
+      "coupon_code": "483D10B7A07FCBB5EA15",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-analysis-the-complete-analysis-masterclass/?couponCode=9B84A4E48B8B89164A92",
+      "coupon_code": "9B84A4E48B8B89164A92",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-mastery-formulas-functions-charts-and-graphs/?couponCode=2D1D34D5797E292C3C26",
+      "coupon_code": "2D1D34D5797E292C3C26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-r-programming-build-real-world-data-projects/?couponCode=F511B539D755566287BD",
+      "coupon_code": "F511B539D755566287BD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-mongodb-cloud-based-nosql-database-management/?couponCode=BCD0F1F3164BCFAF0EE1",
+      "coupon_code": "BCD0F1F3164BCFAF0EE1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-excel-a-comprehensive-guide-to-boost-you/?couponCode=ABCCC6D73CB0A28F5FCA",
+      "coupon_code": "ABCCC6D73CB0A28F5FCA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-basic-to-advanced-ultimate-excel-mastery/?couponCode=FE65ADC5131294D72EE8",
+      "coupon_code": "FE65ADC5131294D72EE8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/nextjs-build-dynamic-fast-scalable-web-applications/?couponCode=138B188F4F8C0B9D13CE",
+      "coupon_code": "138B188F4F8C0B9D13CE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-in-adobe-illustrator-beginner-guide-to-expert/?couponCode=9B245E95D3ADCA014934",
+      "coupon_code": "9B245E95D3ADCA014934",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-python-developer-from-zero-to-mastery/?couponCode=794AEDFC0130FB05D663",
+      "coupon_code": "794AEDFC0130FB05D663",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-sql-course-from-zero-to-data-analyst/?couponCode=FA4E19CBB22704A949B4",
+      "coupon_code": "FA4E19CBB22704A949B4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/?couponCode=3C1511254C6963271991",
+      "coupon_code": "3C1511254C6963271991",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-photoshop-masterclass-beginner-to-pro-photo-editor/?couponCode=3D5F4F631A3E80F23E09",
       "coupon_code": "3D5F4F631A3E80F23E09",
@@ -50,32 +125,38 @@
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-word-for-everyone-a-step-by-step-guide/?couponCode=B32252FE549B3C2FA40E",
       "coupon_code": "B32252FE549B3C2FA40E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863661_782d_2.jpg",
+      "title": "Mastering Microsoft Word for Everyone: A Step by Step Guide"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=E8AB718279936FCF8173",
       "coupon_code": "E8AB718279936FCF8173",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg",
+      "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro"
     },
     {
       "url": "https://www.udemy.com/course/pivot-tables-microsoft-excel-pivot-table-and-data-analysis/?couponCode=FF2D07985F1F40E64279",
       "coupon_code": "FF2D07985F1F40E64279",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893679_41d3_2.jpg",
+      "title": "Pivot Tables - Microsoft Excel Pivot Table and Data Analysis"
     },
     {
       "url": "https://www.udemy.com/course/social-media-graphics-design-and-video-editing-with-canva/?couponCode=7F9FB27B65CC0A0F93A1",
       "coupon_code": "7F9FB27B65CC0A0F93A1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6038488_d144_5.jpg",
+      "title": "Social Media Graphics Design and Video Editing with Canva"
     },
     {
       "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-capcut-premiere-pro/?couponCode=5E2476267C4BD9DBAEF0",
       "coupon_code": "5E2476267C4BD9DBAEF0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6076619_c91f_2.jpg",
+      "title": "Social Media Video Editing with Canva, Capcut & Premiere Pro"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-bootcamp/?couponCode=675B9CC956199B8EC061",
       "coupon_code": "675B9CC956199B8EC061",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6141449_679d_4.jpg",
+      "title": "The Complete Microsoft Excel Data Analysis Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/ai-machine-learning-for-executives-managers-leaders/?couponCode=1E68C46E3B4A82E84D52",
