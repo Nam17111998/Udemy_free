@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-01-28T17:39:09Z",
-  "count": 960,
+  "updated_at": "2026-01-28T18:48:07Z",
+  "count": 964,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=4F6AF88274EA749FF456",
+      "coupon_code": "4F6AF88274EA749FF456",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/curso-basico-de-redes-com-fio-para-hackers-do-bem/?couponCode=7F6A22F62B9409D0504A",
       "coupon_code": "7F6A22F62B9409D0504A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analyst-bootcamp/?couponCode=4883878E199E2FF6F6F4",
+      "coupon_code": "4883878E199E2FF6F6F4",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -12,6 +22,16 @@
       "coupon_code": "4EEE621C76B8228863F1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6946295_968f.jpg",
       "title": "The Doughnut Economics"
+    },
+    {
+      "url": "https://www.udemy.com/course/elevate-your-leadership-amplify-your-communication-skills/?couponCode=23FFAA2C43F9438BD336",
+      "coupon_code": "23FFAA2C43F9438BD336",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-digital-transformation/?couponCode=E27D79AC9418DE57CDAC",
+      "coupon_code": "E27D79AC9418DE57CDAC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?couponCode=926CC24D0465270356E9",
@@ -24,32 +44,14 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=OCSALY.COM_NMAP",
-      "coupon_code": "OCSALY.COM_NMAP",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6341477_a404_6.jpg",
-      "title": "Wireless Networks & SDR : GSM, SS7, GPRS, LTE & 5G Hacks"
-    },
-    {
       "url": "https://www.udemy.com/course/learn-flutter-complete-guide/?couponCode=E8998010C801CD6214A9",
       "coupon_code": "E8998010C801CD6214A9",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/learn_sql/?couponCode=OCSALY.COM_5-STAR",
-      "coupon_code": "OCSALY.COM_5-STAR",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5307690_aa48_4.jpg",
-      "title": "Learn SQL in 3 Hours : A tutorial for fast learners"
-    },
-    {
       "url": "https://www.udemy.com/course/master-looker-studio-build-ai-powered-dashboards-reports/?couponCode=D297D427DD082EC776CA",
       "coupon_code": "D297D427DD082EC776CA",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-network-security/?couponCode=OCSALY.COM-2026",
-      "coupon_code": "OCSALY.COM-2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5341290_0d75_2.jpg",
-      "title": "Mastering Network Security: Defend Against Cyber Attacks"
     },
     {
       "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/?couponCode=298B4667094AA28564BB",
@@ -76,16 +78,34 @@
       "title": "Salesforce Fundamentals : A Complete Guide for Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/software_defined_radio/?couponCode=SDR_OCSALY-ACADEMY",
-      "coupon_code": "SDR_OCSALY-ACADEMY",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6304635_b3c3_6.jpg",
-      "title": "Mastering Software Defined Radio (SDR): GNU Radio and SDR++"
-    },
-    {
       "url": "https://www.udemy.com/course/the-complete-mysql-bootcamp-go-from-beginner-to-expert/?couponCode=A394ACE5798235F348B2",
       "coupon_code": "A394ACE5798235F348B2",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5658548_cef9_2.jpg",
       "title": "The Complete MySQL Bootcamp: Go from Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=OCSALY.COM_NMAP",
+      "coupon_code": "OCSALY.COM_NMAP",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6341477_a404_6.jpg",
+      "title": "Wireless Networks & SDR : GSM, SS7, GPRS, LTE & 5G Hacks"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn_sql/?couponCode=OCSALY.COM_5-STAR",
+      "coupon_code": "OCSALY.COM_5-STAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5307690_aa48_4.jpg",
+      "title": "Learn SQL in 3 Hours : A tutorial for fast learners"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-network-security/?couponCode=OCSALY.COM-2026",
+      "coupon_code": "OCSALY.COM-2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5341290_0d75_2.jpg",
+      "title": "Mastering Network Security: Defend Against Cyber Attacks"
+    },
+    {
+      "url": "https://www.udemy.com/course/software_defined_radio/?couponCode=SDR_OCSALY-ACADEMY",
+      "coupon_code": "SDR_OCSALY-ACADEMY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6304635_b3c3_6.jpg",
+      "title": "Mastering Software Defined Radio (SDR): GNU Radio and SDR++"
     },
     {
       "url": "https://www.udemy.com/course/real_pentest/?couponCode=OCSALY.COM-ACADEMY",
