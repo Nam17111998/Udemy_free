@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-01-29T09:53:25Z",
-  "count": 961,
+  "updated_at": "2026-01-29T10:48:23Z",
+  "count": 966,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/?couponCode=BE57C824F5BC57C521D5",
-      "coupon_code": "BE57C824F5BC57C521D5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6319245_fb69.jpg",
-      "title": "Advanced Certificate in Program and Project Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/capm-exam-prep-complete-certification-guide/?couponCode=29JANUARY2026",
-      "coupon_code": "29JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/complete-guide-to-python-data-analysis-with-real-datasets/?couponCode=F8582BC241A64FCB835F",
       "coupon_code": "F8582BC241A64FCB835F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-prompt-engineering-practical-course-cpepc/?couponCode=OFFER_JAN_26",
+      "coupon_code": "OFFER_JAN_26",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -29,12 +23,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/freepik-pro-from-assets-to-ai-creation/?couponCode=29JANUARY2026",
-      "coupon_code": "29JANUARY2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6884031_cd75.jpg",
-      "title": "Freepik Pro: From Assets to AI Creation"
-    },
-    {
       "url": "https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/?couponCode=9CCED68E0732A2A51249",
       "coupon_code": "9CCED68E0732A2A51249",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -45,35 +33,79 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/javascript-fundamentals-to-advanced-full-stack-development/?couponCode=8C00D8343229646E9031",
+      "coupon_code": "8C00D8343229646E9031",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/logo-design-essentials-photoshop-illustrator/?couponCode=488A30EFEEA16080807D",
+      "coupon_code": "488A30EFEEA16080807D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/?couponCode=8210DE0530CA5F0AF943",
+      "coupon_code": "8210DE0530CA5F0AF943",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/php-laravel-2023-build-hotel-booking-management-system/?couponCode=LARAVELHOTEL99",
       "coupon_code": "LARAVELHOTEL99",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5495274_fedc.jpg",
+      "title": "PHP Laravel: Build Hotel Booking Management System"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgresql-for-developers-design-query-scale-databases/?couponCode=E142582A56515EC6CA82",
+      "coupon_code": "E142582A56515EC6CA82",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6755923_5715_2.jpg",
+      "title": "PostgreSQL for Developers: Design, Query & Scale Databases"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-complete-guide-build-interactive-web-applications/?couponCode=4686142010A4FA1E3527",
+      "coupon_code": "4686142010A4FA1E3527",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849329_133a.jpg",
+      "title": "React.js Complete Guide: Build Interactive Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-excel-pivot-table-data-analysis-and-reporting/?couponCode=4518E95D673941D79751",
+      "coupon_code": "4518E95D673941D79751",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847537_f5cc_3.jpg",
+      "title": "The Complete Excel Pivot Table: Data Analysis and Reporting"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-word-course-learn-word-step-by-step/?couponCode=4EA6E735AB49F1329DC4",
+      "coupon_code": "4EA6E735AB49F1329DC4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847397_14bb_2.jpg",
+      "title": "The Complete Microsoft Word Course: Learn Word Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=368801A59F9D2AAF05D4",
+      "coupon_code": "368801A59F9D2AAF05D4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
+      "title": "User Interviews & User Onboarding"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/?couponCode=BE57C824F5BC57C521D5",
+      "coupon_code": "BE57C824F5BC57C521D5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6319245_fb69.jpg",
+      "title": "Advanced Certificate in Program and Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/capm-exam-prep-complete-certification-guide/?couponCode=29JANUARY2026",
+      "coupon_code": "29JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6960271_fd0b.jpg",
+      "title": "CAPM Exam Prep: Complete Certification Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/freepik-pro-from-assets-to-ai-creation/?couponCode=29JANUARY2026",
+      "coupon_code": "29JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6884031_cd75.jpg",
+      "title": "Freepik Pro: From Assets to AI Creation"
     },
     {
       "url": "https://www.udemy.com/course/pmp-knowledge-boost-stay-on-track-with-pmi-standards/?couponCode=29JANUARY2026",
       "coupon_code": "29JANUARY2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6904487_02ee_2.jpg",
       "title": "PMP Knowledge Boost: Stay on Track with PMI Standards"
-    },
-    {
-      "url": "https://www.udemy.com/course/postgresql-for-developers-design-query-scale-databases/?couponCode=E142582A56515EC6CA82",
-      "coupon_code": "E142582A56515EC6CA82",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/reactjs-complete-guide-build-interactive-web-applications/?couponCode=4686142010A4FA1E3527",
-      "coupon_code": "4686142010A4FA1E3527",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-excel-pivot-table-data-analysis-and-reporting/?couponCode=4518E95D673941D79751",
-      "coupon_code": "4518E95D673941D79751",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-microsoft-word-course-learn-word-step-by-step/?couponCode=4EA6E735AB49F1329DC4",
-      "coupon_code": "4EA6E735AB49F1329DC4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-system-of-prompt-engineering/?couponCode=29JANUARY2026",
