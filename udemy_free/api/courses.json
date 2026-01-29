@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-01-29T16:53:18Z",
-  "count": 999,
+  "updated_at": "2026-01-29T17:44:21Z",
+  "count": 1000,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/2024-leadership-mastery-modern-leaders-practical-training/?couponCode=D442BC062459FC92D24E",
+      "coupon_code": "D442BC062459FC92D24E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-e-commerce-win-with-ucp/?couponCode=FREEAICOURSE",
       "coupon_code": "FREEAICOURSE",
@@ -18,12 +23,6 @@
       "coupon_code": "CIVIL3D2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6891983_8172_3.jpg",
       "title": "AutoCad Civil 3D 2026 -Step by Step Training"
-    },
-    {
-      "url": "https://www.udemy.com/course/az900-microsoft-azure-fundamentals/?couponCode=257095539FEB84077AD6",
-      "coupon_code": "257095539FEB84077AD6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7026799_2f83_2.jpg",
-      "title": "AZ-900 Microsoft Azure Fundamentals: From Zero to Exam Ready"
     },
     {
       "url": "https://www.udemy.com/course/curso-de-perplexity-ai-investiga-organiza-y-escribe-con-ia/?couponCode=38D7F9B9ED71690F8335",
@@ -89,6 +88,12 @@
       "coupon_code": "FD0308AEDF80D65F004B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5638532_1c7a.jpg",
       "title": "The Complete JavaScript Course: From Zero to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/az900-microsoft-azure-fundamentals/?couponCode=257095539FEB84077AD6",
+      "coupon_code": "257095539FEB84077AD6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7026799_2f83_2.jpg",
+      "title": "AZ-900 Microsoft Azure Fundamentals: From Zero to Exam Ready"
     },
     {
       "url": "https://www.udemy.com/course/be-professional-with-metasploit-framework-course-msf-a-to-z/?couponCode=XMASDEAL1",
