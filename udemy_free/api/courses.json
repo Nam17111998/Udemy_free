@@ -1,51 +1,114 @@
 {
-  "updated_at": "2026-01-29T10:48:23Z",
-  "count": 966,
+  "updated_at": "2026-01-29T11:38:06Z",
+  "count": 972,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/capcut-canva-masterclass-graphic-design-with-video-edit/?couponCode=70B0C5FBAAF6C0DCA488",
+      "coupon_code": "70B0C5FBAAF6C0DCA488",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6704861_1997.jpg",
+      "title": "CapCut and Canva Masterclass Graphic Design With Video Edit"
+    },
     {
       "url": "https://www.udemy.com/course/complete-guide-to-python-data-analysis-with-real-datasets/?couponCode=F8582BC241A64FCB835F",
       "coupon_code": "F8582BC241A64FCB835F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6813895_92fb_3.jpg",
+      "title": "Complete Guide to Python Data Analysis with Real Datasets"
     },
     {
       "url": "https://www.udemy.com/course/complete-prompt-engineering-practical-course-cpepc/?couponCode=OFFER_JAN_26",
       "coupon_code": "OFFER_JAN_26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/digital-retail-marketing-ai-data-growth/?couponCode=29JANUARY2026",
-      "coupon_code": "29JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5918542_0d17.jpg",
+      "title": "Complete Prompt Engineering Practical Course C|PEPC"
     },
     {
       "url": "https://www.udemy.com/course/excel-data-visualization-and-dashboard-design-masterclass/?couponCode=EF0CD2FB4524D67138E7",
       "coupon_code": "EF0CD2FB4524D67138E7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/?couponCode=9CCED68E0732A2A51249",
-      "coupon_code": "9CCED68E0732A2A51249",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/gh-300-github-copilot-exam-preparation/?couponCode=29JANUARY2026",
-      "coupon_code": "29JANUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847491_6081_3.jpg",
+      "title": "Excel Data Visualization and Dashboard Design Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/javascript-fundamentals-to-advanced-full-stack-development/?couponCode=8C00D8343229646E9031",
       "coupon_code": "8C00D8343229646E9031",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6122347_5db0_2.jpg",
+      "title": "JavaScript Fundamentals to Advanced: Full Stack Development"
     },
     {
       "url": "https://www.udemy.com/course/logo-design-essentials-photoshop-illustrator/?couponCode=488A30EFEEA16080807D",
       "coupon_code": "488A30EFEEA16080807D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6078811_1a06_5.jpg",
+      "title": "Logo Design Essentials: Photoshop & Illustrator"
     },
     {
       "url": "https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/?couponCode=8210DE0530CA5F0AF943",
       "coupon_code": "8210DE0530CA5F0AF943",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6104625_e7a4_2.jpg",
+      "title": "Master of Essential C++ Programming Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-and-google-workspace-masterclass/?couponCode=54BD727C8418C4BF2303",
+      "coupon_code": "54BD727C8418C4BF2303",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6815607_d6ed_2.jpg",
+      "title": "Microsoft Office and Google Workspace Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/multipurpose-canva-design-bootcamp-from-beginner-to-pro/?couponCode=E6A6B1C8FF5F18934DD6",
+      "coupon_code": "E6A6B1C8FF5F18934DD6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6758375_074c.jpg",
+      "title": "Multipurpose Canva Design Bootcamp From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-sql-and-sql-for-data-analysis/?couponCode=5D0CACB6F08021C19281",
+      "coupon_code": "5D0CACB6F08021C19281",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6358693_a332.jpg",
+      "title": "Professional Certificate in SQL and SQL for Data Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-methodologies-agile-scrum-and-pmp/?couponCode=381C1318941ED316621F",
+      "coupon_code": "381C1318941ED316621F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6362573_2f2e.jpg",
+      "title": "Project Management Methodologies: Agile, Scrum, and PMP"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-excel-pivot-table-data-analysis-and-reporting/?couponCode=4518E95D673941D79751",
+      "coupon_code": "4518E95D673941D79751",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847537_f5cc_3.jpg",
+      "title": "The Complete Excel Pivot Table: Data Analysis and Reporting"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-word-course-learn-word-step-by-step/?couponCode=4EA6E735AB49F1329DC4",
+      "coupon_code": "4EA6E735AB49F1329DC4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847397_14bb_2.jpg",
+      "title": "The Complete Microsoft Word Course: Learn Word Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-freelancing-course-from-beginner-to-expert-success/?couponCode=6A04E135F83AA1AD6347",
+      "coupon_code": "6A04E135F83AA1AD6347",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6222597_b766_2.jpg",
+      "title": "Ultimate Freelancing Course From Beginner to  Expert Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=368801A59F9D2AAF05D4",
+      "coupon_code": "368801A59F9D2AAF05D4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
+      "title": "User Interviews & User Onboarding"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-retail-marketing-ai-data-growth/?couponCode=29JANUARY2026",
+      "coupon_code": "29JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7032259_1771.jpg",
+      "title": "Digital Retail Marketing: AI, Data & Growth"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/?couponCode=9CCED68E0732A2A51249",
+      "coupon_code": "9CCED68E0732A2A51249",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6336195_214a.jpg",
+      "title": "Gestão de Empresas e Empreendedorismo"
+    },
+    {
+      "url": "https://www.udemy.com/course/gh-300-github-copilot-exam-preparation/?couponCode=29JANUARY2026",
+      "coupon_code": "29JANUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6943967_c72a_4.jpg",
+      "title": "GH-300: Github Copilot – Complete Exam Preparation Guide"
     },
     {
       "url": "https://www.udemy.com/course/php-laravel-2023-build-hotel-booking-management-system/?couponCode=LARAVELHOTEL99",
@@ -64,24 +127,6 @@
       "coupon_code": "4686142010A4FA1E3527",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6849329_133a.jpg",
       "title": "React.js Complete Guide: Build Interactive Web Applications"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-excel-pivot-table-data-analysis-and-reporting/?couponCode=4518E95D673941D79751",
-      "coupon_code": "4518E95D673941D79751",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6847537_f5cc_3.jpg",
-      "title": "The Complete Excel Pivot Table: Data Analysis and Reporting"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-microsoft-word-course-learn-word-step-by-step/?couponCode=4EA6E735AB49F1329DC4",
-      "coupon_code": "4EA6E735AB49F1329DC4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6847397_14bb_2.jpg",
-      "title": "The Complete Microsoft Word Course: Learn Word Step by Step"
-    },
-    {
-      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=368801A59F9D2AAF05D4",
-      "coupon_code": "368801A59F9D2AAF05D4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg",
-      "title": "User Interviews & User Onboarding"
     },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/?couponCode=BE57C824F5BC57C521D5",
