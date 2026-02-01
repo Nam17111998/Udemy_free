@@ -1,91 +1,138 @@
 {
-  "updated_at": "2026-02-01T14:33:55Z",
-  "count": 976,
+  "updated_at": "2026-02-01T15:33:07Z",
+  "count": 981,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/a-csm-advanced-certified-scrum-master/?couponCode=5CF557DDEDFDA89B96EF",
-      "coupon_code": "5CF557DDEDFDA89B96EF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/advanced-certified-scrum-master/?couponCode=76DD76D94C52071A4463",
-      "coupon_code": "76DD76D94C52071A4463",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/agile-coach-certification-aec/?couponCode=C21A2958547EFE05EE4F",
       "coupon_code": "C21A2958547EFE05EE4F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255517_cc6a.jpg",
+      "title": "Agile Coach Certification"
     },
     {
       "url": "https://www.udemy.com/course/agile-trainer-certification-aec/?couponCode=42390486DD2D2E83B10B",
       "coupon_code": "42390486DD2D2E83B10B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255535_1667.jpg",
+      "title": "Agile Trainer Certification"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-creative-marketing-master-ai-chatgpt-for-marketing/?couponCode=8823FA381084B2A96BD5",
       "coupon_code": "8823FA381084B2A96BD5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6998499_e9ce_2.jpg",
+      "title": "AI for Creative Marketing: Master AI & ChatGPT For Marketing"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-h/?couponCode=C3F1D580D4F9E759F23B",
       "coupon_code": "C3F1D580D4F9E759F23B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6163239_12c1.jpg",
+      "title": "ChatGPT for Product Owners"
     },
     {
       "url": "https://www.udemy.com/course/digital-marketing-ai-chatgpt-ai-driven-digital-marketing/?couponCode=1A890151DF08CBF3862E",
       "coupon_code": "1A890151DF08CBF3862E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6961957_62c6.jpg",
+      "title": "Digital Marketing AI: ChatGPT & AI Driven Digital Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-sap-successfactors-employee-central/?couponCode=SUCCESSFACTORFEB01",
+      "coupon_code": "SUCCESSFACTORFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6801201_cda6.jpg",
+      "title": "Master SAP SuccessFactors Employee Central"
     },
     {
       "url": "https://www.udemy.com/course/mastering-azure-devops-from-beginner-to-advanced/?couponCode=FEBNEW2026",
       "coupon_code": "FEBNEW2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-cybersecurity-essential-knowledge-and-techniques/?couponCode=942F0A66B3C73FAD8B13",
-      "coupon_code": "942F0A66B3C73FAD8B13",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6827461_2d62_2.jpg",
+      "title": "Mastering Azure DevOps: From Beginner to Advanced 2026"
     },
     {
       "url": "https://www.udemy.com/course/mastering-seo-from-beginner-to-pro-in-digital-marketing/?couponCode=FEBNEW2026",
       "coupon_code": "FEBNEW2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6780947_2b21_3.jpg",
+      "title": "Mastering SEO: Beginner to Pro in Digital Marketing 2026"
     },
     {
       "url": "https://www.udemy.com/course/mastering-servicenow-administration-from-basics-to-expert/?couponCode=FEBNEW2026",
       "coupon_code": "FEBNEW2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6244441_bcb0_5.jpg",
+      "title": "Mastering the Complete Servicenow Administration Course 2026"
     },
     {
-      "url": "https://www.udemy.com/course/product-owner-certification-exam-prep/?couponCode=30A1E14C1855D2EA6B8F",
-      "coupon_code": "30A1E14C1855D2EA6B8F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/microsoft-project-f/?couponCode=9A67A2F95693CE5E0758",
+      "coupon_code": "9A67A2F95693CE5E0758",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791305_0f54_5.jpg",
+      "title": "Mastering Microsoft Project"
     },
     {
-      "url": "https://www.udemy.com/course/scrum-master-certification-exam-prep/?couponCode=56A6E1461DDB5530B072",
-      "coupon_code": "56A6E1461DDB5530B072",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/project-cost-management-estimating-budgeting-earned-value/?couponCode=1C5E3C365AFC3E7B05BD",
+      "coupon_code": "1C5E3C365AFC3E7B05BD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935619_e729_3.jpg",
+      "title": "Project Cost Management-Estimating"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantity-surveying-for-g11-high-rise-buildings-estimation/?couponCode=C04DF863D7C3DACDFAF1",
+      "coupon_code": "C04DF863D7C3DACDFAF1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6833151_ef77.jpg",
+      "title": "Building Estimation Masterclass: G+11 High-Rise Projects"
     },
     {
       "url": "https://www.udemy.com/course/servicenow-catalog-item-and-record-producer-workflow-flows/?couponCode=FEBNEW2026",
       "coupon_code": "FEBNEW2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6266673_9642.jpg",
+      "title": "Catalog Items, Workflow, and Flows in the Servicenow 2026"
     },
     {
       "url": "https://www.udemy.com/course/servicenow-scripting-mastery-advanced-development/?couponCode=FEBNEW2026",
       "coupon_code": "FEBNEW2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6256005_475f_3.jpg",
+      "title": "Scripting and Advanced Development in the Servicenow 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-esg-and-sustainability-in-business-operations/?couponCode=79B796C905F3DC1141BC",
+      "coupon_code": "79B796C905F3DC1141BC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6712013_364e.jpg",
+      "title": "Strategic ESG & Sustainability for Business Operations"
+    },
+    {
+      "url": "https://www.udemy.com/course/a-csm-advanced-certified-scrum-master/?couponCode=5CF557DDEDFDA89B96EF",
+      "coupon_code": "5CF557DDEDFDA89B96EF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6051031_9a6b_3.jpg",
+      "title": "Product Owner Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-certified-scrum-master/?couponCode=76DD76D94C52071A4463",
+      "coupon_code": "76DD76D94C52071A4463",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5946070_1233_3.jpg",
+      "title": "Scrum Master Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-cybersecurity-essential-knowledge-and-techniques/?couponCode=942F0A66B3C73FAD8B13",
+      "coupon_code": "942F0A66B3C73FAD8B13",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6236227_d056.jpg",
+      "title": "Mastering Cybersecurity: Essential Knowledge and Techniques"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-owner-certification-exam-prep/?couponCode=30A1E14C1855D2EA6B8F",
+      "coupon_code": "30A1E14C1855D2EA6B8F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255575_1c65.jpg",
+      "title": "Product Owner Exam Prep"
+    },
+    {
+      "url": "https://www.udemy.com/course/scrum-master-certification-exam-prep/?couponCode=56A6E1461DDB5530B072",
+      "coupon_code": "56A6E1461DDB5530B072",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255563_8c44_2.jpg",
+      "title": "Scrum Master Certification Prep"
     },
     {
       "url": "https://www.udemy.com/course/ai-cyber-security-mastery/?couponCode=778EEB284490C59E1DBC",
       "coupon_code": "778EEB284490C59E1DBC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6356153_3475_3.jpg",
+      "title": "AI & Cyber Security Mastery 2026"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-customer-experience/?couponCode=959825D98F23593BFC9E",
       "coupon_code": "959825D98F23593BFC9E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6665295_a70e.jpg",
+      "title": "AI-Powered Customer Experience (CX)"
     },
     {
       "url": "https://www.udemy.com/course/basic-numerology-success-program/?couponCode=FREEFEB",
@@ -96,7 +143,8 @@
     {
       "url": "https://www.udemy.com/course/capie-certified-api-hacking-expert-course-content/?couponCode=D419DA579356EB9584B0",
       "coupon_code": "D419DA579356EB9584B0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6598251_a0bb.jpg",
+      "title": "CAPIE - Certified API Hacking Expert Course Content"
     },
     {
       "url": "https://www.udemy.com/course/certified-energy-management-professional-cemp/?couponCode=70052BEAF313B92D5B77",
@@ -113,22 +161,26 @@
     {
       "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=57CC362EA0184F9D1AFC",
       "coupon_code": "57CC362EA0184F9D1AFC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4202336_b8f3_5.jpg",
+      "title": "Object Oriented Programming in C++"
     },
     {
       "url": "https://www.udemy.com/course/digrepman/?couponCode=01C93176B5FC57929427",
       "coupon_code": "01C93176B5FC57929427",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6971017_a24c_2.jpg",
+      "title": "Digital Marketing: Crisis & Reputation Management"
     },
     {
       "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=612833766A65743A5BC5",
       "coupon_code": "612833766A65743A5BC5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29.jpg",
+      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals1/?couponCode=3DBC2DE064A7CCAC9509",
       "coupon_code": "3DBC2DE064A7CCAC9509",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6870005_3ae1_2.jpg",
+      "title": "Fundamentals of Marketing and Brand Management Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/hazardous-material-management/?couponCode=C3AA855244A0E2B749EA",
@@ -139,12 +191,14 @@
     {
       "url": "https://www.udemy.com/course/markstategy/?couponCode=B5EBD22C3AD42896A7A1",
       "coupon_code": "B5EBD22C3AD42896A7A1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6977579_6a0d.jpg",
+      "title": "Marketing Strategy Masterclass: Build a Winning Growth Plan"
     },
     {
       "url": "https://www.udemy.com/course/name-numerology-course/?couponCode=FREEFEB26",
       "coupon_code": "FREEFEB26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6781483_3a7a_3.jpg",
+      "title": "Unlock the Power of Your Name: Name Numerology Master Class"
     },
     {
       "url": "https://www.udemy.com/course/vim-fundamentals/?couponCode=01CDDADDE1D7F7AEA8E2",
@@ -155,27 +209,32 @@
     {
       "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=B1EB5EF19694FC72559E",
       "coupon_code": "B1EB5EF19694FC72559E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860025_1f3c_3.jpg",
+      "title": "Liberté et Efficacité : vivre du minimalisme en voyageant"
     },
     {
       "url": "https://www.udemy.com/course/all-in-one-java-spring-boot-spring-and-hibernate/?couponCode=B6CB5A09C3E7C0A38E88",
       "coupon_code": "B6CB5A09C3E7C0A38E88",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6265681_d70d_4.jpg",
+      "title": "ALL IN ONE! Java + Spring Boot, Spring MVC and Hibernate"
     },
     {
       "url": "https://www.udemy.com/course/bash-fundamentals-for-linux-users/?couponCode=01BCE5CF309F659C5A5E",
       "coupon_code": "01BCE5CF309F659C5A5E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6982145_933f_2.jpg",
+      "title": "Mastering Bash Scripting | For developers and Linux users"
     },
     {
       "url": "https://www.udemy.com/course/docker-crash-course/?couponCode=4B226A76C1E70F6E3095",
       "coupon_code": "4B226A76C1E70F6E3095",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6886555_cde8.jpg",
+      "title": "Docker Containers | Crash course for developers"
     },
     {
       "url": "https://www.udemy.com/course/git-vsc-essentials/?couponCode=FE13A5CF3338CE6FB1CE",
       "coupon_code": "FE13A5CF3338CE6FB1CE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6866891_2adb_3.jpg",
+      "title": "Git Version Control for Developers"
     },
     {
       "url": "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=CB23D22C22C3806F1018",
@@ -216,7 +275,8 @@
     {
       "url": "https://www.udemy.com/course/tmux-fundamentals/?couponCode=B54A3842CBBB93D9866B",
       "coupon_code": "B54A3842CBBB93D9866B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589641_29f8_6.jpg",
+      "title": "Mastering Tmux | Linux Terminal Productivity"
     },
     {
       "url": "https://www.udemy.com/course/become-experts-in-python-by-exercises-by-projects/?couponCode=B2BA386E98EFE3C3B116",
