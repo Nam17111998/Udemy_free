@@ -1,16 +1,95 @@
 {
-  "updated_at": "2026-02-01T10:35:15Z",
-  "count": 938,
+  "updated_at": "2026-02-01T11:28:50Z",
+  "count": 950,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-cyber-security-mastery/?couponCode=778EEB284490C59E1DBC",
+      "coupon_code": "778EEB284490C59E1DBC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/all-in-one-java-spring-boot-spring-and-hibernate/?couponCode=B6CB5A09C3E7C0A38E88",
       "coupon_code": "B6CB5A09C3E7C0A38E88",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/bash-fundamentals-for-linux-users/?couponCode=01BCE5CF309F659C5A5E",
+      "coupon_code": "01BCE5CF309F659C5A5E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-energy-management-professional-cemp/?couponCode=70052BEAF313B92D5B77",
+      "coupon_code": "70052BEAF313B92D5B77",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-crash-course/?couponCode=4B226A76C1E70F6E3095",
+      "coupon_code": "4B226A76C1E70F6E3095",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-vsc-essentials/?couponCode=FE13A5CF3338CE6FB1CE",
+      "coupon_code": "FE13A5CF3338CE6FB1CE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hazardous-material-management/?couponCode=C3AA855244A0E2B749EA",
+      "coupon_code": "C3AA855244A0E2B749EA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6905687_0171_5.jpg",
+      "title": "Certified Hazardous Materials Management Professional(CHMMP)"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=CB23D22C22C3806F1018",
+      "coupon_code": "CB23D22C22C3806F1018",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2707184_4c5e_22.jpg",
+      "title": "Java Programming for Complete Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=1A531ABDFC138D391B13",
+      "coupon_code": "1A531ABDFC138D391B13",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6591509_ee81_3.jpg",
+      "title": "GNU Nano Crash Course | Linux Terminal Productivity"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-spring-framework-the-easy-and-fun-way/?couponCode=EDB9F100F6977937B229",
+      "coupon_code": "EDB9F100F6977937B229",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6246871_8688_2.jpg",
+      "title": "Ultimate Guide to Spring, Spring Boot, MVC & Hibernate"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-grep-sed-and-awk/?couponCode=24316DABEE2AA7BD5966",
+      "coupon_code": "24316DABEE2AA7BD5966",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6982351_bb77_3.jpg",
+      "title": "Mastering Text Processing with Grep, Sed and Awk"
+    },
+    {
+      "url": "https://www.udemy.com/course/prisma-orm-fundamentals/?couponCode=6E7974F9AC9E9A8BB2E5",
+      "coupon_code": "6E7974F9AC9E9A8BB2E5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802763_eaad.jpg",
+      "title": "Prisma ORM Crash Course for Web Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/signals-in-angular-v19/?couponCode=328FE1494FFBDF77694B",
+      "coupon_code": "328FE1494FFBDF77694B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6636705_c8de_2.jpg",
+      "title": "Reactivity with Signals in Angular v19+"
+    },
+    {
+      "url": "https://www.udemy.com/course/tmux-fundamentals/?couponCode=B54A3842CBBB93D9866B",
+      "coupon_code": "B54A3842CBBB93D9866B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/vim-fundamentals/?couponCode=01CDDADDE1D7F7AEA8E2",
+      "coupon_code": "01CDDADDE1D7F7AEA8E2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581417_b19b.jpg",
+      "title": "Mastering Vim and Neovim: Vim for Linux Users and Developers"
+    },
+    {
       "url": "https://www.udemy.com/course/become-experts-in-python-by-exercises-by-projects/?couponCode=B2BA386E98EFE3C3B116",
       "coupon_code": "B2BA386E98EFE3C3B116",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6021936_e068_2.jpg",
+      "title": "Become Experts in Python | Exercises | Projects | Quiz"
     },
     {
       "url": "https://www.udemy.com/course/etabs-from-zero-to-hero/?couponCode=7E76E6F6E97180B1CE5E",
@@ -19,139 +98,154 @@
       "title": "Etabs : From Zero to Hero : in Hindi / English"
     },
     {
-      "url": "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=CB23D22C22C3806F1018",
-      "coupon_code": "CB23D22C22C3806F1018",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/learn-autocad-2d/?couponCode=8595CB9ADF039D5CC63C",
       "coupon_code": "8595CB9ADF039D5CC63C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5416930_a147.jpg",
+      "title": "Learn AutoCAD 2D & 3D : From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/learn-bar-bending-schedule-in-autocad-excel/?couponCode=338361B87DB7F25BFEF7",
       "coupon_code": "338361B87DB7F25BFEF7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5419308_90a5_3.jpg",
+      "title": "Learn Bar Bending Schedule in AutoCAD & Excel"
     },
     {
       "url": "https://www.udemy.com/course/learn-chess-in-hindi-zero-to-master-level/?couponCode=0B18B3B304022E17F13C",
       "coupon_code": "0B18B3B304022E17F13C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5385730_0e13.jpg",
+      "title": "Learn Chess in Hindi : Zero to Master Level"
     },
     {
       "url": "https://www.udemy.com/course/learn-dynamo-in-revit-zero-to-hero-in-hindi/?couponCode=979FEFFDD71C15436A7C",
       "coupon_code": "979FEFFDD71C15436A7C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5984942_af17_3.jpg",
+      "title": "Learn Dynamo in Revit : Zero to Hero in Hindi"
     },
     {
       "url": "https://www.udemy.com/course/learn-microsoft-excel-from-zero-to-hero/?couponCode=3429C5F51CD22D46CB1F",
       "coupon_code": "3429C5F51CD22D46CB1F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-spring-framework-the-easy-and-fun-way/?couponCode=EDB9F100F6977937B229",
-      "coupon_code": "EDB9F100F6977937B229",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6003282_a2e4_4.jpg",
+      "title": "Learn Microsoft Excel : From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/learn-staad-pro-from-zero-to-hero-hindi/?couponCode=F5EE095341590938F243",
       "coupon_code": "F5EE095341590938F243",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6390589_765f.jpg",
+      "title": "Learn STAAD PRO | From Zero to Hero | Hindi"
     },
     {
       "url": "https://www.udemy.com/course/modeling-rending-interior-office-project-in-revit/?couponCode=01B9B649FAFA186CCBB0",
       "coupon_code": "01B9B649FAFA186CCBB0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5379914_29c2.jpg",
+      "title": "Mastering Revit - By Projects"
     },
     {
       "url": "https://www.udemy.com/course/quantity-surveying-building-estimate/?couponCode=CC0E4054755F98E6D7E7",
       "coupon_code": "CC0E4054755F98E6D7E7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5417816_f406_2.jpg",
+      "title": "Quantity Surveying & Building Estimate"
     },
     {
       "url": "https://www.udemy.com/course/salesforce-admin-training-from-basics-to-advanced-skills/?couponCode=SFDCADMINFEB01",
       "coupon_code": "SFDCADMINFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6672613_07ad.jpg",
+      "title": "Salesforce Admin & Developer Skills from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/sap-ui5-fiori-essentials-beginners-complete-walkthrough/?couponCode=SAPUI5FEB01",
       "coupon_code": "SAPUI5FEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6627955_1f42_3.jpg",
+      "title": "SAP UI5 & Fiori Essentials: Beginner's Complete Walkthrough"
     },
     {
       "url": "https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/?couponCode=81EC780E462C6EC64329",
       "coupon_code": "81EC780E462C6EC64329",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5437534_25fa_2.jpg",
+      "title": "Practical HTML, CSS, JS: 10 Real-World Projects for Practice"
     },
     {
       "url": "https://www.udemy.com/course/20-web-projects-with-html-css-and-javascript-master-js/?couponCode=40875C8108AD32EBB9ED",
       "coupon_code": "40875C8108AD32EBB9ED",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5666836_9440_6.jpg",
+      "title": "Build 20 JavaScript Projects in 20 Day with HTML, CSS  & JS"
     },
     {
       "url": "https://www.udemy.com/course/android-apps-development-masterclass-build-2-apps-java/?couponCode=99257608BAB6483E940C",
       "coupon_code": "99257608BAB6483E940C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5301818_3187_4.jpg",
+      "title": "Android App's Development Masterclass - Build 2 Apps - Java"
     },
     {
       "url": "https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=3D456D3168CBA18AEEA0",
       "coupon_code": "3D456D3168CBA18AEEA0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5436820_0d3d.jpg",
+      "title": "Android Course Build 3 Applications from Scratch with Java"
     },
     {
       "url": "https://www.udemy.com/course/android-projects-course-build-3-applications-from-scratch/?couponCode=85E01C7D92D49B982472",
       "coupon_code": "85E01C7D92D49B982472",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5672420_7ba7.jpg",
+      "title": "Android Projects Course Build 3 Applications from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/android-very-basic-app-development-course-with-java-in-hindi/?couponCode=473981F0F79E1782049B",
       "coupon_code": "473981F0F79E1782049B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5465660_437e_3.jpg",
+      "title": "Android Very Basic App Development Course with Java in Hindi"
     },
     {
       "url": "https://www.udemy.com/course/build-a-quiz-app-with-java-on-android-studio-beginner-course/?couponCode=58602F8E42EDBCED716A",
       "coupon_code": "58602F8E42EDBCED716A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5640364_7731.jpg",
+      "title": "Build a Quiz App with Java on Android Studio Beginner Course"
     },
     {
       "url": "https://www.udemy.com/course/javascript-10-projects-in-10-days-course-for-beginners/?couponCode=28128C95960562C0611C",
       "coupon_code": "28128C95960562C0611C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5474610_fc5c_3.jpg",
+      "title": "JavaScript 10 Projects in 10 Days Course for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/javascript-20-projects-in-20-days-html-css-javascript/?couponCode=A642A93AC79D68020314",
       "coupon_code": "A642A93AC79D68020314",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5665424_a574_13.jpg",
+      "title": "JavaScript 20 Projects In 20 Days HTML, CSS & JavaScript"
     },
     {
       "url": "https://www.udemy.com/course/javascript-projects-course-build-20-projects-in-20-days/?couponCode=973759C6E20085F237AB",
       "coupon_code": "973759C6E20085F237AB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5550650_5979_7.jpg",
+      "title": "JavaScript Projects Course Build 20 Projects in 20 Days"
     },
     {
       "url": "https://www.udemy.com/course/learn-android-app-development-in-hindi-build-10-application/?couponCode=0883DAAB5EA3DBAC47E8",
       "coupon_code": "0883DAAB5EA3DBAC47E8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5456544_a494.jpg",
+      "title": "Android Apps Development in Hindi and Build 10 Applications"
     },
     {
       "url": "https://www.udemy.com/course/learn-javascript-by-creating-10-practical-projects/?couponCode=EDF00BA583986F879A85",
       "coupon_code": "EDF00BA583986F879A85",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5396824_9f3d_3.jpg",
+      "title": "Learn JavaScript by Creating 10 Practical Projects"
     },
     {
       "url": "https://www.udemy.com/course/master-android-application-build-3-applications-from-scratch/?couponCode=2EBF8AECB2A7327E2116",
       "coupon_code": "2EBF8AECB2A7327E2116",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5367018_80e5.jpg",
+      "title": "Master Android Application Build 3 Applications from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=DA1A288112E57C9B2180",
       "coupon_code": "DA1A288112E57C9B2180",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5437012_f633.jpg",
+      "title": "Master Android by Building 3 Applications in Kotlin Language"
     },
     {
       "url": "https://www.udemy.com/course/mastering-javascript-by-building-10-projects-from-scratch/?couponCode=1A26D26E36B1D1108120",
       "coupon_code": "1A26D26E36B1D1108120",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5378048_afd8_5.jpg",
+      "title": "Hands-On JavaScript, Crafting 10 Projects from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/advanced-capcut-from-beginner-to-motion-graphics-master/?couponCode=DB81FB4A03F33161D8E5",
