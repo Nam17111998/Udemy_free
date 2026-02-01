@@ -1,76 +1,171 @@
 {
-  "updated_at": "2026-02-01T18:47:16Z",
-  "count": 912,
+  "updated_at": "2026-02-01T19:31:48Z",
+  "count": 927,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootcamp-de-devops-a-mlops-transicion-hacia-la-ingenieria-p/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/devops-to-mlops-bootcamp/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/devopsmlopsml/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/llm-engineer/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-de-ingenieria-en-ia-de-cero-a-heroe-de-la-ia/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581483_07d8_2.jpg",
+      "title": "[ES] Masterclass IA: De Cero a Héroe de la IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-ai-agents-bootcamp-build-smart-chatbots-tools/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6487855_4b85.jpg",
+      "title": "Mastering AI Agents Bootcamp: Build Smart Chatbots & Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6464197_01e8_3.jpg",
+      "title": "Mastering DeepScaleR: Build & Deploy AI Models with Ollama"
+    },
+    {
+      "url": "https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6459811_f9be.jpg",
+      "title": "Mistral AI Development: AI with Mistral, LangChain & Ollama"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6533119_fd9a_5.jpg",
+      "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate_devsecops_bootcamp/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6550789_640e_6.jpg",
+      "title": "Ultimate DevSecOps Bootcamp by School of Devops"
+    },
     {
       "url": "https://www.udemy.com/course/agentic-ai-playbook-for-tech-leaders/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6739135_5917_2.jpg",
+      "title": "Agentic AI Playbook: Complete Guide for Tech Leaders"
     },
     {
       "url": "https://www.udemy.com/course/ai-driven-infrastructure-as-code-iac-and-cloud-automation/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6733627_159a.jpg",
+      "title": "AI-Driven Infrastructure as Code (IaC) and Cloud Automation"
     },
     {
       "url": "https://www.udemy.com/course/ai-engineer-associate-certificate-course/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668957_72d1.jpg",
+      "title": "AI Engineer Associate Certificate Course"
     },
     {
       "url": "https://www.udemy.com/course/ai-engineer-professional-certificate-course/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668985_b8fe.jpg",
+      "title": "AI Engineer Professional Certificate Course"
     },
     {
       "url": "https://www.udemy.com/course/ai-product-manager-certificate/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6731869_7a3f_2.jpg",
+      "title": "[Non-Technical] AI Product Manager Explorer Certificate"
     },
     {
       "url": "https://www.udemy.com/course/ai-product-manager-explorer-certificate/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6674999_550c.jpg",
+      "title": "[Technical] AI Product Manager Explorer Certificate"
     },
     {
       "url": "https://www.udemy.com/course/ceo-masterclass/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6718177_7f72_3.jpg",
+      "title": "The Certified Global CEO Masterclass: Leading at the Top"
     },
     {
       "url": "https://www.udemy.com/course/cours-de-certification-professionnelle-en-ingenierie-de-lia/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685749_cffe_2.jpg",
+      "title": "Cours de Certification Professionnelle en Ingénierie de l’IA"
     },
     {
       "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681103_07e8_3.jpg",
+      "title": "[ES] Certificado de Explorador en Ingeniería de IA"
     },
     {
       "url": "https://www.udemy.com/course/es-curso-de-certificacion-de-ingeniero-asociado-en-ia/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681191_52dd_2.jpg",
+      "title": "[ES] Curso de Certificación de Ingeniero Asociado en IA"
     },
     {
       "url": "https://www.udemy.com/course/es-curso-de-certificacion-profesional-en-ingenieria-de-ia/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6682597_e2a3_2.jpg",
+      "title": "[ES] Curso de Certificación Profesional en Ingeniería de IA"
     },
     {
       "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
+      "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
     },
     {
       "url": "https://www.udemy.com/course/fr-cours-de-certification-ingenieur-associe-en-ia/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685687_8854.jpg",
+      "title": "[FR] Cours de Certification Ingénieur Associé en IA"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-foundational-certificate-course/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6738679_1d7d.jpg",
+      "title": "Generative AI Foundational Certificate Course"
     },
     {
       "url": "https://www.udemy.com/course/ml-ai-beginners-course/?couponCode=FREEFEB01",
@@ -81,12 +176,14 @@
     {
       "url": "https://www.udemy.com/course/advanced-supply-chain-master-optimisation-ai-strategies/?couponCode=643020CEEA4CD22A106D",
       "coupon_code": "643020CEEA4CD22A106D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6719791_a520.jpg",
+      "title": "Advanced Supply Chain: Master Optimisation & AI Strategies"
     },
     {
       "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=6FBB3B413A79CC017980",
       "coupon_code": "6FBB3B413A79CC017980",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6834655_6933_2.jpg",
+      "title": "Agentic AI: Building the Next Generation of Smart Agents"
     },
     {
       "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=43B13F313DA312800774",
@@ -97,32 +194,38 @@
     {
       "url": "https://www.udemy.com/course/ai-enginner-2026-complete-course-gen-ai-deep-machine-llm/?couponCode=B3F08BFF1D2646D6ECC0",
       "coupon_code": "B3F08BFF1D2646D6ECC0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7019205_f248.jpg",
+      "title": "AI Enginner 2026 Complete Course, GEN AI, Deep, Machine, LLM"
     },
     {
       "url": "https://www.udemy.com/course/applied-prompt-engineering-for-ai-systems/?couponCode=1BFAC431F1FF5D05FF14",
       "coupon_code": "1BFAC431F1FF5D05FF14",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995231_e049.jpg",
+      "title": "Applied Prompt Engineering for AI Systems"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=B1CD508391251AD2228E",
       "coupon_code": "B1CD508391251AD2228E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6916045_bf00.jpg",
+      "title": "Artificial Intelligence Journey: Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-real-world-applications-from-prompts-to-product/?couponCode=90321E7BDBA94709613A",
       "coupon_code": "90321E7BDBA94709613A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7029869_5128.jpg",
+      "title": "ChatGPT for Real-World Applications: From Prompts to Product"
     },
     {
       "url": "https://www.udemy.com/course/coding-the-brain-ai-machine-learning-for-bcis/?couponCode=B51339D7CDC658093338",
       "coupon_code": "B51339D7CDC658093338",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6929045_5efe.jpg",
+      "title": "Coding the Brain: AI & Machine Learning for BCIs"
     },
     {
       "url": "https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/?couponCode=A4BE084D36F61B02FEC1",
       "coupon_code": "A4BE084D36F61B02FEC1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891327_151d_2.jpg",
+      "title": "Complete RAG Bootcamp: Build, Optimize, and Deploy AI Apps"
     },
     {
       "url": "https://www.udemy.com/course/data-analysis-ai-from-data-to-intelligent-decisions-2026/?couponCode=4E35F2DC3144275BBB7E",
@@ -133,32 +236,38 @@
     {
       "url": "https://www.udemy.com/course/full-stack-ai-engineer-2026-generative-ai-llms-iii/?couponCode=111C559353940901BFEB",
       "coupon_code": "111C559353940901BFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7010895_01e9.jpg",
+      "title": "Full Stack AI Engineer 2026 - Generative AI & LLMs III"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-engineering-with-openai-anthropic/?couponCode=04E0C64D9CD90D3DB66F",
       "coupon_code": "04E0C64D9CD90D3DB66F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6901057_e04e.jpg",
+      "title": "Generative AI Engineering with OpenAI, Anthropic"
     },
     {
       "url": "https://www.udemy.com/course/modern-nlp-for-ai-engineers-data-scientists/?couponCode=C61EE28735AD8F7241B3",
       "coupon_code": "C61EE28735AD8F7241B3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018971_c2c7.jpg",
+      "title": "Natural Language Processing, AI Engineers & Data Scientists"
     },
     {
       "url": "https://www.udemy.com/course/neural-signal-processing-applied-ai/?couponCode=31B5FFCA99076893AC24",
       "coupon_code": "31B5FFCA99076893AC24",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6956873_96bb.jpg",
+      "title": "Neural Signal Processing & Applied AI"
     },
     {
       "url": "https://www.udemy.com/course/wordpress-web-development-in-urduhindi-beginner-to-pro/?couponCode=431072251D4591301636",
       "coupon_code": "431072251D4591301636",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000281_ecf8_5.jpg",
+      "title": "WordPress Web Development in Urdu/Hindi | Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-a-step-by-step-approach/?couponCode=LEARN2026",
       "coupon_code": "LEARN2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6201007_b527_22.jpg",
+      "title": "SQL Bootcamp 2026: Learn SQL from Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/agile-coach-certification-aec/?couponCode=C21A2958547EFE05EE4F",
