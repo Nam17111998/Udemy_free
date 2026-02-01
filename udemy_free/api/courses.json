@@ -1,7 +1,93 @@
 {
-  "updated_at": "2026-01-31T23:30:29Z",
-  "count": 974,
+  "updated_at": "2026-02-01T03:19:13Z",
+  "count": 989,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=ALHAMDULILLAH_020126",
+      "coupon_code": "ALHAMDULILLAH_020126",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=856840F86D1441D836B7",
+      "coupon_code": "856840F86D1441D836B7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=206B7B95A4F381DC8C2C",
+      "coupon_code": "206B7B95A4F381DC8C2C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/?couponCode=04C8D9D2F969796212C1",
+      "coupon_code": "04C8D9D2F969796212C1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=ALHAMDULILLAH_020126",
+      "coupon_code": "ALHAMDULILLAH_020126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4884028_004d_2.jpg",
+      "title": "Microsoft Excel - Excel Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-the-complete-mongodb-developers-course/?couponCode=D9246204DD81A70536C1",
+      "coupon_code": "D9246204DD81A70536C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5999168_45c8_5.jpg",
+      "title": "MongoDB - The Complete MongoDB Developers Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/?couponCode=BCBC431BD47068ADB4F3",
+      "coupon_code": "BCBC431BD47068ADB4F3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6172073_37a4.jpg",
+      "title": "NumPy Programming Mastery: Learn Python for Data Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-bootcamp-the-complete-programming-course-with-mysql/?couponCode=4ABEE829AE7C9DB75FDC",
+      "coupon_code": "4ABEE829AE7C9DB75FDC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173981_30e7_2.jpg",
+      "title": "PHP Bootcamp: The Complete Programming Course With MYSQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgresql-bootcamp-complete-beginner-to-advanced-course/?couponCode=5D40FAB4CB21A4BC4A9A",
+      "coupon_code": "5D40FAB4CB21A4BC4A9A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6008692_3c52.jpg",
+      "title": "PostgreSQL Bootcamp : Complete Beginner to Advanced Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-risk-management-arabic-version/?couponCode=FAB7447E7778BAE0752E",
+      "coupon_code": "FAB7447E7778BAE0752E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6607207_7136_3.jpg",
+      "title": "شهادة مهنية في إدارة المخاطر"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-mastery-the-complete-web-programming-course/?couponCode=5A1AA912ABD5B2BC84B6",
+      "coupon_code": "5A1AA912ABD5B2BC84B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173959_c9b3_2.jpg",
+      "title": "Python Mastery: The Complete Web Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-a-step-by-step-programming-course/?couponCode=2AA12605B1F09EF348AB",
+      "coupon_code": "2AA12605B1F09EF348AB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173779_c69c.jpg",
+      "title": "Python Programming: A Step-by-Step Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-r-programming-language-beginners-to-pro/?couponCode=B95F992A5100F71616E9",
+      "coupon_code": "B95F992A5100F71616E9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5890956_f61d_2.jpg",
+      "title": "R Programming - R Programming Language Beginners to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=SUBHANALLAH_020126",
+      "coupon_code": "SUBHANALLAH_020126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4965774_88c7_8.jpg",
+      "title": "The Complete SEO Guide: SEO For Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/understanding-typescript-for-beginner-to-advanced/?couponCode=B21FB368EA39AE17B69A",
+      "coupon_code": "B21FB368EA39AE17B69A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5999242_9c7d.jpg",
+      "title": "Understanding TypeScript For Beginner To Advanced"
+    },
     {
       "url": "https://www.udemy.com/course/biology-what-is-life/?couponCode=56968961E1F498AFE01A",
       "coupon_code": "56968961E1F498AFE01A",
@@ -17,7 +103,8 @@
     {
       "url": "https://www.udemy.com/course/customer-experience-management-cx-frameworks-strategies/?couponCode=E8BE52671FD723E2D9BA",
       "coupon_code": "E8BE52671FD723E2D9BA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6593307_7141_2.jpg",
+      "title": "Customer Experience Management (CX): Frameworks & Strategies"
     },
     {
       "url": "https://www.udemy.com/course/freelancingcareer/?couponCode=2AE0DF3B3ECCFE6423D9",
@@ -34,17 +121,20 @@
     {
       "url": "https://www.udemy.com/course/high-impact-sales-management-strategy-and-sales-operations/?couponCode=08EC3A8445FC24F5AE08",
       "coupon_code": "08EC3A8445FC24F5AE08",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6603147_af44_2.jpg",
+      "title": "High-Impact Sales Management, Strategy and Sales Operations"
     },
     {
       "url": "https://www.udemy.com/course/horse-colic-what-can-we-do/?couponCode=A7833F63ED92B4193416",
       "coupon_code": "A7833F63ED92B4193416",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5840506_e9fb.jpg",
+      "title": "horse colic  what can we do"
     },
     {
       "url": "https://www.udemy.com/course/leadership-vs-mangement/?couponCode=4FB23CE29EB1EBCBE26C",
       "coupon_code": "4FB23CE29EB1EBCBE26C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5923892_2aa6_3.jpg",
+      "title": "“Leadership vs Management: Master Team Dynamics"
     },
     {
       "url": "https://www.udemy.com/course/master-layer-farm-management-the-business-of-millionaires/?couponCode=B9CFCF049FCEE7C60B05",
@@ -61,12 +151,14 @@
     {
       "url": "https://www.udemy.com/course/professional-business-management-certificate/?couponCode=7A8D5ED81F781D133D66",
       "coupon_code": "7A8D5ED81F781D133D66",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6599913_5f7a_4.jpg",
+      "title": "Professional Business Management Certificate"
     },
     {
       "url": "https://www.udemy.com/course/python-data-analysis-bootcamp-pandas-seaborn-and-plotly/?couponCode=4793EF1483790648D74E",
       "coupon_code": "4793EF1483790648D74E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5864046_ef60_10.jpg",
+      "title": "Python Data Analysis Bootcamp - Pandas, Seaborn and Plotly"
     },
     {
       "url": "https://www.udemy.com/course/speak-arbic-like-natives/?couponCode=FEBFFE8A4D5FBF9E628F",
