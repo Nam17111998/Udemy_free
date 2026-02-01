@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-02-01T09:38:40Z",
-  "count": 923,
+  "updated_at": "2026-02-01T10:35:15Z",
+  "count": 938,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/all-in-one-java-spring-boot-spring-and-hibernate/?couponCode=B6CB5A09C3E7C0A38E88",
+      "coupon_code": "B6CB5A09C3E7C0A38E88",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/become-experts-in-python-by-exercises-by-projects/?couponCode=B2BA386E98EFE3C3B116",
+      "coupon_code": "B2BA386E98EFE3C3B116",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/etabs-from-zero-to-hero/?couponCode=7E76E6F6E97180B1CE5E",
+      "coupon_code": "7E76E6F6E97180B1CE5E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5419432_c578_2.jpg",
+      "title": "Etabs : From Zero to Hero : in Hindi / English"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=CB23D22C22C3806F1018",
+      "coupon_code": "CB23D22C22C3806F1018",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-autocad-2d/?couponCode=8595CB9ADF039D5CC63C",
+      "coupon_code": "8595CB9ADF039D5CC63C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-bar-bending-schedule-in-autocad-excel/?couponCode=338361B87DB7F25BFEF7",
+      "coupon_code": "338361B87DB7F25BFEF7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-chess-in-hindi-zero-to-master-level/?couponCode=0B18B3B304022E17F13C",
+      "coupon_code": "0B18B3B304022E17F13C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-dynamo-in-revit-zero-to-hero-in-hindi/?couponCode=979FEFFDD71C15436A7C",
+      "coupon_code": "979FEFFDD71C15436A7C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-microsoft-excel-from-zero-to-hero/?couponCode=3429C5F51CD22D46CB1F",
+      "coupon_code": "3429C5F51CD22D46CB1F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-spring-framework-the-easy-and-fun-way/?couponCode=EDB9F100F6977937B229",
+      "coupon_code": "EDB9F100F6977937B229",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-staad-pro-from-zero-to-hero-hindi/?couponCode=F5EE095341590938F243",
+      "coupon_code": "F5EE095341590938F243",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/modeling-rending-interior-office-project-in-revit/?couponCode=01B9B649FAFA186CCBB0",
+      "coupon_code": "01B9B649FAFA186CCBB0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantity-surveying-building-estimate/?couponCode=CC0E4054755F98E6D7E7",
+      "coupon_code": "CC0E4054755F98E6D7E7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/salesforce-admin-training-from-basics-to-advanced-skills/?couponCode=SFDCADMINFEB01",
+      "coupon_code": "SFDCADMINFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-ui5-fiori-essentials-beginners-complete-walkthrough/?couponCode=SAPUI5FEB01",
+      "coupon_code": "SAPUI5FEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/?couponCode=81EC780E462C6EC64329",
       "coupon_code": "81EC780E462C6EC64329",
