@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-02-01T23:33:18Z",
-  "count": 931,
+  "updated_at": "2026-02-02T02:51:45Z",
+  "count": 943,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-risks-in-cybersecurity/?couponCode=4DFD1654E58E6651181B",
+      "coupon_code": "4DFD1654E58E6651181B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6974141_d454.jpg",
+      "title": "Artificial Intelligence Risks in Cybersecurity"
+    },
+    {
+      "url": "https://www.udemy.com/course/azure-data-engineering-masters/?couponCode=BE509DC60A717CF17FF9",
+      "coupon_code": "BE509DC60A717CF17FF9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6786309_1da8.jpg",
+      "title": "Azure Data Engineering Masters: Build Scalable Solutions"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootcamp-de-devops-a-mlops-transicion-hacia-la-ingenieria-p/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6582431_325b_3.jpg",
+      "title": "Bootcamp MLOps: CI/CD para Modelos"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-java-training-crash-course-2022/?couponCode=F3653CE966F925266B84",
+      "coupon_code": "F3653CE966F925266B84",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4980262_a70c.jpg",
+      "title": "C++ And Java Training Crash Course for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificate-in-neuromarketing-consumer-psychology/?couponCode=66BCF3FCEE5C892527FD",
+      "coupon_code": "66BCF3FCEE5C892527FD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6832413_cdc2_2.jpg",
+      "title": "Certificate in Neuromarketing & Consumer Psychology"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=834919592EB31E301B2C",
+      "coupon_code": "834919592EB31E301B2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg",
+      "title": "CSS, JavaScript And PHP Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
+      "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/ethical-hacking-using-kali-linux/?couponCode=08F55F2943C47B92A101",
+      "coupon_code": "08F55F2943C47B92A101",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6988167_44aa.jpg",
+      "title": "Ethical Hacking Using Kali Linux"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-system-administration-with-red-hat-fedora/?couponCode=759A2C7B48A61561E86F",
+      "coupon_code": "759A2C7B48A61561E86F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6964717_be3d_2.jpg",
+      "title": "Linux System Administration with Red Hat & Fedora"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-ai-in-office-administration/?couponCode=C0AE50DC123B2CF0337E",
+      "coupon_code": "C0AE50DC123B2CF0337E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6746063_6c47_2.jpg",
+      "title": "Professional Certificate: AI in Office Administration"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-all-levels/?couponCode=C8983D134031139A1AFE",
+      "coupon_code": "C8983D134031139A1AFE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6961271_0971_3.jpg",
+      "title": "Python Course All Levels"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ethical-hacking-pentest-for-hackers-scripting-basics/?couponCode=D44EE184D566668143E7",
+      "coupon_code": "D44EE184D566668143E7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6934389_b44a_2.jpg",
+      "title": "Python Ethical Hacking Pentest for Hackers Scripting Basics"
+    },
+    {
+      "url": "https://www.udemy.com/course/real-estate-investing-short-term-rentals/?couponCode=317E472363A21C1CA201",
+      "coupon_code": "317E472363A21C1CA201",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119315_43bd_2.jpg",
+      "title": "Invest in Real Estate , Airbnb Hosting &  Arbitrage Mastery"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-shopify-dropshipping-course-start-selling-online-today/?couponCode=06D2DEAC25685452FAF6",
+      "coupon_code": "06D2DEAC25685452FAF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6521065_ba07_2.jpg",
+      "title": "Shopify Dropshipping Course 2026: Start Selling Online Today"
+    },
+    {
+      "url": "https://www.udemy.com/course/webhack-for-ethical-hacking-ultimate-defensive-skills-h/?couponCode=DEBF33C8BE190A38A0FB",
+      "coupon_code": "DEBF33C8BE190A38A0FB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6959693_0d25_3.jpg",
+      "title": "WebHack for Ethical Hacking  Ultimate Defensive Skills"
+    },
     {
       "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
@@ -21,22 +111,10 @@
       "title": "AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)"
     },
     {
-      "url": "https://www.udemy.com/course/bootcamp-de-devops-a-mlops-transicion-hacia-la-ingenieria-p/?couponCode=FREEFEB01",
-      "coupon_code": "FREEFEB01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6582431_325b_3.jpg",
-      "title": "Bootcamp MLOps: CI/CD para Modelos"
-    },
-    {
       "url": "https://www.udemy.com/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6380935_ddd8.jpg",
       "title": "Custom ChatGPT Publishing & AI Bootcamp Masterclass"
-    },
-    {
-      "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=FREEFEB01",
-      "coupon_code": "FREEFEB01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
-      "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
     },
     {
       "url": "https://www.udemy.com/course/devops-to-mlops-bootcamp/?couponCode=FREEFEB01",
@@ -73,12 +151,6 @@
       "coupon_code": "FREEFEB01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6464197_01e8_3.jpg",
       "title": "Mastering DeepScaleR: Build & Deploy AI Models with Ollama"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-ai-in-office-administration/?couponCode=C0AE50DC123B2CF0337E",
-      "coupon_code": "C0AE50DC123B2CF0337E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6746063_6c47_2.jpg",
-      "title": "Professional Certificate: AI in Office Administration"
     },
     {
       "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=FREEFEB01",
