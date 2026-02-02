@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-02-02T15:44:22Z",
-  "count": 921,
+  "updated_at": "2026-02-02T16:52:25Z",
+  "count": 935,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/7-days-of-hands-on-ai-development-bootcamp/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-agents-for-everyone-and-artificial-intelligence-bootcamp/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-bible-from-beginner-to-builder-in-100-projects/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-engineer-associate-certificate-course/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668957_72d1.jpg",
+      "title": "AI Engineer Associate Certificate Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-engineer-explorer-certificate-course/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-master-in-agentic-ai/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-nvidia-ai-expert/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-for-business-leaders-and-executives/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ia-full-stack-con-ollama-llama-deepseek-mistral-qwq/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-ai-on-aws-training-aws-certified-ai-practitioner/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-accounting-finance-accounting-data-visualization/?couponCode=33BADDCF4421710CC137",
       "coupon_code": "33BADDCF4421710CC137",
@@ -655,12 +731,6 @@
       "coupon_code": "FREEFEB01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6733627_159a.jpg",
       "title": "AI-Driven Infrastructure as Code (IaC) and Cloud Automation"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-engineer-associate-certificate-course/?couponCode=FREEFEB01",
-      "coupon_code": "FREEFEB01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6668957_72d1.jpg",
-      "title": "AI Engineer Associate Certificate Course"
     },
     {
       "url": "https://www.udemy.com/course/ai-engineer-professional-certificate-course/?couponCode=FREEFEB01",
