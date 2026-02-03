@@ -1,11 +1,96 @@
 {
-  "updated_at": "2026-02-03T04:53:22Z",
-  "count": 981,
+  "updated_at": "2026-02-03T05:56:58Z",
+  "count": 996,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/?couponCode=54391174A45176D5585F",
+      "coupon_code": "54391174A45176D5585F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-electronics-from-basic-to-advance/?couponCode=420102D134CECF3F8DDF",
+      "coupon_code": "420102D134CECF3F8DDF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4590894_f3f2_4.jpg",
+      "title": "Become Digital Electronics Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/engineering-mathematics-sd/?couponCode=2785853ABBE450036180",
+      "coupon_code": "2785853ABBE450036180",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4906554_6e03.jpg",
+      "title": "Mastering Fourier Series and Infinite Series in Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/hypnotic-speech/?couponCode=AAF49F5B81C6D7CAAFAE",
+      "coupon_code": "AAF49F5B81C6D7CAAFAE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4667710_4d53.jpg",
+      "title": "Master Hypnotic Speech: Mesmerize everyone!"
+    },
+    {
+      "url": "https://www.udemy.com/course/innovations/?couponCode=F0D98F6526BFA07475F9",
+      "coupon_code": "F0D98F6526BFA07475F9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5319702_023d.jpg",
+      "title": "Executive Diploma in Innovation Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-with-amines-organic-chemistry/?couponCode=1FD8827D0D05B8B4DE74",
+      "coupon_code": "1FD8827D0D05B8B4DE74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4597978_5b23.jpg",
+      "title": "Introduction with Amines (Organic Chemistry)"
+    },
+    {
+      "url": "https://www.udemy.com/course/lets-learn-modern-physics/?couponCode=38DBBC2EE32DA6A06936",
+      "coupon_code": "38DBBC2EE32DA6A06936",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4642722_5e28.jpg",
+      "title": "The Modern Physics Blueprint: Learn to Think Like Physicist"
+    },
+    {
+      "url": "https://www.udemy.com/course/midjourney-the-complete-ai-image-generation-course/?couponCode=1AB3161B65B517C265F3",
+      "coupon_code": "1AB3161B65B517C265F3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6955263_c5a0.jpg",
+      "title": "Midjourney: The Complete AI Image Generation Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/playing-with-binary/?couponCode=0143E9907E3A2E8398EC",
+      "coupon_code": "0143E9907E3A2E8398EC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/pre-algebra-made-easy-the-complete-beginners-guide/?couponCode=4EA8A4D0D13E3A832756",
+      "coupon_code": "4EA8A4D0D13E3A832756",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-mastery-from-novice-to-ninja/?couponCode=9276CB84A0CF2855B30C",
+      "coupon_code": "9276CB84A0CF2855B30C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/?couponCode=04DB2BD480E3CC8AD8B9",
+      "coupon_code": "04DB2BD480E3CC8AD8B9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/think-like-a-machine-computer-architecture-unlocked/?couponCode=2FAD297EA5031E897DD6",
+      "coupon_code": "2FAD297EA5031E897DD6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6760561_3101.jpg",
+      "title": "Think Like a Machine: Computer Architecture Unlocked"
+    },
+    {
+      "url": "https://www.udemy.com/course/unlock-the-secrets-of-polynomials-command-on-algebra/?couponCode=0CA5F43E4F1E50F64F22",
+      "coupon_code": "0CA5F43E4F1E50F64F22",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182265_ef71_6.jpg",
+      "title": "Unlock the Secrets of Polynomials: Command On Algebra inside"
+    },
+    {
+      "url": "https://www.udemy.com/course/youtube-masterclass-with-video-editing-and-graphics-design/?couponCode=179624A268F4DFDA7DC9",
+      "coupon_code": "179624A268F4DFDA7DC9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/all-in-one-microsoft-office-course-excel-word-powerpoint/?couponCode=4C7892811B582F6EADF3",
       "coupon_code": "4C7892811B582F6EADF3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6848689_e68e.jpg",
+      "title": "All-in-One Microsoft Office Course: Excel, Word & PowerPoint"
     },
     {
       "url": "https://www.udemy.com/course/c-programming-made-easy-from-basics-to-advanced-concepts/?couponCode=9671DF3779D29D7A605B",
@@ -60,37 +145,44 @@
     {
       "url": "https://www.udemy.com/course/reactjs-complete-guide-build-interactive-web-applications/?couponCode=80E8856B595CA401C940",
       "coupon_code": "80E8856B595CA401C940",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849329_133a.jpg",
+      "title": "React.js Complete Guide: Build Interactive Web Applications"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-word-course-learn-word-step-by-step/?couponCode=C882D00E939AB89CB33B",
       "coupon_code": "C882D00E939AB89CB33B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847397_14bb_2.jpg",
+      "title": "The Complete Microsoft Word Course: Learn Word Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/the-remote-work-blueprint-build-your-anywhere-office/?couponCode=8C99343C105B5A19F335",
       "coupon_code": "8C99343C105B5A19F335",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6169975_ca22_5.jpg",
+      "title": "The Remote Work Blueprint: Build Your Anywhere Office"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?couponCode=48581D60177F2CD148A6",
       "coupon_code": "48581D60177F2CD148A6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5634496_f8b0_4.jpg",
+      "title": "The Ultimate SQL Bootcamp : Go From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/ai-content-generation-audio-video-image-text-with-google-adobe-chatgpt/?couponCode=8D687A754D20C05CDAD6",
       "coupon_code": "8D687A754D20C05CDAD6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6871029_0c3e.jpg",
+      "title": "Full-Stack AI Creator: Audio, Video, Image w/ Google & Adobe"
     },
     {
       "url": "https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/?couponCode=A8B78A1D1C56C9FCBF61",
       "coupon_code": "A8B78A1D1C56C9FCBF61",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4975194_1cdd.jpg",
+      "title": "C++ Complete Training Course for C++ Beginners All In One"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-you-can-learn-english-using-chatgpt/?couponCode=87E4C05ABF1FEC85EF0B",
       "coupon_code": "87E4C05ABF1FEC85EF0B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5090748_58d0_6.jpg",
+      "title": "ChatGPT - Power Your English Language Learning with AI"
     },
     {
       "url": "https://www.udemy.com/course/complete-capcut-desktop-mastery-course/?couponCode=9D1E77BA7908DE12D0E5",
