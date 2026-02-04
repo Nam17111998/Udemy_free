@@ -1,16 +1,105 @@
 {
-  "updated_at": "2026-02-04T19:02:11Z",
-  "count": 934,
+  "updated_at": "2026-02-04T20:44:18Z",
+  "count": 946,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=6FBB3B413A79CC017980",
+      "coupon_code": "6FBB3B413A79CC017980",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6834655_6933_2.jpg",
+      "title": "Agentic AI: Building the Next Generation of Smart Agents"
+    },
+    {
+      "url": "https://www.udemy.com/course/agentic-product-management/?couponCode=B2F95AE581182B17C660",
+      "coupon_code": "B2F95AE581182B17C660",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=B1CD508391251AD2228E",
+      "coupon_code": "B1CD508391251AD2228E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6916045_bf00.jpg",
+      "title": "Artificial Intelligence Journey: Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-multiple-income-streams-to-10000-usd-per-month/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-your-knowledge-business-6-figure-launch-plan/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/?couponCode=A4BE084D36F61B02FEC1",
+      "coupon_code": "A4BE084D36F61B02FEC1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891327_151d_2.jpg",
+      "title": "Complete RAG Bootcamp: Build, Optimize, and Deploy AI Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-management-fundamentals-and-solutions/?couponCode=WANLE002",
+      "coupon_code": "WANLE002",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6116835_190b.jpg",
+      "title": "Data Management - Fundamentals and Solutions"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-science-ai-mastery-from-basics-to-deployment/?couponCode=E1D4803B3FCD1812BD78",
+      "coupon_code": "E1D4803B3FCD1812BD78",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6824767_6877_2.jpg",
+      "title": "Data Science & AI Mastery: From Basics to Deployment"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-cert-emerging-tech-leadership-strategic-growth/?couponCode=FREEFEB01",
+      "coupon_code": "FREEFEB01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6937801_94a8_5.jpg",
+      "title": "Executive Cert: Emerging Tech Leadership & Strategic Growth"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=2NDFEB&ra",
+      "coupon_code": "2NDFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
+      "title": "Financial Stewardship for Decision Makers and Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/key-metrics-of-unit-economics-cpa-arpu-cac-arppu-c1/?couponCode=0523700411B8991D5648",
+      "coupon_code": "0523700411B8991D5648",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641930_0cdf.jpg",
+      "title": "Key Metrics of Unit Economics (CPA, ARPU, CAC, ARPPU, C1)"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-canva-from-basic-to-advanced-and-earn-money-in-2025/?couponCode=17CE822A91C50A353A74",
+      "coupon_code": "17CE822A91C50A353A74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407183_634a_2.jpg",
+      "title": "Learn Canva from Basic to Advanced and Earn Money in 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-development-data-science-variables-and-data-types/?couponCode=7503FCF86E3318F15CF6",
+      "coupon_code": "7503FCF86E3318F15CF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5644182_a2eb.jpg",
+      "title": "Python Development & Data Science: Variables and Data Types"
+    },
+    {
+      "url": "https://www.udemy.com/course/smart-goals-parenting/?couponCode=2NDFEB&ra",
+      "coupon_code": "2NDFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6041048_43ee_3.jpg",
+      "title": "SMART Goals Parenting"
+    },
+    {
+      "url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/?couponCode=F109BB8A8545C1D2746E",
+      "coupon_code": "F109BB8A8545C1D2746E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg",
+      "title": "Unleash Your Full Potential: Learn English Now!"
+    },
     {
       "url": "https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/?couponCode=A45FCE5036A1660963A4",
       "coupon_code": "A45FCE5036A1660963A4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6905893_f165.jpg",
+      "title": "AI in Healthcare: A-Z Guide on Tech, Applications & Ethics"
     },
     {
       "url": "https://www.udemy.com/course/business-process-optimization-with-lean-six-sigma/?couponCode=B8AD17A5B03CBEBDF496",
       "coupon_code": "B8AD17A5B03CBEBDF496",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5632144_d8bd_2.jpg",
+      "title": "Business Process Optimization with Lean Six Sigma"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-chief-digital-officer/?couponCode=139791275612B6588692",
@@ -346,12 +435,14 @@
     {
       "url": "https://www.udemy.com/course/mcp-for-devs-master-model-context-protocol/?couponCode=FREEFEB1",
       "coupon_code": "FREEFEB1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6895853_ecd5_2.jpg",
+      "title": "MCP for devs - Master Model Context Protocol - Python/TS"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-project-management/?couponCode=A151F25CE5EF5FBB5D20",
       "coupon_code": "A151F25CE5EF5FBB5D20",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5589912_8cbe_2.jpg",
+      "title": "Professional Diploma in Agile and Project Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-coaching-and-mentoring/?couponCode=25B1CC3D97DBB7A74777",
@@ -386,7 +477,8 @@
     {
       "url": "https://www.udemy.com/course/healthcare-it-fundamentals-ehr-hipaa-interoperability/?couponCode=0842D1C8F3D9041F182C",
       "coupon_code": "0842D1C8F3D9041F182C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7039211_acb1_2.jpg",
+      "title": "Healthcare IT Fundamentals: EHR, HIPAA, & Interoperability"
     },
     {
       "url": "https://www.udemy.com/course/hr-tech-product-manager-bootcamp-for-hris-hr-techpeople/?couponCode=FREEFEB01",
@@ -2604,12 +2696,6 @@
       "title": "Advanced Supply Chain: Master Optimisation & AI Strategies"
     },
     {
-      "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=6FBB3B413A79CC017980",
-      "coupon_code": "6FBB3B413A79CC017980",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6834655_6933_2.jpg",
-      "title": "Agentic AI: Building the Next Generation of Smart Agents"
-    },
-    {
       "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=43B13F313DA312800774",
       "coupon_code": "43B13F313DA312800774",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6919079_3c72.jpg",
@@ -2628,12 +2714,6 @@
       "title": "Applied Prompt Engineering for AI Systems"
     },
     {
-      "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=B1CD508391251AD2228E",
-      "coupon_code": "B1CD508391251AD2228E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6916045_bf00.jpg",
-      "title": "Artificial Intelligence Journey: Beginner to Pro"
-    },
-    {
       "url": "https://www.udemy.com/course/chatgpt-for-real-world-applications-from-prompts-to-product/?couponCode=90321E7BDBA94709613A",
       "coupon_code": "90321E7BDBA94709613A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7029869_5128.jpg",
@@ -2644,12 +2724,6 @@
       "coupon_code": "B51339D7CDC658093338",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6929045_5efe.jpg",
       "title": "Coding the Brain: AI & Machine Learning for BCIs"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/?couponCode=A4BE084D36F61B02FEC1",
-      "coupon_code": "A4BE084D36F61B02FEC1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6891327_151d_2.jpg",
-      "title": "Complete RAG Bootcamp: Build, Optimize, and Deploy AI Apps"
     },
     {
       "url": "https://www.udemy.com/course/data-analysis-ai-from-data-to-intelligent-decisions-2026/?couponCode=4E35F2DC3144275BBB7E",
