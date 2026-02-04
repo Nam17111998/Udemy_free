@@ -1,11 +1,89 @@
 {
-  "updated_at": "2026-02-04T04:46:46Z",
-  "count": 913,
+  "updated_at": "2026-02-04T05:56:06Z",
+  "count": 928,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-literacy-and-eu-ai-act-compliance/?couponCode=136236E81C4F5F7F855F",
+      "coupon_code": "136236E81C4F5F7F855F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-python-training/?couponCode=JOSHFREE38",
+      "coupon_code": "JOSHFREE38",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-transformation-for-hr/?couponCode=62A769F952D22A0A74CB",
+      "coupon_code": "62A769F952D22A0A74CB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-101-for-beginners/?couponCode=54FD1A9AEFB9811BDBC4",
+      "coupon_code": "54FD1A9AEFB9811BDBC4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-made-easy-learn-step-by-step-become-a-confident-use/?couponCode=1934FB36CC7F0398EE4D",
+      "coupon_code": "1934FB36CC7F0398EE4D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-xlookup-mastery-learn-xlookup-dget-hlookup-fast-c/?couponCode=4F0ED577DE31D9CA00BF",
+      "coupon_code": "4F0ED577DE31D9CA00BF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/fhir-fast-healthcare-interoperability-resources/?couponCode=E2A7105D79EBFBBAE68D",
+      "coupon_code": "E2A7105D79EBFBBAE68D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-create-video-marketing-in-2020/?couponCode=ACCESS",
+      "coupon_code": "ACCESS",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-excel-vlookup-from-scratch/?couponCode=84FAA63A4F21591B3E4B",
+      "coupon_code": "84FAA63A4F21591B3E4B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learning-development-with-generative-ai/?couponCode=3D6E8FCCD70CF01CDA7C",
+      "coupon_code": "3D6E8FCCD70CF01CDA7C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-device-regulations-mdr-essentials/?couponCode=93CF8F144EE79564F06E",
+      "coupon_code": "93CF8F144EE79564F06E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995901_584d.jpg",
+      "title": "Medical Device Regulations (MDR) Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-mastery-course-using-chatgpt/?couponCode=7CC8335376EAD2C62B12",
+      "coupon_code": "7CC8335376EAD2C62B12",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-word-basics-master-the-interface-essential-tool-x/?couponCode=323CDB7438ABCA0E477D",
+      "coupon_code": "323CDB7438ABCA0E477D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-thinking-for-leaders-managers/?couponCode=98388A6FB7B67B856DB5",
+      "coupon_code": "98388A6FB7B67B856DB5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/thirdparty-risk-management-for-cybersecurity-compliance/?couponCode=9BC86A8D6D44788A9930",
+      "coupon_code": "9BC86A8D6D44788A9930",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6828635_f73c_3.jpg",
+      "title": "Third‑Party Risk Management for Cybersecurity & Compliance"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-wireshark/?couponCode=WIRESHARK_OCSALY.COM",
       "coupon_code": "WIRESHARK_OCSALY.COM",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6909459_d153_4.jpg",
+      "title": "Advanced Wireshark for Threat Hunting and Network Forensics"
     },
     {
       "url": "https://www.udemy.com/course/ai-models-mastery-chatgpt-gemini-and-deepseek/?couponCode=08C5D4817043F2C46302",
@@ -45,7 +123,8 @@
     {
       "url": "https://www.udemy.com/course/machine-learning-ai-neural-networks-a-complete-course/?couponCode=BC3948311B096D114410",
       "coupon_code": "BC3948311B096D114410",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7014399_a376.jpg",
+      "title": "Machine Learning, AI & Neural Networks: A Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/machine-learning-essentials-build-intelligent-models/?couponCode=3E81D2F683DAF72DD37D",
@@ -130,12 +209,14 @@
     {
       "url": "https://www.udemy.com/course/learn-cpp-programming-beginner-to-advanced/?couponCode=CA914EF493ACE1E6A585",
       "coupon_code": "CA914EF493ACE1E6A585",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4871278_dc28_4.jpg",
+      "title": "Learn C++ Programming - Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/master-cpp-byteboard/?couponCode=0780DE09B398546FA977",
       "coupon_code": "0780DE09B398546FA977",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3368702_f575_17.jpg",
+      "title": "Master C++ Programming From Beginner To Advance 2026 Edition"
     },
     {
       "url": "https://www.udemy.com/course/mastering-google-advance-search-techniques/?couponCode=C71F29C77DD97FD77A8A",
@@ -150,12 +231,14 @@
     {
       "url": "https://www.udemy.com/course/sleep-management/?couponCode=1E570C737578214FBEC0",
       "coupon_code": "1E570C737578214FBEC0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6438429_6998_3.jpg",
+      "title": "Professional Diploma in Quality Sleep Management"
     },
     {
       "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6834655_6933_2.jpg",
+      "title": "Agentic AI: Building the Next Generation of Smart Agents"
     },
     {
       "url": "https://www.udemy.com/course/ai-in-60-minutes/?couponCode=FREEFEB01",
