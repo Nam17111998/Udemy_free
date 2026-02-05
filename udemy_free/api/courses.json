@@ -1,11 +1,89 @@
 {
-  "updated_at": "2026-02-04T23:35:31Z",
-  "count": 956,
+  "updated_at": "2026-02-05T02:44:50Z",
+  "count": 970,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-hr-hrm-excellence/?couponCode=AF670E4B86FFCE6B4E9C",
+      "coupon_code": "AF670E4B86FFCE6B4E9C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-operational-excellence/?couponCode=D7405A6EC82FCFBD4E0C",
+      "coupon_code": "D7405A6EC82FCFBD4E0C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-project-planning-excellence/?couponCode=D3C194537B70E6D1BE47",
+      "coupon_code": "D3C194537B70E6D1BE47",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-crm-customer-relationship-management-excellence/?couponCode=3C1BE680442104A301D4",
+      "coupon_code": "3C1BE680442104A301D4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-data-driven-management-excellence/?couponCode=5D7E1903FEE9227EFF54",
+      "coupon_code": "5D7E1903FEE9227EFF54",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-marketing-and-advertising-excellence/?couponCode=8FE3D600A9C55D68FB05",
+      "coupon_code": "8FE3D600A9C55D68FB05",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-risk-management-compliance-excellence/?couponCode=DDDB329F9FCAC33090EF",
+      "coupon_code": "DDDB329F9FCAC33090EF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-with-google-ai-apps-videos-stunning-visuals/?couponCode=78D0B50D1E4AC90F5E6A",
+      "coupon_code": "78D0B50D1E4AC90F5E6A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/creacion-de-apis-rest-con-flask-y-sql-server/?couponCode=CENTROEDUCATIC2",
+      "coupon_code": "CENTROEDUCATIC2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-crisis-management-bcp/?couponCode=9C9B3BE4A95ECEB37B8C",
+      "coupon_code": "9C9B3BE4A95ECEB37B8C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/global-career-development-job-search-interviewing-skills/?couponCode=62595BC396E2F81A40B7",
+      "coupon_code": "62595BC396E2F81A40B7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-financial-products-services-i/?couponCode=2NDFEB&ra",
+      "coupon_code": "2NDFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5878864_c0b0_3.jpg",
+      "title": "Introduction to Financial Products & Services"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-and-php-and-python-programming-complete-course/?couponCode=44902D0D5C8A63875351",
+      "coupon_code": "44902D0D5C8A63875351",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=6FB19A8B0AF137CC868F",
+      "coupon_code": "6FB19A8B0AF137CC868F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-construction-management/?couponCode=336AF6504077C1DD29CA",
+      "coupon_code": "336AF6504077C1DD29CA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409223_c765.jpg",
+      "title": "Master in Construction Management"
+    },
     {
       "url": "https://www.udemy.com/course/accounting-for-fixed-assets-and-depreciation/?couponCode=7269EB98B133CB1EC82E",
       "coupon_code": "7269EB98B133CB1EC82E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6351417_00b9_2.jpg",
+      "title": "Accounting for Fixed Assets and Depreciation."
     },
     {
       "url": "https://www.udemy.com/course/building-company-budget-a-comprehensive-guide-for-financial/?couponCode=62CF502018F84B1DA647",
@@ -22,27 +100,32 @@
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-technology-management/?couponCode=F8A6712BB8246455D8EE",
       "coupon_code": "F8A6712BB8246455D8EE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5659378_0fba_3.jpg",
+      "title": "Executive Diploma in Technology Management"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-chief-executive-officer/?couponCode=CFC9FF219D3885FEE153",
       "coupon_code": "CFC9FF219D3885FEE153",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5657630_8ab4_3.jpg",
+      "title": "Executive Diploma of Chief Executive Officer"
     },
     {
       "url": "https://www.udemy.com/course/hr-diploma-in-performance-management-and-employee-development/?couponCode=58F66AD867C677C23C3F",
       "coupon_code": "58F66AD867C677C23C3F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5657534_7543.jpg",
+      "title": "HR Diploma in Performance Management & Employee Development"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-risk-management-in-financial-services/?couponCode=2NDFEB&ra",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865790_c7f6_3.jpg",
+      "title": "Introduction to Risk Management in Financial Services"
     },
     {
       "url": "https://www.udemy.com/course/jquery-y-mobile/?couponCode=A4A55F00012DA1A46A15",
       "coupon_code": "A4A55F00012DA1A46A15",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/23114_ad39_10.jpg",
+      "title": "Todo jQuery... de novato a experto"
     },
     {
       "url": "https://www.udemy.com/course/key-metrics-of-unit-economics-cpa-arpu-cac-arppu-c1/?couponCode=0523700411B8991D5648",
@@ -59,7 +142,8 @@
     {
       "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=2NDFEB&ra",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
+      "title": "Productivity - Focus, Concentration & Performance Strategies"
     },
     {
       "url": "https://www.udemy.com/course/python-development-data-science-variables-and-data-types/?couponCode=7503FCF86E3318F15CF6",
@@ -76,12 +160,14 @@
     {
       "url": "https://www.udemy.com/course/unit-economics-crm-ltv-churn-retention-rates-cohorts/?couponCode=4EB5CD284BC7B094999C",
       "coupon_code": "4EB5CD284BC7B094999C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5648162_5cf8_3.jpg",
+      "title": "Unit Economics & CRM: LTV, Churn, Retention Rates, Cohorts"
     },
     {
       "url": "https://www.udemy.com/course/your-words-powerful-tools/?couponCode=2NDFEB&ra",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4789658_5ffd_5.jpg",
+      "title": "Your WORDS, Powerful Tools"
     },
     {
       "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=6FBB3B413A79CC017980",
@@ -92,7 +178,8 @@
     {
       "url": "https://www.udemy.com/course/agentic-product-management/?couponCode=B2F95AE581182B17C660",
       "coupon_code": "B2F95AE581182B17C660",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967325_2708_3.jpg",
+      "title": "Agentic Product Management"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=B1CD508391251AD2228E",
@@ -103,12 +190,14 @@
     {
       "url": "https://www.udemy.com/course/build-multiple-income-streams-to-10000-usd-per-month/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6947807_49ff_3.jpg",
+      "title": "Learn How to Build Multiple Income Streams"
     },
     {
       "url": "https://www.udemy.com/course/build-your-knowledge-business-6-figure-launch-plan/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6947811_5388_4.jpg",
+      "title": "Build Your Knowledge Business: 6-Figure Launch Plan"
     },
     {
       "url": "https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/?couponCode=A4BE084D36F61B02FEC1",
@@ -155,7 +244,8 @@
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-chief-digital-officer/?couponCode=139791275612B6588692",
       "coupon_code": "139791275612B6588692",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5627171_e24f_2.jpg",
+      "title": "Executive Diploma of Chief Digital Officer"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=2NDFEB&ra",
@@ -508,7 +598,8 @@
     {
       "url": "https://www.udemy.com/course/the-complete-full-stack-web-development-masterclass-2026/?couponCode=07FE5A713DCED7AE8E82",
       "coupon_code": "07FE5A713DCED7AE8E82",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7025143_0312_3.jpg",
+      "title": "The Complete Full Stack Web Development Masterclass 2026"
     },
     {
       "url": "https://www.udemy.com/course/bim-structural-steel-detailing-course-zero-to-hero/?couponCode=3ACC6B9C4AAC2F7AE1FC",
@@ -543,27 +634,32 @@
     {
       "url": "https://www.udemy.com/course/hr-tech-product-manager-bootcamp-for-hris-hr-techpeople/?couponCode=FREEFEB01",
       "coupon_code": "FREEFEB01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7007921_ff18.jpg",
+      "title": "HR Tech Product Manager Bootcamp (for HRIS /HR Tech/People)"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=54F71D1D42605FE286D8",
       "coupon_code": "54F71D1D42605FE286D8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
+      "title": "Introduction to Human Resources Management"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-formulas-functions-masterclass/?couponCode=C65E7CF45F434A8F740C",
       "coupon_code": "C65E7CF45F434A8F740C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7014687_f60c.jpg",
+      "title": "Microsoft Excel Formulas & Functions Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/practical-iso-270012022-lab-step-by-step-isms-training/?couponCode=1E67470C244B45663C62",
       "coupon_code": "1E67470C244B45663C62",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6895975_ad40.jpg",
+      "title": "Practical ISO 27001:2022 Lab: Step-by-Step ISMS Training"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-branding-and-brand-management/?couponCode=149330ECA4AFD03E7D9F",
       "coupon_code": "149330ECA4AFD03E7D9F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5578468_3efd.jpg",
+      "title": "Professional Diploma in Branding & Brand Management"
     },
     {
       "url": "https://www.udemy.com/course/python-development-first-steps-and-development-ide-platform/?couponCode=A7E1AC2CF9E44C74C4E4",
@@ -1171,12 +1267,6 @@
       "coupon_code": "6B5135542534A4DFAF83",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6141171_c75f_3.jpg",
       "title": "Feature Engineering  For Machine Learning 101"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduction-to-financial-products-services-i/?couponCode=2NDFEB&ra",
-      "coupon_code": "2NDFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5878864_c0b0_3.jpg",
-      "title": "Introduction to Financial Products & Services"
     },
     {
       "url": "https://www.udemy.com/course/object-detection-from-zero-to-hero/?couponCode=B9DBC8780A7D3C4A0B3D",
