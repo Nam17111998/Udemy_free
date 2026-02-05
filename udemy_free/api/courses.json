@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-02-05T04:54:44Z",
-  "count": 985,
+  "updated_at": "2026-02-05T06:01:56Z",
+  "count": 999,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-course-for-graphics-design/?couponCode=8F8FCC6A01A00E0A0BAA",
+      "coupon_code": "8F8FCC6A01A00E0A0BAA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-professional-photoshop-course/?couponCode=ACC1A03E986FA784CD86",
+      "coupon_code": "ACC1A03E986FA784CD86",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-bootcamp-job-ready-skills-for-net-development/?couponCode=4CE611BC96E2C218F5BC",
+      "coupon_code": "4CE611BC96E2C218F5BC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-python-programming-course-from-basics-to-advanced/?couponCode=8FF4F657C80001142ABC",
+      "coupon_code": "8FF4F657C80001142ABC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-video-editing-course-with-motion-graphics/?couponCode=DCB8030BF0AE4D0B9037",
+      "coupon_code": "DCB8030BF0AE4D0B9037",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-complete-developers-guide/?couponCode=82387B8A34083B32BA5A",
+      "coupon_code": "82387B8A34083B32BA5A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-adobe-lightroom-course-for-photo-editing/?couponCode=A965F0ADC27D67AB321D",
+      "coupon_code": "A965F0ADC27D67AB321D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-chief-technology-officer/?couponCode=4B947A16435C4C9EEEC6",
+      "coupon_code": "4B947A16435C4C9EEEC6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-css-the-complete-web-development-guide/?couponCode=AA8B417534F801F0DAEA",
+      "coupon_code": "AA8B417534F801F0DAEA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-front-end-web-development-with-javascript/?couponCode=DB99211712B9A4E3168A",
+      "coupon_code": "DB99211712B9A4E3168A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mysql-database-management-create-manage-query-database/?couponCode=56CA8A13842C9E6482BD",
+      "coupon_code": "56CA8A13842C9E6482BD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-master-php-for-back-end-web-development-with-mysql/?couponCode=AA90657C014FD8C2B338",
+      "coupon_code": "AA90657C014FD8C2B338",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgresql-database-administration-complete-course/?couponCode=31FFFDF69471A1526231",
+      "coupon_code": "31FFFDF69471A1526231",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-public-relations-and-pr-management/?couponCode=01C963AF2E1DAFBCEA6C",
+      "coupon_code": "01C963AF2E1DAFBCEA6C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-data-science-the-complete-data-science-bootcamp/?couponCode=97ECB3B44F22704A101B",
+      "coupon_code": "97ECB3B44F22704A101B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/become-an-expert-in-excel-google-sheet-formula-functions/?couponCode=BA4637A4DBAEF0ADD10B",
       "coupon_code": "BA4637A4DBAEF0ADD10B",
@@ -51,11 +126,6 @@
     {
       "url": "https://www.udemy.com/course/php-bootcamp-the-complete-programming-course-with-mysql/?couponCode=D74601481CF5E82D2E5C",
       "coupon_code": "D74601481CF5E82D2E5C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-in-public-relations-and-pr-management/?couponCode=01C963AF2E1DAFBCEA6C",
-      "coupon_code": "01C963AF2E1DAFBCEA6C",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
