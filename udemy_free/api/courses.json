@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-02-06T09:53:54Z",
-  "count": 965,
+  "updated_at": "2026-02-06T10:50:49Z",
+  "count": 980,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-accounting-professionals-financial-statement-analysis-audit/?couponCode=BBF5D879B66EBBFA910E",
+      "coupon_code": "BBF5D879B66EBBFA910E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-brand-storytelling-branding-fast-track-using-chatgpt/?couponCode=62CDF7657DB6FC7C3EFF",
+      "coupon_code": "62CDF7657DB6FC7C3EFF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-primer-for-all-employees-in-30-minutes-ai-fast-track/?couponCode=64B95175D8D033C6FA9F",
+      "coupon_code": "64B95175D8D033C6FA9F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/android-apps-development-masterclass-build-2-apps-java/?couponCode=08FF108D017324DE3B5C",
+      "coupon_code": "08FF108D017324DE3B5C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-digital-marketing/?couponCode=06FEBRUARY2026",
+      "coupon_code": "06FEBRUARY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/interior-design-styles-master-interior-design-styles-themes/?couponCode=DF3F24CB433B7E221CB2",
+      "coupon_code": "DF3F24CB433B7E221CB2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-android-application-build-3-applications-from-scratch/?couponCode=A14903A098B6C11BA99D",
+      "coupon_code": "A14903A098B6C11BA99D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-javascript-by-building-10-projects-from-scratch/?couponCode=78728A1AF9DD20B8E89E",
+      "coupon_code": "78728A1AF9DD20B8E89E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-copilot-for-customer-success-as-a-business-system/?couponCode=06FEBRUARY2026",
+      "coupon_code": "06FEBRUARY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/next-level-ai-skills-with-google-gemini-25/?couponCode=06FEBRUARY2026",
+      "coupon_code": "06FEBRUARY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/nextjs-crash-course-build-a-full-stack-app-in-a-weekend/?couponCode=B1BBB0FF4C899502069E",
+      "coupon_code": "B1BBB0FF4C899502069E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/nodejs-crash-course-build-a-rest-api-in-a-weekend/?couponCode=A8AD99D0FFCB164FE497",
+      "coupon_code": "A8AD99D0FFCB164FE497",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/photoshop-ai-for-creatives-guide-to-generative-tools/?couponCode=06FEBRUARY2026",
+      "coupon_code": "06FEBRUARY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-virtual-assistant-handbook/?couponCode=93418C0EF5167092380B",
+      "coupon_code": "93418C0EF5167092380B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5334092_9b96_4.jpg",
+      "title": "The Complete Virtual Assistant Handbook"
+    },
+    {
+      "url": "https://www.udemy.com/course/vercel-v0-no-code-mvp-build-ship-in-a-weekend/?couponCode=06FEBRUARY2026",
+      "coupon_code": "06FEBRUARY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-powered-project-management-with-clickup/?couponCode=06FEBRUARY2026",
       "coupon_code": "06FEBRUARY2026",
@@ -80,7 +156,8 @@
     {
       "url": "https://www.udemy.com/course/101-ai-tools-to-improve-productivity-save-time/?couponCode=E2DCDD58BF9B2B9717D3",
       "coupon_code": "E2DCDD58BF9B2B9717D3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6313699_bebd.jpg",
+      "title": "101 AI Tools to Improve Productivity & Save Time"
     },
     {
       "url": "https://www.udemy.com/course/business-development-sales-marketing-professional-diploma/?couponCode=77A2C8C45E705D344565",
@@ -211,7 +288,8 @@
     {
       "url": "https://www.udemy.com/course/entrepreneurship-ideas-market-analysis-competitors-place/?couponCode=19C6B232D2CC1EA33A6B",
       "coupon_code": "19C6B232D2CC1EA33A6B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5836030_9a0e.jpg",
+      "title": "Entrepreneurship: Ideas, Market Analysis, Competitors, Place"
     },
     {
       "url": "https://www.udemy.com/course/full-stack-developer-toolkit-from-architecture-to-cloud-deployment/?couponCode=ARC86E31B4384EB7D5B0",
