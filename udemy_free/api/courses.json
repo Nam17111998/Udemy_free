@@ -1,62 +1,66 @@
 {
-  "updated_at": "2026-02-06T02:44:49Z",
-  "count": 920,
+  "updated_at": "2026-02-06T04:53:27Z",
+  "count": 923,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/azure-data-engineering-masters/?couponCode=3B0ECF85A69DA0E1AA6D",
-      "coupon_code": "3B0ECF85A69DA0E1AA6D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/crud-con-php-mysql-y-js-en-el-modelo-mvc/?couponCode=CENTROEDUCATIC5",
       "coupon_code": "CENTROEDUCATIC5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3969284_e853_5.jpg",
+      "title": "CRUD con PHP, MySQL y JS en el Modelo MVC"
     },
     {
       "url": "https://www.udemy.com/course/css-javascript-and-python-complete-course/?couponCode=0EB188D4C36E9F8EC7BE",
       "coupon_code": "0EB188D4C36E9F8EC7BE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4392170_4141.jpg",
+      "title": "CSS, JavaScript And Python Complete Course"
     },
     {
-      "url": "https://www.udemy.com/course/desarrollo-web-avanzado-login-registro-y-acceso-con-google/?couponCode=CENTROEDUCATIC4",
-      "coupon_code": "CENTROEDUCATIC4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/digital-platforms-and-ecosystems-business-and-partnership/?couponCode=71BB55F48C905B7F7210",
+      "coupon_code": "71BB55F48C905B7F7210",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5836026_510c.jpg",
+      "title": "Digital Platforms and Ecosystems Business and Partnership"
     },
     {
       "url": "https://www.udemy.com/course/disciplina-positiva-para-ninos-de-0-a-6-anos/?couponCode=ANDREAH_FEB2026",
       "coupon_code": "ANDREAH_FEB2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1154768_17ec_3.jpg",
+      "title": "Disciplina positiva para niños de 0 a 6 años"
     },
     {
       "url": "https://www.udemy.com/course/doughnut-economics-framework/?couponCode=A8074CA9C8048B4EBFD9",
       "coupon_code": "A8074CA9C8048B4EBFD9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6946295_968f.jpg",
+      "title": "The Doughnut Economics"
+    },
+    {
+      "url": "https://www.udemy.com/course/entrepreneurship-and-business-essentials/?couponCode=AB21F385B5F695B12B8B",
+      "coupon_code": "AB21F385B5F695B12B8B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5831904_beca.jpg",
+      "title": "Entrepreneurship and Business Essentials"
     },
     {
       "url": "https://www.udemy.com/course/entrepreneurship-and-business-motivation/?couponCode=D4740FBC96B1D0411387",
       "coupon_code": "D4740FBC96B1D0411387",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5824904_77a2.jpg",
+      "title": "Entrepreneurship and Business Motivation"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-cio-chief-information-officer/?couponCode=773E22B238028D38D072",
       "coupon_code": "773E22B238028D38D072",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5831800_1240.jpg",
+      "title": "Executive Diploma of CIO Chief Information Officer"
     },
     {
       "url": "https://www.udemy.com/course/facebook-ads-masterclass-2023-all-campaigns-features/?couponCode=988EFBFFF408B69DD199",
       "coupon_code": "988EFBFFF408B69DD199",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5668040_4de0.jpg",
+      "title": "Facebook Ads MasterClass 2026 - All Campaign Creations"
     },
     {
       "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=2NDFEB&ra",
       "coupon_code": "2NDFEB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
       "title": "Financial Stewardship for Decision Makers and Leaders"
-    },
-    {
-      "url": "https://www.udemy.com/course/genai_qa/?couponCode=5E20FF9CFBBEB4F3A9A3",
-      "coupon_code": "5E20FF9CFBBEB4F3A9A3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=2NDFEB&ra",
@@ -67,17 +71,44 @@
     {
       "url": "https://www.udemy.com/course/personal-growth-affirmations-and-taking-action/?couponCode=2NDFEB&ra",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4917622_0aae_2.jpg",
+      "title": "Personal Growth - Affirmations and Taking Action"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-agile-product-management/?couponCode=61EA74827EA5A6EF032B",
       "coupon_code": "61EA74827EA5A6EF032B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5823058_08a3.jpg",
+      "title": "Professional Diploma in Agile Product Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=70CA2A5B010A5C4CD0E9",
+      "coupon_code": "70CA2A5B010A5C4CD0E9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3518698_0aff.jpg",
+      "title": "Python Demonstrations For Practice Course"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-seo-course-2024-beginner-to-advanced-seo/?couponCode=90D2816F6EF230474828",
       "coupon_code": "90D2816F6EF230474828",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5908172_2f2a.jpg",
+      "title": "Ultimate SEO Course 2026: Beginner to Advanced SEO with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/azure-data-engineering-masters/?couponCode=3B0ECF85A69DA0E1AA6D",
+      "coupon_code": "3B0ECF85A69DA0E1AA6D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6786309_1da8.jpg",
+      "title": "Azure Data Engineering Masters: Build Scalable Solutions"
+    },
+    {
+      "url": "https://www.udemy.com/course/desarrollo-web-avanzado-login-registro-y-acceso-con-google/?couponCode=CENTROEDUCATIC4",
+      "coupon_code": "CENTROEDUCATIC4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5676792_63fd_2.jpg",
+      "title": "Desarrollo Web Avanzado: Login, Registro y Acceso con Google"
+    },
+    {
+      "url": "https://www.udemy.com/course/genai_qa/?couponCode=5E20FF9CFBBEB4F3A9A3",
+      "coupon_code": "5E20FF9CFBBEB4F3A9A3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6532807_9391_3.jpg",
+      "title": "Learn Gen AI for Testing: Functional , Automation, Agent AI"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=2NDFEB&ra",
@@ -88,12 +119,14 @@
     {
       "url": "https://www.udemy.com/course/excel-fuer-einsteiger/?couponCode=0687F8C77ADAFC7C604C",
       "coupon_code": "0687F8C77ADAFC7C604C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1352432_9449_2.jpg",
+      "title": "Excel Kurs für Einsteiger. Arbeiten mit Excel und Formeln."
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-vice-president-chief-operating-officer/?couponCode=047958542895AF4663B5",
       "coupon_code": "047958542895AF4663B5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5821890_8580.jpg",
+      "title": "Executive Diploma of Vice President Chief Operating Officer"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=2NDFEB&ra",
@@ -122,17 +155,20 @@
     {
       "url": "https://www.udemy.com/course/leadership-leading-a-community/?couponCode=2NDFEB&ra",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4997402_4203.jpg",
+      "title": "Leadership - Leading a Community"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-customer-relationship-management-crm/?couponCode=8E109825F017F57B7907",
       "coupon_code": "8E109825F017F57B7907",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5817384_15a5_2.jpg",
+      "title": "Professional Diploma in Customer Relationship Management CRM"
     },
     {
       "url": "https://www.udemy.com/course/senior-executive-business-management-and-leadership-program/?couponCode=A34ADAB0A58055EEA8D7",
       "coupon_code": "A34ADAB0A58055EEA8D7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5813848_4e04.jpg",
+      "title": "Senior Executive Business Management and Leadership Program"
     },
     {
       "url": "https://www.udemy.com/course/time-management-productivity-decision-making-tools-aids/?couponCode=2NDFEB&ra",
@@ -143,7 +179,8 @@
     {
       "url": "https://www.udemy.com/course/verkaufsstarke-webinare-mit-webinaris/?couponCode=7542A05CFDB848535407",
       "coupon_code": "7542A05CFDB848535407",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2453636_9e6e_5.jpg",
+      "title": "Marketing Automatisierung mit Webinaris"
     },
     {
       "url": "https://www.udemy.com/course/vigilant-leadership/?couponCode=2NDFEB&ra",
@@ -154,7 +191,8 @@
     {
       "url": "https://www.udemy.com/course/convertools/?couponCode=AF962E2BDF9E6ED7A9CB",
       "coupon_code": "AF962E2BDF9E6ED7A9CB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2691178_e6d1.jpg",
+      "title": "Convertlink - Dein Affiliate-Marketing vollautomatisiert!"
     },
     {
       "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=2NDFEB&ra",
@@ -165,7 +203,8 @@
     {
       "url": "https://www.udemy.com/course/podcast-online-business-digitales-marketing-mit-anchor/?couponCode=386CE65DCEDC7BB91110",
       "coupon_code": "386CE65DCEDC7BB91110",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4519404_a82c_2.jpg",
+      "title": "Podcasting für Online-Unternehmer leicht gemacht mit Spotify"
     },
     {
       "url": "https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=2NDFEB&ra",
@@ -176,22 +215,26 @@
     {
       "url": "https://www.udemy.com/course/drupal-for-beginners-course/?couponCode=70BBEFCDC48111F27542",
       "coupon_code": "70BBEFCDC48111F27542",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5616788_4b45.jpg",
+      "title": "Drupal For Beginners - Master Drupal Quickly"
     },
     {
       "url": "https://www.udemy.com/course/drupal-masterclass/?couponCode=37C0E83431B2F3F1A50D",
       "coupon_code": "37C0E83431B2F3F1A50D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1894054_b286_3.jpg",
+      "title": "Drupal For Absolute Beginners (2025)"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-strategy-and-innovation/?couponCode=C74F40267A32767B60D1",
       "coupon_code": "C74F40267A32767B60D1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5810976_eacd.jpg",
+      "title": "Executive Diploma in Strategy and Innovation"
     },
     {
       "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=2NDFEB&ra",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5297378_1508_2.jpg",
+      "title": "Authentic Leadership"
     },
     {
       "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=2NDFEB&ra",
@@ -232,32 +275,38 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-advertising-and-public-relations/?couponCode=BF0AD52D4C1B5E725642",
       "coupon_code": "BF0AD52D4C1B5E725642",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5806940_f60d.jpg",
+      "title": "Professional Diploma in Advertising and Public Relations"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-wordpress-developer-course-w/?couponCode=BD7E5227FEAC0D448FA4",
       "coupon_code": "BD7E5227FEAC0D448FA4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1490124_3f2f_2.jpg",
+      "title": "Complete Wordpress Website Developer Course"
     },
     {
       "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=2NDFEB&ra",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5560346_69f1_3.jpg",
+      "title": "Workplace Stress Management Strategies"
     },
     {
       "url": "https://www.udemy.com/course/cinematic-ai-directing-camera-shots-with-nano-banana/?couponCode=6AF624F76EBA4C56E429",
       "coupon_code": "6AF624F76EBA4C56E429",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6835673_cf0c_2.jpg",
+      "title": "Cinematic AI: Directing Camera Shots with Nano Banana"
     },
     {
       "url": "https://www.udemy.com/course/create-viral-latin-spanish-music-suno-ai-music-generator/?couponCode=11328CBC78AC0F65611D",
       "coupon_code": "11328CBC78AC0F65611D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6984057_0ba9.jpg",
+      "title": "Create Viral Latin & Spanish Music: Suno AI Music Generator"
     },
     {
       "url": "https://www.udemy.com/course/digistore24/?couponCode=CFAD627B4F66166F7810",
       "coupon_code": "CFAD627B4F66166F7810",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4138884_70fe_2.jpg",
+      "title": "Digitale Produkte erfolgreich verkaufen mit Digistore 24"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=2NDFEB&ra",
@@ -388,17 +437,20 @@
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=2NDFEB",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
+      "title": "Emotional Intelligence in Leadership"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=2NDFEB",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
+      "title": "Financial Services - Basics of Business & Corporate Banking"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=2NDFEB",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6611461_d0c7_3.jpg",
+      "title": "Financial Services - Basics of Regulation & Compliance"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=2NDFEB",
@@ -415,22 +467,26 @@
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=2NDFEB",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=2NDFEB",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
+      "title": "Financial Services - Overview of Retail Banking"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=2NDFEB",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6656207_ffa4.jpg",
+      "title": "Financial Services - Understanding Interest Rates"
     },
     {
       "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=2NDFEB",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
+      "title": "Financial Stewardship for Decision Makers and Leaders"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=2NDFEB&ra",
@@ -453,7 +509,8 @@
     {
       "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=2NDFEB",
       "coupon_code": "2NDFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
+      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
     },
     {
       "url": "https://www.udemy.com/course/adobe-after-effects-from-beginner-to-motion-master/?couponCode=20FEE38305E08BA8B49F",
@@ -464,7 +521,8 @@
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/?couponCode=56CBF0A0AEE4EC68653D",
       "coupon_code": "56CBF0A0AEE4EC68653D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5926794_6929.jpg",
+      "title": "Adobe Illustrator Essentials: Zero to Hero for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=6F5A576A8EF2CE317979",
@@ -511,7 +569,8 @@
     {
       "url": "https://www.udemy.com/course/master-emotional-intelligence-for-hr-and-leadership-success/?couponCode=PAPAHR_FEB_05",
       "coupon_code": "PAPAHR_FEB_05",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6346485_2a3e_4.jpg",
+      "title": "How to Develop Emotional Intelligence (EQ) for success [EN]"
     },
     {
       "url": "https://www.udemy.com/course/mastering-azure-fundamentals/?couponCode=7B2F037A24F5AA2FD15C",
@@ -528,17 +587,20 @@
     {
       "url": "https://www.udemy.com/course/social-media-video-editing-with-premiere-pro-canva-filmora/?couponCode=4A7CA113108C1241C7D9",
       "coupon_code": "4A7CA113108C1241C7D9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5767990_03ce_2.jpg",
+      "title": "Social Media Video Editing With Premiere Pro Canva Filmora"
     },
     {
       "url": "https://www.udemy.com/course/talent-acquisition-director/?couponCode=PAPAHR_FEB_05",
       "coupon_code": "PAPAHR_FEB_05",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409731_36dd_3.jpg",
+      "title": "Talent Acquisition Director: Recruitment Management [EN]"
     },
     {
       "url": "https://www.udemy.com/course/voice-over-artist-training-for-audiobook-courses-and-promos/?couponCode=Z10TUNIS_196",
       "coupon_code": "Z10TUNIS_196",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6938223_5f2e_3.jpg",
+      "title": "Voice-Over Artist Training for Audiobook, Courses and Promos"
     },
     {
       "url": "https://www.udemy.com/course/ai-hr-become-master-of-ai-in-hr-world-learn-100-ai-tools/?couponCode=PAPAHR_FEB_05",
