@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-02-06T19:01:41Z",
-  "count": 932,
+  "updated_at": "2026-02-06T20:42:26Z",
+  "count": 943,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/bash-fundamentals-for-linux-users/?couponCode=C4371CB3E21C69BB90B1",
+      "coupon_code": "C4371CB3E21C69BB90B1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-crash-course/?couponCode=3ABC133AAA92E6E1F546",
+      "coupon_code": "3ABC133AAA92E6E1F546",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6886555_cde8.jpg",
+      "title": "Docker Containers | Crash course for developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-vsc-essentials/?couponCode=3905C590CB5FBF928FA7",
+      "coupon_code": "3905C590CB5FBF928FA7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/gnu-make-crash-course/?couponCode=F733A9735348D84C140C",
+      "coupon_code": "F733A9735348D84C140C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/investing-in-africa-key-factors-for-investors-to-consider/?couponCode=2NDFEB&ra",
+      "coupon_code": "2NDFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4822268_0c4d_2.jpg",
+      "title": "Investing in Africa - Key factors for Investors to consider"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=97A8E4930A044E8C0EA4",
+      "coupon_code": "97A8E4930A044E8C0EA4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-grep-sed-and-awk/?couponCode=85D51FAD2EA9BB7EBAA0",
+      "coupon_code": "85D51FAD2EA9BB7EBAA0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=2NDFEB&ra",
+      "coupon_code": "2NDFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/prisma-orm-fundamentals/?couponCode=383D7F2AF974D6E5931C",
+      "coupon_code": "383D7F2AF974D6E5931C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-business-project-management/?couponCode=BA670318E0A1A540A045",
+      "coupon_code": "BA670318E0A1A540A045",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/signals-in-angular-v19/?couponCode=82EC965ED2340FB8FF59",
+      "coupon_code": "82EC965ED2340FB8FF59",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=2NDFEB&ra",
+      "coupon_code": "2NDFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4785722_1b39_5.jpg",
+      "title": "Strategic Partnerships and Collaborations"
+    },
+    {
+      "url": "https://www.udemy.com/course/tmux-fundamentals/?couponCode=334AF3C3D3DEB8B23172",
+      "coupon_code": "334AF3C3D3DEB8B23172",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/vim-fundamentals/?couponCode=8A65DC2DAE281F1E0B11",
+      "coupon_code": "8A65DC2DAE281F1E0B11",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=2NDFEB&ra",
+      "coupon_code": "2NDFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
+      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
+    },
     {
       "url": "https://www.udemy.com/course/ai-audio-editing-masterclass-adobe-podcast-for-pro-audio/?couponCode=D0BCC0A7DBB8764A26C5",
       "coupon_code": "D0BCC0A7DBB8764A26C5",
@@ -943,12 +1023,6 @@
       "title": "Convertlink - Dein Affiliate-Marketing vollautomatisiert!"
     },
     {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=2NDFEB&ra",
-      "coupon_code": "2NDFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
-      "title": "Mental Health for the Workplace"
-    },
-    {
       "url": "https://www.udemy.com/course/podcast-online-business-digitales-marketing-mit-anchor/?couponCode=386CE65DCEDC7BB91110",
       "coupon_code": "386CE65DCEDC7BB91110",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4519404_a82c_2.jpg",
@@ -1027,28 +1101,10 @@
       "title": "Visualization Techniques for Decision Makers and Leaders"
     },
     {
-      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=2NDFEB&ra",
-      "coupon_code": "2NDFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
-      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
-    },
-    {
-      "url": "https://www.udemy.com/course/investing-in-africa-key-factors-for-investors-to-consider/?couponCode=2NDFEB&ra",
-      "coupon_code": "2NDFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4822268_0c4d_2.jpg",
-      "title": "Investing in Africa - Key factors for Investors to consider"
-    },
-    {
       "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=2NDFEB&ra",
       "coupon_code": "2NDFEB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6210279_19fd.jpg",
       "title": "Managing Social Anxiety in the Workplace"
-    },
-    {
-      "url": "https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=2NDFEB&ra",
-      "coupon_code": "2NDFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4785722_1b39_5.jpg",
-      "title": "Strategic Partnerships and Collaborations"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=2NDFEB",
