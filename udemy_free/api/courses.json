@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-02-07T02:40:19Z",
-  "count": 961,
+  "updated_at": "2026-02-07T04:44:03Z",
+  "count": 972,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=D5C595E9E9C74E0761A9",
+      "coupon_code": "D5C595E9E9C74E0761A9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-engineering-management/?couponCode=ED2B4A251C587F72FA25",
+      "coupon_code": "ED2B4A251C587F72FA25",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-strategic-management/?couponCode=51297ACFB6AFF9C5F081",
+      "coupon_code": "51297ACFB6AFF9C5F081",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-ads-masterclass-2021-all-campaign-creations/?couponCode=89ED7ABDCA5F0490E128",
+      "coupon_code": "89ED7ABDCA5F0490E128",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-and-php-programming-complete-course/?couponCode=F512D35C7E7431964872",
+      "coupon_code": "F512D35C7E7431964872",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/linkedin-ads-masterclass-2023-all-campaigns-features/?couponCode=5D9745CFC2DB979A3FBF",
+      "coupon_code": "5D9745CFC2DB979A3FBF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=C0C31AC9A552AD6EF1E2",
+      "coupon_code": "C0C31AC9A552AD6EF1E2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-power-automate-desktop-course-zero-to-expert-2/?couponCode=FEB2026",
+      "coupon_code": "FEB2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-word-google-docs-master-document-creation/?couponCode=8822EECCBDEBC595C0D6",
+      "coupon_code": "8822EECCBDEBC595C0D6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-automate-desktop-course-intelligent-automation/?couponCode=FEB2026",
+      "coupon_code": "FEB2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-office-administration-management/?couponCode=E171AE5D8F7CDF053932",
+      "coupon_code": "E171AE5D8F7CDF053932",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-framework-and-html-5-complete-course-2022/?couponCode=30E0AD5C94699E6F120D",
+      "coupon_code": "30E0AD5C94699E6F120D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/salesforce-lwc-lightning-web-component-with-live-project/?couponCode=84CB0DBE7857B1E637E3",
+      "coupon_code": "84CB0DBE7857B1E637E3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-marketing-mastery-2025-9-social-ad-platforms/?couponCode=AF296C1C3AD3189967CC",
+      "coupon_code": "AF296C1C3AD3189967CC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-bootcamp/?couponCode=8A584007F13D525C3C44",
+      "coupon_code": "8A584007F13D525C3C44",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/capcut-for-social-media-video-editing-beginner-to-pro/?couponCode=E08B6CEEC623E91BBD04",
       "coupon_code": "E08B6CEEC623E91BBD04",
@@ -30,7 +105,8 @@
     {
       "url": "https://www.udemy.com/course/how-to-become-a-successful-software-programming-developer/?couponCode=09E254877EFA2486B982",
       "coupon_code": "09E254877EFA2486B982",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5619030_e742_4.jpg",
+      "title": "Become a Successful Software Programming Developer/ Engineer"
     },
     {
       "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=7DAE65D7A29695FB2A0F",
@@ -55,26 +131,6 @@
     {
       "url": "https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/?couponCode=A62C3A88DB7209D90FB1",
       "coupon_code": "A62C3A88DB7209D90FB1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=C0C31AC9A552AD6EF1E2",
-      "coupon_code": "C0C31AC9A552AD6EF1E2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-word-google-docs-master-document-creation/?couponCode=8822EECCBDEBC595C0D6",
-      "coupon_code": "8822EECCBDEBC595C0D6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-office-administration-management/?couponCode=E171AE5D8F7CDF053932",
-      "coupon_code": "E171AE5D8F7CDF053932",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-bootcamp/?couponCode=8A584007F13D525C3C44",
-      "coupon_code": "8A584007F13D525C3C44",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
