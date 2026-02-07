@@ -1,106 +1,216 @@
 {
-  "updated_at": "2026-02-07T04:44:03Z",
-  "count": 972,
+  "updated_at": "2026-02-07T05:50:18Z",
+  "count": 987,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/base44-mastery-build-enterprise-ai-workflow-automations/?couponCode=242DACABE3BA249F0A73",
+      "coupon_code": "242DACABE3BA249F0A73",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6963785_2e60_2.jpg",
+      "title": "Base44 Mastery: Build Enterprise AI Workflow Automations"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-product-management-deliverable-portfolio-using-chatgpt-o/?couponCode=B804E650869C6B0B2D75",
+      "coupon_code": "B804E650869C6B0B2D75",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6964353_98a7.jpg",
+      "title": "Build Product Management deliverable portfolio using ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-programming-made-easy-from-basics-to-advanced-concepts/?couponCode=11ACDDF606AFA8D87918",
+      "coupon_code": "11ACDDF606AFA8D87918",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849531_3ff3_2.jpg",
+      "title": "C++ Programming Made Easy: From Basics to Advanced Concepts"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-programming-masterclass-build-your-programming-foundation/?couponCode=9496F79F513CA51D57ED",
+      "coupon_code": "9496F79F513CA51D57ED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849391_3cee_2.jpg",
+      "title": "C Programming Masterclass: Build Your Programming Foundation"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-excel-vba-macros-automate-daily-tasks-in-minutes/?couponCode=2896803605D07410EB6C",
+      "coupon_code": "2896803605D07410EB6C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6848943_65c3.jpg",
+      "title": "Hands On Excel VBA Macros: Automate Daily Tasks in Minutes"
+    },
+    {
+      "url": "https://www.udemy.com/course/interview-cv-mastery-from-cv-to-job-offer/?couponCode=BCEEF24C3AC345343CE5",
+      "coupon_code": "BCEEF24C3AC345343CE5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742531_14be.jpg",
+      "title": "Interview & CV Mastery: From CV to Job Offer"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-con-ia-en-10-dias-de-cero-a-proyectos-reales/?couponCode=BE69E60419A6C063F98C",
+      "coupon_code": "BE69E60419A6C063F98C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6789307_dd86_2.jpg",
+      "title": "JavaScript con IA en 10 Días: De Cero a Proyectos Reales"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-to-draw-complete-drawing-course/?couponCode=DRAW-FREE-FEB26",
+      "coupon_code": "DRAW-FREE-FEB26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6781643_b0f2_2.jpg",
+      "title": "Learn to Draw with Photoshop - Complete Drawing Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-2d-character-animation-in-adobe-animate-advance-level/?couponCode=ANIMATE2-FREE-FEB26",
+      "coupon_code": "ANIMATE2-FREE-FEB26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6669709_ff54.jpg",
+      "title": "Master 2D Character Animation in Adobe Animate-Advance Level"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-2d-animation-in-adobe-animate-basic-to-advance/?couponCode=ANIMATE-FREE-FEB26",
+      "coupon_code": "ANIMATE-FREE-FEB26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5928726_1b97_7.jpg",
+      "title": "Mastering 2D Animation in Adobe Animate (Basic to Advance)"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-graphic-design-with-canva/?couponCode=CANVA-FREE-FEB26",
+      "coupon_code": "CANVA-FREE-FEB26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6234303_e6f8_2.jpg",
+      "title": "Mastering Graphic Design with Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-complete-guide-build-interactive-web-applications/?couponCode=9FA5E5D70FEA9E353D3A",
+      "coupon_code": "9FA5E5D70FEA9E353D3A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849329_133a.jpg",
+      "title": "React.js Complete Guide: Build Interactive Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-cv-writing-tailoring-masterclass/?couponCode=69F44040B92442D1BB05",
+      "coupon_code": "69F44040B92442D1BB05",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6739873_c4c3.jpg",
+      "title": "The Complete CV Writing & Tailoring Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-magic-in-science/?couponCode=MIS-FREE-FEB26",
+      "coupon_code": "MIS-FREE-FEB26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/411920_339f_7.jpg",
+      "title": "The Magic in Science (Experiments for School Children)"
+    },
+    {
+      "url": "https://www.udemy.com/course/visual-effects-with-adobe-animate/?couponCode=VFX-FREE-FEB26",
+      "coupon_code": "VFX-FREE-FEB26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3375578_ac9d_2.jpg",
+      "title": "Mastering Visual Effects in Adobe Animate-Intermediate Level"
+    },
     {
       "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=D5C595E9E9C74E0761A9",
       "coupon_code": "D5C595E9E9C74E0761A9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5049552_545e.jpg",
+      "title": "C++ And PHP Complete Course for C++ and PHP Beginners"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-engineering-management/?couponCode=ED2B4A251C587F72FA25",
       "coupon_code": "ED2B4A251C587F72FA25",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916698_7788.jpg",
+      "title": "Executive Diploma in Engineering Management"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-strategic-management/?couponCode=51297ACFB6AFF9C5F081",
       "coupon_code": "51297ACFB6AFF9C5F081",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916746_5964.jpg",
+      "title": "Executive Diploma in Strategic Management"
     },
     {
       "url": "https://www.udemy.com/course/google-ads-masterclass-2021-all-campaign-creations/?couponCode=89ED7ABDCA5F0490E128",
       "coupon_code": "89ED7ABDCA5F0490E128",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4069002_ce90_3.jpg",
+      "title": "Google Ads MasterClass 2026 - All Campaign Builds & Features"
     },
     {
       "url": "https://www.udemy.com/course/javascript-and-php-programming-complete-course/?couponCode=F512D35C7E7431964872",
       "coupon_code": "F512D35C7E7431964872",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4551820_b8ca.jpg",
+      "title": "JavaScript And PHP Programming Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/linkedin-ads-masterclass-2023-all-campaigns-features/?couponCode=5D9745CFC2DB979A3FBF",
       "coupon_code": "5D9745CFC2DB979A3FBF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5104122_3f39_3.jpg",
+      "title": "LinkedIn Ads MasterClass 2026 - All Campaigns & Features"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=C0C31AC9A552AD6EF1E2",
       "coupon_code": "C0C31AC9A552AD6EF1E2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg",
+      "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-power-automate-desktop-course-zero-to-expert-2/?couponCode=FEB2026",
       "coupon_code": "FEB2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4113334_ae3b_4.jpg",
+      "title": "Microsoft Power Automate Desktop - Zero to Expert : Part 2"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-word-google-docs-master-document-creation/?couponCode=8822EECCBDEBC595C0D6",
       "coupon_code": "8822EECCBDEBC595C0D6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6134697_df2d_3.jpg",
+      "title": "Microsoft Word & Google Docs: Master Document Creation"
     },
     {
       "url": "https://www.udemy.com/course/power-automate-desktop-course-intelligent-automation/?couponCode=FEB2026",
       "coupon_code": "FEB2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4249192_4d74_7.jpg",
+      "title": "Microsoft Power Automate Desktop : Intelligent Automation"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-office-administration-management/?couponCode=E171AE5D8F7CDF053932",
       "coupon_code": "E171AE5D8F7CDF053932",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916556_daf2.jpg",
+      "title": "Professional Certificate in Office Administration Management"
     },
     {
       "url": "https://www.udemy.com/course/python-and-django-framework-and-html-5-complete-course-2022/?couponCode=30E0AD5C94699E6F120D",
       "coupon_code": "30E0AD5C94699E6F120D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4972370_1c04.jpg",
+      "title": "Python And Django Framework And HTML 5 Stack Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/salesforce-lwc-lightning-web-component-with-live-project/?couponCode=84CB0DBE7857B1E637E3",
       "coupon_code": "84CB0DBE7857B1E637E3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5629280_1f9c.jpg",
+      "title": "Salesforce LWC (Lightning Web Component) with Live Project"
     },
     {
       "url": "https://www.udemy.com/course/social-media-marketing-mastery-2025-9-social-ad-platforms/?couponCode=AF296C1C3AD3189967CC",
       "coupon_code": "AF296C1C3AD3189967CC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6634739_49f7.jpg",
+      "title": "Social Media Marketing MASTERY 2026 + 9 Social Ad Platforms!"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-bootcamp/?couponCode=8A584007F13D525C3C44",
       "coupon_code": "8A584007F13D525C3C44",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6141449_679d_4.jpg",
+      "title": "The Complete Microsoft Excel Data Analysis Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/capcut-for-social-media-video-editing-beginner-to-pro/?couponCode=E08B6CEEC623E91BBD04",
       "coupon_code": "E08B6CEEC623E91BBD04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6070501_477e_2.jpg",
+      "title": "Capcut for Social Media Video Editing | Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-digital-strategy/?couponCode=3A51BADCCA06E88E2938",
       "coupon_code": "3A51BADCCA06E88E2938",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5025626_2094_2.jpg",
+      "title": "Master in Digital Transformation Strategy & Digitalization"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=ED702C36C3DB1AB72C57",
       "coupon_code": "ED702C36C3DB1AB72C57",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4374892_4094_6.jpg",
+      "title": "Master in End to End Solutions Design and Development"
     },
     {
       "url": "https://www.udemy.com/course/google-slides-full-guide-to-creating-impactful-presentation/?couponCode=15E3D5AD3CC95270E8CA",
       "coupon_code": "15E3D5AD3CC95270E8CA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6126889_f56f_3.jpg",
+      "title": "Google Slides: Full Guide to Creating Impactful Presentation"
     },
     {
       "url": "https://www.udemy.com/course/how-to-become-a-successful-it-product-manager-product-mgmt/?couponCode=81678D885AF9845094D9",
       "coupon_code": "81678D885AF9845094D9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5556034_89bf_3.jpg",
+      "title": "Master in Tech Product Management (IT)"
     },
     {
       "url": "https://www.udemy.com/course/how-to-become-a-successful-software-programming-developer/?couponCode=09E254877EFA2486B982",
@@ -111,27 +221,32 @@
     {
       "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=7DAE65D7A29695FB2A0F",
       "coupon_code": "7DAE65D7A29695FB2A0F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4492974_5673_3.jpg",
+      "title": "Master in Product Design, Development and Prototyping"
     },
     {
       "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=72F6435A3F2E2957EE41",
       "coupon_code": "72F6435A3F2E2957EE41",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5977824_a024.jpg",
+      "title": "Master Business Analysis to become a Business Analyst"
     },
     {
       "url": "https://www.udemy.com/course/master-in-business-analytics/?couponCode=E7F9E690E48CB1FE747F",
       "coupon_code": "E7F9E690E48CB1FE747F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6323705_6a4b.jpg",
+      "title": "Master in Business Analytics for Business Analyst"
     },
     {
       "url": "https://www.udemy.com/course/master-in-data-analysis-and-analytics/?couponCode=E9286188FBDD95113232",
       "coupon_code": "E9286188FBDD95113232",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6528665_59f5.jpg",
+      "title": "Master in Data Analysis and Analytics"
     },
     {
       "url": "https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/?couponCode=A62C3A88DB7209D90FB1",
       "coupon_code": "A62C3A88DB7209D90FB1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6085431_4a5c.jpg",
+      "title": "Master in Generative AI (Artificial Intelligence) (Gen AI)"
     },
     {
       "url": "https://www.udemy.com/course/communication-skills-acquire-effective-communication/?couponCode=C285A1F2DF44D9CFEDB3",
