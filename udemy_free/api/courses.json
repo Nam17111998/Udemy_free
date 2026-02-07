@@ -1,15 +1,91 @@
 {
-  "updated_at": "2026-02-07T22:34:44Z",
-  "count": 901,
+  "updated_at": "2026-02-07T23:37:42Z",
+  "count": 908,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/ai-artificial-intelligence-and-machine-learning-in-arabic/?couponCode=D124D757D95967C8915B",
-      "coupon_code": "D124D757D95967C8915B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/ceo-chief-executive-officer-program/?couponCode=1C62309CE218F71F55F4",
       "coupon_code": "1C62309CE218F71F55F4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=2438443299AD06470068",
+      "coupon_code": "2438443299AD06470068",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/developing-data-science-projects-with-google-colab/?couponCode=B247EAC18D2628966350",
+      "coupon_code": "B247EAC18D2628966350",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=816C3DBA007B59F9C4DD",
+      "coupon_code": "816C3DBA007B59F9C4DD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=322A17EE8CE501C32B49",
+      "coupon_code": "322A17EE8CE501C32B49",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-fpga-design-with-vhdl-simulation/?couponCode=BAC37FD611EE16E49F21",
+      "coupon_code": "BAC37FD611EE16E49F21",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6833415_c20e.jpg",
+      "title": "Learn FPGA Design with VHDL: Digital Logic & Simulation"
+    },
+    {
+      "url": "https://www.udemy.com/course/llms-foundations-tokenization-and-word-embeddings-models/?couponCode=09DF3B3DD5FDDBE5861B",
+      "coupon_code": "09DF3B3DD5FDDBE5861B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-de-champion/?couponCode=3F57326A21168072D8C9",
+      "coupon_code": "3F57326A21168072D8C9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6840037_3e21.jpg",
+      "title": "Mental de Champion transformer tes problèmes en opportunités"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-product-development-and-management/?couponCode=B12D8053E3EDB6FC9EF3",
+      "coupon_code": "B12D8053E3EDB6FC9EF3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5939650_b075_2.jpg",
+      "title": "Advanced Program in Product Development and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/navigating-the-crypto-universe-and-blockchain/?couponCode=BB55549B2337BDF7635D",
+      "coupon_code": "BB55549B2337BDF7635D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5942956_65e5_2.jpg",
+      "title": "Navigating the Crypto Universe"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-customer-centricity-and-design-thinking/?couponCode=4F73FD2AA1152AAA0D09",
+      "coupon_code": "4F73FD2AA1152AAA0D09",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5942356_9e8f.jpg",
+      "title": "Professional Diploma: Customer Centricity & Design Thinking"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=4B6C731703462B2D6C1E",
+      "coupon_code": "4B6C731703462B2D6C1E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/scientific-python-deep-learning-masterclass/?couponCode=68E41A12B2C39B1ABCB6",
+      "coupon_code": "68E41A12B2C39B1ABCB6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3733272_27f8.jpg",
+      "title": "Python for Scientific Computing & Deep Learning (4 Projects)"
+    },
+    {
+      "url": "https://www.udemy.com/course/statistics-and-hypothesis-testing-for-data-science/?couponCode=8D553E862CD698BA893E",
+      "coupon_code": "8D553E862CD698BA893E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=FEDEFACFF70A1DFD5FA3",
+      "coupon_code": "FEDEFACFF70A1DFD5FA3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-artificial-intelligence-and-machine-learning-in-arabic/?couponCode=D124D757D95967C8915B",
+      "coupon_code": "D124D757D95967C8915B",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -34,51 +110,14 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/learn-fpga-design-with-vhdl-simulation/?couponCode=BAC37FD611EE16E49F21",
-      "coupon_code": "BAC37FD611EE16E49F21",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6833415_c20e.jpg",
-      "title": "Learn FPGA Design with VHDL: Digital Logic & Simulation"
-    },
-    {
       "url": "https://www.udemy.com/course/lets-learn-modern-physics/?couponCode=B34D82F16084DB556D16",
       "coupon_code": "B34D82F16084DB556D16",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4642722_5e28.jpg",
       "title": "The Modern Physics Blueprint: Learn to Think Like Physicist"
     },
     {
-      "url": "https://www.udemy.com/course/mini-mba-in-product-development-and-management/?couponCode=B12D8053E3EDB6FC9EF3",
-      "coupon_code": "B12D8053E3EDB6FC9EF3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/navigating-the-crypto-universe-and-blockchain/?couponCode=BB55549B2337BDF7635D",
-      "coupon_code": "BB55549B2337BDF7635D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/playing-with-binary/?couponCode=AB8756E0A2E77DBD8676",
       "coupon_code": "AB8756E0A2E77DBD8676",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-diploma-customer-centricity-and-design-thinking/?couponCode=4F73FD2AA1152AAA0D09",
-      "coupon_code": "4F73FD2AA1152AAA0D09",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=4B6C731703462B2D6C1E",
-      "coupon_code": "4B6C731703462B2D6C1E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/scientific-python-deep-learning-masterclass/?couponCode=68E41A12B2C39B1ABCB6",
-      "coupon_code": "68E41A12B2C39B1ABCB6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3733272_27f8.jpg",
-      "title": "Python for Scientific Computing & Deep Learning (4 Projects)"
-    },
-    {
-      "url": "https://www.udemy.com/course/statistics-and-hypothesis-testing-for-data-science/?couponCode=8D553E862CD698BA893E",
-      "coupon_code": "8D553E862CD698BA893E",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
