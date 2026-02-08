@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-02-08T20:37:13Z",
-  "count": 910,
+  "updated_at": "2026-02-08T21:35:01Z",
+  "count": 912,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/aws-bot-defense-devsecops/?couponCode=DEVSECOPSFEBRUARY02",
-      "coupon_code": "DEVSECOPSFEBRUARY02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/bank-reconciliation-from-fundamentals-to-advanced-technique/?couponCode=FF105DF2B16F633E0D65",
       "coupon_code": "FF105DF2B16F633E0D65",
@@ -23,6 +18,11 @@
       "coupon_code": "HBDRUCA",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4800918_ca46.jpg",
       "title": "Cyber Security: OS Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=CAFAC26D18DA5D13C3A2",
+      "coupon_code": "CAFAC26D18DA5D13C3A2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/ethical-supply-chain-step-by-step/?couponCode=1752541D06066F28F07E",
@@ -60,10 +60,9 @@
       "title": "Laravel ORM: Migración a MySQL, PostgreSQL, MSSQL y SQLite"
     },
     {
-      "url": "https://www.udemy.com/course/meal-planning-diet/?couponCode=25B0B6ECFF2FA070CD24",
-      "coupon_code": "25B0B6ECFF2FA070CD24",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6116231_85bb.jpg",
-      "title": "Meal Planning & Diet Tips for Weight Loss"
+      "url": "https://www.udemy.com/course/professional-certificate-in-financial-analysis/?couponCode=25204DAB8698F2C1CFB3",
+      "coupon_code": "25204DAB8698F2C1CFB3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-regulatory-compliance-in-finance/?couponCode=1B3246B04CD5D7A423A1",
@@ -89,6 +88,17 @@
       "title": "Supporting Autism & Dyslexia in Early Childhood Education"
     },
     {
+      "url": "https://www.udemy.com/course/aws-bot-defense-devsecops/?couponCode=DEVSECOPSFEBRUARY02",
+      "coupon_code": "DEVSECOPSFEBRUARY02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/meal-planning-diet/?couponCode=25B0B6ECFF2FA070CD24",
+      "coupon_code": "25B0B6ECFF2FA070CD24",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6116231_85bb.jpg",
+      "title": "Meal Planning & Diet Tips for Weight Loss"
+    },
+    {
       "url": "https://www.udemy.com/course/computer-course-hardware-and-software-skills-part-1/?couponCode=HELPINGHANDS",
       "coupon_code": "HELPINGHANDS",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -96,7 +106,8 @@
     {
       "url": "https://www.udemy.com/course/complete-parenting-skills-to-raise-amazing-kids/?couponCode=72FAE7C548E80E905396",
       "coupon_code": "72FAE7C548E80E905396",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7039845_c319.jpg",
+      "title": "Complete Parenting Skills to Raise Amazing Kids"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-business-and-data-analysis/?couponCode=AC719C0B62E05782703D",
@@ -585,7 +596,8 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-career-coaching/?couponCode=31313FC4C9873BF2F925",
       "coupon_code": "31313FC4C9873BF2F925",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5952512_8382.jpg",
+      "title": "Professional Certificate in Career Coaching"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-coaching/?couponCode=51BA692258566E518A05",
