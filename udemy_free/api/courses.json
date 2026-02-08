@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-08T19:32:06Z",
-  "count": 909,
+  "updated_at": "2026-02-08T20:37:13Z",
+  "count": 910,
   "courses": [
     {
       "url": "https://www.udemy.com/course/aws-bot-defense-devsecops/?couponCode=DEVSECOPSFEBRUARY02",
@@ -13,30 +13,33 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/computer-course-hardware-and-software-skills-part-1/?couponCode=HELPINGHANDS",
-      "coupon_code": "HELPINGHANDS",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/cyber-security-anti-virus/?couponCode=HBDRUCA",
       "coupon_code": "HBDRUCA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4801944_235e.jpg",
+      "title": "Cyber Security: Anti-Virus"
     },
     {
       "url": "https://www.udemy.com/course/cyber-security-os-security/?couponCode=HBDRUCA",
       "coupon_code": "HBDRUCA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4800918_ca46.jpg",
+      "title": "Cyber Security: OS Security"
     },
     {
       "url": "https://www.udemy.com/course/ethical-supply-chain-step-by-step/?couponCode=1752541D06066F28F07E",
       "coupon_code": "1752541D06066F28F07E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6896505_9063.jpg",
+      "title": "Ethical Supply Chain Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/financial-accounting-bookkeeping-beginners-to-advanced/?couponCode=47F55BDFB69D98CFCB52",
       "coupon_code": "47F55BDFB69D98CFCB52",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6414849_6356_2.jpg",
       "title": "Financial Accounting & Bookkeeping: Beginners to Advanced."
+    },
+    {
+      "url": "https://www.udemy.com/course/global-wealth-management-account-opening-onboarding-kyc/?couponCode=1519E30C9350AD6018CB",
+      "coupon_code": "1519E30C9350AD6018CB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/high-rise-building-rooftop-pool-design-in-protastructure/?couponCode=E5D369A53B749D09F1B8",
@@ -84,6 +87,11 @@
       "coupon_code": "36D6402ABB5F552C2373",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6697149_a02e.jpg",
       "title": "Supporting Autism & Dyslexia in Early Childhood Education"
+    },
+    {
+      "url": "https://www.udemy.com/course/computer-course-hardware-and-software-skills-part-1/?couponCode=HELPINGHANDS",
+      "coupon_code": "HELPINGHANDS",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/complete-parenting-skills-to-raise-amazing-kids/?couponCode=72FAE7C548E80E905396",
@@ -529,12 +537,14 @@
     {
       "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=2438443299AD06470068",
       "coupon_code": "2438443299AD06470068",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753061_5882.jpg",
+      "title": "Comment Avoir Une Belle Vie"
     },
     {
       "url": "https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=A025A41B50BDC2BDDD2B",
       "coupon_code": "A025A41B50BDC2BDDD2B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4435576_a1dc.jpg",
+      "title": "CSS, Bootstrap, JavaScript And PHP Stack Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/cyber-security-and-ethical-hacking/?couponCode=481CC1E3CED2B28679F2",
@@ -557,7 +567,8 @@
     {
       "url": "https://www.udemy.com/course/java-and-php-complete-course/?couponCode=74B2DB684FD7C0BF6DB9",
       "coupon_code": "74B2DB684FD7C0BF6DB9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5025724_f9f4.jpg",
+      "title": "Java And PHP Complete Course For Java And PHP Beginners"
     },
     {
       "url": "https://www.udemy.com/course/master-11-ad-platforms-2025-the-ultimate-paid-ads-course/?couponCode=5591D2D06EB802DCF2DF",
