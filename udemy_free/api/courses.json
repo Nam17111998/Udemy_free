@@ -1,17 +1,87 @@
 {
-  "updated_at": "2026-02-09T02:52:26Z",
-  "count": 931,
+  "updated_at": "2026-02-09T05:08:01Z",
+  "count": 945,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/all-you-need-to-know-react-with-practical-project/?couponCode=CB46BBD8E7E0C4CCE8E4",
+      "coupon_code": "CB46BBD8E7E0C4CCE8E4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english/?couponCode=REALDISFEB26",
+      "coupon_code": "REALDISFEB26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=FB5455639E2F94108102",
+      "coupon_code": "FB5455639E2F94108102",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-sheets-the-complete-google-sheets-course/?couponCode=F4FF0A5DFB824124CB44",
+      "coupon_code": "F4FF0A5DFB824124CB44",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-english-with-ai-improve-fluency-fast-using-chatgpt/?couponCode=EB084D0E6FEF8CC10C8C",
+      "coupon_code": "EB084D0E6FEF8CC10C8C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-google-docs-complete-google-docs-course/?couponCode=7A525424EB3103825A06",
+      "coupon_code": "7A525424EB3103825A06",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-powerpoint-create-stunning-presentation/?couponCode=15550AB0D7010EC703D8",
+      "coupon_code": "15550AB0D7010EC703D8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-the-pivot-table-masterclass/?couponCode=EE6949F2F3C3FF789999",
+      "coupon_code": "EE6949F2F3C3FF789999",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/?couponCode=F167D3B14AB4E9369731",
+      "coupon_code": "F167D3B14AB4E9369731",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-bootcamp-the-complete-programming-course-with-mysql/?couponCode=B29A89E6E6F603976AD5",
+      "coupon_code": "B29A89E6E6F603976AD5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgresql-bootcamp-complete-beginner-to-advanced-course/?couponCode=CAC49F7390E64BFAC035",
+      "coupon_code": "CAC49F7390E64BFAC035",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-project-management/?couponCode=F4F3816294A4FF9FB280",
+      "coupon_code": "F4F3816294A4FF9FB280",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-build-and-deploy-your-own-applications/?couponCode=D6A004337CAAB6B04175",
+      "coupon_code": "D6A004337CAAB6B04175",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-javascript-developer-learn-modern-javascript/?couponCode=E4DFE89987638A9CA6B1",
+      "coupon_code": "E4DFE89987638A9CA6B1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/word-stress-of-american-english/?couponCode=REALDISCFEB26",
+      "coupon_code": "REALDISCFEB26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=FEBFREE02",
       "coupon_code": "FEBFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6496525_b818_3.jpg",
       "title": "AI & Python Development Megaclass - 300+ Hands-on Projects"
-    },
-    {
-      "url": "https://www.udemy.com/course/all-you-need-to-know-react-with-practical-project/?couponCode=CB46BBD8E7E0C4CCE8E4",
-      "coupon_code": "CB46BBD8E7E0C4CCE8E4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=FEBFREE02",
@@ -36,7 +106,8 @@
     {
       "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=FEBFREE02",
       "coupon_code": "FEBFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
     },
     {
       "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=FEBFREE02",
@@ -76,7 +147,8 @@
     {
       "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=FEBFREE02",
       "coupon_code": "FEBFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
     },
     {
       "url": "https://www.udemy.com/course/break-the-chains-from-broken-to-boundless-full-course/?couponCode=A177B427630923906D8D",
