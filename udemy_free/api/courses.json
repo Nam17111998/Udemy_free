@@ -1,7 +1,86 @@
 {
-  "updated_at": "2026-02-09T07:15:25Z",
-  "count": 960,
+  "updated_at": "2026-02-09T09:03:16Z",
+  "count": 975,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-everyone-design-like-a-pro/?couponCode=7E843D08BF5E043A35EB",
+      "coupon_code": "7E843D08BF5E043A35EB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/beginner-guide-to-learn-t-shirt-design-with-photoshop/?couponCode=95737DDDFF3ABA2FC35C",
+      "coupon_code": "95737DDDFF3ABA2FC35C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificado-profissional-em-gestao-de-projetos/?couponCode=D96A5AA3063DC0ED07C2",
+      "coupon_code": "D96A5AA3063DC0ED07C2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-google-certified-educator-level-1-masterclass/?couponCode=BFD0B414751FC28F0E3F",
+      "coupon_code": "BFD0B414751FC28F0E3F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-google-slides-course-create-stunning-slides/?couponCode=83F6AA6355740558EBF2",
+      "coupon_code": "83F6AA6355740558EBF2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3349434_aebe_2.jpg",
+      "title": "Complete Google Slides Course - Create Stunning Slides"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-positive-psychology-course-master-positive-thinking/?couponCode=372423F2BE13FBCBCEB1",
+      "coupon_code": "372423F2BE13FBCBCEB1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3469490_07e6_3.jpg",
+      "title": "Complete Positive Psychology Course Master Positive Thinking"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-canva-for-graphics-design-to-boost-productivity/?couponCode=38ED8E2170A494969263",
+      "coupon_code": "38ED8E2170A494969263",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5712636_b2e1_2.jpg",
+      "title": "Essential Canva for Graphics Design to Boost Productivity"
+    },
+    {
+      "url": "https://www.udemy.com/course/figma-essential-for-user-interface-and-user-experience-ui-ux/?couponCode=D42CEF78E107A326CFA8",
+      "coupon_code": "D42CEF78E107A326CFA8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641704_bd3b.jpg",
+      "title": "Figma Essential for User Interface and User Experience UI UX"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-advanced-excel-formulas-functions-vba-macros/?couponCode=EB01B60A8C6EDCC53758",
+      "coupon_code": "EB01B60A8C6EDCC53758",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=E74BA3201300E8A8D699",
+      "coupon_code": "E74BA3201300E8A8D699",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-presentation-mckinsey/?couponCode=B9EC53C979559015C9F2",
+      "coupon_code": "B9EC53C979559015C9F2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=7603E9BA2700D1E6B42C",
+      "coupon_code": "7603E9BA2700D1E6B42C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-google-sheets-course-google-spreadsheet-tips/?couponCode=5D4A71B3D06F5C01C578",
+      "coupon_code": "5D4A71B3D06F5C01C578",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-mysql-crash-course-2021/?couponCode=MYSQLCOURSE115",
+      "coupon_code": "MYSQLCOURSE115",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/unlock-excels-power-essential-ms-excel-skills-for-success/?couponCode=915BEFC96418160DA905",
+      "coupon_code": "915BEFC96418160DA905",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-models-mastery-chatgpt-gemini-and-deepseek/?couponCode=30805A86292F11DD193B",
       "coupon_code": "30805A86292F11DD193B",
@@ -15,7 +94,8 @@
     {
       "url": "https://www.udemy.com/course/complete-sql-course-become-an-expert-in-database-management/?couponCode=5EF2E08650504BF92625",
       "coupon_code": "5EF2E08650504BF92625",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017263_42ab.jpg",
+      "title": "Complete SQL Course: Become an Expert in Database Management"
     },
     {
       "url": "https://www.udemy.com/course/gemini-ai-complete-guide-to-googles-powerful-ai/?couponCode=366BF3EDC41C0CBEE49A",
@@ -40,7 +120,8 @@
     {
       "url": "https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/?couponCode=1F42C2C9F444649EAE01",
       "coupon_code": "1F42C2C9F444649EAE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6104625_e7a4_2.jpg",
+      "title": "Master of Essential C++ Programming Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=E3E0AF1962809D655DBF",
@@ -101,7 +182,8 @@
     {
       "url": "https://www.udemy.com/course/master-english-with-ai-improve-fluency-fast-using-chatgpt/?couponCode=EB084D0E6FEF8CC10C8C",
       "coupon_code": "EB084D0E6FEF8CC10C8C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6958569_ca07_2.jpg",
+      "title": "Master English with AI: Improve Fluency Fast Using ChatGPT"
     },
     {
       "url": "https://www.udemy.com/course/mastering-google-docs-complete-google-docs-course/?couponCode=7A525424EB3103825A06",
@@ -178,7 +260,8 @@
     {
       "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=FEBFREE02",
       "coupon_code": "FEBFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
+      "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
     },
     {
       "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=FEBFREE02",
@@ -214,7 +297,8 @@
     {
       "url": "https://www.udemy.com/course/ncp-aii-nvidia-certified-professional-ai-infrastructure/?couponCode=FEBFREE02",
       "coupon_code": "FEBFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583073_4e3b_4.jpg",
+      "title": "SoAI-Certified Professional: AI Infrastructure (NCP-AII)"
     },
     {
       "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=FEBFREE02",
