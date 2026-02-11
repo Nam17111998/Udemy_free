@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-11T21:39:39Z",
-  "count": 989,
+  "updated_at": "2026-02-11T22:37:46Z",
+  "count": 990,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adapting-to-global-disruptions-in-operations-a/?couponCode=07D5190D3FA78984CEF4",
@@ -23,7 +23,14 @@
     {
       "url": "https://www.udemy.com/course/decision-making-psychology-emotional-intelligence/?couponCode=FFE17E57F3DABB56A9E1",
       "coupon_code": "FFE17E57F3DABB56A9E1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802433_3851.jpg",
+      "title": "Decision Making Psychology & Emotional Intelligence"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-transformation-in-hr-leveraging-ai-analytics/?couponCode=DAAA2F00F16270393592",
+      "coupon_code": "DAAA2F00F16270393592",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6814631_985b_2.jpg",
+      "title": "Digital Transformation in HR: Leveraging AI & Analytics"
     },
     {
       "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_179",
@@ -74,12 +81,6 @@
       "title": "Python for GIS Automation and Geospatial Applications"
     },
     {
-      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_184",
-      "coupon_code": "AR_FREE_184",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
-      "title": "Python for Scientific Research"
-    },
-    {
       "url": "https://www.udemy.com/course/statistics-for-data-science-business-analysis-with-python/?couponCode=B497ACBFC3A162F8E25A",
       "coupon_code": "B497ACBFC3A162F8E25A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6746065_700b_3.jpg",
@@ -90,6 +91,12 @@
       "coupon_code": "758B6BCF203D0E567A5A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6578825_3df0.jpg",
       "title": "The Complete Contracts and Suppliers Management Master Class"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_184",
+      "coupon_code": "AR_FREE_184",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
+      "title": "Python for Scientific Research"
     },
     {
       "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_185",
