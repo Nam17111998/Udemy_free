@@ -1,81 +1,186 @@
 {
-  "updated_at": "2026-02-12T02:54:28Z",
-  "count": 906,
+  "updated_at": "2026-02-12T05:04:50Z",
+  "count": 921,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-certified-scrum-master/?couponCode=383F95A7546FF88C782C",
+      "coupon_code": "383F95A7546FF88C782C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5946070_1233_3.jpg",
+      "title": "Scrum Master Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-coach-certification-aec/?couponCode=8F9816AA7C51A4A7AA60",
+      "coupon_code": "8F9816AA7C51A4A7AA60",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255517_cc6a.jpg",
+      "title": "Agile Coach Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-trainer-certification-aec/?couponCode=97B74E23ED0879CE81D4",
+      "coupon_code": "97B74E23ED0879CE81D4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255535_1667.jpg",
+      "title": "Agile Trainer Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-business-analysts/?couponCode=2C891530071869934193",
+      "coupon_code": "2C891530071869934193",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6815115_4190.jpg",
+      "title": "AI for Business Analysts"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-product-management-innovation/?couponCode=BF0FFE71BEDACD796178",
+      "coupon_code": "BF0FFE71BEDACD796178",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6629477_5d18_2.jpg",
+      "title": "AI for Product Management & Innovation"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-product-management-deliverable-portfolio-using-chatgpt-o/?couponCode=E5292240B82888FFAB23",
+      "coupon_code": "E5292240B82888FFAB23",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6964353_98a7.jpg",
+      "title": "Build Product Management deliverable portfolio using ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-owners/?couponCode=3DF6E9256291AA72A4E5",
+      "coupon_code": "3DF6E9256291AA72A4E5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6466427_3465.jpg",
+      "title": "ChatGPT for Product Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-mastery-of-character-development-2025/?couponCode=46F9B77E44BB0A81E8F8",
+      "coupon_code": "46F9B77E44BB0A81E8F8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6341181_1b91_3.jpg",
+      "title": "Complete Character Development Course Online 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/interview-cv-mastery-from-cv-to-job-offer/?couponCode=F3ED9CDBB906191A1167",
+      "coupon_code": "F3ED9CDBB906191A1167",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742531_14be.jpg",
+      "title": "Interview & CV Mastery: From CV to Job Offer"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-story-structure-ai/?couponCode=979FD77EB35D618F72E6",
+      "coupon_code": "979FD77EB35D618F72E6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6341179_972b_5.jpg",
+      "title": "Complete Mastering Story Structure for Film Writing 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/presentations-with-chatgpt/?couponCode=4D2F04B4751F07FC87AC",
+      "coupon_code": "4D2F04B4751F07FC87AC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6207903_fa8d.jpg",
+      "title": "Presentations with ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-management-using-chatgpt/?couponCode=D6D039829FC9F3D14B60",
+      "coupon_code": "D6D039829FC9F3D14B60",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6466127_c985_2.jpg",
+      "title": "AI for Product Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/safe-scaled-agile-framework/?couponCode=94CEDD50C1ACD45C1136",
+      "coupon_code": "94CEDD50C1ACD45C1136",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5778316_fbd9.jpg",
+      "title": "SAFe (Scaled Agile Framework) Overview"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-cv-writing-tailoring-masterclass/?couponCode=26339A30F97FD91D10B0",
+      "coupon_code": "26339A30F97FD91D10B0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6739873_c4c3.jpg",
+      "title": "The Complete CV Writing & Tailoring Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/write-every-day-building-a-consistent-writing-habit/?couponCode=54BFDB7822EF964861B0",
+      "coupon_code": "54BFDB7822EF964861B0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6084105_62fa_2.jpg",
+      "title": "Write Every Day: Building a Consistent Writing Habit in 2026"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-interpersonal-skills-excellence/?couponCode=F7A37BA703C8C5A9FD1C",
       "coupon_code": "F7A37BA703C8C5A9FD1C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6789369_cce8_2.jpg",
+      "title": "AI for Interpersonal Skills  Excellence"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-leadership-leadership-development-excellence/?couponCode=1BECF5273D089F3D6003",
       "coupon_code": "1BECF5273D089F3D6003",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6871837_2536_2.jpg",
+      "title": "AI for Leadership & Leadership Development Excellence"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-mastering-complexity/?couponCode=27262F050AB3303A0045",
       "coupon_code": "27262F050AB3303A0045",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6922499_0e6a.jpg",
+      "title": "AI for Mastering Complexity"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-personality-development/?couponCode=BC36312064477BC7F9F8",
       "coupon_code": "BC36312064477BC7F9F8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6947251_6827_4.jpg",
+      "title": "AI for Personality Development"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-problem-solving-excellence/?couponCode=CF0ADFBB24AEB4B3B1D7",
       "coupon_code": "CF0ADFBB24AEB4B3B1D7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767201_d0f3.jpg",
+      "title": "AI for Problem Solving Skill Excellence"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-time-management-excellence/?couponCode=9CF4933D73465854F3A2",
       "coupon_code": "9CF4933D73465854F3A2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6845821_c8a2.jpg",
+      "title": "AI for Time Management Excellence"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-verbal-non-verbal-communication-excellence/?couponCode=3EA9737EDDA2E8C7FC17",
       "coupon_code": "3EA9737EDDA2E8C7FC17",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742017_64c1.jpg",
+      "title": "AI for Verbal & Non-Verbal Communication Excellence"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-midjourney-23-proven-methods-to-earn-with-ai/?couponCode=F646258D6D0135A0FC93",
       "coupon_code": "F646258D6D0135A0FC93",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6158605_c6df_2.jpg",
+      "title": "Master AI Tools in 2026: ChatGPT, Midjourney, Gemini Firefly"
     },
     {
       "url": "https://www.udemy.com/course/learn-spanish-now/?couponCode=FEB2026",
       "coupon_code": "FEB2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4067814_b5da_11.jpg",
+      "title": "Learn Spanish Now: All-in-One Knowledge Course"
     },
     {
       "url": "https://www.udemy.com/course/master-in-game-theory/?couponCode=E19B7FB7498086BE0AEB",
       "coupon_code": "E19B7FB7498086BE0AEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6031262_db9e_4.jpg",
+      "title": "Master in Game Theory"
     },
     {
       "url": "https://www.udemy.com/course/master-in-systems-thinking/?couponCode=29BFCA9EB33CC71B088A",
       "coupon_code": "29BFCA9EB33CC71B088A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5940178_c358.jpg",
+      "title": "Master in Systems Thinking"
     },
     {
       "url": "https://www.udemy.com/course/mastering-complexity/?couponCode=1EF17F581AE2DCE49D92",
       "coupon_code": "1EF17F581AE2DCE49D92",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5295094_5cf0.jpg",
+      "title": "Mastering Complexity in Problem Solving and Decision Making"
     },
     {
       "url": "https://www.udemy.com/course/operational-resilience-frameworks-for-global-disruptions/?couponCode=FD82CA74AE3924EF313C",
       "coupon_code": "FD82CA74AE3924EF313C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6929647_fc71.jpg",
+      "title": "Operational Resilience: Frameworks for Global Disruptions"
     },
     {
       "url": "https://www.udemy.com/course/personality-development-for-a-successful-management-career/?couponCode=C6C91BF88CE734DC30C0",
       "coupon_code": "C6C91BF88CE734DC30C0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5374588_92df_2.jpg",
+      "title": "Personality Development for a Successful Career and Life"
     },
     {
       "url": "https://www.udemy.com/course/python-for-beginners-course-/?couponCode=9F9E83D9D81C4754AA1D",
       "coupon_code": "9F9E83D9D81C4754AA1D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3378022_637b.jpg",
+      "title": "Python And Flask Framework Complete Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/adapting-to-global-disruptions-in-operations-a/?couponCode=07D5190D3FA78984CEF4",
@@ -98,7 +203,8 @@
     {
       "url": "https://www.udemy.com/course/certificate-in-neuromarketing-consumer-psychology/?couponCode=4BF30662A788EA133FC9",
       "coupon_code": "4BF30662A788EA133FC9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6832413_cdc2_2.jpg",
+      "title": "Certificate in Neuromarketing & Consumer Psychology"
     },
     {
       "url": "https://www.udemy.com/course/decision-making-psychology-emotional-intelligence/?couponCode=FFE17E57F3DABB56A9E1",
