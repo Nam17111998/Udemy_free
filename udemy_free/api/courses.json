@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-12T10:00:56Z",
-  "count": 959,
+  "updated_at": "2026-02-12T11:45:45Z",
+  "count": 963,
   "courses": [
     {
       "url": "https://www.udemy.com/course/all-in-one-microsoft-office-course-excel-word-powerpoint/?couponCode=0E9B251F133233163D52",
@@ -8,29 +8,33 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=12FEBRUARY2026",
-      "coupon_code": "12FEBRUARY2026",
+      "url": "https://www.udemy.com/course/corporate_management/?couponCode=EDD91A1DCB16E61533BC",
+      "coupon_code": "EDD91A1DCB16E61533BC",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=95996ACAE72825C7E753",
+      "coupon_code": "95996ACAE72825C7E753",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
     },
     {
       "url": "https://www.udemy.com/course/deepseek-ai-automate-tasks-and-write-code-effortlessly/?couponCode=074A03AB9C3BBE5CEE2C",
       "coupon_code": "074A03AB9C3BBE5CEE2C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/digital-product-owner/?couponCode=262FB75B69831F33AA69",
-      "coupon_code": "262FB75B69831F33AA69",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6835699_b190_5.jpg",
+      "title": "Deepseek AI: Automate Tasks and Write Code Effortlessly"
     },
     {
       "url": "https://www.udemy.com/course/google-analytics-certification-how-to-pass-the-exam/?couponCode=12FEBRUARY2026",
       "coupon_code": "12FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4724096_61a4_5.jpg",
+      "title": "Google Analytics 4 (GA4) Certification. How to Pass the Exam"
     },
     {
       "url": "https://www.udemy.com/course/hands-on-chatgpt-ai-build-ai-powered-tools-and-workflows/?couponCode=28C2B20B4FEA9999A07B",
       "coupon_code": "28C2B20B4FEA9999A07B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6835657_7b8a_2.jpg",
+      "title": "Hands-On ChatGPT AI: Build AI Powered Tools and Workflows"
     },
     {
       "url": "https://www.udemy.com/course/master-mongodb-cloud-based-nosql-database-management/?couponCode=7B93C18EA2C85DB5B8AA",
@@ -41,12 +45,8 @@
     {
       "url": "https://www.udemy.com/course/microsoft-excel-basic-to-advanced-ultimate-excel-mastery/?couponCode=ED30EC3DB2C1128DFC7F",
       "coupon_code": "ED30EC3DB2C1128DFC7F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-comprehensive-guide/?couponCode=8E10933B6DD837F18254",
-      "coupon_code": "8E10933B6DD837F18254",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6743735_9585_2.jpg",
+      "title": "Microsoft Excel Basic to Advanced: Ultimate Excel Mastery"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-powerpoint-blank-slide-to-powerful-presentation/?couponCode=DEB4CD9AAF4F17C17BAD",
@@ -55,49 +55,88 @@
       "title": "Microsoft PowerPoint: Blank Slide to Powerful Presentation"
     },
     {
+      "url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=46C6D380768E0DD5C2BD",
+      "coupon_code": "46C6D380768E0DD5C2BD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4740068_c1b7_2.jpg",
+      "title": "Professional Diploma in Omnichannel Sales&Service Management"
+    },
+    {
       "url": "https://www.udemy.com/course/project-managers/?couponCode=89C289610FCD6AD8E793",
       "coupon_code": "89C289610FCD6AD8E793",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4606632_2a39.jpg",
+      "title": "Professional Diploma in Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/subcontracting-process-in-sap-public-cloud/?couponCode=REPUBLIC2026",
+      "coupon_code": "REPUBLIC2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6763275_c899_5.jpg",
+      "title": "Subcontracting Process in SAP PUBLIC CLOUD"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-and-pivot-tables/?couponCode=8D2B4DC175F55AB59669",
       "coupon_code": "8D2B4DC175F55AB59669",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6740851_aabd_2.jpg",
+      "title": "The Complete Microsoft Excel Data Analysis and Pivot Tables"
     },
     {
       "url": "https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/?couponCode=8A532E165EAF6478F77E",
       "coupon_code": "8A532E165EAF6478F77E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/tiktok-marketing-course-for-beginners/?couponCode=12FEBRUARY2026",
-      "coupon_code": "12FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6758057_2d7b.jpg",
+      "title": "The Modern JavaScript Course: Build Interactive Websites"
     },
     {
       "url": "https://www.udemy.com/course/web-design-for-beginners-build-websites-in-html-css-2021/?couponCode=HTMLCSSCOURSE105",
       "coupon_code": "HTMLCSSCOURSE105",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4343040_3ac0_5.jpg",
+      "title": "Web Design for Beginners: Build Websites in HTML & CSS"
+    },
+    {
+      "url": "https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=12FEBRUARY2026",
+      "coupon_code": "12FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4154164_c02e_5.jpg",
+      "title": "AI-Powered Content Marketing: Master ChatGPT, SEO & Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-product-owner/?couponCode=262FB75B69831F33AA69",
+      "coupon_code": "262FB75B69831F33AA69",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4592914_5934.jpg",
+      "title": "Professional Diploma in Digital Products Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-comprehensive-guide/?couponCode=8E10933B6DD837F18254",
+      "coupon_code": "8E10933B6DD837F18254",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6638355_c400.jpg",
+      "title": "Microsoft Excel Formulas and Functions: Comprehensive Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/tiktok-marketing-course-for-beginners/?couponCode=12FEBRUARY2026",
+      "coupon_code": "12FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4427162_f876_2.jpg",
+      "title": "TikTok Marketing. How to promote your business effectively!"
     },
     {
       "url": "https://www.udemy.com/course/b2b-outbound-lead-generation-mastery/?couponCode=12FEBRUARY2026",
       "coupon_code": "12FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5581464_69b8.jpg",
+      "title": "B2B Outbound Lead Generation Mastery"
     },
     {
       "url": "https://www.udemy.com/course/facebook-marketing-course-for-beginners/?couponCode=12FEBRUARY2026",
       "coupon_code": "12FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4339022_5254_3.jpg",
+      "title": "Facebook Marketing 2025. Promote Your Business on Facebook!"
     },
     {
       "url": "https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=12FEBRUARY2026",
       "coupon_code": "12FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4152226_bd76_8.jpg",
+      "title": "Google Analytics 4 (GA4): Become a Web Analytics Specialist!"
     },
     {
       "url": "https://www.udemy.com/course/instagram-marketing-practical-course/?couponCode=12FEBRUARY2026",
       "coupon_code": "12FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4339012_afc0_6.jpg",
+      "title": "Instagram Marketing. How to Promote Your Business!"
     },
     {
       "url": "https://www.udemy.com/course/keyword_research/?couponCode=12FEBRUARY2026",
@@ -108,12 +147,14 @@
     {
       "url": "https://www.udemy.com/course/project-management-fundamentals-guide/?couponCode=12FEBRUARY2026",
       "coupon_code": "12FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5289624_fdf4.jpg",
+      "title": "Project Management Fundamentals: A Beginner's Guide"
     },
     {
       "url": "https://www.udemy.com/course/seo-strategy/?couponCode=12FEBRUARY2026",
       "coupon_code": "12FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4084798_d86f_8.jpg",
+      "title": "SEO Strategy 2025. SEO training to Unleash Career Potential!"
     },
     {
       "url": "https://www.udemy.com/course/wordpress-and-hosting-for-beginners/?couponCode=12FEBRUARY2026",
