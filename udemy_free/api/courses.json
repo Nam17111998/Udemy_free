@@ -1,7 +1,92 @@
 {
-  "updated_at": "2026-02-13T11:37:32Z",
-  "count": 981,
+  "updated_at": "2026-02-13T13:18:20Z",
+  "count": 992,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-enginner-2026-complete-course-gen-ai-deep-machine-llm/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-security-governance-compliance/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-real-world-applications-from-prompts-to-product/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7029869_5128.jpg",
+      "title": "ChatGPT for Real-World Applications: From Prompts to Product"
+    },
+    {
+      "url": "https://www.udemy.com/course/clawdbot-build-real-world-ai-agents-without-coding/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analysis-ai-from-data-to-intelligent-decisions-2026/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/enterprise-ai-agents-with-open-claw/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-engineer-2026-generative-ai-llms-iii/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7010895_01e9.jpg",
+      "title": "Full Stack AI Engineer 2026 - Generative AI & LLMs III"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-engineer-deep-learning-ii/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7007543_fbfc.jpg",
+      "title": "Full Stack AI Engineer 2026 - Deep Learning - II"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-github-full-russian-course/?couponCode=4CC6399FEE0305CD5735",
+      "coupon_code": "4CC6399FEE0305CD5735",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818075_dc5c_2.jpg",
+      "title": "Git + GitHub. Полный курс"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-terminal-basics-rus/?couponCode=266C7E6EE54D7FE1C360",
+      "coupon_code": "266C7E6EE54D7FE1C360",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5928220_a191_5.jpg",
+      "title": "Linux с нуля до сертификата"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-nlp-for-ai-engineers-data-scientists/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018971_c2c7.jpg",
+      "title": "Natural Language Processing, AI Engineers & Data Scientists"
+    },
+    {
+      "url": "https://www.udemy.com/course/mysql-basics-ru/?couponCode=065D7A24F581BB921A7C",
+      "coupon_code": "065D7A24F581BB921A7C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5929080_eaee_3.jpg",
+      "title": "SQL практикум для начинающих и продолжающих (полный курс)"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-management-for-ai-data-science/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7038235_1925.jpg",
+      "title": "Product Management for AI & Data Science"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-thinkers-concepts-logic-and-real-world-apps/?couponCode=FEBFREE03",
+      "coupon_code": "FEBFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7049033_f264.jpg",
+      "title": "Python for Thinkers – Concepts, Logic, and Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-basics-of-linux-command-line/?couponCode=BB65523EA8258B9CDA53",
+      "coupon_code": "BB65523EA8258B9CDA53",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4933128_80a0_3.jpg",
+      "title": "Linux Command Line: From Zero to Hero"
+    },
     {
       "url": "https://www.udemy.com/course/30-days-of-genai-mastery-elevate-your-work-life-with-ai/?couponCode=13FEBRUARY2026",
       "coupon_code": "13FEBRUARY2026",
@@ -45,28 +130,10 @@
       "title": "Fiverr Freelancing For Absolute Beginners: Basic to Advance"
     },
     {
-      "url": "https://www.udemy.com/course/git-github-full-russian-course/?couponCode=4CC6399FEE0305CD5735",
-      "coupon_code": "4CC6399FEE0305CD5735",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6818075_dc5c_2.jpg",
-      "title": "Git + GitHub. Полный курс"
-    },
-    {
       "url": "https://www.udemy.com/course/html-and-css-for-beginners-from-basic-to-advance/?couponCode=9EE16EFB635B88B2898D",
       "coupon_code": "9EE16EFB635B88B2898D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4815794_822f_3.jpg",
       "title": "HTML and CSS for Beginners From Basic to Advance"
-    },
-    {
-      "url": "https://www.udemy.com/course/linux-terminal-basics-rus/?couponCode=266C7E6EE54D7FE1C360",
-      "coupon_code": "266C7E6EE54D7FE1C360",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5928220_a191_5.jpg",
-      "title": "Linux с нуля до сертификата"
-    },
-    {
-      "url": "https://www.udemy.com/course/mysql-basics-ru/?couponCode=065D7A24F581BB921A7C",
-      "coupon_code": "065D7A24F581BB921A7C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5929080_eaee_3.jpg",
-      "title": "SQL практикум для начинающих и продолжающих (полный курс)"
     },
     {
       "url": "https://www.udemy.com/course/neuromarketing-ai-influence-consumer-behavior/?couponCode=1F10B9DBC3EE93EB183B",
@@ -79,12 +146,6 @@
       "coupon_code": "PHPJOBPORTAL86",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4924658_22e0_2.jpg",
       "title": "PHP with MySQL: Build a Complete Job Portal"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-basics-of-linux-command-line/?couponCode=BB65523EA8258B9CDA53",
-      "coupon_code": "BB65523EA8258B9CDA53",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4933128_80a0_3.jpg",
-      "title": "Linux Command Line: From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/the-beginners-guide-to-adobe-premiere-pro-edit-like-a-pro/?couponCode=5734BDB63BD834D68407",
