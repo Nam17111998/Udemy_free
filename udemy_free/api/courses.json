@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-02-13T04:59:59Z",
-  "count": 932,
+  "updated_at": "2026-02-13T06:09:37Z",
+  "count": 940,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/?couponCode=FEBFREE02",
-      "coupon_code": "FEBFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6535141_5559_4.jpg",
-      "title": "AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)"
-    },
     {
       "url": "https://www.udemy.com/course/azure-data-engineering-masters/?couponCode=C6D39EEAAF266ECFF4BB",
       "coupon_code": "C6D39EEAAF266ECFF4BB",
@@ -21,10 +15,9 @@
       "title": "Bootcamp MLOps: CI/CD para Modelos"
     },
     {
-      "url": "https://www.udemy.com/course/devops-to-mlops-bootcamp/?couponCode=FEBFREE02",
-      "coupon_code": "FEBFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6565297_6f61_3.jpg",
-      "title": "Ultimate DevOps to MLOps Bootcamp - Build ML CI/CD Pipelines"
+      "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-aec/?couponCode=B4730218D90DDAA079D3",
+      "coupon_code": "B4730218D90DDAA079D3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/devopsmlopsml/?couponCode=FEBFREE02",
@@ -33,22 +26,83 @@
       "title": "MLOpsブートキャンプ：モデルのCI/CD構築"
     },
     {
-      "url": "https://www.udemy.com/course/hr-tech-product-manager-bootcamp-for-hris-hr-techpeople/?couponCode=4E8A5877C3B0030C8FE5",
-      "coupon_code": "4E8A5877C3B0030C8FE5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7007921_ff18.jpg",
-      "title": "HR Tech Product Manager Bootcamp (for HRIS /HR Tech/People)"
-    },
-    {
       "url": "https://www.udemy.com/course/innovations/?couponCode=5FFA90853233F42E18C7",
       "coupon_code": "5FFA90853233F42E18C7",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5319702_023d.jpg",
       "title": "Executive Diploma in Innovation Management"
     },
     {
+      "url": "https://www.udemy.com/course/jquery-complete-jquery-course-from-beginner-to-advanced/?couponCode=7CF2982466047B859641",
+      "coupon_code": "7CF2982466047B859641",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/mastering-generative-ai/?couponCode=46DDAE9681098A0D732C",
       "coupon_code": "46DDAE9681098A0D732C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6156103_3445.jpg",
       "title": "Generative AI Masters 2026 - From Python to Gen AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=C168062EA8CA6226F76B",
+      "coupon_code": "C168062EA8CA6226F76B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-scrum/?couponCode=CABFF4EA9B4E43EF5B37",
+      "coupon_code": "CABFF4EA9B4E43EF5B37",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5754968_5307.jpg",
+      "title": "Professional Diploma in Agile and Scrum"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-framework-and-html-5-complete-course-2022/?couponCode=57F3F1CFCCD8C3BF25C5",
+      "coupon_code": "57F3F1CFCCD8C3BF25C5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4972370_1c04.jpg",
+      "title": "Python And Django Framework And HTML 5 Stack Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-python-bootcamp-for-beginners/?couponCode=6B165A0739EEC9EEFA6D",
+      "coupon_code": "6B165A0739EEC9EEFA6D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/smm-social-media-marketing/?couponCode=074CE088135825EE61C7",
+      "coupon_code": "074CE088135825EE61C7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5319916_04da.jpg",
+      "title": "Professional Diploma in Social Media Marketing & Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-art-of-leading-people-practical-tools-for-team-success/?couponCode=A9E56585BACDA6D8672A",
+      "coupon_code": "A9E56585BACDA6D8672A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-javascript-course-from-zero-to-expert-o/?couponCode=F83BF90535DD951CDB7B",
+      "coupon_code": "F83BF90535DD951CDB7B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-a-step-by-step-approach/?couponCode=LEARN2026",
+      "coupon_code": "LEARN2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6201007_b527_22.jpg",
+      "title": "SQL Bootcamp 2026: Learn SQL from Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/?couponCode=FEBFREE02",
+      "coupon_code": "FEBFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6535141_5559_4.jpg",
+      "title": "AI/ML Foundations for Absolute Beginners (AgenticAI + MLOps)"
+    },
+    {
+      "url": "https://www.udemy.com/course/devops-to-mlops-bootcamp/?couponCode=FEBFREE02",
+      "coupon_code": "FEBFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6565297_6f61_3.jpg",
+      "title": "Ultimate DevOps to MLOps Bootcamp - Build ML CI/CD Pipelines"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-tech-product-manager-bootcamp-for-hris-hr-techpeople/?couponCode=4E8A5877C3B0030C8FE5",
+      "coupon_code": "4E8A5877C3B0030C8FE5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7007921_ff18.jpg",
+      "title": "HR Tech Product Manager Bootcamp (for HRIS /HR Tech/People)"
     },
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-excel-data-analysis-with-functions/?couponCode=E4F7BE522FBDCE3576B4",
@@ -73,18 +127,6 @@
       "coupon_code": "CACEFC4B2A46D3035A25",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6835803_8a17_6.jpg",
       "title": "Perplexity AI: Transform Your Research and Writing Workflow"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-and-django-framework-and-html-5-complete-course-2022/?couponCode=57F3F1CFCCD8C3BF25C5",
-      "coupon_code": "57F3F1CFCCD8C3BF25C5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4972370_1c04.jpg",
-      "title": "Python And Django Framework And HTML 5 Stack Complete Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/smm-social-media-marketing/?couponCode=074CE088135825EE61C7",
-      "coupon_code": "074CE088135825EE61C7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5319916_04da.jpg",
-      "title": "Professional Diploma in Social Media Marketing & Management"
     },
     {
       "url": "https://www.udemy.com/course/ultimate_devsecops_bootcamp/?couponCode=FEBFREE02",
