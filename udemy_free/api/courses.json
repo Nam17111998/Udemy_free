@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-02-14T05:52:21Z",
-  "count": 945,
+  "updated_at": "2026-02-14T06:57:10Z",
+  "count": 950,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-course-for-graphics-design/?couponCode=F633C6B3AA9CDE2B9E37",
+      "coupon_code": "F633C6B3AA9CDE2B9E37",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-professional-photoshop-course/?couponCode=0711F9E569EA3F603C78",
+      "coupon_code": "0711F9E569EA3F603C78",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/all-you-need-to-know-nodejs-with-practical-project/?couponCode=98915D94B6B09AFB6BCC",
       "coupon_code": "98915D94B6B09AFB6BCC",
@@ -21,10 +31,25 @@
       "title": "Complete Java Programming Bootcamp: Learn to Code in Java"
     },
     {
+      "url": "https://www.udemy.com/course/complete-video-editing-course-with-motion-graphics/?couponCode=881883B16859F7CBC76C",
+      "coupon_code": "881883B16859F7CBC76C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-adobe-lightroom-course-for-photo-editing/?couponCode=4B9C3E1267DB40564430",
+      "coupon_code": "4B9C3E1267DB40564430",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/executive-diploma-in-business-management/?couponCode=0F6C1828680AA51D703D",
       "coupon_code": "0F6C1828680AA51D703D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5517586_8ec9.jpg",
       "title": "Executive Diploma in Business Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/horary-astrology-in-action-essentials/?couponCode=DISCUDEMY",
+      "coupon_code": "DISCUDEMY",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-occupational-health-and-safety-professional/?couponCode=E631B0B5BBF563FDE5D6",
@@ -37,30 +62,6 @@
       "coupon_code": "A187E72E66BF0F12A58D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5638522_57a6.jpg",
       "title": "JavaScript Fundamentals Course for Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/kotlin-mastering-complete-kotlin-web-development-course/?couponCode=5B71B0CB8D661FBCACC7",
-      "coupon_code": "5B71B0CB8D661FBCACC7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5886332_eaea_3.jpg",
-      "title": "Kotlin Mastering: Complete Kotlin Web Development Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=B5E15B0253D48F492B1E",
-      "coupon_code": "B5E15B0253D48F492B1E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5800130_dfbb.jpg",
-      "title": "Learn AngularJS Course for Beginners to Advanced"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-dynamo-in-revit-zero-to-hero-in-hindi/?couponCode=054E935A9776322AF2B0",
-      "coupon_code": "054E935A9776322AF2B0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5984942_af17_3.jpg",
-      "title": "Learn Dynamo in Revit : Zero to Hero in Hindi"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-microsoft-excel-from-zero-to-hero/?couponCode=A74AE0E3EE810A16BA2C",
-      "coupon_code": "A74AE0E3EE810A16BA2C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6003282_a2e4_4.jpg",
-      "title": "Learn Microsoft Excel : From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=0E5CE9729AD76EF1713A",
@@ -85,6 +86,30 @@
       "coupon_code": "48F38EFA530725C10AF4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6413609_d738_2.jpg",
       "title": "Mastering Parenting:  Raising Amazing and  Responsible Kids"
+    },
+    {
+      "url": "https://www.udemy.com/course/kotlin-mastering-complete-kotlin-web-development-course/?couponCode=5B71B0CB8D661FBCACC7",
+      "coupon_code": "5B71B0CB8D661FBCACC7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886332_eaea_3.jpg",
+      "title": "Kotlin Mastering: Complete Kotlin Web Development Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=B5E15B0253D48F492B1E",
+      "coupon_code": "B5E15B0253D48F492B1E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5800130_dfbb.jpg",
+      "title": "Learn AngularJS Course for Beginners to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-dynamo-in-revit-zero-to-hero-in-hindi/?couponCode=054E935A9776322AF2B0",
+      "coupon_code": "054E935A9776322AF2B0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5984942_af17_3.jpg",
+      "title": "Learn Dynamo in Revit : Zero to Hero in Hindi"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-microsoft-excel-from-zero-to-hero/?couponCode=A74AE0E3EE810A16BA2C",
+      "coupon_code": "A74AE0E3EE810A16BA2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6003282_a2e4_4.jpg",
+      "title": "Learn Microsoft Excel : From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/speak-english-fluently-master-your-real-life-communication/?couponCode=10855AB4232E6E90FF7E",
