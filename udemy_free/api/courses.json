@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-02-14T02:42:19Z",
-  "count": 923,
+  "updated_at": "2026-02-14T04:47:52Z",
+  "count": 937,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-machine-learning-for-executives-managers-leaders/?couponCode=6A7520BD657A9EBCE4CD",
+      "coupon_code": "6A7520BD657A9EBCE4CD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6549401_c9d0_2.jpg",
+      "title": "Artificial Intelligence & Machine Learning with Python 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/become-experts-in-python-by-exercises-by-projects/?couponCode=8F52DD69D89B8951C6E1",
+      "coupon_code": "8F52DD69D89B8951C6E1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6021936_e068_2.jpg",
+      "title": "Become Experts in Python | Exercises | Projects | Quiz"
+    },
+    {
+      "url": "https://www.udemy.com/course/diploma-business-strategy/?couponCode=694CF62E719FBD889758",
+      "coupon_code": "694CF62E719FBD889758",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5488012_d5b3.jpg",
+      "title": "Executive Diploma in Business Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-ads-masterclass-2023-all-campaigns-features/?couponCode=1BE1DCEE0A085600EF34",
+      "coupon_code": "1BE1DCEE0A085600EF34",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5668040_4de0.jpg",
+      "title": "Facebook Ads MasterClass 2026 - All Campaign Creations"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=FE85C089D5E49AF34DD7",
+      "coupon_code": "FE85C089D5E49AF34DD7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3972018_b05f.jpg",
+      "title": "HTML 5,Python,Flask Framework All In One Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/kotlin-mastering-complete-kotlin-web-development-course/?couponCode=5B71B0CB8D661FBCACC7",
+      "coupon_code": "5B71B0CB8D661FBCACC7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886332_eaea_3.jpg",
+      "title": "Kotlin Mastering: Complete Kotlin Web Development Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=B5E15B0253D48F492B1E",
+      "coupon_code": "B5E15B0253D48F492B1E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5800130_dfbb.jpg",
+      "title": "Learn AngularJS Course for Beginners to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-dynamo-in-revit-zero-to-hero-in-hindi/?couponCode=054E935A9776322AF2B0",
+      "coupon_code": "054E935A9776322AF2B0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5984942_af17_3.jpg",
+      "title": "Learn Dynamo in Revit : Zero to Hero in Hindi"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-microsoft-excel-from-zero-to-hero/?couponCode=A74AE0E3EE810A16BA2C",
+      "coupon_code": "A74AE0E3EE810A16BA2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6003282_a2e4_4.jpg",
+      "title": "Learn Microsoft Excel : From Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=AD9E92A5B6A39DC8CE6A",
+      "coupon_code": "AD9E92A5B6A39DC8CE6A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5000842_fcec_3.jpg",
+      "title": "Learn Salesforce (Admin + Developer) with LWC Live Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-staad-pro-from-zero-to-hero-hindi/?couponCode=D652203E5823350A63A6",
+      "coupon_code": "D652203E5823350A63A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6390589_765f.jpg",
+      "title": "Learn STAAD PRO | From Zero to Hero | Hindi"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-go-golang-build-scalable-web-applications/?couponCode=39EA211E4C9B9216166B",
+      "coupon_code": "39EA211E4C9B9216166B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709183_81e6_2.jpg",
+      "title": "Master Go (Golang): Build Scalable Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-101-complete-python-programming-step-by-step-guide/?couponCode=8CBD0CFA80564C83382D",
+      "coupon_code": "8CBD0CFA80564C83382D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709303_f812_2.jpg",
+      "title": "Python 101: Complete Python Programming Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/speak-english-fluently-master-your-real-life-communication/?couponCode=10855AB4232E6E90FF7E",
+      "coupon_code": "10855AB4232E6E90FF7E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589779_dd73.jpg",
+      "title": "Speak English Fluently: Master Your Real-Life Communication"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-seo-course-2024-beginner-to-advanced-seo/?couponCode=F3019D12F5543FD93801",
+      "coupon_code": "F3019D12F5543FD93801",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5908172_2f2a.jpg",
+      "title": "Ultimate SEO Course 2026: Beginner to Advanced SEO with AI"
+    },
     {
       "url": "https://www.udemy.com/course/amazon-fba-wholesale-usa-zero-to-full-time-income/?couponCode=E91754CA03599827346A",
       "coupon_code": "E91754CA03599827346A",
@@ -17,37 +107,38 @@
     {
       "url": "https://www.udemy.com/course/capcut-veo-3-ai-video-editing/?couponCode=55DDD4B448CCA1E89AE7",
       "coupon_code": "55DDD4B448CCA1E89AE7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6807321_7b23.jpg",
+      "title": "CapCut & Veo 3: AI Video Editing for TikTok & YouTube"
     },
     {
       "url": "https://www.udemy.com/course/corporate-entrepreneurship/?couponCode=F656035C046672E1289D",
       "coupon_code": "F656035C046672E1289D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5488004_27fc.jpg",
+      "title": "Executive Diploma in Corporate Entrepreneurship"
     },
     {
       "url": "https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=6F034EB000DFD0B19714",
       "coupon_code": "6F034EB000DFD0B19714",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/diploma-business-strategy/?couponCode=694CF62E719FBD889758",
-      "coupon_code": "694CF62E719FBD889758",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4282170_1ea0.jpg",
+      "title": "CSS And JavaScript Complete Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=D7931C605B9EA22B99FC",
       "coupon_code": "D7931C605B9EA22B99FC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5022262_24b2.jpg",
+      "title": "Java And C++ And PHP Crash Course All in One For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/linkedin-ads-masterclass-2023-all-campaigns-features/?couponCode=3803C77F617E1FE140B4",
       "coupon_code": "3803C77F617E1FE140B4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5104122_3f39_3.jpg",
+      "title": "LinkedIn Ads MasterClass 2026 - All Campaigns & Features"
     },
     {
       "url": "https://www.udemy.com/course/master-ai-filmmaking-with-veo3/?couponCode=C2F6172E6BAFFAA6B20F",
       "coupon_code": "C2F6172E6BAFFAA6B20F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6655287_cec4_7.jpg",
+      "title": "CapCut & Google Veo 3: Cinematic AI Video Mastery"
     },
     {
       "url": "https://www.udemy.com/course/master-cpp-byteboard/?couponCode=8C58B052B9FD7B030C8A",
