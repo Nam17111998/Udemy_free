@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-02-14T07:40:10Z",
-  "count": 963,
+  "updated_at": "2026-02-14T08:41:58Z",
+  "count": 965,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/?couponCode=202395AB49C74350DF15",
+      "coupon_code": "202395AB49C74350DF15",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=3FEC62B329F24BFB59F2",
       "coupon_code": "3FEC62B329F24BFB59F2",
@@ -18,11 +23,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/complete-video-editing-course-with-motion-graphics/?couponCode=881883B16859F7CBC76C",
-      "coupon_code": "881883B16859F7CBC76C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/essential-excel-with-tips-trick-shortcuts-and-job-success/?couponCode=C3496667CB8881CBB6D5",
       "coupon_code": "C3496667CB8881CBB6D5",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -33,14 +33,10 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/horary-astrology-in-action-essentials/?couponCode=DISCUDEMY",
-      "coupon_code": "DISCUDEMY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/master-programming-with-c-and-c-from-beginner-to-advanced/?couponCode=F98C0A82B2797184B164",
       "coupon_code": "F98C0A82B2797184B164",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7007057_99c9_4.jpg",
+      "title": "Master Programming with C and C++: From Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/mastering-excel-data-visualization-with-design-chart-graph/?couponCode=05576E5890A7734CE7CB",
@@ -85,14 +81,34 @@
       "title": "The Complete Microsoft Excel Course: Master All Levels"
     },
     {
+      "url": "https://www.udemy.com/course/zero-trust-linux-root-sudo-security/?couponCode=E070FC278AB6F14D80E9",
+      "coupon_code": "E070FC278AB6F14D80E9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6807661_29b2.jpg",
+      "title": "Zero-Trust Linux Administration: Complete Root Sudo Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-video-editing-course-with-motion-graphics/?couponCode=881883B16859F7CBC76C",
+      "coupon_code": "881883B16859F7CBC76C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5320834_ae1a.jpg",
+      "title": "Complete Video Editing Course With Motion Graphics"
+    },
+    {
+      "url": "https://www.udemy.com/course/horary-astrology-in-action-essentials/?couponCode=DISCUDEMY",
+      "coupon_code": "DISCUDEMY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6350697_e3af_3.jpg",
+      "title": "Horary Astrology in Action: Learn to Predict with Accuracy"
+    },
+    {
       "url": "https://www.udemy.com/course/adobe-illustrator-course-for-graphics-design/?couponCode=F633C6B3AA9CDE2B9E37",
       "coupon_code": "F633C6B3AA9CDE2B9E37",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346428_7b74_2.jpg",
+      "title": "Adobe Illustrator Course for Graphics Design"
     },
     {
       "url": "https://www.udemy.com/course/advanced-professional-photoshop-course/?couponCode=0711F9E569EA3F603C78",
       "coupon_code": "0711F9E569EA3F603C78",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346422_6edd.jpg",
+      "title": "Advanced Professional Photoshop Course to Become Expert"
     },
     {
       "url": "https://www.udemy.com/course/all-you-need-to-know-nodejs-with-practical-project/?couponCode=98915D94B6B09AFB6BCC",
@@ -115,7 +131,8 @@
     {
       "url": "https://www.udemy.com/course/essential-adobe-lightroom-course-for-photo-editing/?couponCode=4B9C3E1267DB40564430",
       "coupon_code": "4B9C3E1267DB40564430",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346426_982e_2.jpg",
+      "title": "Essential Adobe Lightroom Course for Photo Editing"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-business-management/?couponCode=0F6C1828680AA51D703D",
