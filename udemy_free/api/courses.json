@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-14T13:05:37Z",
-  "count": 989,
+  "updated_at": "2026-02-14T14:35:00Z",
+  "count": 992,
   "courses": [
     {
       "url": "https://www.udemy.com/course/apache-hive-interview-question-and-answer-100-faq/?couponCode=EA5D4669949EA3AA833E",
@@ -21,12 +21,6 @@
       "title": "Automação de Marketing com IA & ClientX: WhatsApp, Meta Ads"
     },
     {
-      "url": "https://www.udemy.com/course/canva-social-media-video-editing-masterclass-edit-like-a-pro/?couponCode=93270A221866FB334AC6",
-      "coupon_code": "93270A221866FB334AC6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6703445_8247.jpg",
-      "title": "Canva Social Media Video Editing MasterClass Edit Like a Pro"
-    },
-    {
       "url": "https://www.udemy.com/course/complete-marketing-automation-ai-lead-generation-pro/?couponCode=6B6548C3C0C3FE708B2E",
       "coupon_code": "6B6548C3C0C3FE708B2E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6775445_414b.jpg",
@@ -45,6 +39,18 @@
       "title": "Digital Marketing AI: ChatGPT & AI Driven Digital Marketing"
     },
     {
+      "url": "https://www.udemy.com/course/google-cloud-genai-leader-certification-complete-training/?couponCode=9E7CA14A1B0CE7783B27",
+      "coupon_code": "9E7CA14A1B0CE7783B27",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6759615_ef78_2.jpg",
+      "title": "Google Cloud GenAI Leader Certification: Complete Training"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=C86A7D074C3A732AD36C",
+      "coupon_code": "C86A7D074C3A732AD36C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
+      "title": "Introduction to Human Resources Management"
+    },
+    {
       "url": "https://www.udemy.com/course/marketing-automation-avec-ia/?couponCode=FEV2026",
       "coupon_code": "FEV2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6741393_3ff1_10.jpg",
@@ -57,28 +63,22 @@
       "title": "Marketing-Automatisierung mit KI & ClientX: Leadgenerierung"
     },
     {
-      "url": "https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/?couponCode=BE19C784B4C05483BB7D",
-      "coupon_code": "BE19C784B4C05483BB7D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5544090_702e.jpg",
-      "title": "Advanced Diploma in Innovations and Digital Transformation"
-    },
-    {
       "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=0806490510905AD41136",
       "coupon_code": "0806490510905AD41136",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5560460_2aa2.jpg",
       "title": "Advanced Program in Entrepreneurship"
     },
     {
-      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-real-estate-management-system/?couponCode=PHPREALESTATE64",
-      "coupon_code": "PHPREALESTATE64",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5050316_44d3.jpg",
-      "title": "PHP with MySQL: Build Real Estate Management System"
-    },
-    {
       "url": "https://www.udemy.com/course/python-development-essentials/?couponCode=EC395CD098CF1444BAC3",
       "coupon_code": "EC395CD098CF1444BAC3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg",
       "title": "Python Development Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-development-first-steps-and-development-ide-platform/?couponCode=EA8DAF15A924590B3106",
+      "coupon_code": "EA8DAF15A924590B3106",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5578118_9536_2.jpg",
+      "title": "Python Development First Steps and Development IDE Platform"
     },
     {
       "url": "https://www.udemy.com/course/strategic-market-research-key-methods-for-success/?couponCode=9128A7349E5F22178B1C",
@@ -91,6 +91,24 @@
       "coupon_code": "CFAA1D4572A143B5BA84",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5544558_1473_2.jpg",
       "title": "Web3 Development Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-social-media-video-editing-masterclass-edit-like-a-pro/?couponCode=93270A221866FB334AC6",
+      "coupon_code": "93270A221866FB334AC6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6703445_8247.jpg",
+      "title": "Canva Social Media Video Editing MasterClass Edit Like a Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/?couponCode=BE19C784B4C05483BB7D",
+      "coupon_code": "BE19C784B4C05483BB7D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5544090_702e.jpg",
+      "title": "Advanced Diploma in Innovations and Digital Transformation"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-real-estate-management-system/?couponCode=PHPREALESTATE64",
+      "coupon_code": "PHPREALESTATE64",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5050316_44d3.jpg",
+      "title": "PHP with MySQL: Build Real Estate Management System"
     },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=4FEFC028EF098BBB4CBE",
