@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-02-15T05:01:11Z",
-  "count": 941,
+  "updated_at": "2026-02-15T06:59:51Z",
+  "count": 956,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-adobe-after-effects-become-vfx-motion-expert/?couponCode=AE30684EDE5E35DBC315",
+      "coupon_code": "AE30684EDE5E35DBC315",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=C6C98FA81EABDDBE20F5",
+      "coupon_code": "C6C98FA81EABDDBE20F5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5895048_9832.jpg",
+      "title": "Advanced Adobe Premiere Pro Add Hollywood-level Effects"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-essentials-introduction-to-artificial-intelligence/?couponCode=4041F846538AEB0F527F",
+      "coupon_code": "4041F846538AEB0F527F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5681724_5f41.jpg",
+      "title": "AI Essentials: Introduction to Artificial Intelligence"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-guide-to-numpy-pandas-scipy-matplotlib-seaborn/?couponCode=43AA7BC42F540D2B6CD8",
+      "coupon_code": "43AA7BC42F540D2B6CD8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6708323_257b_2.jpg",
+      "title": "Complete Guide to NumPy, Pandas, SciPy, Matplotlib & Seaborn"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-mysql-bootcamp-learn-sql-step-by-step/?couponCode=71366D2A7E1E0461CE49",
+      "coupon_code": "71366D2A7E1E0461CE49",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6707335_cf68_2.jpg",
+      "title": "Complete MySQL Bootcamp: Learn SQL Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-nodejs-bootcamp-from-basics-to-advanced/?couponCode=5E05DA0E7013F2A25795",
+      "coupon_code": "5E05DA0E7013F2A25795",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6696081_61f0_3.jpg",
+      "title": "Complete Node.js Bootcamp: From Basics to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=19BEA94B7E1E7BAF6C8A",
+      "coupon_code": "19BEA94B7E1E7BAF6C8A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886376_a387_2.jpg",
+      "title": "Django Masterclass: Get Started With Django Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-visualization-and-dashboard-design-masterclass/?couponCode=4CDECD726ED9A9E79E1F",
+      "coupon_code": "4CDECD726ED9A9E79E1F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847491_6081_3.jpg",
+      "title": "Excel Data Visualization and Dashboard Design Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-for-financial-modeling-valuation-the-complete-guide/?couponCode=A3FDCC307B44EB809C23",
+      "coupon_code": "A3FDCC307B44EB809C23",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847477_16f6_3.jpg",
+      "title": "Excel for Financial Modeling & Valuation: The Complete Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/fintech-fundamentals-and-practices/?couponCode=DAHABJAN2026",
+      "coupon_code": "DAHABJAN2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5044510_4be2_3.jpg",
+      "title": "Fintech Plus: Master Financial Technology & Digital Payments"
+    },
+    {
+      "url": "https://www.udemy.com/course/html5-masterclass-build-modern-and-mobile-friendly-websites/?couponCode=9FB123F3F16FCCA3EEC7",
+      "coupon_code": "9FB123F3F16FCCA3EEC7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849593_2e49_2.jpg",
+      "title": "HTML5 Masterclass: Build Modern and Mobile Friendly Websites"
+    },
+    {
+      "url": "https://www.udemy.com/course/pro-photo-editing-with-photoshop-illustrator-lightroom-canva/?couponCode=B08E5525F2F773B0C59B",
+      "coupon_code": "B08E5525F2F773B0C59B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886704_9b11.jpg",
+      "title": "Pro Photo Editing With Photoshop Illustrator Lightroom Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-r-programming-language-beginners-to-pro/?couponCode=A79E8550A44B17E0AF34",
+      "coupon_code": "A79E8550A44B17E0AF34",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5890956_f61d_2.jpg",
+      "title": "R Programming - R Programming Language Beginners to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-word-course-learn-word-step-by-step/?couponCode=66DEB061327CE79A11F5",
+      "coupon_code": "66DEB061327CE79A11F5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847397_14bb_2.jpg",
+      "title": "The Complete Microsoft Word Course: Learn Word Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/understanding-typescript-for-beginner-to-advanced/?couponCode=F65709A78BE6D50DD0D0",
+      "coupon_code": "F65709A78BE6D50DD0D0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5999242_9c7d.jpg",
+      "title": "Understanding TypeScript For Beginner To Advanced"
+    },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-project-planning-excellence/?couponCode=35A13A47F75EE7D06DC4",
       "coupon_code": "35A13A47F75EE7D06DC4",
