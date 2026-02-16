@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-02-16T02:51:00Z",
-  "count": 929,
+  "updated_at": "2026-02-16T05:06:48Z",
+  "count": 944,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-fundamentals-certification/?couponCode=653FA99A11D334EBBB10",
+      "coupon_code": "653FA99A11D334EBBB10",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5935688_221a_2.jpg",
+      "title": "Agile Fundamentals Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-ethicsresponsible-use/?couponCode=2187E354A26E57AE2233",
+      "coupon_code": "2187E354A26E57AE2233",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6936915_998a.jpg",
+      "title": "AI Ethics/Responsible Use"
+    },
+    {
+      "url": "https://www.udemy.com/course/become-rpa-solution-architect-in-30-days/?couponCode=VALENTINESDAY",
+      "coupon_code": "VALENTINESDAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6844181_19af_2.jpg",
+      "title": "Complete Guide to RPA Solution Architecture"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-aece/?couponCode=0F850516338EA7CD219C",
+      "coupon_code": "0F850516338EA7CD219C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6363919_d31f_2.jpg",
+      "title": "AI for Scrum Masters"
+    },
+    {
+      "url": "https://www.udemy.com/course/entrepreneurship-and-business-essentials/?couponCode=F216077000CBC379C247",
+      "coupon_code": "F216077000CBC379C247",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5831904_beca.jpg",
+      "title": "Entrepreneurship and Business Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=776FEE97E897D363C4DF",
+      "coupon_code": "776FEE97E897D363C4DF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255701_c7a4_2.jpg",
+      "title": "Full AI Course 2026: ChatGPT, Gemini, Midjourney, Firefly"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-ads-free-course-2021-campaign-creations/?couponCode=4085D72E536D412DB57E",
+      "coupon_code": "4085D72E536D412DB57E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2875568_d521_6.jpg",
+      "title": "Master 11 Ads Platforms in 1 Course 2026: Paid Advertising!"
+    },
+    {
+      "url": "https://www.udemy.com/course/interview-resume-mastery-from-resume-to-job-offer/?couponCode=306DC27D6BCB297B071B",
+      "coupon_code": "306DC27D6BCB297B071B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6817911_c1e1.jpg",
+      "title": "Interview & Resume Mastery: From Resume to Job Offer"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-agile-scrum-basics/?couponCode=9E4F29DF03757A7C962E",
+      "coupon_code": "9E4F29DF03757A7C962E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5628029_6ac3_6.jpg",
+      "title": "Master Agile & Scrum Basics"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-english-with-ai-improve-fluency-fast-using-chatgpt/?couponCode=C78D5C105CEB526233A6",
+      "coupon_code": "C78D5C105CEB526233A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6958569_ca07_2.jpg",
+      "title": "Master English with AI: Improve Fluency Fast Using ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=0992F4CA9A74AD39AA72",
+      "coupon_code": "0992F4CA9A74AD39AA72",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
+      "title": "Master PHP Programming: From Beginner to Advanced Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/presentations-with-chatgpt-aece/?couponCode=19E937813F22DD3EF170",
+      "coupon_code": "19E937813F22DD3EF170",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6363967_434c.jpg",
+      "title": "Presentations with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-build-and-deploy-your-own-applications/?couponCode=39345EF768B81E7EA98F",
+      "coupon_code": "39345EF768B81E7EA98F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6509823_1c8a.jpg",
+      "title": "Python Programming: Build and Deploy Your Own Applications."
+    },
+    {
+      "url": "https://www.udemy.com/course/safe-general-overview-course-aece/?couponCode=049CCB97BA9DE453BCEC",
+      "coupon_code": "049CCB97BA9DE453BCEC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6364385_1f05_3.jpg",
+      "title": "SAFe 6.0 Fundamentals: Scaled Agile Framework (SAFe) Basics"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-google-tag-manager-course-beginner-to-advanced/?couponCode=651B93BCC8C7DB12EB0C",
+      "coupon_code": "651B93BCC8C7DB12EB0C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6078549_bb96.jpg",
+      "title": "The Ultimate Google Tag Manager Course 2026"
+    },
     {
       "url": "https://www.udemy.com/course/auditing-iso-270012022-people-controls/?couponCode=D65FD55CD239DE927D37",
       "coupon_code": "D65FD55CD239DE927D37",
@@ -11,7 +101,8 @@
     {
       "url": "https://www.udemy.com/course/entrepreneurship-and-business-motivation/?couponCode=5F09AB9B4CD3A9783E0C",
       "coupon_code": "5F09AB9B4CD3A9783E0C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5824904_77a2.jpg",
+      "title": "Entrepreneurship and Business Motivation"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-business-management-and-administration/?couponCode=366211CF605684BE386C",
@@ -34,17 +125,20 @@
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-vice-president-chief-innovation-officer/?couponCode=9524AC41E02772D5FB27",
       "coupon_code": "9524AC41E02772D5FB27",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5819200_07d0.jpg",
+      "title": "Executive Diploma of Vice President Chief Innovation Officer"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-vice-president-chief-operating-officer/?couponCode=FE7BFBB603D0F8BEB7EC",
       "coupon_code": "FE7BFBB603D0F8BEB7EC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5821890_8580.jpg",
+      "title": "Executive Diploma of Vice President Chief Operating Officer"
     },
     {
       "url": "https://www.udemy.com/course/foundation-in-project-management/?couponCode=C7E6380CAD9CB83C9048",
       "coupon_code": "C7E6380CAD9CB83C9048",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6514099_1e2e_2.jpg",
+      "title": "Foundation in Project Management: Entry to Mid (101 and 201)"
     },
     {
       "url": "https://www.udemy.com/course/foundational-english-language-skills-course/?couponCode=F459D38C67D3DCF4CE19",
@@ -67,7 +161,8 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-agile-product-management/?couponCode=E7D649026DE16E2079C8",
       "coupon_code": "E7D649026DE16E2079C8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5823058_08a3.jpg",
+      "title": "Professional Diploma in Agile Product Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-customer-relationship-management-crm/?couponCode=DF22FD60441DC704B937",
