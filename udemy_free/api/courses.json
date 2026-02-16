@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-02-16T15:50:15Z",
-  "count": 947,
+  "updated_at": "2026-02-16T16:55:34Z",
+  "count": 962,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-cybersecurity-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-program-managers-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6946213_6d79.jpg",
+      "title": "AI for Program Managers: Practical Skills and Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-security-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927317_a7a8_3.jpg",
+      "title": "AI Security Fundamentals: Risks, Frameworks & Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/oop-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3520172_30b8_2.jpg",
+      "title": "Object Oriented Programming - Basics to Advance (Java OOP)"
+    },
+    {
+      "url": "https://www.udemy.com/course/oracle-certification-java-21-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291083_8dee.jpg",
+      "title": "Oracle Java SE 21 Developer Professional: 1Z0-830"
+    },
+    {
+      "url": "https://www.udemy.com/course/oracle-java-17-ocp-certification-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6757341_3e92.jpg",
+      "title": "Oracle Java SE 17 Developer Professional: 1Z0-829 Exam"
+    },
+    {
+      "url": "https://www.udemy.com/course/owasp-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4748828_fc3e_2.jpg",
+      "title": "OWASP API Security Top 10 2021/2023/2025 with Java Examples"
+    },
+    {
+      "url": "https://www.udemy.com/course/qa-qc-metrics-kpis-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643217_e2ee.jpg",
+      "title": "Data-Driven Quality Assurance & Quality Control: Metrics/KPI"
+    },
+    {
+      "url": "https://www.udemy.com/course/resilience4j-spring-boot-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6748695_ab03.jpg",
+      "title": "Resilience4j with Spring Boot: Build Fault-Tolerant Systems"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6478831_313a.jpg",
+      "title": "Secure Coding: Security Best Practices in Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/securing-ai-applications-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927315_4792_3.jpg",
+      "title": "Securing AI Applications: From Threats to Controls"
+    },
+    {
+      "url": "https://www.udemy.com/course/software-architecture-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3957390_1f27.jpg",
+      "title": "Software Architecture and Clean Code Design in OOP"
+    },
+    {
+      "url": "https://www.udemy.com/course/test-metrics-kpis-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643209_0e5d.jpg",
+      "title": "Defect Management & QA Reporting: Metrics & KPIs"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-development-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4612058_5a67.jpg",
+      "title": "Java EE, Web Development: HTTP, Server,Servlet,HTML/CSS,JSP"
+    },
+    {
+      "url": "https://www.udemy.com/course/xp-programming-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6522461_d9e1.jpg",
+      "title": "Extreme Programming (XP): Techniques for Agile Development"
+    },
     {
       "url": "https://www.udemy.com/course/ai-ml-in-pharma-rd-clinical-trials-and-precision-med/?couponCode=F078ADF54DD3A1166143",
       "coupon_code": "F078ADF54DD3A1166143",
