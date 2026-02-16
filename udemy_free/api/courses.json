@@ -1,81 +1,186 @@
 {
-  "updated_at": "2026-02-16T14:52:05Z",
-  "count": 932,
+  "updated_at": "2026-02-16T15:50:15Z",
+  "count": 947,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-ml-in-pharma-rd-clinical-trials-and-precision-med/?couponCode=F078ADF54DD3A1166143",
+      "coupon_code": "F078ADF54DD3A1166143",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7052663_748a.jpg",
+      "title": "AI & ML in Pharma: R&D, Clinical Trials, and Precision Med"
+    },
+    {
+      "url": "https://www.udemy.com/course/aprende-google-chart-con-php-y-mysql/?couponCode=09E98E9A82E5B55428E3",
+      "coupon_code": "09E98E9A82E5B55428E3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1245642_0cfa_3.jpg",
+      "title": "Aprende Google Chart con PHP y MySQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-center-design-data-center-infrastructure-and-design/?couponCode=50B7C43F1CF7A89319AF",
+      "coupon_code": "50B7C43F1CF7A89319AF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6262049_1622_3.jpg",
+      "title": "Data Center Infrastructure & Data Center Design Fundamentals"
+    },
+    {
+      "url": "https://www.udemy.com/course/domina-el-dom-con-javascript/?couponCode=B72941C9396D42F38B17",
+      "coupon_code": "B72941C9396D42F38B17",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/993248_fcaa_2.jpg",
+      "title": "Domina el DOM con JavaScript"
+    },
+    {
+      "url": "https://www.udemy.com/course/handling-attraction-and-emotions-at-work/?couponCode=WORKPLACE_EMOTIONS",
+      "coupon_code": "WORKPLACE_EMOTIONS",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7053807_b198_2.jpg",
+      "title": "Handling Attraction and Emotions at Work."
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-raise-50000-in-grant-funding-for-your-charity/?couponCode=BUS-FR12",
+      "coupon_code": "BUS-FR12",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6900823_0b73.jpg",
+      "title": "Grant Funding Mastery: Confidently Secure Major Grants ."
+    },
+    {
+      "url": "https://www.udemy.com/course/hvac-design-engineering-mastery-triple-hvac-certification/?couponCode=D2B617B9B0D6A9D47AA8",
+      "coupon_code": "D2B617B9B0D6A9D47AA8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6112631_e452_3.jpg",
+      "title": "HVAC Design For Beginners - From HVAC Beginner to HVAC PRO"
+    },
+    {
+      "url": "https://www.udemy.com/course/matlab-course-for-wireless-communication-engineering/?couponCode=0858A71C25B39BAA1005",
+      "coupon_code": "0858A71C25B39BAA1005",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3746998_4a17_2.jpg",
+      "title": "Matlab course for wireless communication engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/personal-branding-for-entrepreneurs-build-a-global-presence/?couponCode=888B4CE42FDF68577DD7",
+      "coupon_code": "888B4CE42FDF68577DD7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6646033_7deb_3.jpg",
+      "title": "Personal Branding for Entrepreneurs: Build a Global Presence"
+    },
+    {
+      "url": "https://www.udemy.com/course/plumbing-course-mastery/?couponCode=9DB30EE1055BCD704E7D",
+      "coupon_code": "9DB30EE1055BCD704E7D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4755968_96a0_8.jpg",
+      "title": "Plumbing 102: Drainage Plumbing System Design & Training A-Z"
+    },
+    {
+      "url": "https://www.udemy.com/course/procurement_manager/?couponCode=6AE0781758FCB0EA68A2",
+      "coupon_code": "6AE0781758FCB0EA68A2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5451700_ff8b_2.jpg",
+      "title": "Procurement Manager Professional Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-marketing-manager-business-partner/?couponCode=7FDEB8B9C4F0BA3518B9",
+      "coupon_code": "7FDEB8B9C4F0BA3518B9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873910_8b5b.jpg",
+      "title": "Professional Diploma of Marketing Manager Business Partner"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-concepts/?couponCode=C0A53CE4F6AF47FC2D90",
+      "coupon_code": "C0A53CE4F6AF47FC2D90",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4485052_cc34_4.jpg",
+      "title": "Project Management Essentials: Project Management FAST-TRACK"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-no-code-app-development-masterclass-2025/?couponCode=B5FA13924F3B0358A7CE",
+      "coupon_code": "B5FA13924F3B0358A7CE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6903503_e5c5_2.jpg",
+      "title": "Vibe Coding Masterclass: Build Real Apps by Just Describing"
+    },
+    {
+      "url": "https://www.udemy.com/course/video-editing-capcut-capcut-video-editing/?couponCode=8BE82EA83CABB419497A",
+      "coupon_code": "8BE82EA83CABB419497A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5763830_ac6b_3.jpg",
+      "title": "Video Editing 2.0: Video Editing Zero To Hero Using CapCut"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-accounting-professionals-financial-statement-analysis-audit/?couponCode=323E3BFF37FF530C9CB6",
       "coupon_code": "323E3BFF37FF530C9CB6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6850421_8180.jpg",
+      "title": "AI For Accounting Pros: Financial Statement Analysis & Audit"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-creative-leaders-generative-ai-chatgpt-fast-track/?couponCode=5583E6E42EA9F23CC3CC",
       "coupon_code": "5583E6E42EA9F23CC3CC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6862183_b31d.jpg",
+      "title": "AI for Creative Leaders: Generative AI & ChatGPT Fast-Track"
     },
     {
       "url": "https://www.udemy.com/course/bookkeeping-ai-bookkeeping-using-chatgpt-ai-accounting/?couponCode=243FEF2C147033C87A4A",
       "coupon_code": "243FEF2C147033C87A4A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6853991_d0ad.jpg",
+      "title": "Bookkeeping AI: Bookkeeping Using ChatGPT (AI Fast Track)"
     },
     {
       "url": "https://www.udemy.com/course/canva-graphics-design-course-for-beginners-non-designers/?couponCode=015EAD35ADB12486D3CF",
       "coupon_code": "015EAD35ADB12486D3CF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6604933_147e.jpg",
+      "title": "Canva Graphics Design Course For Beginners & Non Designers"
     },
     {
       "url": "https://www.udemy.com/course/data-science-ai-mastery-100-days-to-career-success/?couponCode=FEBFREE03",
       "coupon_code": "FEBFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818091_ce55_3.jpg",
+      "title": "Data Science & AI Mastery: 100 Days to Career Success"
     },
     {
       "url": "https://www.udemy.com/course/diploma-of-microsoft-dynamics-365-crm-business-architect/?couponCode=00A8BC6C95144ABA5BFF",
       "coupon_code": "00A8BC6C95144ABA5BFF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873894_ecef.jpg",
+      "title": "Diploma of Microsoft Dynamics 365 CRM Business Architect"
     },
     {
       "url": "https://www.udemy.com/course/fire-fighting-design-fire-fighting-sprinkler-system-design-a-z/?couponCode=784DB7BE85F5F563FDBB",
       "coupon_code": "784DB7BE85F5F563FDBB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761197_a199_2.jpg",
+      "title": "Fire Fighting 2.0: Fire Fighting Sprinkler System Design A-Z"
     },
     {
       "url": "https://www.udemy.com/course/fire-safety-training-fire-safety-training-complete-course-a-z/?couponCode=6056E99ADE43F7D5BF57",
       "coupon_code": "6056E99ADE43F7D5BF57",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6731231_cfc2.jpg",
+      "title": "Fire Safety 2.0: Fire Safety Training Complete Course A-Z"
     },
     {
       "url": "https://www.udemy.com/course/graphic-design-using-chatgpt-real-graphic-design-ai/?couponCode=5AC5DE5A313A544D5488",
       "coupon_code": "5AC5DE5A313A544D5488",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6769621_6b39.jpg",
+      "title": "Graphic Design Using AI: COMPLETE Graphic Design Application"
     },
     {
       "url": "https://www.udemy.com/course/interior-design-ai-master-interior-design-with-chatgpt-ai/?couponCode=5AF43DB4D4EF3104C638",
       "coupon_code": "5AF43DB4D4EF3104C638",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6599319_84fc_2.jpg",
+      "title": "Interior Design AI: Master Interior Design With ChatGPT A-Z"
     },
     {
       "url": "https://www.udemy.com/course/interior-design-course-interior-designing-lighting/?couponCode=55644BAFA06428C57642",
       "coupon_code": "55644BAFA06428C57642",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6550815_f82c.jpg",
+      "title": "Interior Design Essentials: Lighting For Interior Design A-Z"
     },
     {
       "url": "https://www.udemy.com/course/interior-design-for-living-room-simple-fast/?couponCode=BE382DF5F807B5CF65A0",
       "coupon_code": "BE382DF5F807B5CF65A0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6827313_3217.jpg",
+      "title": "Interior Design 2.0: Interior Design Course For Living Rooms"
     },
     {
       "url": "https://www.udemy.com/course/interior-design-styles-master-interior-design-styles-themes/?couponCode=30165B609AFCB1DD3654",
       "coupon_code": "30165B609AFCB1DD3654",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802077_6386_2.jpg",
+      "title": "Interior Design 2.0: Master Interior Design Styles & Themes"
     },
     {
       "url": "https://www.udemy.com/course/power-apps-basics-powerapps-microsoft-power-platform/?couponCode=9E2B276043212F961C93",
       "coupon_code": "9E2B276043212F961C93",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6445661_727d_2.jpg",
+      "title": "Power Apps For Beginners: Build Your 1st Power App (No Code)"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-virtual-executive-assistant/?couponCode=F58439288B04F8264064",
       "coupon_code": "F58439288B04F8264064",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873830_45bc.jpg",
+      "title": "Professional Diploma of Virtual Executive Assistant"
     },
     {
       "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=16THFEB&ra",
