@@ -1,31 +1,122 @@
 {
-  "updated_at": "2026-02-16T08:59:09Z",
-  "count": 974,
+  "updated_at": "2026-02-16T10:06:16Z",
+  "count": 989,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-everyone-design-like-a-pro/?couponCode=5F4164CDA7E1D1FACB5E",
+      "coupon_code": "5F4164CDA7E1D1FACB5E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-project-management-with-clickup/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-and-generative-ai-volume-1/?couponCode=AI_LEARN_FEB_26",
+      "coupon_code": "AI_LEARN_FEB_26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-mastery-design-like-a-pro-in-just-days/?couponCode=D7531D4C1C73F83F5F49",
+      "coupon_code": "D7531D4C1C73F83F5F49",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analysis-and-data-visualization-with-microsoft-copilot/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6723387_5ac5.jpg",
+      "title": "Data Analysis and Data Visualization with Microsoft Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/diversity-equity-inclusion-building-inclusive-workplaces/?couponCode=3A5AD096AFE770B04BBB",
+      "coupon_code": "3A5AD096AFE770B04BBB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6130227_f3a9_2.jpg",
+      "title": "Diversity Equity Inclusion Building Inclusive Workplaces"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-canva-for-graphics-design-to-boost-productivity/?couponCode=02B470103C1D08C09C94",
+      "coupon_code": "02B470103C1D08C09C94",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5712636_b2e1_2.jpg",
+      "title": "Essential Canva for Graphics Design to Boost Productivity"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphic-design-masterclass-master-illustrator-photoshop/?couponCode=4F8D01A63B0B2B9929FA",
+      "coupon_code": "4F8D01A63B0B2B9929FA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5832228_0be6.jpg",
+      "title": "Graphic Design Masterclass: Master Illustrator & Photoshop"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-advanced-excel-formulas-functions-vba-macros/?couponCode=7A775A6193EB1A5A53FF",
+      "coupon_code": "7A775A6193EB1A5A53FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641722_6dfe.jpg",
+      "title": "Learn Advanced Excel: Formulas, Functions, VBA Macros"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-canva-for-advance-graphics-design/?couponCode=EDE819162294DF367479",
+      "coupon_code": "EDE819162294DF367479",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5780890_09a1.jpg",
+      "title": "Learn Canva for Advance Graphics Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-advanced-with-project/?couponCode=B4562A4A2FB5D8020453",
+      "coupon_code": "B4562A4A2FB5D8020453",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4944610_de53_3.jpg",
+      "title": "Microsoft PowerPoint School to Corporate : Basic to Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-digital-business-development/?couponCode=99EC3200A8E5A514EDBC",
+      "coupon_code": "99EC3200A8E5A514EDBC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5848466_1f34.jpg",
+      "title": "Professional Diploma in Digital Business Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-freelancing-course-from-beginner-to-expert-success/?couponCode=EE8661B33FD74116138C",
+      "coupon_code": "EE8661B33FD74116138C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6222597_b766_2.jpg",
+      "title": "Ultimate Freelancing Course From Beginner to  Expert Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/wordpress-elementor-course-develop-site-without-coding/?couponCode=97574CE3C1AF0B7DABDA",
+      "coupon_code": "97574CE3C1AF0B7DABDA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4595742_4e09_2.jpg",
+      "title": "Wordpress Elementor Course: Develop Site Without Coding"
+    },
+    {
+      "url": "https://www.udemy.com/course/write-article-content-for-seo-and-affiliate-marketing-course/?couponCode=28C46BF5F578953E2303",
+      "coupon_code": "28C46BF5F578953E2303",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4831684_ddc6.jpg",
+      "title": "Write Article Content for SEO and Affiliate Marketing Course"
+    },
     {
       "url": "https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/?couponCode=16FEBRUARY2026",
       "coupon_code": "16FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713657_81e2.jpg",
+      "title": "Building Basic AI Agents and Custom GPTs"
     },
     {
       "url": "https://www.udemy.com/course/business-development-sales-marketing-professional-diploma/?couponCode=79AA052423C64DC72508",
       "coupon_code": "79AA052423C64DC72508",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5848270_95f6_3.jpg",
+      "title": "Business Development, Sales & Marketing Professional Diploma"
     },
     {
       "url": "https://www.udemy.com/course/complete-tiktok-marketing-course-for-business-tiktok-habits/?couponCode=7AD31C31F7572FF2766C",
       "coupon_code": "7AD31C31F7572FF2766C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2835516_1812_5.jpg",
+      "title": "Complete TikTok Marketing Course for Business TikTok Habits"
     },
     {
       "url": "https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/?couponCode=16FEBRUARY2026",
       "coupon_code": "16FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6715099_6b9e_3.jpg",
+      "title": "Cursor AI for Beginners: AI Coding Crash Course"
     },
     {
       "url": "https://www.udemy.com/course/docker-deep-dive-build-ship-and-run-containers/?couponCode=16FEBRUARY2026",
       "coupon_code": "16FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6707623_30dc.jpg",
+      "title": "Docker Deep Dive: Build, Ship, and Run Containers"
     },
     {
       "url": "https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/?couponCode=16FEBRUARY2026",
