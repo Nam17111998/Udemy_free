@@ -1,16 +1,103 @@
 {
-  "updated_at": "2026-02-16T07:15:16Z",
-  "count": 959,
+  "updated_at": "2026-02-16T08:59:09Z",
+  "count": 974,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/business-development-sales-marketing-professional-diploma/?couponCode=79AA052423C64DC72508",
+      "coupon_code": "79AA052423C64DC72508",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-tiktok-marketing-course-for-business-tiktok-habits/?couponCode=7AD31C31F7572FF2766C",
+      "coupon_code": "7AD31C31F7572FF2766C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-deep-dive-build-ship-and-run-containers/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691789_eafc_3.jpg",
+      "title": "GitHub Copilot for Beginners: AI Coding Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/leonardo-ai-bootcamp-explore-visual-storytelling-with-ai/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6611185_7322.jpg",
+      "title": "Leonardo AI Bootcamp: Explore Visual Storytelling with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/llama-4-ai-mastering-prompt-engineering/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685183_a0d4.jpg",
+      "title": "Llama 4: AI Mastering Prompt Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/?couponCode=DDC413874EBFC48C8A15",
+      "coupon_code": "DDC413874EBFC48C8A15",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg",
+      "title": "Microsoft Excel Data Analysis for Business & Finance"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-office-with-ai-word-excel-powerpoint-with-chatgpt/?couponCode=29418998AE3FD99E9FF8",
+      "coupon_code": "29418998AE3FD99E9FF8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6792989_b739.jpg",
+      "title": "MS Office With AI - Word Excel PowerPoint with ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/n8n-ai-agent-creation-guide/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6692461_9104_3.jpg",
+      "title": "N8N: AI Agent Creation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/public-speaking-for-college-students/?couponCode=3DDC7436A568FE364D01",
+      "coupon_code": "3DDC7436A568FE364D01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/363942_4a85_4.jpg",
+      "title": "Public Speaking for College Students: Become a Great Speaker"
+    },
+    {
+      "url": "https://www.udemy.com/course/public-speaking-for-high-school-students/?couponCode=26A6CD9C1DC1CF63F0A2",
+      "coupon_code": "26A6CD9C1DC1CF63F0A2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/363936_3cd7_4.jpg",
+      "title": "Public Speaking for High School Students: Speak Well Now"
+    },
+    {
+      "url": "https://www.udemy.com/course/public-speaking-for-parents-teach-your-kids-to-present-1hr/?couponCode=4648F38D592ECD94719D",
+      "coupon_code": "4648F38D592ECD94719D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2966802_75cc_4.jpg",
+      "title": "Public Speaking for Parents - Teach Your Kids to Present 1Hr"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-expert/?couponCode=4C6AD7A79BFBDD6F09A9",
+      "coupon_code": "4C6AD7A79BFBDD6F09A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6549357_4b96_2.jpg",
+      "title": "The Complete Microsoft Excel Course: Beginner to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/canva-graphic-design-and-social-media-content-mastery/?couponCode=A09319AB8423C812FE22",
       "coupon_code": "A09319AB8423C812FE22",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7007941_9137_2.jpg",
+      "title": "Canva, Graphic Design and Social Media Content Mastery"
     },
     {
       "url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/?couponCode=097A3B8DD299FA5FF308",
       "coupon_code": "097A3B8DD299FA5FF308",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5465518_4f1b_2.jpg",
+      "title": "Computer Engineering Mastery: From Beginner to Expert!"
     },
     {
       "url": "https://www.udemy.com/course/entrepreneurship-ideas-market-analysis-competitors-place/?couponCode=7DEABD52D37D0CC8A659",
