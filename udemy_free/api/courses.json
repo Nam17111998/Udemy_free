@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-02-17T13:21:13Z",
-  "count": 986,
+  "updated_at": "2026-02-17T14:55:07Z",
+  "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-trading-crypto-intelligence-masterclass/?couponCode=FEBFREE01",
+      "coupon_code": "FEBFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7059117_fc3e.jpg",
+      "title": "AI Trading & Crypto Intelligence Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/aidtinscm/?couponCode=3B837802E112104A8283",
+      "coupon_code": "3B837802E112104A8283",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847487_a6c1_4.jpg",
+      "title": "AI & Digital Transformation in Supply Chain Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-c-for-beginners-step-by-step-to-mastery/?couponCode=46519F75214F02C7C9B9",
+      "coupon_code": "46519F75214F02C7C9B9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017095_15f6.jpg",
+      "title": "C and C++ for Beginners: Step-by-Step to Mastery"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-masterclass-the-complete-guide-u/?couponCode=B8CC91607E4837A92D29",
+      "coupon_code": "B8CC91607E4837A92D29",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7014381_6453_3.jpg",
+      "title": "ChatGPT Masterclass: The Complete Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5967346_dd34.jpg",
+      "title": "Developing successful Professional Relationships"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-analysis-data-management-for-business-careers/?couponCode=8B215CE966B01A4DEBC1",
+      "coupon_code": "8B215CE966B01A4DEBC1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7042949_64d0_3.jpg",
+      "title": "Excel Data Analysis & Data Management for Business & Careers"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-analysis-for-professionals-and-analysts/?couponCode=516B875B876AF02A808B",
+      "coupon_code": "516B875B876AF02A808B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7042937_4753_4.jpg",
+      "title": "Excel Data Analysis for Professionals and Analysts"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
+      "title": "Financial Stewardship for Decision Makers and Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/installing-and-configuring-hyper-v-and-virtual-machines/?couponCode=6E0F0FEB6A60D4296A7E",
+      "coupon_code": "6E0F0FEB6A60D4296A7E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5866246_4b0f_2.jpg",
+      "title": "Installing and configuring Hyper-V and virtual machines"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-manus-ai-automation-for-marketing-content/?couponCode=16FEBRUARY2026",
+      "coupon_code": "16FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7053889_0b4e_2.jpg",
+      "title": "Mastering Manus: AI Automation for Marketing & Content"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-product-development-and-management/?couponCode=738A74ED5757D0A8D905",
+      "coupon_code": "738A74ED5757D0A8D905",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5939650_b075_2.jpg",
+      "title": "Advanced Program in Product Development and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/sora-mastery-from-beginner-to-professional-hidden-gems/?couponCode=28F86305EF61E4F79A6D",
+      "coupon_code": "28F86305EF61E4F79A6D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6908811_27ba_2.jpg",
+      "title": "Master Sora Fast: AI Video Creation for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/supercharge-your-linux-workflow-with-chatgpt/?couponCode=79FAD047C37A3A043405",
+      "coupon_code": "79FAD047C37A3A043405",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5279840_5d9a_2.jpg",
+      "title": "Complete Your Linux Administration Tasks Faster With ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-web3-cfo-masterclass-mastering-finops-accounting/?couponCode=D9DD7AC0893B938A124A",
+      "coupon_code": "D9DD7AC0893B938A124A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7034147_6e16.jpg",
+      "title": "The Web3 CFO Masterclass: Mastering FinOps & Accounting"
+    },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=16THFEB",
       "coupon_code": "16THFEB",
@@ -1035,12 +1125,6 @@
       "title": "Basic Numerology Success Program"
     },
     {
-      "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5967346_dd34.jpg",
-      "title": "Developing successful Professional Relationships"
-    },
-    {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=16THFEB&ra",
       "coupon_code": "16THFEB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
@@ -1057,18 +1141,6 @@
       "coupon_code": "16THFEB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
       "title": "Financial Services - Overview of Retail Banking"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
-      "title": "Financial Stewardship for Decision Makers and Leaders"
-    },
-    {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
-      "title": "Mental Health for the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/numerology-mastery-program-advanced-numbers-compatibility/?couponCode=FREEFEBB26",
