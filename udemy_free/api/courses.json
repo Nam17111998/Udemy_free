@@ -1,16 +1,18 @@
 {
-  "updated_at": "2026-02-18T13:23:08Z",
-  "count": 971,
+  "updated_at": "2026-02-18T14:54:05Z",
+  "count": 973,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/agile-hr-implementation/?couponCode=463ADADECFC08F5DFE84",
-      "coupon_code": "463ADADECFC08F5DFE84",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/ai-for-customer-experience-learnit/?couponCode=FEBRUARY_FREE2_2026",
       "coupon_code": "FEBRUARY_FREE2_2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6948107_06a6.jpg",
+      "title": "AI for Customer Experience: CX Automation and Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificado-profissional-em-lideranca-e-gestao/?couponCode=45DC71C4BFD1CBB1A8E2",
+      "coupon_code": "45DC71C4BFD1CBB1A8E2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6118333_9a76.jpg",
+      "title": "Certificado Profissional em Liderança e Gestão"
     },
     {
       "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=16THFEB&ra",
@@ -19,9 +21,88 @@
       "title": "Developing successful Professional Relationships"
     },
     {
+      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
+      "title": "Financial Services - Basics of Business & Corporate Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
+      "title": "Financial Services: Introduction to ETFs"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
+      "title": "Financial Stewardship for Decision Makers and Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
+      "title": "Introduction to Financial Controls"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-risk-management-in-financial-services/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865790_c7f6_3.jpg",
+      "title": "Introduction to Risk Management in Financial Services"
+    },
+    {
+      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6949313_7782_4.jpg",
+      "title": "Language Learning with AI: Practical Skills Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-idioms/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5253394_2f88_2.jpg",
+      "title": "Mastering English Idioms: Essential for ESL Communication"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
+      "title": "Productivity - Focus, Concentration & Performance Strategies"
+    },
+    {
+      "url": "https://www.udemy.com/course/software-architecture-learnit/?couponCode=FEBRUARY_FREE2_2026",
+      "coupon_code": "FEBRUARY_FREE2_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3957390_1f27.jpg",
+      "title": "Software Architecture and Clean Code Design in OOP"
+    },
+    {
+      "url": "https://www.udemy.com/course/visualization-techniques-for-decision-makers-and-leaders/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860432_d719.jpg",
+      "title": "Visualization Techniques for Decision Makers and Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5560346_69f1_3.jpg",
+      "title": "Workplace Stress Management Strategies"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-hr-implementation/?couponCode=463ADADECFC08F5DFE84",
+      "coupon_code": "463ADADECFC08F5DFE84",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5491192_137e.jpg",
+      "title": "Agile HR Implementation"
+    },
+    {
       "url": "https://www.udemy.com/course/digital-retail-marketing-ai-data-growth/?couponCode=18FEBRUARY2026",
       "coupon_code": "18FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7032259_1771.jpg",
+      "title": "Digital Retail Marketing: AI, Data & Growth"
     },
     {
       "url": "https://www.udemy.com/course/diploma-human-resources-compensation-benefits-management/?couponCode=ABB9C2CCB7D0FDFEA133",
@@ -48,38 +129,16 @@
       "title": "Google Gemini for Project Management"
     },
     {
-      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=FEBRUARY_FREE2_2026",
-      "coupon_code": "FEBRUARY_FREE2_2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-idioms/?couponCode=FEBRUARY_FREE2_2026",
-      "coupon_code": "FEBRUARY_FREE2_2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/smart-goals-parenting/?couponCode=16THFEB&ra",
       "coupon_code": "16THFEB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6041048_43ee_3.jpg",
       "title": "SMART Goals Parenting"
     },
     {
-      "url": "https://www.udemy.com/course/software-architecture-learnit/?couponCode=FEBRUARY_FREE2_2026",
-      "coupon_code": "FEBRUARY_FREE2_2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3957390_1f27.jpg",
-      "title": "Software Architecture and Clean Code Design in OOP"
-    },
-    {
       "url": "https://www.udemy.com/course/the-ultimate-guide-to-learning-development-with-copilot/?couponCode=18FEBRUARY2026",
       "coupon_code": "18FEBRUARY2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6970193_e0f0.jpg",
       "title": "The Ultimate Guide to Learning & Development with Copilot"
-    },
-    {
-      "url": "https://www.udemy.com/course/visualization-techniques-for-decision-makers-and-leaders/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5860432_d719.jpg",
-      "title": "Visualization Techniques for Decision Makers and Leaders"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=16THFEB&ra",
@@ -140,12 +199,6 @@
       "coupon_code": "985CB8A114D6B646EE2E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6054509_54ef.jpg",
       "title": "Global Wealth Management: Account Opening, Onboarding, KYC"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
-      "title": "Introduction to Financial Controls"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=16THFEB",
@@ -490,22 +543,10 @@
       "title": "Navigating the Crypto Universe"
     },
     {
-      "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
-      "title": "Productivity - Focus, Concentration & Performance Strategies"
-    },
-    {
       "url": "https://www.udemy.com/course/tow-power-masterclass-how-to-start-a-tow-truck-business/?couponCode=66A6D0649A059D6DAE28",
       "coupon_code": "66A6D0649A059D6DAE28",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6321327_acd2_2.jpg",
       "title": "Tow Power Masterclass: How to Start A Tow Truck Business?"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
-      "title": "Financial Services: Introduction to ETFs"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-customer-centricity-and-design-thinking/?couponCode=A4294BA7366EBDC0846F",
@@ -526,12 +567,6 @@
       "title": "Complete Your Linux Administration Tasks Faster With ChatGPT"
     },
     {
-      "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5560346_69f1_3.jpg",
-      "title": "Workplace Stress Management Strategies"
-    },
-    {
       "url": "https://www.udemy.com/course/xss-survival-guide/?couponCode=BA7DB263B37B9988972B",
       "coupon_code": "BA7DB263B37B9988972B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3936580_7170_2.jpg",
@@ -542,18 +577,6 @@
       "coupon_code": "46519F75214F02C7C9B9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7017095_15f6.jpg",
       "title": "C and C++ for Beginners: Step-by-Step to Mastery"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
-      "title": "Financial Stewardship for Decision Makers and Leaders"
-    },
-    {
-      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
-      "title": "Mental Health for the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/mini-mba-in-product-development-and-management/?couponCode=738A74ED5757D0A8D905",
@@ -1658,12 +1681,6 @@
       "coupon_code": "11B181307CFDEDE7BB9D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6712869_0b21_3.jpg",
       "title": "Superhumain – Investir en soi en apprenant en continu"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
-      "title": "Financial Services - Basics of Business & Corporate Banking"
     },
     {
       "url": "https://www.udemy.com/course/how-to-build-in-public/?couponCode=BD0B3D2D7AD51BCB3F0A",
