@@ -1,11 +1,30 @@
 {
-  "updated_at": "2026-02-17T23:37:16Z",
-  "count": 921,
+  "updated_at": "2026-02-18T02:50:37Z",
+  "count": 928,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/5g-communication-system-using-matlab/?couponCode=7C82F82D8531C45803B5",
+      "coupon_code": "7C82F82D8531C45803B5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4250476_c729.jpg",
+      "title": "5G Communication System Using Matlab"
+    },
+    {
+      "url": "https://www.udemy.com/course/android-hacking-ethical-hacking/?couponCode=FEB100OFF",
+      "coupon_code": "FEB100OFF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6472977_5efe_5.jpg",
+      "title": "Android Hacking & Security: Ethical Hacking for Beginners"
+    },
     {
       "url": "https://www.udemy.com/course/certificate-in-public-relations-and-communication-management/?couponCode=AC186B41C97A12A5F209",
       "coupon_code": "AC186B41C97A12A5F209",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5957212_8e68.jpg",
+      "title": "Certificate in Public Relations and Communication Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/diploma-executivo-em-lideranca/?couponCode=99406AAE9D5E984D72AC",
+      "coupon_code": "99406AAE9D5E984D72AC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5990764_25b2.jpg",
+      "title": "Diploma Executivo em Liderança"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=16THFEB&ra",
@@ -14,33 +33,16 @@
       "title": "Emotional Intelligence in Leadership"
     },
     {
-      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
-      "title": "Empathy and Emotional Intelligence for Project Managers"
-    },
-    {
       "url": "https://www.udemy.com/course/executive-certificate-in-company-direction/?couponCode=4A9842618C3E6CACEEE4",
       "coupon_code": "4A9842618C3E6CACEEE4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
-      "title": "Financial Services - Overview of Central Banks"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5959386_a56a.jpg",
+      "title": "Executive Certificate in Company Direction"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=16THFEB&ra",
       "coupon_code": "16THFEB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
       "title": "Financial Services - Overview of Retail Banking"
-    },
-    {
-      "url": "https://www.udemy.com/course/freelancingcareer/?couponCode=E0970354B3A4696403C5",
-      "coupon_code": "E0970354B3A4696403C5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6143377_9daf_4.jpg",
-      "title": "Freelancing Secrets: How to Build a Lucrative Career"
     },
     {
       "url": "https://www.udemy.com/course/master-dns/?couponCode=98F5726BD12412950364",
@@ -51,7 +53,62 @@
     {
       "url": "https://www.udemy.com/course/medical-billing-coding-certification-prep-for-beginners/?couponCode=78572406301BFB3A269A",
       "coupon_code": "78572406301BFB3A269A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6823783_0922_3.jpg",
+      "title": "Medical Billing & Coding for Beginners: Certification Prep"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-customer-experience-management/?couponCode=D4A2C8A4A97C6F8D807A",
+      "coupon_code": "D4A2C8A4A97C6F8D807A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5979820_d261.jpg",
+      "title": "Professional Certificate in Customer Experience Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-marketing-and-marketing-management/?couponCode=78AB219F985E02CFA7DC",
+      "coupon_code": "78AB219F985E02CFA7DC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5972952_4743_5.jpg",
+      "title": "Professional Certificate in Marketing & Marketing Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-smm-social-media-marketing/?couponCode=B2FA377EAC88ABD1618C",
+      "coupon_code": "B2FA377EAC88ABD1618C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5966724_110a.jpg",
+      "title": "Professional Certificate in SMM Social Media Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-product-management-and-development/?couponCode=0C6A0F2EE456C60E7F6F",
+      "coupon_code": "0C6A0F2EE456C60E7F6F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5962094_cc69_2.jpg",
+      "title": "Professional Certificate: Product Management and Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-development-and-python-programming-fundamentals/?couponCode=8E651F08F68D4D8ED19B",
+      "coupon_code": "8E651F08F68D4D8ED19B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5966548_dec0.jpg",
+      "title": "Python Development and Python Programming Fundamentals"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=80133DA2D075853A8319",
+      "coupon_code": "80133DA2D075853A8319",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3495852_8004.jpg",
+      "title": "Python For Beginners Course In-Depth"
+    },
+    {
+      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
+      "title": "Empathy and Emotional Intelligence for Project Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
+    },
+    {
+      "url": "https://www.udemy.com/course/freelancingcareer/?couponCode=E0970354B3A4696403C5",
+      "coupon_code": "E0970354B3A4696403C5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6143377_9daf_4.jpg",
+      "title": "Freelancing Secrets: How to Build a Lucrative Career"
     },
     {
       "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=FAF18F1DCB5B049E37AD",
@@ -66,11 +123,6 @@
       "title": "Professional Certificate in Career Coaching"
     },
     {
-      "url": "https://www.udemy.com/course/professional-certificate-product-management-and-development/?couponCode=0C6A0F2EE456C60E7F6F",
-      "coupon_code": "0C6A0F2EE456C60E7F6F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-in-procurement-management/?couponCode=1A4CDB9ECE98C9325B5C",
       "coupon_code": "1A4CDB9ECE98C9325B5C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6180255_1f1e.jpg",
@@ -81,11 +133,6 @@
       "coupon_code": "8B6DD6B7AD12F31C694B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5953608_4713.jpg",
       "title": "Professional Diploma of Mortgage and Lending Broker"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-development-and-python-programming-fundamentals/?couponCode=8E651F08F68D4D8ED19B",
-      "coupon_code": "8E651F08F68D4D8ED19B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=16THFEB&ra",
