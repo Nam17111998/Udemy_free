@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-02-18T20:50:27Z",
-  "count": 905,
+  "updated_at": "2026-02-18T21:41:45Z",
+  "count": 906,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=28805479BD89D0ED6774",
+      "coupon_code": "28805479BD89D0ED6774",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/art-gallery-management-mastery-course/?couponCode=05FB651F4370CA6E2459",
       "coupon_code": "05FB651F4370CA6E2459",
@@ -63,12 +68,6 @@
       "title": "Introduction to Financial Products & Services"
     },
     {
-      "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5865814_bd91_4.jpg",
-      "title": "Introduction to Risk Management - Decision Makers & Leaders"
-    },
-    {
       "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=45DA2184715BDA4CE028",
       "coupon_code": "45DA2184715BDA4CE028",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6591509_ee81_3.jpg",
@@ -91,6 +90,12 @@
       "coupon_code": "4BECA377753B2F1DF4CE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6581417_b19b.jpg",
       "title": "Mastering Vim and Neovim: Vim for Linux Users and Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865814_bd91_4.jpg",
+      "title": "Introduction to Risk Management - Decision Makers & Leaders"
     },
     {
       "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=3FB11F9E0427A937C884",
