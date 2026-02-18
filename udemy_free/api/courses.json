@@ -1,31 +1,114 @@
 {
-  "updated_at": "2026-02-18T17:16:21Z",
-  "count": 991,
+  "updated_at": "2026-02-18T19:06:20Z",
+  "count": 999,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=3FB11F9E0427A937C884",
+      "coupon_code": "3FB11F9E0427A937C884",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5150328_6242_9.jpg",
+      "title": "Generative AI : Create an impressive AI Art 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/bash-fundamentals-for-linux-users/?couponCode=5F72605B1D07950E6C03",
+      "coupon_code": "5F72605B1D07950E6C03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6982145_933f_2.jpg",
+      "title": "Mastering Bash Shell Scripting | Developers and Linux users"
+    },
     {
       "url": "https://www.udemy.com/course/break-the-chains-from-broken-to-boundless-full-course/?couponCode=211837E6DA10281DCEFB",
       "coupon_code": "211837E6DA10281DCEFB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6963923_ae4c.jpg",
+      "title": "Break the Chains: Heal Emotional Wounds & Rebuild Confidence"
     },
     {
       "url": "https://www.udemy.com/course/break-the-chains-from-broken-to-boundless-mini-course/?couponCode=2392928C56B29318E668",
       "coupon_code": "2392928C56B29318E668",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6938437_3dfd.jpg",
+      "title": "Break the Chains  From Broken to Boundless (Mini Course)"
+    },
+    {
+      "url": "https://www.udemy.com/course/currency-management-for-small-businesses-corporates/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5581978_25ad_2.jpg",
+      "title": "Currency Management for Small Businesses & Corporates"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-digital-transformation/?couponCode=1172B775A04F6C3FE255",
+      "coupon_code": "1172B775A04F6C3FE255",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6156323_644d_2.jpg",
+      "title": "Executive Certificate in Digital Transformation"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6560763_3fe2.jpg",
+      "title": "Financial Services - Funds Flow Optimization Concepts"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/?couponCode=5A8BAA67A98F6D9B009B",
+      "coupon_code": "5A8BAA67A98F6D9B009B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6131097_b544_4.jpg",
+      "title": "GIT, GitLab, GitHub Fundamentals for Software Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-vsc-essentials/?couponCode=39964B97901C01528FE0",
+      "coupon_code": "39964B97901C01528FE0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6866891_2adb_3.jpg",
+      "title": "Git Version Control for Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/gnu-make-crash-course/?couponCode=B118816C1C038DF0BD0A",
+      "coupon_code": "B118816C1C038DF0BD0A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7036775_7beb_5.jpg",
+      "title": "GNU Make & Makefiles Crash Course for Build Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865814_bd91_4.jpg",
+      "title": "Introduction to Risk Management - Decision Makers & Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=45DA2184715BDA4CE028",
+      "coupon_code": "45DA2184715BDA4CE028",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6591509_ee81_3.jpg",
+      "title": "Linux Nano Editor Crash Course | Linux Terminal Productivity"
+    },
+    {
+      "url": "https://www.udemy.com/course/prisma-orm-fundamentals/?couponCode=F07841B15DBA1DA59015",
+      "coupon_code": "F07841B15DBA1DA59015",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802763_eaad.jpg",
+      "title": "Prisma ORM Crash Course for Web Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-happiness-method/?couponCode=6766ACEB9A59BE3AFDC0",
+      "coupon_code": "6766ACEB9A59BE3AFDC0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6844609_9b8e_4.jpg",
+      "title": "The Happiness Method"
+    },
+    {
+      "url": "https://www.udemy.com/course/vim-fundamentals/?couponCode=4BECA377753B2F1DF4CE",
+      "coupon_code": "4BECA377753B2F1DF4CE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581417_b19b.jpg",
+      "title": "Mastering Vim and Neovim: Vim for Linux Users and Developers"
     },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?couponCode=D79358109B67F26251B8",
       "coupon_code": "D79358109B67F26251B8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6191737_6836.jpg",
+      "title": "C# Mastering Course For Intermediates"
     },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-professionals/?couponCode=23CCD95A6D1E5421DE22",
       "coupon_code": "23CCD95A6D1E5421DE22",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6203549_4a00.jpg",
+      "title": "C# Mastering Course For Professionals"
     },
     {
       "url": "https://www.udemy.com/course/design-a-website-template-using-html5-css3/?couponCode=A8080C8EFAE1AA38A1C4",
       "coupon_code": "A8080C8EFAE1AA38A1C4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5983538_9b76_2.jpg",
+      "title": "Design a Website Template using HTML5 & CSS3"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=16THFEB&ra",
@@ -36,18 +119,14 @@
     {
       "url": "https://www.udemy.com/course/feature-engineering-for-machine-learning-101/?couponCode=E8B24083AC62D06805C4",
       "coupon_code": "E8B24083AC62D06805C4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6141171_c75f_3.jpg",
+      "title": "Feature Engineering  For Machine Learning 101"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=16THFEB&ra",
       "coupon_code": "16THFEB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6611461_d0c7_3.jpg",
       "title": "Financial Services - Basics of Regulation & Compliance"
-    },
-    {
-      "url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/?couponCode=5A8BAA67A98F6D9B009B",
-      "coupon_code": "5A8BAA67A98F6D9B009B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/intentional-leadership/?couponCode=16THFEB&ra",
@@ -58,57 +137,62 @@
     {
       "url": "https://www.udemy.com/course/javascript-from-scratch-beginner-level/?couponCode=AB71A3416084E6B7D677",
       "coupon_code": "AB71A3416084E6B7D677",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6037212_475c_2.jpg",
+      "title": "JavaScript From Scratch ( Part 1 - Beginner Level)"
     },
     {
       "url": "https://www.udemy.com/course/leadership-for-successful-project-management-and-delivery/?couponCode=16THFEB&ra",
       "coupon_code": "16THFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066383_427f.jpg",
+      "title": "Leadership for Successful Project Management and Delivery"
     },
     {
       "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-1-beginner-level/?couponCode=2A534C9D68622B3CA072",
       "coupon_code": "2A534C9D68622B3CA072",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5899092_dc59_4.jpg",
+      "title": "Mastering HTML5 and CSS3 (Part 1 - Beginner Level)"
     },
     {
       "url": "https://www.udemy.com/course/python-course-from-zero-to-hero-intermediate-level/?couponCode=D7A96CD4F6AFFB1A6288",
       "coupon_code": "D7A96CD4F6AFFB1A6288",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-happiness-method/?couponCode=6766ACEB9A59BE3AFDC0",
-      "coupon_code": "6766ACEB9A59BE3AFDC0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6427889_de98.jpg",
+      "title": "Python course from Zero-to-Hero - Intermediate Level"
     },
     {
       "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/?couponCode=380C4281739CD6A707BA",
       "coupon_code": "380C4281739CD6A707BA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6174285_af41_3.jpg",
+      "title": "C# Mastering Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-2-intermediate-level/?couponCode=B56F47E14712E2B7B1CF",
       "coupon_code": "B56F47E14712E2B7B1CF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5953662_e8e8_3.jpg",
+      "title": "Mastering HTML5 and CSS3 (Part 2 - Intermediate  Level)"
     },
     {
       "url": "https://www.udemy.com/course/mastering-html5-and-css3-part-3-advanced-level/?couponCode=35536E1698E43D79D1A9",
       "coupon_code": "35536E1698E43D79D1A9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5968850_e30f_2.jpg",
+      "title": "Mastering HTML5 and CSS3 (Part 3 - Advanced Level)"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-project-management/?couponCode=193C204CE0550BBAD3A1",
       "coupon_code": "193C204CE0550BBAD3A1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6129411_42a2.jpg",
+      "title": "Professional Certificate in Project Management"
     },
     {
       "url": "https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/?couponCode=4B896F813CF4FD38E62B",
       "coupon_code": "4B896F813CF4FD38E62B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6095163_4255_2.jpg",
+      "title": "Python from Zero-to-Hero (Beginner Level)"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-android-kotlin-app-development-a-z-bootcamp/?couponCode=9546E322E8529231DC50",
       "coupon_code": "9546E322E8529231DC50",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5817234_e9f0.jpg",
+      "title": "The Complete Android & Kotlin App Development A-Z Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=16THFEB&ra",
@@ -589,18 +673,6 @@
       "coupon_code": "16THFEB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5297378_1508_2.jpg",
       "title": "Authentic Leadership"
-    },
-    {
-      "url": "https://www.udemy.com/course/currency-management-for-small-businesses-corporates/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5581978_25ad_2.jpg",
-      "title": "Currency Management for Small Businesses & Corporates"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6560763_3fe2.jpg",
-      "title": "Financial Services - Funds Flow Optimization Concepts"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-coaching/?couponCode=174FE5923AB5A3AA1D8A",
@@ -1777,12 +1849,6 @@
       "coupon_code": "BD0B3D2D7AD51BCB3F0A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6098499_0cff_3.jpg",
       "title": "BUILD IN PUBLIC Your Learning like a Film & Grow an Audience"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5865814_bd91_4.jpg",
-      "title": "Introduction to Risk Management - Decision Makers & Leaders"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-real-estate-business-expert/?couponCode=ADA1C393003E001CA9CD",
