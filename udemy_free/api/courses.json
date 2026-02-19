@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-19T14:56:08Z",
-  "count": 907,
+  "updated_at": "2026-02-19T15:57:44Z",
+  "count": 910,
   "courses": [
     {
       "url": "https://www.udemy.com/course/advanced-prompt-engineering-certification/?couponCode=88C18B8202B37511C090",
@@ -25,10 +25,9 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5967346_dd34.jpg",
-      "title": "Developing successful Professional Relationships"
+      "url": "https://www.udemy.com/course/doughnut-economics-framework/?couponCode=1BF376632334D7E95045",
+      "coupon_code": "1BF376632334D7E95045",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=16THFEB&ra",
@@ -43,10 +42,16 @@
       "title": "Financial Services - Basics of Regulation & Compliance"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=16THFEB&ra",
+      "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=16THFEB&ra",
       "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
-      "title": "Financial Services - Overview of Central Banks"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6656207_ffa4.jpg",
+      "title": "Financial Services - Understanding Interest Rates"
+    },
+    {
+      "url": "https://www.udemy.com/course/intentional-leadership/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5502800_1dbd_2.jpg",
+      "title": "Intentional Leadership"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=16THFEB&ra",
@@ -55,20 +60,16 @@
       "title": "Introduction to Financial Controls"
     },
     {
-      "url": "https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=7637F20669C19E7E4861",
-      "coupon_code": "7637F20669C19E7E4861",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-ai-on-aws-training-aws-certified-ai-practitioner/?couponCode=FEBFREE03",
       "coupon_code": "FEBFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6222319_e987.jpg",
       "title": "Mastering AI on AWS: Training AWS Certified AI-Practitioner"
     },
     {
-      "url": "https://www.udemy.com/course/office-password-cracking/?couponCode=DE74C0CAC50052F207C1",
-      "coupon_code": "DE74C0CAC50052F207C1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/professional-certificate-in-devops/?couponCode=B10FB939A454C878D0DC",
+      "coupon_code": "B10FB939A454C878D0DC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409957_384f_3.jpg",
+      "title": "Professional Certificate in DevOps"
     },
     {
       "url": "https://www.udemy.com/course/prompt-engineering-certification-master-ai/?couponCode=7C8CA95FEACCD804BE14",
@@ -78,6 +79,33 @@
     {
       "url": "https://www.udemy.com/course/the-executive-ai-audit/?couponCode=AI-FEB",
       "coupon_code": "AI-FEB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-future-of-work-job/?couponCode=25CB3B8CADC89D405AB1",
+      "coupon_code": "25CB3B8CADC89D405AB1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5967346_dd34.jpg",
+      "title": "Developing successful Professional Relationships"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=7637F20669C19E7E4861",
+      "coupon_code": "7637F20669C19E7E4861",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/office-password-cracking/?couponCode=DE74C0CAC50052F207C1",
+      "coupon_code": "DE74C0CAC50052F207C1",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -861,12 +889,6 @@
       "title": "التغير المناخي: الأسباب والعواقب والحلول"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6656207_ffa4.jpg",
-      "title": "Financial Services - Understanding Interest Rates"
-    },
-    {
       "url": "https://www.udemy.com/course/git-vsc-essentials/?couponCode=39964B97901C01528FE0",
       "coupon_code": "39964B97901C01528FE0",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6866891_2adb_3.jpg",
@@ -967,12 +989,6 @@
       "coupon_code": "E8B24083AC62D06805C4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6141171_c75f_3.jpg",
       "title": "Feature Engineering  For Machine Learning 101"
-    },
-    {
-      "url": "https://www.udemy.com/course/intentional-leadership/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5502800_1dbd_2.jpg",
-      "title": "Intentional Leadership"
     },
     {
       "url": "https://www.udemy.com/course/javascript-from-scratch-beginner-level/?couponCode=AB71A3416084E6B7D677",
