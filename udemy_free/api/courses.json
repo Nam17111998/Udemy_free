@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-02-19T08:55:52Z",
-  "count": 980,
+  "updated_at": "2026-02-19T09:58:46Z",
+  "count": 995,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-masterclass-beginner-to-pro-photo-editor/?couponCode=D819A96DCBA684A6032C",
+      "coupon_code": "D819A96DCBA684A6032C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-made-easy-step-by-step-guide/?couponCode=14D285E361C1CEDDDA6F",
+      "coupon_code": "14D285E361C1CEDDDA6F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6861949_acd4.jpg",
+      "title": "Adobe Premiere Pro Made Easy: Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/basic-wordpress-web-development-course-for-beginner-zero-to-hero/?couponCode=3C4B90BA09580AE28A17",
+      "coupon_code": "3C4B90BA09580AE28A17",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-ninja-mastering-video-editing-basics-to-advanced/?couponCode=90157C49A00D0DC15019",
+      "coupon_code": "90157C49A00D0DC15019",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-css-web-design-course-front-end-web-development/?couponCode=5285F15EBC602DE1B70B",
+      "coupon_code": "5285F15EBC602DE1B70B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-guide-to-python-data-structures-and-algorithms-cour/?couponCode=E8C2BDF301EC4D85B26B",
+      "coupon_code": "E8C2BDF301EC4D85B26B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/fiverr-freelancing-for-absolute-beginners-basic-to-advance/?couponCode=4A8C661208D00090122E",
+      "coupon_code": "4A8C661208D00090122E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/?couponCode=A54931A1F769C1DA576A",
+      "coupon_code": "A54931A1F769C1DA576A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-microsoft-office-with-chatgpt-gemini-and-copilot/?couponCode=FC4CA36C159C115A73E3",
+      "coupon_code": "FC4CA36C159C115A73E3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-ms-word-excel-powerpoint-and-google-doc-google-sheets/?couponCode=F9E83447E63873BC62CB",
+      "coupon_code": "F9E83447E63873BC62CB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-word-for-everyone-a-step-by-step-guide/?couponCode=5D385064BB55E17FFFE7",
+      "coupon_code": "5D385064BB55E17FFFE7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863661_782d_2.jpg",
+      "title": "Mastering Microsoft Word for Everyone: A Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-social-media-marketing-a-comprehensive-guide/?couponCode=D9FC98D3F9C8065AAC70",
+      "coupon_code": "D9FC98D3F9C8065AAC70",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/nist-risk-management-framework-rmf-for-small-enterprise/?couponCode=B16D8C9C4DA3772F2700",
+      "coupon_code": "B16D8C9C4DA3772F2700",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-game-development-and-app-programming-masterclass/?couponCode=27F5161FD33165E91700",
+      "coupon_code": "27F5161FD33165E91700",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-masterclass-in-photoshop-sell-your-t-shirt/?couponCode=03800D48B2BB173B77A4",
+      "coupon_code": "03800D48B2BB173B77A4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/?couponCode=5F086A8307DF2858BCCB",
       "coupon_code": "5F086A8307DF2858BCCB",
@@ -20,7 +97,8 @@
     {
       "url": "https://www.udemy.com/course/cold-marketing-strategy/?couponCode=19FEBRUARY2026",
       "coupon_code": "19FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4989860_36d3.jpg",
+      "title": "Build Your Best Cold Email Strategy!"
     },
     {
       "url": "https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=19FEBRUARY2026",
@@ -40,7 +118,8 @@
     {
       "url": "https://www.udemy.com/course/excel-guide/?couponCode=19FEBRUARY2026",
       "coupon_code": "19FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4339030_902b.jpg",
+      "title": "Microsoft Excel Comprehensive Guide"
     },
     {
       "url": "https://www.udemy.com/course/facebook-ads-launch-pro-advertising-campaigns/?couponCode=19FEBRUARY2026",
@@ -126,7 +205,8 @@
     {
       "url": "https://www.udemy.com/course/master-nodejs-from-beginner-to-full-stack-developer/?couponCode=386CEADECA219BEE91A4",
       "coupon_code": "386CEADECA219BEE91A4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761607_265e_3.jpg",
+      "title": "Master Node.js: From Beginner to Full-Stack Developer"
     },
     {
       "url": "https://www.udemy.com/course/mastering-c-learn-building-games-application-softwares/?couponCode=79D474EFA86930E780BF",
