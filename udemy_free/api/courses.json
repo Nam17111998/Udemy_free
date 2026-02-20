@@ -1,21 +1,108 @@
 {
-  "updated_at": "2026-02-20T02:44:40Z",
-  "count": 934,
+  "updated_at": "2026-02-20T04:53:25Z",
+  "count": 945,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/aging-and-geriatrics/?couponCode=749C91FE888E480378BE",
+      "coupon_code": "749C91FE888E480378BE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5067800_0e26.jpg",
+      "title": "Aging and Geriatrics"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-product-and-process-optimization/?couponCode=STARSTUDENT",
+      "coupon_code": "STARSTUDENT",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6870527_bdd1_6.jpg",
+      "title": "AI for Product and Process Optimization"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-product-leaders-strategy-innovation-execution/?couponCode=STARSTUDENT",
+      "coupon_code": "STARSTUDENT",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6889299_95ca_4.jpg",
+      "title": "AI Product Management: Strategy, Innovation & Execution"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificado-profesional-en-gestion-de-riesgos/?couponCode=DF04C762EA1C9C52C416",
+      "coupon_code": "DF04C762EA1C9C52C416",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6540485_eaec_2.jpg",
+      "title": "Certificado Profesional en Gestión de Riesgos"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-work-use-ai-at-work-to-improve-efficiency/?couponCode=0B88B02DC7B2D5E59DB0",
+      "coupon_code": "0B88B02DC7B2D5E59DB0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6167341_cb76_2.jpg",
+      "title": "Full AI Tools 2026: ChatGPT, Midjourney, Gemini, Firefly"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-presence-foundations-of-confident-leadership/?couponCode=C8614E4F5946DAC4910C",
+      "coupon_code": "C8614E4F5946DAC4910C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6529345_9bf3_4.jpg",
+      "title": "Executive Presence: Foundations of Confident Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-ads-masterclass-2021-all-campaign-creations/?couponCode=C01F05585F3AA7DC81EC",
+      "coupon_code": "C01F05585F3AA7DC81EC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4069002_ce90_3.jpg",
+      "title": "Google Ads MasterClass 2026 - All Campaign Builds & Features"
+    },
+    {
+      "url": "https://www.udemy.com/course/market-research-competitive-analysis-executive-certificate/?couponCode=C195535C78F561348A22",
+      "coupon_code": "C195535C78F561348A22",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6510181_0ab4_2.jpg",
+      "title": "Market Research & Competitive Analysis Executive Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/market-research-for-product-management/?couponCode=DD019352C7BD65808A64",
+      "coupon_code": "DD019352C7BD65808A64",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6510357_61bc.jpg",
+      "title": "Market Research for Product Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/poultry-farming-nutrition-and-clinical-nutrition-stepby-step/?couponCode=233745339B04DC8D1143",
+      "coupon_code": "233745339B04DC8D1143",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4895666_5d28_5.jpg",
+      "title": "Poultry Farming Nutrition and Clinical Nutrition"
+    },
+    {
+      "url": "https://www.udemy.com/course/poultry-farming-vaccines-and-vaccinations/?couponCode=DB1C3B12FD4D4EE32CF8",
+      "coupon_code": "DB1C3B12FD4D4EE32CF8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4928292_7919_4.jpg",
+      "title": "\"Essential Guide to Poultry Vaccination\""
+    },
+    {
+      "url": "https://www.udemy.com/course/principles-of-meat-science/?couponCode=9DF2C53671F196D67DDE",
+      "coupon_code": "9DF2C53671F196D67DDE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6511603_3cf3_2.jpg",
+      "title": "Principles of Meat Science: Meat Quality, Processing Safety"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-finance-data-analysis-analytics/?couponCode=E544C8579A4A1392276D",
+      "coupon_code": "E544C8579A4A1392276D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6536711_5b57_2.jpg",
+      "title": "Professional Certificate: Finance Data Analysis & Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-course-/?couponCode=9460848A07190C6C2ADA",
+      "coupon_code": "9460848A07190C6C2ADA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3378022_637b.jpg",
+      "title": "Python And Flask Framework Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/time-management-and-timeboxing-in-business-projects-agile/?couponCode=20808558B7EEEB620C0C",
+      "coupon_code": "20808558B7EEEB620C0C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6547817_1ea7_2.jpg",
+      "title": "Time Management and Timeboxing in Business, Projects, Agile"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-business-marketing-strategy/?couponCode=F09A45510799A57A4572",
       "coupon_code": "F09A45510799A57A4572",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6442635_1cbb_2.jpg",
+      "title": "Advanced Certificate in Business & Marketing Strategy"
     },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-financial-analysis-and-management/?couponCode=69F2C088AEAE8E53139F",
       "coupon_code": "69F2C088AEAE8E53139F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/aging-and-geriatrics/?couponCode=749C91FE888E480378BE",
-      "coupon_code": "749C91FE888E480378BE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6456169_2396_4.jpg",
+      "title": "Advanced Certificate in Financial Analysis and Management"
     },
     {
       "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=260504A853B7AA015895",
@@ -26,44 +113,32 @@
     {
       "url": "https://www.udemy.com/course/css-javascriptphp-and-python-programming-all-in-one-course/?couponCode=E5DD860F69595236F34F",
       "coupon_code": "E5DD860F69595236F34F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4359810_9463.jpg",
+      "title": "CSS, JavaScript,PHP And Python Programming All in One Course"
     },
     {
       "url": "https://www.udemy.com/course/how-to-build-in-public/?couponCode=04F496847A85866F9F66",
       "coupon_code": "04F496847A85866F9F66",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6098499_0cff_3.jpg",
+      "title": "BUILD IN PUBLIC Your Learning like a Film & Grow an Audience"
     },
     {
       "url": "https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=E919AF484AF912273D9B",
       "coupon_code": "E919AF484AF912273D9B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4976816_e82f.jpg",
+      "title": "Java And C++ Complete Course for Java And C++ Beginners"
     },
     {
       "url": "https://www.udemy.com/course/learn-modern-course-creation-fast-without-design-or-editing/?couponCode=980A20A3C190318E4FF1",
       "coupon_code": "980A20A3C190318E4FF1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/market-research-competitive-analysis-executive-certificate/?couponCode=C195535C78F561348A22",
-      "coupon_code": "C195535C78F561348A22",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/market-research-for-product-management/?couponCode=DD019352C7BD65808A64",
-      "coupon_code": "DD019352C7BD65808A64",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7049411_1c44.jpg",
+      "title": "Learn Modern Course Creation Fast Without Design or Editing"
     },
     {
       "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=1EFB81788981804EF9A4",
       "coupon_code": "1EFB81788981804EF9A4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6022786_dbe8_2.jpg",
       "title": "ÉVITER L'ÉCHEC : Le système qui maximalise la réussite"
-    },
-    {
-      "url": "https://www.udemy.com/course/principles-of-meat-science/?couponCode=9DF2C53671F196D67DDE",
-      "coupon_code": "9DF2C53671F196D67DDE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6511603_3cf3_2.jpg",
-      "title": "Principles of Meat Science: Meat Quality, Processing Safety"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-financial-analysis-and-modeling/?couponCode=E1D6EAFAB612465C9CA6",
