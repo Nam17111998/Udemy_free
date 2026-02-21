@@ -1,7 +1,89 @@
 {
-  "updated_at": "2026-02-21T02:38:31Z",
-  "count": 914,
+  "updated_at": "2026-02-21T04:42:30Z",
+  "count": 924,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/canva-for-social-media-zero-to-hero-graphic-design-in-canva/?couponCode=A422AFDDEE0F76AEFCAB",
+      "coupon_code": "A422AFDDEE0F76AEFCAB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/clinical-pharmacology-therapeutics-online-course/?couponCode=30F6F14DB9C86E8C8D57",
+      "coupon_code": "30F6F14DB9C86E8C8D57",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668463_0d35.jpg",
+      "title": "Clinical Pharmacology & Therapeutics Online Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=E41171D6EC068DA0ED68",
+      "coupon_code": "E41171D6EC068DA0ED68",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5032410_a449.jpg",
+      "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-excel-essential-with-tips-trick-and-job-success/?couponCode=4BDFE8248FFC0DD25351",
+      "coupon_code": "4BDFE8248FFC0DD25351",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-functions-with-charts-graphs/?couponCode=3AB4666F13448015AD49",
+      "coupon_code": "3AB4666F13448015AD49",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-the-complete-excel-data-analysis-course/?couponCode=FC06C0157CCF46757CFA",
+      "coupon_code": "FC06C0157CCF46757CFA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=60A4EEFFAAB6ECB4E13B",
+      "coupon_code": "60A4EEFFAAB6ECB4E13B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg",
+      "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgresql-bootcamp-complete-beginner-to-advanced-course/?couponCode=9DD5589CBBAA267F59AB",
+      "coupon_code": "9DD5589CBBAA267F59AB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6008692_3c52.jpg",
+      "title": "PostgreSQL Bootcamp : Complete Beginner to Advanced Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=16THFEB&ra",
+      "coupon_code": "16THFEB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
+      "title": "Productivity - Focus, Concentration & Performance Strategies"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=D0AA18E9FD37F3290CD9",
+      "coupon_code": "D0AA18E9FD37F3290CD9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-r-programming-language-beginners-to-pro/?couponCode=FF97B48380FB8BEB4E43",
+      "coupon_code": "FF97B48380FB8BEB4E43",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/risk-management-in-hindi/?couponCode=5C5BC130C3398434F111",
+      "coupon_code": "5C5BC130C3398434F111",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6607221_b17e_5.jpg",
+      "title": "रिस्क मैनेजमेंट में प्रोफेशनल सर्टिफिकेट"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-capcut-premiere-pro/?couponCode=95B4BC7372B3358B5708",
+      "coupon_code": "95B4BC7372B3358B5708",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/understanding-typescript-for-beginner-to-advanced/?couponCode=8D5A79952561F4F59718",
+      "coupon_code": "8D5A79952561F4F59718",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/vivre-librement/?couponCode=4C863B288D9AF5050981",
+      "coupon_code": "4C863B288D9AF5050981",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
+      "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
+    },
     {
       "url": "https://www.udemy.com/course/antigens-the-structure-function-and-immune-response/?couponCode=DE3399A05EC1BE7602C8",
       "coupon_code": "DE3399A05EC1BE7602C8",
@@ -21,22 +103,10 @@
       "title": "Clinical Nutrition and Dietetics"
     },
     {
-      "url": "https://www.udemy.com/course/clinical-pharmacology-therapeutics-online-course/?couponCode=30F6F14DB9C86E8C8D57",
-      "coupon_code": "30F6F14DB9C86E8C8D57",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6668463_0d35.jpg",
-      "title": "Clinical Pharmacology & Therapeutics Online Course"
-    },
-    {
       "url": "https://www.udemy.com/course/computer-aided-drug-design-and-discovery/?couponCode=CA028E39977E047F26EF",
       "coupon_code": "CA028E39977E047F26EF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5519248_054f_2.jpg",
       "title": "Computer-Aided Drug Design and Discovery"
-    },
-    {
-      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=E41171D6EC068DA0ED68",
-      "coupon_code": "E41171D6EC068DA0ED68",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5032410_a449.jpg",
-      "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
     },
     {
       "url": "https://www.udemy.com/course/food-microbiology-probiotics/?couponCode=2CD914C60AC8C7E06C0D",
@@ -63,12 +133,6 @@
       "title": "Phlebotomy Foundations: Understanding Procedures & Protocols"
     },
     {
-      "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=16THFEB&ra",
-      "coupon_code": "16THFEB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6019338_e4a2_3.jpg",
-      "title": "Productivity - Focus, Concentration & Performance Strategies"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-certificate-in-risk-management-arabic-version/?couponCode=A062EA78A3E491715DE8",
       "coupon_code": "A062EA78A3E491715DE8",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6607207_7136_3.jpg",
@@ -79,18 +143,6 @@
       "coupon_code": "0910D2E5D98E4295B8B2",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4982304_e82d.jpg",
       "title": "Recombinant DNA Technology & Genetic Engineering"
-    },
-    {
-      "url": "https://www.udemy.com/course/risk-management-in-hindi/?couponCode=5C5BC130C3398434F111",
-      "coupon_code": "5C5BC130C3398434F111",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6607221_b17e_5.jpg",
-      "title": "रिस्क मैनेजमेंट में प्रोफेशनल सर्टिफिकेट"
-    },
-    {
-      "url": "https://www.udemy.com/course/vivre-librement/?couponCode=4C863B288D9AF5050981",
-      "coupon_code": "4C863B288D9AF5050981",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
-      "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
     },
     {
       "url": "https://www.udemy.com/course/secrets-of-dna-and-its-manipulation/?couponCode=58D71FF55A4565039FCD",
