@@ -1,11 +1,96 @@
 {
-  "updated_at": "2026-02-21T23:32:05Z",
-  "count": 909,
+  "updated_at": "2026-02-22T02:51:07Z",
+  "count": 921,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=1A0A8B011D2EA256AC6B",
+      "coupon_code": "1A0A8B011D2EA256AC6B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5112922_e7f7_9.jpg",
+      "title": "Learn React by Building the Simplest App from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=5921F319958F29A92E72",
+      "coupon_code": "5921F319958F29A92E72",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
+      "title": "Build a Backend REST API with Node JS from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=54F2EB395C45A6E9548B",
+      "coupon_code": "54F2EB395C45A6E9548B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5377010_fb30_4.jpg",
+      "title": "Build a Robust RESTful API with PHP 8, from Scratch!"
+    },
+    {
+      "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=AA192BF0B6E417853978",
+      "coupon_code": "AA192BF0B6E417853978",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5941852_757f_3.jpg",
+      "title": "Efficacité et Concentration pour RÉSULTATS EXTRÊMES"
+    },
+    {
+      "url": "https://www.udemy.com/course/consumer_lending/?couponCode=C9E613F15401A72838BB",
+      "coupon_code": "C9E613F15401A72838BB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4908586_b243_2.jpg",
+      "title": "Executive Diploma in Consumer Lending Business"
+    },
     {
       "url": "https://www.udemy.com/course/corporate_management/?couponCode=FF2A650577DB991F3025",
       "coupon_code": "FF2A650577DB991F3025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4608318_ba6d.jpg",
+      "title": "Professional Diploma in Corporate Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/cursor-ai-build-apps/?couponCode=87D6F92F905C9B0A983A",
+      "coupon_code": "87D6F92F905C9B0A983A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6512287_1625_8.jpg",
+      "title": "Cursor Vibe Coding Pro: Build Any App from Scratch with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=6FF3A0442AA71E4D737A",
+      "coupon_code": "6FF3A0442AA71E4D737A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
+      "title": "Transforme ton Intérieur en Environnement de Réussite"
+    },
+    {
+      "url": "https://www.udemy.com/course/fast-track-to-shell-scripting-for-linux-admins/?couponCode=51C4C32433BBEAE4AA3D",
+      "coupon_code": "51C4C32433BBEAE4AA3D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5385340_7906_2.jpg",
+      "title": "Learn Linux Shell Scripting for Admins & DevOps in 2 Hours"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-de-champion/?couponCode=869AB6DD11DB6AAC3B6B",
+      "coupon_code": "869AB6DD11DB6AAC3B6B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6840037_3e21.jpg",
+      "title": "Mental de Champion transformer tes problèmes en opportunités"
+    },
+    {
+      "url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=94A905FE188A68F408F7",
+      "coupon_code": "94A905FE188A68F408F7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4740068_c1b7_2.jpg",
+      "title": "Professional Diploma in Omnichannel Sales&Service Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgraduate-executive-diploma-general-management/?couponCode=5F9B4D80B5507F15804C",
+      "coupon_code": "5F9B4D80B5507F15804C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5152536_8ae8.jpg",
+      "title": "Executive Diploma in General Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgraduate-executive-diploma-leadership/?couponCode=E214838767776BE0ECFF",
+      "coupon_code": "E214838767776BE0ECFF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5152396_f419_3.jpg",
+      "title": "Executive Diploma in Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-course-/?couponCode=8D5815B51B182C65F269",
+      "coupon_code": "8D5815B51B182C65F269",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3378022_637b.jpg",
+      "title": "Python And Flask Framework Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/securing-the-budget-for-your-project-with-a-winning-pitch-deck/?couponCode=C227A1B3A8952DDD63B7",
+      "coupon_code": "C227A1B3A8952DDD63B7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5201664_eedb_5.jpg",
+      "title": "Executive Diploma in Business Presenting Skills"
     },
     {
       "url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=E0CC31C127AB82C9473D",
@@ -22,12 +107,8 @@
     {
       "url": "https://www.udemy.com/course/digital-product-owner/?couponCode=5DF01D48B97C4DDE99E6",
       "coupon_code": "5DF01D48B97C4DDE99E6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/fast-track-to-shell-scripting-for-linux-admins/?couponCode=51C4C32433BBEAE4AA3D",
-      "coupon_code": "51C4C32433BBEAE4AA3D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4592914_5934.jpg",
+      "title": "Professional Diploma in Digital Products Management"
     },
     {
       "url": "https://www.udemy.com/course/go-viral-without-a-mic-elevenlabs-ai-for-social-media/?couponCode=85D4D48A3C703CACA591",
@@ -60,11 +141,6 @@
       "title": "Mechanical Engineering 101 (From Student to Professional )"
     },
     {
-      "url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=94A905FE188A68F408F7",
-      "coupon_code": "94A905FE188A68F408F7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/postgraduate-diploma-in-office-administration-management/?couponCode=7447EC7DAEB7A89267C3",
       "coupon_code": "7447EC7DAEB7A89267C3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4559658_8ef3_3.jpg",
@@ -73,7 +149,8 @@
     {
       "url": "https://www.udemy.com/course/project-managers/?couponCode=25DDB4C7D52B35F7189C",
       "coupon_code": "25DDB4C7D52B35F7189C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4606632_2a39.jpg",
+      "title": "Professional Diploma in Project Management"
     },
     {
       "url": "https://www.udemy.com/course/projectmanagementdiploma/?couponCode=C0374FBEC3AB65B9BE0E",
@@ -96,7 +173,8 @@
     {
       "url": "https://www.udemy.com/course/build-ai-projects-without-code/?couponCode=7965BDBF3A4350AE05F4",
       "coupon_code": "7965BDBF3A4350AE05F4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6688691_35f1_4.jpg",
+      "title": "Build AI Projects Without Code"
     },
     {
       "url": "https://www.udemy.com/course/ai-mastery-chatgpt-prompts-midjourney-image-creation/?couponCode=9C82608BB9B138CD9E84",
