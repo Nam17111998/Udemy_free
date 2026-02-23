@@ -1,7 +1,93 @@
 {
-  "updated_at": "2026-02-23T07:16:27Z",
-  "count": 967,
+  "updated_at": "2026-02-23T08:59:39Z",
+  "count": 980,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-beginners-learn-chatgpt-gemini-perplexity-and-grok/?couponCode=9A5809A3A417F8521B84",
+      "coupon_code": "9A5809A3A417F8521B84",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=FE9AC37B9A1FD9650D86",
+      "coupon_code": "FE9AC37B9A1FD9650D86",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-masterclass-the-complete-guide-u/?couponCode=7D56391662D5F8F5457C",
+      "coupon_code": "7D56391662D5F8F5457C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-complete-developers-guide/?couponCode=AF4DCB7E50C624F8C9D7",
+      "coupon_code": "AF4DCB7E50C624F8C9D7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hacking-pentesting-ctf-practica/?couponCode=A9003416F214EE946A38",
+      "coupon_code": "A9003416F214EE946A38",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4076518_e1af.jpg",
+      "title": "Hacking Ético Ofensivo. 100% Practico en Red Team. +43hs"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-front-end-web-development-with-javascript/?couponCode=11DC06A173D5522578FE",
+      "coupon_code": "11DC06A173D5522578FE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7025325_d62f_7.jpg",
+      "title": "The Complete Web Development Masterclass 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-jquery-typescript-full-stack-web-development/?couponCode=F43F5057EE88B0075D02",
+      "coupon_code": "F43F5057EE88B0075D02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119801_c7e7.jpg",
+      "title": "JavaScript, jQuery & TypeScript: Full-Stack Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/jquery-complete-jquery-course-from-beginner-to-advanced/?couponCode=17C2EFDB725457DECC85",
+      "coupon_code": "17C2EFDB725457DECC85",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636534_c4c8_5.jpg",
+      "title": "jQuery - Complete jQuery Course From Beginner To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-c-language-c-programming-language-for-beginners/?couponCode=701154745C67C24C52D9",
+      "coupon_code": "701154745C67C24C52D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5618828_4904.jpg",
+      "title": "Mastering C Language - C Programming For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-master-data-analysis-cleaning-dashboards/?couponCode=62E5F4E1D857B110977F",
+      "coupon_code": "62E5F4E1D857B110977F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6868137_498d.jpg",
+      "title": "Microsoft Excel: Master Data Analysis, Cleaning & Dashboards"
+    },
+    {
+      "url": "https://www.udemy.com/course/personal_productivity/?couponCode=4B0E035592F4D325424F",
+      "coupon_code": "4B0E035592F4D325424F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5416254_9863.jpg",
+      "title": "Personal Productivity & Life Planning"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=24625E7A01797F5DD2B5",
+      "coupon_code": "24625E7A01797F5DD2B5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636472_7921.jpg",
+      "title": "PHP Master Class - The Complete PHP Developer Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/premiere-pro-masterclass-beginner-to-advanced-video-editing/?couponCode=D5B42344EE1D3F5152E0",
+      "coupon_code": "D5B42344EE1D3F5152E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6879693_736f.jpg",
+      "title": "Premiere Pro Masterclass: Beginner to Advanced Video Editing"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-and-php-essentials-complete-coding-bootcamp/?couponCode=FDA837B342A0716825BF",
+      "coupon_code": "FDA837B342A0716825BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6150957_d964_3.jpg",
+      "title": "Python, Java and PHP Essentials: Complete Coding Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels/?couponCode=CD4A136563E07826A114",
+      "coupon_code": "CD4A136563E07826A114",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6866521_1fb1.jpg",
+      "title": "The Complete Microsoft Excel Course: Master All Levels"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=0944D930FBB80A11F51B",
       "coupon_code": "0944D930FBB80A11F51B",
@@ -51,12 +137,6 @@
       "title": "Essential Lightroom Course for Beginner to Advanced"
     },
     {
-      "url": "https://www.udemy.com/course/hacking-pentesting-ctf-practica/?couponCode=A9003416F214EE946A38",
-      "coupon_code": "A9003416F214EE946A38",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4076518_e1af.jpg",
-      "title": "Hacking Ético Ofensivo. 100% Practico en Red Team. +43hs"
-    },
-    {
       "url": "https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/?couponCode=63D8D1D9D65DFB592C5B",
       "coupon_code": "63D8D1D9D65DFB592C5B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5308278_4bce.jpg",
@@ -73,12 +153,6 @@
       "coupon_code": "AB0F439BA213630F941B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5411158_9c7a.jpg",
       "title": "Executive Diploma in Operations Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/personal_productivity/?couponCode=4B0E035592F4D325424F",
-      "coupon_code": "4B0E035592F4D325424F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5416254_9863.jpg",
-      "title": "Personal Productivity & Life Planning"
     },
     {
       "url": "https://www.udemy.com/course/virtual-assistants/?couponCode=06AB12BEB5ECE70D5519",
