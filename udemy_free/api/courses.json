@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-02-24T02:48:25Z",
-  "count": 931,
+  "updated_at": "2026-02-24T04:58:24Z",
+  "count": 946,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-in-hr-with-real-world-case-studies/?couponCode=STUDY4FREE",
+      "coupon_code": "STUDY4FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-marketing-case-studies/?couponCode=STUDY4FREE",
+      "coupon_code": "STUDY4FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-data-engineers/?couponCode=98327456DE36B96918BF",
+      "coupon_code": "98327456DE36B96918BF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-in-marketing-introduction-to-chatgpt-ai-marketing/?couponCode=2798DF419F1A857114F8",
+      "coupon_code": "2798DF419F1A857114F8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/dify-course/?couponCode=STUDY4FREE",
+      "coupon_code": "STUDY4FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/employee-attrition-prediction-in-apache-spark-ml/?couponCode=F2D100D670DB08DF186F",
+      "coupon_code": "F2D100D670DB08DF186F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-hr/?couponCode=STUDY4FREE",
+      "coupon_code": "STUDY4FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/github-copilot-x/?couponCode=STUDY4FREE",
+      "coupon_code": "STUDY4FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6990127_4a3f_3.jpg",
+      "title": "Github Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-a-la-gestion-des-ressources-humaines/?couponCode=8C1EC5F875973F648AC4",
+      "coupon_code": "8C1EC5F875973F648AC4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5590566_74cb.jpg",
+      "title": "Introduction à la Gestion des Ressources Humaines"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-cpp-programming-beginner-to-advanced/?couponCode=29CDCA6C6C459930D34A",
+      "coupon_code": "29CDCA6C6C459930D34A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4871278_dc28_4.jpg",
+      "title": "Learn C++ Programming - Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-generative-ai/?couponCode=0D927F4EC413F9B5AA18",
+      "coupon_code": "0D927F4EC413F9B5AA18",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6156103_3445.jpg",
+      "title": "Generative AI Masters 2026 - From Python to Gen AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-in-hindi/?couponCode=STUDY4FREE",
+      "coupon_code": "STUDY4FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6064015_56d7_2.jpg",
+      "title": "Microsoft PowerPoint: MS PowerPoint for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-project-management/?couponCode=A182D27EDF22CB954884",
+      "coupon_code": "A182D27EDF22CB954884",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5589912_8cbe_2.jpg",
+      "title": "Professional Diploma in Agile and Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-complete-course-and-flask-framework-html-2024-edition/?couponCode=96BB2C50C989ACB2C50D",
+      "coupon_code": "96BB2C50C989ACB2C50D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-shopify-dropshipping-course-start-selling-online-today/?couponCode=DA9CC1B6393B7BF0FD56",
+      "coupon_code": "DA9CC1B6393B7BF0FD56",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/azure-data-engineering-masters/?couponCode=2496014152747B9A1866",
       "coupon_code": "2496014152747B9A1866",
@@ -15,32 +96,38 @@
     {
       "url": "https://www.udemy.com/course/git-github-full-russian-course/?couponCode=AAEAA51A12D116C88EB6",
       "coupon_code": "AAEAA51A12D116C88EB6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818075_dc5c_2.jpg",
+      "title": "Git + GitHub. Полный курс"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=8B998E24AC07990C3D4B",
       "coupon_code": "8B998E24AC07990C3D4B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
+      "title": "Introduction to Human Resources Management"
     },
     {
       "url": "https://www.udemy.com/course/master-website-creation-15-website-platforms-in-1-course-s/?couponCode=A76EC1BAA849833E03FF",
       "coupon_code": "A76EC1BAA849833E03FF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6639533_07c4_3.jpg",
+      "title": "Master Website Creation - 15 Website Platforms in 1 Course!"
     },
     {
       "url": "https://www.udemy.com/course/mastering-solidity/?couponCode=626AEADEECDF689BC8FD",
       "coupon_code": "626AEADEECDF689BC8FD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5519696_6ece_5.jpg",
+      "title": "Mastering Solidity, the Ethereum Programming Language"
     },
     {
       "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=DA339F394FF9C7FA55F4",
       "coupon_code": "DA339F394FF9C7FA55F4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5560460_2aa2.jpg",
+      "title": "Advanced Program in Entrepreneurship"
     },
     {
       "url": "https://www.udemy.com/course/mysql-basics-ru/?couponCode=8DE98B24CA2495CF198E",
       "coupon_code": "8DE98B24CA2495CF198E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5929080_eaee_3.jpg",
+      "title": "SQL практикум для начинающих и продолжающих (полный курс)"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-branding-and-brand-management/?couponCode=FF2D35C3714D44B4240C",
