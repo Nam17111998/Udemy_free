@@ -1,16 +1,18 @@
 {
-  "updated_at": "2026-02-25T22:41:42Z",
-  "count": 912,
+  "updated_at": "2026-02-25T23:36:35Z",
+  "count": 914,
   "courses": [
     {
       "url": "https://www.udemy.com/course/ai-trading-crypto-intelligence-masterclass/?couponCode=FEBFREE03",
       "coupon_code": "FEBFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7059117_fc3e.jpg",
+      "title": "AI Trading & Crypto Intelligence Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/aprende-a-programar-desde-cero-con-c-sharp-de-microsoft-dot-net/?couponCode=FEBRERO_2026",
       "coupon_code": "FEBRERO_2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2382831_bcb7_8.jpg",
+      "title": "Aprende a programar desde cero con C#, Microsoft .NET y WPF"
     },
     {
       "url": "https://www.udemy.com/course/aprende-p5js/?couponCode=EA869F160522A9BAC196",
@@ -21,23 +23,20 @@
     {
       "url": "https://www.udemy.com/course/brain-computer-interface-with-deep-learning/?couponCode=31B33E27678A062D3CD5",
       "coupon_code": "31B33E27678A062D3CD5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6082337_b988_4.jpg",
+      "title": "Brain computer interface with deep learning"
     },
     {
       "url": "https://www.udemy.com/course/controlsystems/?couponCode=C295B82BAF28D023A1AF",
       "coupon_code": "C295B82BAF28D023A1AF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/fundamentals-of-scm/?couponCode=ADCEA77ABF9514F85D46",
-      "coupon_code": "ADCEA77ABF9514F85D46",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6470595_2d39_3.jpg",
-      "title": "Fundamentals of Supply Chain Management"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5458496_081b.jpg",
+      "title": "control systems from zero to hero"
     },
     {
       "url": "https://www.udemy.com/course/hybrid-working-policies-technology-management-communication/?couponCode=3CD0FA2085576A6442FE",
       "coupon_code": "3CD0FA2085576A6442FE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7056375_5590_3.jpg",
+      "title": "Hybrid Work: Policies, Technology, Management, Communication"
     },
     {
       "url": "https://www.udemy.com/course/powerpoint-design-bootcamp-build-15-stunning-presentations/?couponCode=4F89FF01C3ED76745BE2",
@@ -48,12 +47,26 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-business-project-management/?couponCode=DBA770EAD2BA29D2BE9B",
       "coupon_code": "DBA770EAD2BA29D2BE9B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906332_247f_2.jpg",
+      "title": "Professional Diploma in Business Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-pricing-analysis-and-management/?couponCode=58ED411023052CC959AA",
+      "coupon_code": "58ED411023052CC959AA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906780_4e0e.jpg",
+      "title": "Professional Diploma in Pricing Analysis and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-technical-project-management/?couponCode=1F8A5D23933C5C32164C",
+      "coupon_code": "1F8A5D23933C5C32164C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906748_1dcf.jpg",
+      "title": "Professional Diploma in Technical Project Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-finance-business-partner/?couponCode=C399B078D17D095F6A43",
       "coupon_code": "C399B078D17D095F6A43",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873934_a8d6.jpg",
+      "title": "Professional Diploma of Finance Business Partner"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-marketing-manager-business-partner/?couponCode=0912433F66D3E6E30088",
@@ -64,22 +77,32 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-product-owner/?couponCode=6E3530BBA85374DA0482",
       "coupon_code": "6E3530BBA85374DA0482",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-data-analysis-bootcamp-pandas-seaborn-and-plotly/?couponCode=3C94A192CB8481D68140",
-      "coupon_code": "3C94A192CB8481D68140",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906292_3828.jpg",
+      "title": "Professional Diploma of Product Owner"
     },
     {
       "url": "https://www.udemy.com/course/spacy-with-nlp/?couponCode=7D6F023E20DC687B205C",
       "coupon_code": "7D6F023E20DC687B205C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5559560_88b1_6.jpg",
+      "title": "Natural Language Preprocessing Using spaCy"
     },
     {
       "url": "https://www.udemy.com/course/workplace-mental-health-your-rights-relaxation-tips/?couponCode=111E5F8FE373F4AE5BD8",
       "coupon_code": "111E5F8FE373F4AE5BD8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600029_f775.jpg",
+      "title": "Workplace Mental Health: Stress Management and Relaxation"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-scm/?couponCode=ADCEA77ABF9514F85D46",
+      "coupon_code": "ADCEA77ABF9514F85D46",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6470595_2d39_3.jpg",
+      "title": "Fundamentals of Supply Chain Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-analysis-bootcamp-pandas-seaborn-and-plotly/?couponCode=3C94A192CB8481D68140",
+      "coupon_code": "3C94A192CB8481D68140",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5864046_ef60_10.jpg",
+      "title": "Python Data Analysis Bootcamp - Pandas, Seaborn and Plotly"
     },
     {
       "url": "https://www.udemy.com/course/diploma-of-microsoft-dynamics-365-crm-business-architect/?couponCode=E4811BAA98C04417A4A3",
@@ -90,12 +113,14 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-virtual-executive-assistant/?couponCode=EC7A56DE22860D09546E",
       "coupon_code": "EC7A56DE22860D09546E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873830_45bc.jpg",
+      "title": "Professional Diploma of Virtual Executive Assistant"
     },
     {
       "url": "https://www.udemy.com/course/virtual-executive-assistant/?couponCode=7F8266AD2A40EA2CAFB2",
       "coupon_code": "7F8266AD2A40EA2CAFB2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241137_b43a_2.jpg",
+      "title": "Professional Diploma in Virtual Executive Assistant"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-ma-business-mergers-acquisitions/?couponCode=1490A0C74BB099D3A54E",
