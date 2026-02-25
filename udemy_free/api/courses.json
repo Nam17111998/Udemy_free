@@ -1,66 +1,156 @@
 {
-  "updated_at": "2026-02-25T13:23:45Z",
-  "count": 977,
+  "updated_at": "2026-02-25T14:58:34Z",
+  "count": 990,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/a-practical-guide-to-mastering-endpoint-security-management/?couponCode=61AE4FA99EE9A5FABAC6",
-      "coupon_code": "61AE4FA99EE9A5FABAC6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/a-practical-guide-to-threat-hunting-techniques/?couponCode=B377B9DC6DBD26206159",
-      "coupon_code": "B377B9DC6DBD26206159",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-driven-business-process-modeling/?couponCode=STARSTUDENTS",
-      "coupon_code": "STARSTUDENTS",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/bootstrapping-business-without-money-investments-getting/?couponCode=6564BC27138DEA9428AD",
-      "coupon_code": "6564BC27138DEA9428AD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/business-development-sales-marketing-professional-diploma/?couponCode=8FF17457D1D6BA759AA2",
       "coupon_code": "8FF17457D1D6BA759AA2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5848270_95f6_3.jpg",
+      "title": "Business Development, Sales & Marketing Professional Diploma"
     },
     {
-      "url": "https://www.udemy.com/course/credit-portfolio-strategy-and-regulatory-compliance/?couponCode=AACCF9E18C7CAE3CF100",
-      "coupon_code": "AACCF9E18C7CAE3CF100",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/?couponCode=F122C8C80021F8D1223A",
+      "coupon_code": "F122C8C80021F8D1223A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4447554_32c0_2.jpg",
+      "title": "CSS, Bootstrap And JavaScript And Python Stack Course"
     },
     {
-      "url": "https://www.udemy.com/course/designing-autonomous-ai-agents/?couponCode=D8A9955C2F6B1D28F5E1",
-      "coupon_code": "D8A9955C2F6B1D28F5E1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/digistore-24-mehr-umsatz-cross-device-affiliate-tracking/?couponCode=3DA3F5FD3CEE54D12F7B",
+      "coupon_code": "3DA3F5FD3CEE54D12F7B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4156648_8f32_2.jpg",
+      "title": "Digistore 24 Provisionen erhöhen mit Cross Device Tracking"
     },
     {
-      "url": "https://www.udemy.com/course/end-to-end-genai-model-engineering/?couponCode=FCC00AA591CBF95E583D",
-      "coupon_code": "FCC00AA591CBF95E583D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/e-mail-marketing-mit-quentn/?couponCode=9F34AB2588182458C961",
+      "coupon_code": "9F34AB2588182458C961",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2753438_83ed_2.jpg",
+      "title": "Profitables E-Mail Marketing mit Quentn in 5 Stunden lernen"
     },
     {
-      "url": "https://www.udemy.com/course/healthcare-data-security-and-risk-management-guide/?couponCode=STARSTUDENTS",
-      "coupon_code": "STARSTUDENTS",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/excel-kopiertool-mit-vba-makros/?couponCode=4300046A37A77B38EBAD",
+      "coupon_code": "4300046A37A77B38EBAD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4004838_5531.jpg",
+      "title": "Reportings und Routineaufgaben mit Excel VBA automatisieren"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-vba-advanced-weniger-fehler-durch-schlaue-events/?couponCode=70DF004EF1CA22EB1E6F",
+      "coupon_code": "70DF004EF1CA22EB1E6F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4015764_ff8e_4.jpg",
+      "title": "Excel VBA Advanced 2 - Weniger Fehler durch schlaue Abläufe"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-add-value-in-the-project-management-role/?couponCode=FEBTRGT",
+      "coupon_code": "FEBTRGT",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5194730_960b_3.jpg",
+      "title": "How to Add Value in the Project Management Role"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-jumpstart-your-project-management-career-in-hindi/?couponCode=FEBTRGT",
+      "coupon_code": "FEBTRGT",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5406276_f2bb_2.jpg",
+      "title": "How to Jumpstart your Project Management career (Hindi)"
     },
     {
       "url": "https://www.udemy.com/course/international-business-communication/?couponCode=STARSTUDENTS",
       "coupon_code": "STARSTUDENTS",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6881805_1e7b_4.jpg",
+      "title": "International Business Communication"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=DD1ACD8A2C975185F9D5",
+      "coupon_code": "DD1ACD8A2C975185F9D5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5022262_24b2.jpg",
+      "title": "Java And C++ And PHP Crash Course All in One For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/jumpstart-your-project-management-career/?couponCode=FEBTRGT",
+      "coupon_code": "FEBTRGT",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4715406_9426.jpg",
+      "title": "Jumpstart your Project Management career"
+    },
+    {
+      "url": "https://www.udemy.com/course/manus-ai-mastery-build-real-world-projects-with-ai-agents/?couponCode=A13C64F718C4F3E88E97",
+      "coupon_code": "A13C64F718C4F3E88E97",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6991983_3c63_2.jpg",
+      "title": "Manus AI Mastery: Build Real-World Projects with AI Agents"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-digital-business-development/?couponCode=7F68433581D386AA1F10",
+      "coupon_code": "7F68433581D386AA1F10",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5848466_1f34.jpg",
+      "title": "Professional Diploma in Digital Business Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-product-service-business-analyst/?couponCode=8C8AE36F9E0DF7E44C26",
+      "coupon_code": "8C8AE36F9E0DF7E44C26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5857530_ba72_2.jpg",
+      "title": "Professional Diploma of Product & Service Business Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-3cs-to-become-an-ai-ready-project-manager/?couponCode=FEBTRGT",
+      "coupon_code": "FEBTRGT",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6132275_9c0e_2.jpg",
+      "title": "The 3C’s to Become an AI-Ready Project Manager"
+    },
+    {
+      "url": "https://www.udemy.com/course/a-practical-guide-to-mastering-endpoint-security-management/?couponCode=61AE4FA99EE9A5FABAC6",
+      "coupon_code": "61AE4FA99EE9A5FABAC6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6804295_5e67.jpg",
+      "title": "A Practical Guide to Mastering Endpoint Security Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/a-practical-guide-to-threat-hunting-techniques/?couponCode=B377B9DC6DBD26206159",
+      "coupon_code": "B377B9DC6DBD26206159",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6929577_ee33_3.jpg",
+      "title": "A Practical Guide to Threat Hunting Techniques"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-driven-business-process-modeling/?couponCode=STARSTUDENTS",
+      "coupon_code": "STARSTUDENTS",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483599_6794.jpg",
+      "title": "AI-Driven Business Process Modeling"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootstrapping-business-without-money-investments-getting/?couponCode=6564BC27138DEA9428AD",
+      "coupon_code": "6564BC27138DEA9428AD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5845088_17aa.jpg",
+      "title": "Bootstrapping, Business Without Money, Investments Getting"
+    },
+    {
+      "url": "https://www.udemy.com/course/credit-portfolio-strategy-and-regulatory-compliance/?couponCode=AACCF9E18C7CAE3CF100",
+      "coupon_code": "AACCF9E18C7CAE3CF100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6749677_bd3c_2.jpg",
+      "title": "Credit Portfolio Strategy and Regulatory Compliance"
+    },
+    {
+      "url": "https://www.udemy.com/course/designing-autonomous-ai-agents/?couponCode=D8A9955C2F6B1D28F5E1",
+      "coupon_code": "D8A9955C2F6B1D28F5E1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6745803_2e94_4.jpg",
+      "title": "Build RAG Systems: Generative AI & LangChain Mastery"
+    },
+    {
+      "url": "https://www.udemy.com/course/end-to-end-genai-model-engineering/?couponCode=FCC00AA591CBF95E583D",
+      "coupon_code": "FCC00AA591CBF95E583D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6745797_6142_3.jpg",
+      "title": "End-to-End GenAI Model Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/healthcare-data-security-and-risk-management-guide/?couponCode=STARSTUDENTS",
+      "coupon_code": "STARSTUDENTS",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6970309_4923.jpg",
+      "title": "Healthcare Data Security and Risk Management Guide"
     },
     {
       "url": "https://www.udemy.com/course/mastering-network-defense-strategies/?couponCode=STARSTUDENTS",
       "coupon_code": "STARSTUDENTS",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6906165_fd26_3.jpg",
+      "title": "Mastering Network Defense Strategies"
     },
     {
       "url": "https://www.udemy.com/course/mastering-nist-and-iso-cybersecurity-governance-in-16-steps/?couponCode=STARSTUDENTS",
       "coupon_code": "STARSTUDENTS",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6828653_cd9e_2.jpg",
+      "title": "Mastering NIST and ISO Cybersecurity Governance in 16 Steps"
     },
     {
       "url": "https://www.udemy.com/course/mastering-prompt-engineering-for-generative-ai-z/?couponCode=7A2B75CF3F978455E2C9",
