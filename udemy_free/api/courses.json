@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-25T05:00:10Z",
-  "count": 914,
+  "updated_at": "2026-02-25T06:12:31Z",
+  "count": 915,
   "courses": [
     {
       "url": "https://www.udemy.com/course/advanced-excel-course-for-job-and-real-world/?couponCode=95002E3BCEADD6B5168D",
@@ -10,11 +10,6 @@
     {
       "url": "https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/?couponCode=9F1CFFBBFC3E857AF6FA",
       "coupon_code": "9F1CFFBBFC3E857AF6FA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=730DD40AA30C2AC46335",
-      "coupon_code": "730DD40AA30C2AC46335",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -45,7 +40,8 @@
     {
       "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=C952609FAEC4B3C85EF6",
       "coupon_code": "C952609FAEC4B3C85EF6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5000842_fcec_3.jpg",
+      "title": "Learn Salesforce (Admin + Developer) with LWC Live Project"
     },
     {
       "url": "https://www.udemy.com/course/product-owner-certification-exam-prep/?couponCode=12803D310A261D88D13A",
@@ -64,6 +60,11 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/professional-diploma-in-customer-relationship-management-crm/?couponCode=BFBC10F5619CEC4E0CAC",
+      "coupon_code": "BFBC10F5619CEC4E0CAC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=0F5A028C083FD7A04CAC",
       "coupon_code": "0F5A028C083FD7A04CAC",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -79,69 +80,88 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=730DD40AA30C2AC46335",
+      "coupon_code": "730DD40AA30C2AC46335",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4260672_f402.jpg",
+      "title": "CSS Crash Course For Beginners"
+    },
+    {
       "url": "https://www.udemy.com/course/airbnb-hosting-success-a-z/?couponCode=5BC32E39D0368078AE7F",
       "coupon_code": "5BC32E39D0368078AE7F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4557050_5468_7.jpg",
+      "title": "Airbnb Hosting Mastery I Rental Arbitrage I Experiences"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/?couponCode=01A5A437FD61D5EFB32E",
       "coupon_code": "01A5A437FD61D5EFB32E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916184_19c5.jpg",
+      "title": "ChatGPT and Generative AI in Business, Management, Marketing"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-business-management-and-administration/?couponCode=0E6C828816E6BEE3E757",
       "coupon_code": "0E6C828816E6BEE3E757",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5799108_7fe2.jpg",
+      "title": "Executive Diploma in Business Management and Administration"
     },
     {
       "url": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=3D19DA6704A9889BBB59",
       "coupon_code": "3D19DA6704A9889BBB59",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255701_c7a4_2.jpg",
+      "title": "Full AI Course 2026: ChatGPT, Gemini, Midjourney, Firefly"
     },
     {
       "url": "https://www.udemy.com/course/full-paid-ads-course-google-facebook-microsoft-linkedin/?couponCode=9E5F3F7C36309C6F175D",
       "coupon_code": "9E5F3F7C36309C6F175D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5671688_5f55_2.jpg",
+      "title": "11 Ads Platforms in 1 Course 2026: Learn Paid Advertising!"
     },
     {
       "url": "https://www.udemy.com/course/genai-for-accounting-finance-complete-masterclass/?couponCode=FREEFORFEB",
       "coupon_code": "FREEFORFEB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6373097_2219.jpg",
+      "title": "GenAI For Finance & Accounting : Complete Masterclass 2025"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-ai-and-enhancing-productivity-at-work/?couponCode=D67F075D371436BA74F5",
       "coupon_code": "D67F075D371436BA74F5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6216161_1fe2.jpg",
+      "title": "AI for Work Mastery, Introduction to AI Essentials"
     },
     {
       "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=88FCAE07412C9EDE2745",
       "coupon_code": "88FCAE07412C9EDE2745",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5977824_a024.jpg",
+      "title": "Master Business Analysis to become a Business Analyst"
     },
     {
       "url": "https://www.udemy.com/course/master-in-business-analytics/?couponCode=131453D003D99F7A9693",
       "coupon_code": "131453D003D99F7A9693",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6323705_6a4b.jpg",
+      "title": "Master in Business Analytics for Business Analyst"
     },
     {
       "url": "https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/?couponCode=3B9CD6E3B0ABD814311C",
       "coupon_code": "3B9CD6E3B0ABD814311C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6085431_4a5c.jpg",
+      "title": "Master in Generative AI (Artificial Intelligence) (Gen AI)"
     },
     {
       "url": "https://www.udemy.com/course/powerpoint-business-presentations-with-chatgpt-generative-ai/?couponCode=6FCF96B642FEC826C2F0",
       "coupon_code": "6FCF96B642FEC826C2F0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6228933_eea6.jpg",
+      "title": "PowerPoint Business Presentations with ChatGPT Generative AI"
     },
     {
       "url": "https://www.udemy.com/course/presentation-expert-ai-gpt-pitch-decks-business-speech/?couponCode=037283669A99A9D1F608",
       "coupon_code": "037283669A99A9D1F608",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6228709_0636_2.jpg",
+      "title": "Presentation Expert: AI & GPT, Pitch Decks, Business Speech"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-agile-and-scrum/?couponCode=846A58B82D9FF98935F2",
       "coupon_code": "846A58B82D9FF98935F2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916100_0e04.jpg",
+      "title": "Professional Certificate in Agile and SCRUM"
     },
     {
       "url": "https://www.udemy.com/course/business-analysis-with-visually-effective-power-bi-reports/?couponCode=B7B92E05455B8692541F",
@@ -158,7 +178,8 @@
     {
       "url": "https://www.udemy.com/course/chatgpt-for-product-management-innovation-aec/?couponCode=771FC3577ECE76C8D93B",
       "coupon_code": "771FC3577ECE76C8D93B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5786022_2e4a_2.jpg",
+      "title": "ChatGPT for Product Management & Innovation"
     },
     {
       "url": "https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=EF6E16458F790F224F5C",
