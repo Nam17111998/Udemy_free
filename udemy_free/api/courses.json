@@ -1,81 +1,186 @@
 {
-  "updated_at": "2026-02-25T09:01:09Z",
-  "count": 945,
+  "updated_at": "2026-02-25T10:57:30Z",
+  "count": 960,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=F0E09A4DBF158CE2DE56",
+      "coupon_code": "F0E09A4DBF158CE2DE56",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5236430_f326_2.jpg",
+      "title": "Advanced Excel Course With Shortcuts Tips and Tricks for JOB"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-and-generative-ai-volume-1/?couponCode=FEB_26",
+      "coupon_code": "FEB_26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6567735_0cba_3.jpg",
+      "title": "Artificial Intelligence and Generative AI: Volume 1"
+    },
+    {
+      "url": "https://www.udemy.com/course/become-experts-in-python-by-exercises-by-projects/?couponCode=AD1B27B8118821D19268",
+      "coupon_code": "AD1B27B8118821D19268",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6021936_e068_2.jpg",
+      "title": "Become Experts in Python | Exercises | Projects | Quiz"
+    },
+    {
+      "url": "https://www.udemy.com/course/bim-structural-steel-detailing-course-zero-to-hero/?couponCode=30D95B1807D02CB4EDF5",
+      "coupon_code": "30D95B1807D02CB4EDF5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7026721_ca96_2.jpg",
+      "title": "BIM | Structural Steel Detailing Course | Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/customer-experience-management-cxm/?couponCode=Z0TUNIS_236",
+      "coupon_code": "Z0TUNIS_236",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6580143_403e_2.jpg",
+      "title": "Diploma in Customer Experience: CX Mastery in Industry 4.0"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-platforms-and-ecosystems-business-and-partnership/?couponCode=F1DF94BC5C9D270DC59B",
+      "coupon_code": "F1DF94BC5C9D270DC59B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5836026_510c.jpg",
+      "title": "Digital Platforms and Ecosystems Business and Partnership"
+    },
+    {
+      "url": "https://www.udemy.com/course/etabs-from-zero-to-hero/?couponCode=335F8B81DB76EC93399D",
+      "coupon_code": "335F8B81DB76EC93399D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5419432_c578_2.jpg",
+      "title": "Etabs : From Zero to Hero : in Hindi / English"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-autocad-2d/?couponCode=177D67BACDA071B42935",
+      "coupon_code": "177D67BACDA071B42935",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5416930_a147.jpg",
+      "title": "Learn AutoCAD 2D & 3D : From Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-bar-bending-schedule-in-autocad-excel/?couponCode=E80B1627BEAC293AB47D",
+      "coupon_code": "E80B1627BEAC293AB47D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5419308_90a5_3.jpg",
+      "title": "Learn Bar Bending Schedule in AutoCAD & Excel"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-chess-in-hindi-zero-to-master-level/?couponCode=3D32407AB6EB2725814F",
+      "coupon_code": "3D32407AB6EB2725814F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5385730_0e13.jpg",
+      "title": "Learn Chess in Hindi : Zero to Master Level"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-dynamo-in-revit-zero-to-hero-in-hindi/?couponCode=6AAF9A679A198F5C8AB9",
+      "coupon_code": "6AAF9A679A198F5C8AB9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5984942_af17_3.jpg",
+      "title": "Learn Dynamo in Revit : Zero to Hero in Hindi"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-microsoft-excel-from-zero-to-hero/?couponCode=C88AD0E20BA8A00012D0",
+      "coupon_code": "C88AD0E20BA8A00012D0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6003282_a2e4_4.jpg",
+      "title": "Learn Microsoft Excel : From Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-staad-pro-from-zero-to-hero-hindi/?couponCode=2BAF5C8F330B6641105F",
+      "coupon_code": "2BAF5C8F330B6641105F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6390589_765f.jpg",
+      "title": "Learn STAAD PRO | From Zero to Hero | Hindi"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-word-a-comprehensive-guide-to-boost-you/?couponCode=6CBCC8C789308BB53793",
+      "coupon_code": "6CBCC8C789308BB53793",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5229322_0aa4_2.jpg",
+      "title": "Mastering Microsoft Word: A Comprehensive Guide to Boost You"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantity-surveying-building-estimate/?couponCode=9C0FB45F1DFFF6DA5009",
+      "coupon_code": "9C0FB45F1DFFF6DA5009",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5417816_f406_2.jpg",
+      "title": "Quantity Surveying & Building Estimate"
+    },
     {
       "url": "https://www.udemy.com/course/ai-powered-project-management-with-clickup/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6733491_e42d.jpg",
+      "title": "AI-Powered Project Management with ClickUp"
     },
     {
       "url": "https://www.udemy.com/course/ai-visual-design-with-adobe-firefly/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6744653_4b0c_2.jpg",
+      "title": "AI Visual Design with Adobe Firefly"
     },
     {
       "url": "https://www.udemy.com/course/brand-management-with-generative-ai-q/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6770165_5997_2.jpg",
+      "title": "Brand Management with Generative AI"
     },
     {
       "url": "https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713657_81e2.jpg",
+      "title": "Building Basic AI Agents and Custom GPTs"
     },
     {
       "url": "https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6715099_6b9e_3.jpg",
+      "title": "Cursor AI for Beginners: AI Coding Crash Course"
     },
     {
       "url": "https://www.udemy.com/course/data-analysis-and-data-visualization-with-microsoft-copilot/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6723387_5ac5.jpg",
+      "title": "Data Analysis and Data Visualization with Microsoft Copilot"
     },
     {
       "url": "https://www.udemy.com/course/design-smarter-using-figma-ai-from-idea-to-handoff/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6701589_c150_2.jpg",
+      "title": "Figma AI Workflow: From Vision to Version"
     },
     {
       "url": "https://www.udemy.com/course/docker-deep-dive-build-ship-and-run-containers/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6707623_30dc.jpg",
+      "title": "Docker Deep Dive: Build, Ship, and Run Containers"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-cio-chief-information-officer/?couponCode=3B3447591B76270B609F",
       "coupon_code": "3B3447591B76270B609F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5831800_1240.jpg",
+      "title": "Executive Diploma of CIO Chief Information Officer"
     },
     {
       "url": "https://www.udemy.com/course/geo-generating-engine-optimization-how-to-rank-in-chatgpt/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6700317_6016.jpg",
+      "title": "GEO: Generative Engine Optimization. How to rank in ChatGPT"
     },
     {
       "url": "https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691789_eafc_3.jpg",
+      "title": "GitHub Copilot for Beginners: AI Coding Crash Course"
     },
     {
       "url": "https://www.udemy.com/course/kling-ai-guide-how-to-make-videos-using-generative-ai/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6711725_03eb.jpg",
+      "title": "Kling AI Guide: How to Make Videos Using Generative AI"
     },
     {
       "url": "https://www.udemy.com/course/llama-4-ai-mastering-prompt-engineering/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685183_a0d4.jpg",
+      "title": "Llama 4: AI Mastering Prompt Engineering"
     },
     {
       "url": "https://www.udemy.com/course/n8n-ai-agent-creation-guide/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6692461_9104_3.jpg",
+      "title": "N8N: AI Agent Creation Guide"
     },
     {
       "url": "https://www.udemy.com/course/photoshop-ai-for-creatives-guide-to-generative-tools/?couponCode=25FEBRUARY2026",
       "coupon_code": "25FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6770523_1d8d.jpg",
+      "title": "Photoshop AI for Creatives: Guide to Generative Tools"
     },
     {
       "url": "https://www.udemy.com/course/adobe-indesign-cc-for-beginner-to-advanced-masterclass/?couponCode=21401CA3CB5367CC2AD4",
