@@ -1,41 +1,138 @@
 {
-  "updated_at": "2026-02-25T06:12:31Z",
-  "count": 915,
+  "updated_at": "2026-02-25T07:57:17Z",
+  "count": 930,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-indesign-cc-for-beginner-to-advanced-masterclass/?couponCode=21401CA3CB5367CC2AD4",
+      "coupon_code": "21401CA3CB5367CC2AD4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5538376_e2bf.jpg",
+      "title": "Adobe InDesign CC for Beginner to Advanced Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-masterclass-for-video-editing/?couponCode=060D873D5CC310B70274",
+      "coupon_code": "060D873D5CC310B70274",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5555872_e793_2.jpg",
+      "title": "Adobe Premiere Pro CC Masterclass for Video Editing"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-instagram-marketing-blueprint-complete-guide/?couponCode=5760AD152A4EFBBFD61B",
+      "coupon_code": "5760AD152A4EFBBFD61B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6463121_73a2.jpg",
+      "title": "Advanced Instagram Marketing Blueprint Complete Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-c-for-beginners-step-by-step-to-mastery/?couponCode=04779ABB07CAA04922A6",
+      "coupon_code": "04779ABB07CAA04922A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017095_15f6.jpg",
+      "title": "C and C++ for Beginners: Step-by-Step to Mastery"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-bootcamp-job-ready-skills-for-net-development/?couponCode=9AC7A26858CA02C6BA8D",
+      "coupon_code": "9AC7A26858CA02C6BA8D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017275_67fd.jpg",
+      "title": "C# Bootcamp – Job Ready Skills for .NET Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-sql-course-become-an-expert-in-database-management/?couponCode=BB2393FD0AFF63C4D423",
+      "coupon_code": "BB2393FD0AFF63C4D423",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017263_42ab.jpg",
+      "title": "Complete SQL Course: Become an Expert in Database Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=1FEAFB8012CE3F0B10C2",
+      "coupon_code": "1FEAFB8012CE3F0B10C2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285311_bd70_2.jpg",
+      "title": "Flutter Masterclass - Your Complete Guide to App Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-drastically-reduce-time-spent-on-speech-preparation/?couponCode=047D17A539D58EF42C59",
+      "coupon_code": "047D17A539D58EF42C59",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/348510_a921_3.jpg",
+      "title": "Time Management Public Speaking - Drastically Reduce Prep"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-give-a-team-presentation/?couponCode=576E514828DBE8CE82FE",
+      "coupon_code": "576E514828DBE8CE82FE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/348432_734a_3.jpg",
+      "title": "Presentation Skills: Give a Great Team Presentation"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-tell-stories/?couponCode=03477A0B4576CB74FA3F",
+      "coupon_code": "03477A0B4576CB74FA3F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/348342_a6b9_3.jpg",
+      "title": "Storytelling: You Can learn to Tell Stories Effectively"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-c-learn-building-games-application-softwares/?couponCode=5E7B9E8A3F2B9CDBF598",
+      "coupon_code": "5E7B9E8A3F2B9CDBF598",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6457969_889b_2.jpg",
+      "title": "Mastering C# Learn Building Games, Application, Softwares"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/?couponCode=B547D592633F7EB1C3BA",
+      "coupon_code": "B547D592633F7EB1C3BA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6185785_a817_3.jpg",
+      "title": "MS Excel Masterclass for Job Seekers Accounting Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/mysql-database-management-create-manage-query-database/?couponCode=B2B3248699F18662BA2F",
+      "coupon_code": "B2B3248699F18662BA2F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018087_924e.jpg",
+      "title": "MySQL & Database Management: Create, Manage & Query Database"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-agile-product-management/?couponCode=A7C0B6C447F76EDDA1EA",
+      "coupon_code": "A7C0B6C447F76EDDA1EA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5823058_08a3.jpg",
+      "title": "Professional Diploma in Agile Product Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/public-speaking-eulogy-give-a-great-eulogy-for-loved-ones/?couponCode=0D4EF9E1A7AFFF90D30F",
+      "coupon_code": "0D4EF9E1A7AFFF90D30F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/344328_dde0_4.jpg",
+      "title": "Public Speaking: Eulogy-Give a Great Eulogy For Loved Ones"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-excel-course-for-job-and-real-world/?couponCode=95002E3BCEADD6B5168D",
       "coupon_code": "95002E3BCEADD6B5168D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5175514_2c3e.jpg",
+      "title": "Advanced Excel Course for Job and Real World"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/?couponCode=9F1CFFBBFC3E857AF6FA",
       "coupon_code": "9F1CFFBBFC3E857AF6FA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6492449_88f1_5.jpg",
+      "title": "Full AI Course 2026: ChatGPT, Midjourney, Gemini, Firefly!"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-leadership-and-management/?couponCode=E0892F993C89D2FFC58B",
       "coupon_code": "E0892F993C89D2FFC58B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5805546_9b91_2.jpg",
+      "title": "Executive Diploma in Leadership and Management"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-strategy-and-innovation/?couponCode=EF8C7D116DC82FECFF23",
       "coupon_code": "EF8C7D116DC82FECFF23",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5810976_eacd.jpg",
+      "title": "Executive Diploma in Strategy and Innovation"
     },
     {
       "url": "https://www.udemy.com/course/full-digital-marketing-course-2025-ppc-seo-smm-gtm-ga4/?couponCode=22E2A29AD3D1BFCB4EE8",
       "coupon_code": "22E2A29AD3D1BFCB4EE8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6592573_f61f.jpg",
+      "title": "Full Digital Marketing Course 2026: PPC, SEO, SMM, GTM, GA4"
     },
     {
       "url": "https://www.udemy.com/course/full-digital-marketing-course-seo-paid-ad-ga4-gtm-email/?couponCode=933BFDF7AB8E22336D74",
       "coupon_code": "933BFDF7AB8E22336D74",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6256927_7f01.jpg",
+      "title": "Full Digital Marketing Course 2026: SEO, Paid Ads, SMM, GTM!"
     },
     {
       "url": "https://www.udemy.com/course/genai-for-image-video-creation-nano-banana-veo-31/?couponCode=34C956004DCFA964A31F",
       "coupon_code": "34C956004DCFA964A31F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6934631_f1af.jpg",
+      "title": "GenAI For Image & Video Creation: Nano Banana & Veo 3.1"
     },
     {
       "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=C952609FAEC4B3C85EF6",
@@ -52,32 +149,38 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-advertising-and-public-relations/?couponCode=350644014457E3354071",
       "coupon_code": "350644014457E3354071",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5806940_f60d.jpg",
+      "title": "Professional Diploma in Advertising and Public Relations"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-scrum/?couponCode=1A03421610816AA7D3D7",
       "coupon_code": "1A03421610816AA7D3D7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5754968_5307.jpg",
+      "title": "Professional Diploma in Agile and Scrum"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-customer-relationship-management-crm/?couponCode=BFBC10F5619CEC4E0CAC",
       "coupon_code": "BFBC10F5619CEC4E0CAC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5817384_15a5_2.jpg",
+      "title": "Professional Diploma in Customer Relationship Management CRM"
     },
     {
       "url": "https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=0F5A028C083FD7A04CAC",
       "coupon_code": "0F5A028C083FD7A04CAC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3694430_429b.jpg",
+      "title": "Python Complete Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/scrum-master-certification-exam-prep/?couponCode=52CA7AE1F3D78F55E6CD",
       "coupon_code": "52CA7AE1F3D78F55E6CD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255563_8c44_2.jpg",
+      "title": "Scrum Master Certification Prep"
     },
     {
       "url": "https://www.udemy.com/course/senior-executive-business-management-and-leadership-program/?couponCode=5A03CABC94561400B899",
       "coupon_code": "5A03CABC94561400B899",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5813848_4e04.jpg",
+      "title": "Senior Executive Business Management and Leadership Program"
     },
     {
       "url": "https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=730DD40AA30C2AC46335",
