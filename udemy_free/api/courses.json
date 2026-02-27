@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-02-27T02:43:02Z",
-  "count": 938,
+  "updated_at": "2026-02-27T04:51:19Z",
+  "count": 947,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=C72F1E68BB4095830573",
+      "coupon_code": "C72F1E68BB4095830573",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/?couponCode=65E8FBA494B99CF08854",
       "coupon_code": "65E8FBA494B99CF08854",
@@ -9,16 +14,80 @@
       "title": "C++ Complete Training Course for C++ Beginners All In One"
     },
     {
-      "url": "https://www.udemy.com/course/c-training-crash-course-2022/?couponCode=D0FD8D49DC9B805B8211",
-      "coupon_code": "D0FD8D49DC9B805B8211",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4986100_e31c.jpg",
-      "title": "C++ Training Crash Course for C++ Beginners"
-    },
-    {
       "url": "https://www.udemy.com/course/chatgpt-midjourney-23-proven-methods-to-earn-with-ai/?couponCode=87517DEC30107BA8464D",
       "coupon_code": "87517DEC30107BA8464D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6158605_c6df_2.jpg",
       "title": "Master AI Tools in 2026: ChatGPT, Midjourney, Gemini Firefly"
+    },
+    {
+      "url": "https://www.udemy.com/course/diploma-executivo-em-lideranca/?couponCode=C2C206F9407AE4BE6DD3",
+      "coupon_code": "C2C206F9407AE4BE6DD3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-sales-management/?couponCode=BC3D80BADCD6FF1E612B",
+      "coupon_code": "BC3D80BADCD6FF1E612B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-ads-masterclass-2023-all-campaigns-features/?couponCode=270F4B718EF7F6306620",
+      "coupon_code": "270F4B718EF7F6306620",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-ads-masterclass-2025-all-features-campaign-setups/?couponCode=5A2CD5934867F9C31B85",
+      "coupon_code": "5A2CD5934867F9C31B85",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-english-with-ai-improve-fluency-fast-using-chatgpt/?couponCode=A06A63E132F8BC613397",
+      "coupon_code": "A06A63E132F8BC613397",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-website-creation-15-website-platforms-in-1-course/?couponCode=9D547C7F4DF7DEF7B0E5",
+      "coupon_code": "9D547C7F4DF7DEF7B0E5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-customer-experience-management/?couponCode=4987D86807726CF0AE9B",
+      "coupon_code": "4987D86807726CF0AE9B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-marketing-and-marketing-management/?couponCode=C019B03D1AB854E724A4",
+      "coupon_code": "C019B03D1AB854E724A4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5972952_4743_5.jpg",
+      "title": "Professional Certificate in Marketing & Marketing Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-smm-social-media-marketing/?couponCode=11FDD75D93D546AC8930",
+      "coupon_code": "11FDD75D93D546AC8930",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5966724_110a.jpg",
+      "title": "Professional Certificate in SMM Social Media Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-flask-only-demonstration-course/?couponCode=5ABB7931DC268B77B938",
+      "coupon_code": "5ABB7931DC268B77B938",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/sell-digital-products-2025-online-business-mastery-guide/?couponCode=B455AC3EE2ECE06E1F2E",
+      "coupon_code": "B455AC3EE2ECE06E1F2E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6686193_65d0_2.jpg",
+      "title": "Sell Digital Products 2026: Online Business Mastery Guide!"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-seo-course-2024-beginner-to-advanced-seo/?couponCode=55D12AD608CB80E72AF1",
+      "coupon_code": "55D12AD608CB80E72AF1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5908172_2f2a.jpg",
+      "title": "Ultimate SEO Course 2026: Beginner to Advanced SEO with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-training-crash-course-2022/?couponCode=D0FD8D49DC9B805B8211",
+      "coupon_code": "D0FD8D49DC9B805B8211",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4986100_e31c.jpg",
+      "title": "C++ Training Crash Course for C++ Beginners"
     },
     {
       "url": "https://www.udemy.com/course/creating-net-core-microservices-using-clean-architecture/?couponCode=089735DAB4C31221D8AA",
@@ -45,18 +114,6 @@
       "title": "Executive Certificate in Company Direction"
     },
     {
-      "url": "https://www.udemy.com/course/professional-certificate-in-marketing-and-marketing-management/?couponCode=C019B03D1AB854E724A4",
-      "coupon_code": "C019B03D1AB854E724A4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5972952_4743_5.jpg",
-      "title": "Professional Certificate in Marketing & Marketing Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-in-smm-social-media-marketing/?couponCode=11FDD75D93D546AC8930",
-      "coupon_code": "11FDD75D93D546AC8930",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5966724_110a.jpg",
-      "title": "Professional Certificate in SMM Social Media Marketing"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-certificate-product-management-and-development/?couponCode=ACB493D1A4D346655285",
       "coupon_code": "ACB493D1A4D346655285",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5962094_cc69_2.jpg",
@@ -69,12 +126,6 @@
       "title": "Python Development and Python Programming Fundamentals"
     },
     {
-      "url": "https://www.udemy.com/course/sell-digital-products-2025-online-business-mastery-guide/?couponCode=B455AC3EE2ECE06E1F2E",
-      "coupon_code": "B455AC3EE2ECE06E1F2E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6686193_65d0_2.jpg",
-      "title": "Sell Digital Products 2026: Online Business Mastery Guide!"
-    },
-    {
       "url": "https://www.udemy.com/course/speak-english-fluently-master-your-real-life-communication/?couponCode=B2B952CAFBD83F04EED4",
       "coupon_code": "B2B952CAFBD83F04EED4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6589779_dd73.jpg",
@@ -85,12 +136,6 @@
       "coupon_code": "7675A78FC51E96FED56C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6269857_b5bf_2.jpg",
       "title": "Start Your One-Person Freelance Agency"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-ultimate-seo-course-2024-beginner-to-advanced-seo/?couponCode=55D12AD608CB80E72AF1",
-      "coupon_code": "55D12AD608CB80E72AF1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5908172_2f2a.jpg",
-      "title": "Ultimate SEO Course 2026: Beginner to Advanced SEO with AI"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-program-managers-learnit/?couponCode=FEBRUARY_FREE3_2026",
