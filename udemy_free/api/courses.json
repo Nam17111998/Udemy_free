@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-02-27T08:52:20Z",
-  "count": 980,
+  "updated_at": "2026-02-27T09:52:51Z",
+  "count": 984,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/ai-literacy-for-all-employees-v/?couponCode=27FEBRUARY2027",
-      "coupon_code": "27FEBRUARY2027",
+      "url": "https://www.udemy.com/course/apis-in-php-php-rest-api-crash-course-2026/?couponCode=PHPRESTAPI30",
+      "coupon_code": "PHPRESTAPI30",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/augmented-reality-in-depth-101-by-debayandey-thnewagetraveller/?couponCode=84FFA7A4E85D26141C6F",
+      "coupon_code": "84FFA7A4E85D26141C6F",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/business-analysis-for-executives-with-microsoft-copilot/?couponCode=27FEBRUARY2026",
-      "coupon_code": "27FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/design-ai-products/?couponCode=27FEBRUARY2026",
       "coupon_code": "27FEBRUARY2026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
@@ -45,37 +45,68 @@
     {
       "url": "https://www.udemy.com/course/microsoft-copilot-for-work-learn-to-work-faster-smarter/?couponCode=27FEBRUARY2026",
       "coupon_code": "27FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6939743_b9cf_2.jpg",
+      "title": "Microsoft Copilot and 10+ AI Assistants for Work"
     },
     {
       "url": "https://www.udemy.com/course/ms-project-from-zero-to-pro/?couponCode=MSPROJECT2702",
       "coupon_code": "MSPROJECT2702",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5879042_4292_2.jpg",
+      "title": "Microsoft Project from Zero to Pro بروجكت من الصفر للاحتراف"
     },
     {
       "url": "https://www.udemy.com/course/pmp-knowledge-boost-stay-on-track-with-pmi-standards/?couponCode=27FEBRUARY2026",
       "coupon_code": "27FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6904487_02ee_2.jpg",
+      "title": "PMP Knowledge Boost: Stay on Track with PMI Standards"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-regulatory-compliance-in-finance/?couponCode=09729C4B3F01371FE971",
       "coupon_code": "09729C4B3F01371FE971",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6037222_7c09_3.jpg",
+      "title": "Professional Certificate in Regulatory Compliance"
     },
     {
-      "url": "https://www.udemy.com/course/runway-masterclass-gen-4-aleph-act-two-ai-video-creation/?couponCode=27FEBRUARY2026",
-      "coupon_code": "27FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/professional-diploma-in-aviation-airlines-air-transportation-airports/?couponCode=33DB400AE1BD794CFF7E",
+      "coupon_code": "33DB400AE1BD794CFF7E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6038622_9308_2.jpg",
+      "title": "Diploma in Aviation, Airlines, Air Transportation & Airports"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-android-ethical-hacking-practical-course-caehp/?couponCode=FEB_26_B",
+      "coupon_code": "FEB_26_B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3205941_c6e6_2.jpg",
+      "title": "The Complete Android Ethical Hacking Practical Course C|AEHP"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-system-of-prompt-engineering/?couponCode=27FEBRUARY2026",
       "coupon_code": "27FEBRUARY2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863839_861e.jpg",
+      "title": "The Complete System of Prompt Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-literacy-for-all-employees-v/?couponCode=27FEBRUARY2027",
+      "coupon_code": "27FEBRUARY2027",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6955225_c34e.jpg",
+      "title": "AI Literacy for All Employees"
+    },
+    {
+      "url": "https://www.udemy.com/course/design-ai-products/?couponCode=27FEBRUARY2026",
+      "coupon_code": "27FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6948649_0fb0.jpg",
+      "title": "Design AI Products"
+    },
+    {
+      "url": "https://www.udemy.com/course/runway-masterclass-gen-4-aleph-act-two-ai-video-creation/?couponCode=27FEBRUARY2026",
+      "coupon_code": "27FEBRUARY2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6960225_c09c.jpg",
+      "title": "Runway Masterclass: Gen-4, Aleph & Act-Two AI Video Creation"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-unity-game-developer-course-from-zero-to-hero/?couponCode=B50B7767A1014865412F",
       "coupon_code": "B50B7767A1014865412F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6535427_361b_2.jpg",
+      "title": "The Ultimate Unity Game Developer Course: From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/aprende-javascript-sin-dolor/?couponCode=3D4E101F0FF2140B457C",
