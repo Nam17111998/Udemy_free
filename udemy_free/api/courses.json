@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-02-26T23:38:14Z",
-  "count": 926,
+  "updated_at": "2026-02-27T02:43:02Z",
+  "count": 938,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/?couponCode=65E8FBA494B99CF08854",
+      "coupon_code": "65E8FBA494B99CF08854",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4975194_1cdd.jpg",
+      "title": "C++ Complete Training Course for C++ Beginners All In One"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-training-crash-course-2022/?couponCode=D0FD8D49DC9B805B8211",
+      "coupon_code": "D0FD8D49DC9B805B8211",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4986100_e31c.jpg",
+      "title": "C++ Training Crash Course for C++ Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-midjourney-23-proven-methods-to-earn-with-ai/?couponCode=87517DEC30107BA8464D",
+      "coupon_code": "87517DEC30107BA8464D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6158605_c6df_2.jpg",
+      "title": "Master AI Tools in 2026: ChatGPT, Midjourney, Gemini Firefly"
+    },
+    {
+      "url": "https://www.udemy.com/course/creating-net-core-microservices-using-clean-architecture/?couponCode=089735DAB4C31221D8AA",
+      "coupon_code": "089735DAB4C31221D8AA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5126654_90a1_11.jpg",
+      "title": "Creating .Net Core Microservices using Clean Architecture"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=F68ECFB52F38FFF0F817",
+      "coupon_code": "F68ECFB52F38FFF0F817",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4282170_1ea0.jpg",
+      "title": "CSS And JavaScript Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/?couponCode=28A946241D85643FCE90",
+      "coupon_code": "28A946241D85643FCE90",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4548492_0942.jpg",
+      "title": "CSS, Bootstrap ,JavaScript, Web Development Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-certificate-in-company-direction/?couponCode=C181193097C3BC6324BB",
+      "coupon_code": "C181193097C3BC6324BB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5959386_a56a.jpg",
+      "title": "Executive Certificate in Company Direction"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-marketing-and-marketing-management/?couponCode=C019B03D1AB854E724A4",
+      "coupon_code": "C019B03D1AB854E724A4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5972952_4743_5.jpg",
+      "title": "Professional Certificate in Marketing & Marketing Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-smm-social-media-marketing/?couponCode=11FDD75D93D546AC8930",
+      "coupon_code": "11FDD75D93D546AC8930",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5966724_110a.jpg",
+      "title": "Professional Certificate in SMM Social Media Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-product-management-and-development/?couponCode=ACB493D1A4D346655285",
+      "coupon_code": "ACB493D1A4D346655285",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5962094_cc69_2.jpg",
+      "title": "Professional Certificate: Product Management and Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-development-and-python-programming-fundamentals/?couponCode=0F67B6C0BCE9D6B2A34F",
+      "coupon_code": "0F67B6C0BCE9D6B2A34F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5966548_dec0.jpg",
+      "title": "Python Development and Python Programming Fundamentals"
+    },
+    {
+      "url": "https://www.udemy.com/course/sell-digital-products-2025-online-business-mastery-guide/?couponCode=B455AC3EE2ECE06E1F2E",
+      "coupon_code": "B455AC3EE2ECE06E1F2E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6686193_65d0_2.jpg",
+      "title": "Sell Digital Products 2026: Online Business Mastery Guide!"
+    },
+    {
+      "url": "https://www.udemy.com/course/speak-english-fluently-master-your-real-life-communication/?couponCode=B2B952CAFBD83F04EED4",
+      "coupon_code": "B2B952CAFBD83F04EED4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589779_dd73.jpg",
+      "title": "Speak English Fluently: Master Your Real-Life Communication"
+    },
+    {
+      "url": "https://www.udemy.com/course/start-your-freelancing-agency/?couponCode=7675A78FC51E96FED56C",
+      "coupon_code": "7675A78FC51E96FED56C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6269857_b5bf_2.jpg",
+      "title": "Start Your One-Person Freelance Agency"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-seo-course-2024-beginner-to-advanced-seo/?couponCode=55D12AD608CB80E72AF1",
+      "coupon_code": "55D12AD608CB80E72AF1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5908172_2f2a.jpg",
+      "title": "Ultimate SEO Course 2026: Beginner to Advanced SEO with AI"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-program-managers-learnit/?couponCode=FEBRUARY_FREE3_2026",
       "coupon_code": "FEBRUARY_FREE3_2026",
@@ -17,22 +107,20 @@
     {
       "url": "https://www.udemy.com/course/certificate-in-public-relations-and-communication-management/?couponCode=34D40EFC8589B1F7551B",
       "coupon_code": "34D40EFC8589B1F7551B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5957212_8e68.jpg",
+      "title": "Certificate in Public Relations and Communication Management"
     },
     {
       "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=BB0A2472CC2B5AAD0C8F",
       "coupon_code": "BB0A2472CC2B5AAD0C8F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
+      "title": "Transforme ton Intérieur en Environnement de Réussite"
     },
     {
       "url": "https://www.udemy.com/course/executive-certificate-in-business-leadership/?couponCode=5CDF221384AC1338B244",
       "coupon_code": "5CDF221384AC1338B244",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/executive-certificate-in-company-direction/?couponCode=C181193097C3BC6324BB",
-      "coupon_code": "C181193097C3BC6324BB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5949140_fb0f.jpg",
+      "title": "Executive Certificate in Business Leadership"
     },
     {
       "url": "https://www.udemy.com/course/navigating-the-crypto-universe-and-blockchain/?couponCode=560D95C152FBB7F8421C",
@@ -55,17 +143,14 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-career-coaching/?couponCode=78A3928C8562D7B77FE8",
       "coupon_code": "78A3928C8562D7B77FE8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5952512_8382.jpg",
+      "title": "Professional Certificate in Career Coaching"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-coaching/?couponCode=51C432CB43BFE4764C11",
       "coupon_code": "51C432CB43BFE4764C11",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-product-management-and-development/?couponCode=ACB493D1A4D346655285",
-      "coupon_code": "ACB493D1A4D346655285",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5952498_ce24.jpg",
+      "title": "Professional Certificate in Coaching"
     },
     {
       "url": "https://www.udemy.com/course/qa-qc-metrics-kpis-learnit/?couponCode=FEBRUARY_FREE3_2026",
@@ -78,11 +163,6 @@
       "coupon_code": "FEBRUARY_FREE3_2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6927315_4792_3.jpg",
       "title": "Securing AI Applications: From Threats to Controls"
-    },
-    {
-      "url": "https://www.udemy.com/course/start-your-freelancing-agency/?couponCode=7675A78FC51E96FED56C",
-      "coupon_code": "7675A78FC51E96FED56C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/ai-cybersecurity-learnit/?couponCode=FEBRUARY_FREE3_2026",
