@@ -1,46 +1,54 @@
 {
-  "updated_at": "2026-02-27T05:58:16Z",
-  "count": 962,
+  "updated_at": "2026-02-27T07:07:22Z",
+  "count": 965,
   "courses": [
     {
       "url": "https://www.udemy.com/course/aprende-javascript-sin-dolor/?couponCode=3D4E101F0FF2140B457C",
       "coupon_code": "3D4E101F0FF2140B457C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4434694_d09f.jpg",
+      "title": "Aprende JavaScript sin dolor"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-in-health-care/?couponCode=974D13E893207B34A510",
       "coupon_code": "974D13E893207B34A510",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5517416_f46c.jpg",
+      "title": "Artificial Intelligence in Health Care"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-in-pharmaceutical-industry/?couponCode=126FDBB324FF2FB4ED57",
       "coupon_code": "126FDBB324FF2FB4ED57",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5773730_8e73.jpg",
+      "title": "Artificial Intelligence in Pharmaceutical Industry"
     },
     {
       "url": "https://www.udemy.com/course/clinical-data-management-course/?couponCode=5F085266FC1ADF23946C",
       "coupon_code": "5F085266FC1ADF23946C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5821816_8dac.jpg",
+      "title": "Clinical Data Management Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=F1C331B402ED06EC1502",
+      "coupon_code": "F1C331B402ED06EC1502",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4202336_b8f3_5.jpg",
+      "title": "Object Oriented Programming in C++"
     },
     {
       "url": "https://www.udemy.com/course/entrepreneurship-and-business-research-in-biomedical/?couponCode=6212BC7F39574FB501BC",
       "coupon_code": "6212BC7F39574FB501BC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5248380_9647.jpg",
+      "title": "Entrepreneurship and Business Research in Biomedical"
     },
     {
       "url": "https://www.udemy.com/course/financial-modeling-online-course/?couponCode=A23509451BECC28C85E9",
       "coupon_code": "A23509451BECC28C85E9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/food-biochemistry/?couponCode=85573F7F2373D0B85C84",
-      "coupon_code": "85573F7F2373D0B85C84",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6244613_e93e.jpg",
+      "title": "Financial Modeling Course"
     },
     {
       "url": "https://www.udemy.com/course/forensic-science-o/?couponCode=19F85E36BC5633F9C013",
       "coupon_code": "19F85E36BC5633F9C013",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4332806_b003.jpg",
+      "title": "Forensic Science Course"
     },
     {
       "url": "https://www.udemy.com/course/genetic-engineering-using-crispr-course/?couponCode=9B6E04042010D2808BF9",
@@ -51,37 +59,62 @@
     {
       "url": "https://www.udemy.com/course/gis-software-application-online-course/?couponCode=CF5DAFA30FF22CA26A91",
       "coupon_code": "CF5DAFA30FF22CA26A91",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5822666_d151.jpg",
+      "title": "GIS Software & Application Online Course"
     },
     {
       "url": "https://www.udemy.com/course/industrial-biotechnology-online-course/?couponCode=9808786CE56909F60172",
       "coupon_code": "9808786CE56909F60172",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5821794_0271.jpg",
+      "title": "Industrial Biotechnology Online Course"
     },
     {
       "url": "https://www.udemy.com/course/mastering-in-medical-robotics/?couponCode=BCE6D572451113CCAC20",
       "coupon_code": "BCE6D572451113CCAC20",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5585178_10d6_2.jpg",
+      "title": "Medical Robotics Course"
     },
     {
-      "url": "https://www.udemy.com/course/medical-lab-technician/?couponCode=838202CE7F0D82005652",
-      "coupon_code": "838202CE7F0D82005652",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/montessori-masterclass/?couponCode=6618C747C43AE6B78C6D",
+      "coupon_code": "6618C747C43AE6B78C6D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7051753_139b.jpg",
+      "title": "Montessori Masterclass: Your Complete Implementation Guide"
     },
     {
       "url": "https://www.udemy.com/course/nanotechnology-in-civil-engineering-course/?couponCode=FB855F0FB97FFE595E3A",
       "coupon_code": "FB855F0FB97FFE595E3A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6254541_4792_2.jpg",
+      "title": "Nanotechnology in Civil Engineering Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-of-ibm-spss-statistics-expert/?couponCode=3BAEE313638C7576610A",
+      "coupon_code": "3BAEE313638C7576610A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6025730_fdd2.jpg",
+      "title": "Professional Certificate of IBM SPSS Statistics Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/food-biochemistry/?couponCode=85573F7F2373D0B85C84",
+      "coupon_code": "85573F7F2373D0B85C84",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5403100_844d.jpg",
+      "title": "Food Biochemistry"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-lab-technician/?couponCode=838202CE7F0D82005652",
+      "coupon_code": "838202CE7F0D82005652",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5188162_5cb7.jpg",
+      "title": "Medical Lab Technician"
     },
     {
       "url": "https://www.udemy.com/course/pharmaceutical-quality-control/?couponCode=EA444F6FD4ED18CC9596",
       "coupon_code": "EA444F6FD4ED18CC9596",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5180514_c463.jpg",
+      "title": "Pharmaceutical Quality Control"
     },
     {
       "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=C72F1E68BB4095830573",
       "coupon_code": "C72F1E68BB4095830573",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
+      "title": "Build a Backend REST API with Node JS from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/?couponCode=65E8FBA494B99CF08854",
@@ -98,37 +131,44 @@
     {
       "url": "https://www.udemy.com/course/diploma-executivo-em-lideranca/?couponCode=C2C206F9407AE4BE6DD3",
       "coupon_code": "C2C206F9407AE4BE6DD3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5990764_25b2.jpg",
+      "title": "Diploma Executivo em Liderança"
     },
     {
       "url": "https://www.udemy.com/course/executive-certificate-in-sales-management/?couponCode=BC3D80BADCD6FF1E612B",
       "coupon_code": "BC3D80BADCD6FF1E612B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992344_c0b5.jpg",
+      "title": "Executive Certificate in Sales Management"
     },
     {
       "url": "https://www.udemy.com/course/facebook-ads-masterclass-2023-all-campaigns-features/?couponCode=270F4B718EF7F6306620",
       "coupon_code": "270F4B718EF7F6306620",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5668040_4de0.jpg",
+      "title": "Facebook Ads MasterClass 2026 - All Campaign Creations"
     },
     {
       "url": "https://www.udemy.com/course/google-ads-masterclass-2025-all-features-campaign-setups/?couponCode=5A2CD5934867F9C31B85",
       "coupon_code": "5A2CD5934867F9C31B85",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681185_bc68.jpg",
+      "title": "Google Ads MasterClass 2026: All Features & Campaign Setups"
     },
     {
       "url": "https://www.udemy.com/course/master-english-with-ai-improve-fluency-fast-using-chatgpt/?couponCode=A06A63E132F8BC613397",
       "coupon_code": "A06A63E132F8BC613397",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6958569_ca07_2.jpg",
+      "title": "Master English with AI: Improve Fluency Fast Using ChatGPT"
     },
     {
       "url": "https://www.udemy.com/course/master-website-creation-15-website-platforms-in-1-course/?couponCode=9D547C7F4DF7DEF7B0E5",
       "coupon_code": "9D547C7F4DF7DEF7B0E5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6900529_e7bf_2.jpg",
+      "title": "Master Website Creation - 15 Website Platforms in 1 Course!"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-customer-experience-management/?couponCode=4987D86807726CF0AE9B",
       "coupon_code": "4987D86807726CF0AE9B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5979820_d261.jpg",
+      "title": "Professional Certificate in Customer Experience Management"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-marketing-and-marketing-management/?couponCode=C019B03D1AB854E724A4",
@@ -145,7 +185,8 @@
     {
       "url": "https://www.udemy.com/course/python-and-flask-only-demonstration-course/?couponCode=5ABB7931DC268B77B938",
       "coupon_code": "5ABB7931DC268B77B938",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3526008_d891_5.jpg",
+      "title": "Python And Flask  Demonstrations Practice Course"
     },
     {
       "url": "https://www.udemy.com/course/sell-digital-products-2025-online-business-mastery-guide/?couponCode=B455AC3EE2ECE06E1F2E",
