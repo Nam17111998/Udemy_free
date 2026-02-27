@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-02-27T20:36:48Z",
-  "count": 944,
+  "updated_at": "2026-02-27T21:36:18Z",
+  "count": 945,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-program-in-business-and-entrepreneurship/?couponCode=29543DBD274EBDA3F798",
+      "coupon_code": "29543DBD274EBDA3F798",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6194967_151b.jpg",
+      "title": "Advanced Program in Business and Entrepreneurship"
+    },
     {
       "url": "https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=061908745D008E6AFD2E",
       "coupon_code": "061908745D008E6AFD2E",
@@ -17,7 +23,8 @@
     {
       "url": "https://www.udemy.com/course/certificate-of-leadership-excellence-in-business-management/?couponCode=C9ED6ECACDD845142CD6",
       "coupon_code": "C9ED6ECACDD845142CD6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180625_ba83.jpg",
+      "title": "Certificate of Leadership Excellence in Business Management"
     },
     {
       "url": "https://www.udemy.com/course/curso-completo-de-mikrotik-configuraciones-mucha-practica/?couponCode=3212734272EDED28C9C1",
@@ -68,12 +75,6 @@
       "title": "Salesforce Fundamentals : A Complete Guide for Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/?couponCode=F3A569658BF56416ABF2",
-      "coupon_code": "F3A569658BF56416ABF2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5642330_9d84_2.jpg",
-      "title": "The Complete C & C++ Programming Course - Mastering  C & C++"
-    },
-    {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-from-beginners-to-expert/?couponCode=ADB73D36195D4E52F86E",
       "coupon_code": "ADB73D36195D4E52F86E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6764847_ffcb.jpg",
@@ -90,6 +91,12 @@
       "coupon_code": "251727AEDFF8EBBAB727",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg",
       "title": "Unleash Your Full Potential: Learn English Now!"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/?couponCode=F3A569658BF56416ABF2",
+      "coupon_code": "F3A569658BF56416ABF2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5642330_9d84_2.jpg",
+      "title": "The Complete C & C++ Programming Course - Mastering  C & C++"
     },
     {
       "url": "https://www.udemy.com/course/data-science-r-programming/?couponCode=C1F8E7C9ED9980A7B139",
