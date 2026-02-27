@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-02-27T16:50:16Z",
-  "count": 938,
+  "updated_at": "2026-02-27T17:41:42Z",
+  "count": 939,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/agile-project-management-scrum/?couponCode=270226_FREE",
-      "coupon_code": "270226_FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/curso-completo-de-mikrotik-configuraciones-mucha-practica/?couponCode=3212734272EDED28C9C1",
       "coupon_code": "3212734272EDED28C9C1",
@@ -15,6 +10,11 @@
     {
       "url": "https://www.udemy.com/course/foundational-english-language-skills-course/?couponCode=687D2E5724FD6DBF8C9B",
       "coupon_code": "687D2E5724FD6DBF8C9B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/?couponCode=140B6DBC35FA5315D480",
+      "coupon_code": "140B6DBC35FA5315D480",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -78,39 +78,51 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/agile-project-management-scrum/?couponCode=270226_FREE",
+      "coupon_code": "270226_FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/ai-for-business-analysts-z/?couponCode=A13A6EB72D9BEFD09216",
       "coupon_code": "A13A6EB72D9BEFD09216",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6964361_3d45.jpg",
+      "title": "AI for Business Analysts"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=23RDFEB26&ra",
       "coupon_code": "23RDFEB26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4925880_ceba.jpg",
+      "title": "Fundamentals of  Successful Leadership - Leading with Impact"
     },
     {
       "url": "https://www.udemy.com/course/how-to-transform-your-life-practical-ways/?couponCode=23RDFEB26&ra",
       "coupon_code": "23RDFEB26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4912620_d57d.jpg",
+      "title": "How to Transform Your Life - practical ways"
     },
     {
       "url": "https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=059C0BE4A6A6805A60B7",
       "coupon_code": "059C0BE4A6A6805A60B7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3727022_0856_6.jpg",
+      "title": "Management Consulting Skills Mastery 2026"
     },
     {
       "url": "https://www.udemy.com/course/management-consulting-presentation-mckinsey/?couponCode=0795B8EAA1DA557D43CF",
       "coupon_code": "0795B8EAA1DA557D43CF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3970622_e2ea_5.jpg",
+      "title": "Management Consulting Presentation Essential Training 2026"
     },
     {
       "url": "https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=E05D5F192E98DC408B66",
       "coupon_code": "E05D5F192E98DC408B66",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3726964_07e4_3.jpg",
+      "title": "Management Consulting Essential Training 2026"
     },
     {
       "url": "https://www.udemy.com/course/personal-growth-affirmations-and-taking-action/?couponCode=23RDFEB26&ra",
       "coupon_code": "23RDFEB26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4917622_0aae_2.jpg",
+      "title": "Personal Growth - Affirmations and Taking Action"
     },
     {
       "url": "https://www.udemy.com/course/safe-general-overview-course/?couponCode=F2D171BEFD538E3946DC",
@@ -150,7 +162,8 @@
     {
       "url": "https://www.udemy.com/course/your-words-powerful-tools/?couponCode=23RDFEB26&ra",
       "coupon_code": "23RDFEB26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4789658_5ffd_5.jpg",
+      "title": "Your WORDS, Powerful Tools"
     },
     {
       "url": "https://www.udemy.com/course/agile-scrum-your-path-to-psm-certification/?couponCode=62A6527ED22B81156EB6",
