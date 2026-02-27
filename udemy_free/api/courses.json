@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-27T18:56:09Z",
-  "count": 941,
+  "updated_at": "2026-02-27T19:38:53Z",
+  "count": 943,
   "courses": [
     {
       "url": "https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=061908745D008E6AFD2E",
@@ -9,10 +9,22 @@
       "title": "Business & Science Method, Analysis & Research Methodologies"
     },
     {
+      "url": "https://www.udemy.com/course/certificado-profissional-em-gestao-de-projetos/?couponCode=F86A95C712230A4001F2",
+      "coupon_code": "F86A95C712230A4001F2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6166379_e3a9_2.jpg",
+      "title": "Certificado Profissional em Gestão de Projetos"
+    },
+    {
       "url": "https://www.udemy.com/course/curso-completo-de-mikrotik-configuraciones-mucha-practica/?couponCode=3212734272EDED28C9C1",
       "coupon_code": "3212734272EDED28C9C1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5449088_93b5.jpg",
       "title": "Curso Completo de Mikrotik. Configuraciones y mucha Práctica"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-science-r-programming/?couponCode=C1F8E7C9ED9980A7B139",
+      "coupon_code": "C1F8E7C9ED9980A7B139",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5677090_6a09.jpg",
+      "title": "Bootcamp on Data Science using R language"
     },
     {
       "url": "https://www.udemy.com/course/foundational-english-language-skills-course/?couponCode=687D2E5724FD6DBF8C9B",
@@ -63,12 +75,6 @@
       "title": "Salesforce Fundamentals : A Complete Guide for Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/?couponCode=F3A569658BF56416ABF2",
-      "coupon_code": "F3A569658BF56416ABF2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5642330_9d84_2.jpg",
-      "title": "The Complete C & C++ Programming Course - Mastering  C & C++"
-    },
-    {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-from-beginners-to-expert/?couponCode=ADB73D36195D4E52F86E",
       "coupon_code": "ADB73D36195D4E52F86E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6764847_ffcb.jpg",
@@ -81,16 +87,22 @@
       "title": "The Complete Python Bootcamp from Zero to Expert"
     },
     {
-      "url": "https://www.udemy.com/course/tow-power-masterclass-how-to-start-a-tow-truck-business/?couponCode=74E35549F109FAE0DF94",
-      "coupon_code": "74E35549F109FAE0DF94",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6321327_acd2_2.jpg",
-      "title": "Tow Power Masterclass: How to Start A Tow Truck Business?"
-    },
-    {
       "url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/?couponCode=251727AEDFF8EBBAB727",
       "coupon_code": "251727AEDFF8EBBAB727",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg",
       "title": "Unleash Your Full Potential: Learn English Now!"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/?couponCode=F3A569658BF56416ABF2",
+      "coupon_code": "F3A569658BF56416ABF2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5642330_9d84_2.jpg",
+      "title": "The Complete C & C++ Programming Course - Mastering  C & C++"
+    },
+    {
+      "url": "https://www.udemy.com/course/tow-power-masterclass-how-to-start-a-tow-truck-business/?couponCode=74E35549F109FAE0DF94",
+      "coupon_code": "74E35549F109FAE0DF94",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6321327_acd2_2.jpg",
+      "title": "Tow Power Masterclass: How to Start A Tow Truck Business?"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-project-management/?couponCode=6CF660774552E8F8E432",
