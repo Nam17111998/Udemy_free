@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-28T05:38:41Z",
-  "count": 985,
+  "updated_at": "2026-02-28T06:50:50Z",
+  "count": 989,
   "courses": [
     {
       "url": "https://www.udemy.com/course/aging-and-geriatrics/?couponCode=3A4DBBE697BF7D0EC8E4",
@@ -15,26 +15,29 @@
       "title": "Aprende React sin dolor"
     },
     {
+      "url": "https://www.udemy.com/course/associate-professional-risk-manager-aprm-certificate/?couponCode=4412863FB93E367F0946",
+      "coupon_code": "4412863FB93E367F0946",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analyst-professional-certificate-in-data-analysis/?couponCode=924CC7EFA84E8AA78C60",
+      "coupon_code": "924CC7EFA84E8AA78C60",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/digital-transformation-customer-experience-management-cxm/?couponCode=F6FC9C7CD2107C8328D6",
       "coupon_code": "F6FC9C7CD2107C8328D6",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=64CAAC379B7D98CB6F88",
-      "coupon_code": "64CAAC379B7D98CB6F88",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4300761_1522_7.jpg",
-      "title": "General Bacteriology: Foundations of Microbiology"
+      "url": "https://www.udemy.com/course/excel-data-insights-power-query-pivot-analysis-and-visuals/?couponCode=C23441EA14337F66E157",
+      "coupon_code": "C23441EA14337F66E157",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/genetic-from-mendal-to-era-of-microchip-molecular-genetic/?couponCode=64420AC2C30AD5979024",
       "coupon_code": "64420AC2C30AD5979024",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/histology-step-by-step/?couponCode=DE9F3C6BAE6B3F964DF6",
-      "coupon_code": "DE9F3C6BAE6B3F964DF6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5080670_193b_2.jpg",
-      "title": "Mastering Histology: Microscopic Anatomy Made easy"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-business-foundations-and-practices/?couponCode=005244A5634C88A89892",
@@ -46,12 +49,6 @@
       "coupon_code": "E439B90AEB9F25900AE9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4355500_374e_5.jpg",
       "title": "Layer Poultry Farming Masterclass: Profitable Egg Production"
-    },
-    {
-      "url": "https://www.udemy.com/course/master-website-creation-15-website-platforms-in-1-course-s/?couponCode=80FDC0905FBA6F2635EB",
-      "coupon_code": "80FDC0905FBA6F2635EB",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6639533_07c4_3.jpg",
-      "title": "Master Website Creation - 15 Website Platforms in 1 Course!"
     },
     {
       "url": "https://www.udemy.com/course/medical-ethics-for-medical-students-health-care-professional/?couponCode=ACAD66EA287BF6DE9DD2",
@@ -77,15 +74,38 @@
       "title": "Product Marketing: Advanced Go-to-Market (GTM) Strategy"
     },
     {
-      "url": "https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/?couponCode=F11870A828DDD36402A8",
-      "coupon_code": "F11870A828DDD36402A8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3330326_a986.jpg",
-      "title": "Python,Flask Framework And Django Course For Beginners"
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-expert/?couponCode=47D37167D52BC7C0B117",
+      "coupon_code": "47D37167D52BC7C0B117",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/unlock-your-mind-mental-mastery-and-personal-growth-are-one/?couponCode=6D7CF87A953A4D12341E",
       "coupon_code": "6D7CF87A953A4D12341E",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=64CAAC379B7D98CB6F88",
+      "coupon_code": "64CAAC379B7D98CB6F88",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4300761_1522_7.jpg",
+      "title": "General Bacteriology: Foundations of Microbiology"
+    },
+    {
+      "url": "https://www.udemy.com/course/histology-step-by-step/?couponCode=DE9F3C6BAE6B3F964DF6",
+      "coupon_code": "DE9F3C6BAE6B3F964DF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5080670_193b_2.jpg",
+      "title": "Mastering Histology: Microscopic Anatomy Made easy"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-website-creation-15-website-platforms-in-1-course-s/?couponCode=80FDC0905FBA6F2635EB",
+      "coupon_code": "80FDC0905FBA6F2635EB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6639533_07c4_3.jpg",
+      "title": "Master Website Creation - 15 Website Platforms in 1 Course!"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/?couponCode=F11870A828DDD36402A8",
+      "coupon_code": "F11870A828DDD36402A8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3330326_a986.jpg",
+      "title": "Python,Flask Framework And Django Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/certificate-in-business-and-operations-management-excellence/?couponCode=BA8E6518D413C583DEB6",
