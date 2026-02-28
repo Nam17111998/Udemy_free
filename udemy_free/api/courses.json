@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-02-28T10:32:21Z",
-  "count": 914,
+  "updated_at": "2026-02-28T11:26:35Z",
+  "count": 919,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/abc-of-ear-nose-and-throat-ent-disorders/?couponCode=61F7B4EF0DCB6985311F",
+      "coupon_code": "61F7B4EF0DCB6985311F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/elisa-principals-and-applications-for-professionals/?couponCode=58F5E4B02B5882A4FD45",
       "coupon_code": "58F5E4B02B5882A4FD45",
@@ -23,19 +28,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/excellence-in-crisis-management-bcp/?couponCode=B9F79BCA5AB4F2A0F44A",
-      "coupon_code": "B9F79BCA5AB4F2A0F44A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6488113_e061_2.jpg",
-      "title": "Excellence in Crisis Management & BCP"
-    },
-    {
       "url": "https://www.udemy.com/course/from-milk-to-magic-the-transformative-power-of-cheesemaking/?couponCode=3E5BA225BA9A39A45088",
       "coupon_code": "3E5BA225BA9A39A45088",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/?couponCode=922DB908E9DD65135BD9",
-      "coupon_code": "922DB908E9DD65135BD9",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -54,13 +48,49 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=FF09FC2CAF0C398BCBCC",
-      "coupon_code": "FF09FC2CAF0C398BCBCC",
+      "url": "https://www.udemy.com/course/mastering-the-art-of-soft-skills-enhance-your-communication/?couponCode=095F25EADE16048DD371",
+      "coupon_code": "095F25EADE16048DD371",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-the-art-of-soft-skills-enhance-your-communication/?couponCode=095F25EADE16048DD371",
-      "coupon_code": "095F25EADE16048DD371",
+      "url": "https://www.udemy.com/course/medical-genetics-n/?couponCode=0467C37F2636D7AC6C5C",
+      "coupon_code": "0467C37F2636D7AC6C5C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/principles-of-meat-science/?couponCode=3E386E552D45A40672E1",
+      "coupon_code": "3E386E552D45A40672E1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-sql-and-sql-for-data-analysis/?couponCode=6364082C9F971AC82A40",
+      "coupon_code": "6364082C9F971AC82A40",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-methodologies-agile-scrum-and-pmp/?couponCode=E14EF0D06F1DDF6235E9",
+      "coupon_code": "E14EF0D06F1DDF6235E9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=9B03A7EF76D4DCE26E45",
+      "coupon_code": "9B03A7EF76D4DCE26E45",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-crisis-management-bcp/?couponCode=B9F79BCA5AB4F2A0F44A",
+      "coupon_code": "B9F79BCA5AB4F2A0F44A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6488113_e061_2.jpg",
+      "title": "Excellence in Crisis Management & BCP"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/?couponCode=922DB908E9DD65135BD9",
+      "coupon_code": "922DB908E9DD65135BD9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/?couponCode=FF09FC2CAF0C398BCBCC",
+      "coupon_code": "FF09FC2CAF0C398BCBCC",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -71,11 +101,6 @@
     {
       "url": "https://www.udemy.com/course/solve-cases-questions-from-kotlers-marketing-management/?couponCode=7D1EF29663F9D9F1CC7A",
       "coupon_code": "7D1EF29663F9D9F1CC7A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/?couponCode=9B03A7EF76D4DCE26E45",
-      "coupon_code": "9B03A7EF76D4DCE26E45",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
