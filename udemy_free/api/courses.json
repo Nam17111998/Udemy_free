@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-03-01T22:32:43Z",
-  "count": 940,
+  "updated_at": "2026-03-01T23:31:43Z",
+  "count": 942,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-powered-customer-experience/?couponCode=D1A5CB9EA11629CDBEC4",
+      "coupon_code": "D1A5CB9EA11629CDBEC4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-data-and-product-masterclass/?couponCode=94F2F4BFD72CFAD1D164",
+      "coupon_code": "94F2F4BFD72CFAD1D164",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-tools-for-non-tech-creators/?couponCode=D404809EFD187F65C258",
       "coupon_code": "D404809EFD187F65C258",
@@ -10,7 +20,8 @@
     {
       "url": "https://www.udemy.com/course/business-strategy-and-innovation-frameworks/?couponCode=EFE9A675AB9006E827CB",
       "coupon_code": "EFE9A675AB9006E827CB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6627259_626f.jpg",
+      "title": "Business Strategy & Innovation Frameworks"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-para-principiantes/?couponCode=MARZO202601",
@@ -21,12 +32,6 @@
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-chatgpt-desde-cero/?couponCode=MARZO202601",
       "coupon_code": "MARZO202601",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor-pro/?couponCode=MARZO202601",
-      "coupon_code": "MARZO202601",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5343544_c3a7.jpg",
-      "title": "Cómo Crear una Página Web con WordPress y Elementor PRO 2026"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-y-chatgpt/?couponCode=MARZO202601",
@@ -54,11 +59,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/master-en-wordpress-y-chatgpt-desde-cero-hasta-experto/?couponCode=MARZO202601",
-      "coupon_code": "MARZO202601",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/procurementdiploma/?couponCode=607F8B3C61F5C34BD84F",
       "coupon_code": "607F8B3C61F5C34BD84F",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -76,6 +76,18 @@
     {
       "url": "https://www.udemy.com/course/virtual-executive-assistant/?couponCode=E2D357D95D8A93C7C4BE",
       "coupon_code": "E2D357D95D8A93C7C4BE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241137_b43a_2.jpg",
+      "title": "Professional Diploma in Virtual Executive Assistant"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor-pro/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5343544_c3a7.jpg",
+      "title": "Cómo Crear una Página Web con WordPress y Elementor PRO 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-en-wordpress-y-chatgpt-desde-cero-hasta-experto/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
