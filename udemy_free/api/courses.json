@@ -1,7 +1,92 @@
 {
-  "updated_at": "2026-03-01T06:56:26Z",
-  "count": 955,
+  "updated_at": "2026-03-01T07:37:56Z",
+  "count": 968,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-certificate-in-financial-analysis-and-management/?couponCode=53744AB2FBF1839D766E",
+      "coupon_code": "53744AB2FBF1839D766E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cyber-security-and-ethical-hacking/?couponCode=135733D8EF86B6400ECD",
+      "coupon_code": "135733D8EF86B6400ECD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-based-decision-making-and-cost-benefit-analysis-cba/?couponCode=A474FFB41575C83297D0",
+      "coupon_code": "A474FFB41575C83297D0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-presence-foundations-of-confident-leadership/?couponCode=971A22CBF0E5E7EA5269",
+      "coupon_code": "971A22CBF0E5E7EA5269",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/expert-certificate-marketing-data-analysis-data-analytics/?couponCode=12922089504F302212CC",
+      "coupon_code": "12922089504F302212CC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/freelancingcareer/?couponCode=06458E24DD5F4615EEBC",
+      "coupon_code": "06458E24DD5F4615EEBC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6143377_9daf_4.jpg",
+      "title": "Freelancing Secrets: How to Build a Lucrative Career"
+    },
+    {
+      "url": "https://www.udemy.com/course/human-resources-expert-certificate-hr-metrics-and-analytics/?couponCode=7EC77C11F676D51F3CA1",
+      "coupon_code": "7EC77C11F676D51F3CA1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6552009_3a29_3.jpg",
+      "title": "Human Resources Expert Certificate: HR Metrics and Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/logisticsmanagement/?couponCode=A3EE2113BC544C71703B",
+      "coupon_code": "A3EE2113BC544C71703B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180277_4027_2.jpg",
+      "title": "Professional Diploma in Logistics Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/market-research-competitive-analysis-executive-certificate/?couponCode=B4A65ECEA8390AA385DE",
+      "coupon_code": "B4A65ECEA8390AA385DE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6510181_0ab4_2.jpg",
+      "title": "Market Research & Competitive Analysis Executive Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/market-research-for-product-management/?couponCode=A5AC78A464BD0EA0AA74",
+      "coupon_code": "A5AC78A464BD0EA0AA74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6510357_61bc.jpg",
+      "title": "Market Research for Product Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-mysql-database-creation-management-sql-queries/?couponCode=650BCC295437F32E5DCA",
+      "coupon_code": "650BCC295437F32E5DCA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182905_c45a.jpg",
+      "title": "Mastering MYSQL: Database Creation, Management & SQL Queries"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-finance-data-analysis-analytics/?couponCode=C641118FB291D8F0D86D",
+      "coupon_code": "C641118FB291D8F0D86D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6536711_5b57_2.jpg",
+      "title": "Professional Certificate: Finance Data Analysis & Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-build-a-strong-foundation-in-coding/?couponCode=2C7C8EA6476F9B37E713",
+      "coupon_code": "2C7C8EA6476F9B37E713",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182945_6e0a.jpg",
+      "title": "Python Programming: Build a Strong Foundation in Coding"
+    },
+    {
+      "url": "https://www.udemy.com/course/sales-and-service-data-analysis-and-analytics-expert-certificate/?couponCode=C5DE9B555F5E9DCE5441",
+      "coupon_code": "C5DE9B555F5E9DCE5441",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6477559_dccd.jpg",
+      "title": "Sales & Service Data Analysis & Analytics Expert Certificate"
+    },
+    {
+      "url": "https://www.udemy.com/course/time-management-and-timeboxing-in-business-projects-agile/?couponCode=478D66061E888F7D275F",
+      "coupon_code": "478D66061E888F7D275F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6547817_1ea7_2.jpg",
+      "title": "Time Management and Timeboxing in Business, Projects, Agile"
+    },
     {
       "url": "https://www.udemy.com/course/all-in-one-wp-migration-migra-tu-sitio-web-de-wordpress/?couponCode=FEBRERO202603",
       "coupon_code": "FEBRERO202603",
@@ -69,22 +154,10 @@
       "title": "Máster en Diseño Web Para No Programadores 2026"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-mysql-database-creation-management-sql-queries/?couponCode=650BCC295437F32E5DCA",
-      "coupon_code": "650BCC295437F32E5DCA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6182905_c45a.jpg",
-      "title": "Mastering MYSQL: Database Creation, Management & SQL Queries"
-    },
-    {
       "url": "https://www.udemy.com/course/python-101-complete-python-programming-step-by-step-guide/?couponCode=B882D7D2D9BCB579C9F7",
       "coupon_code": "B882D7D2D9BCB579C9F7",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6709303_f812_2.jpg",
       "title": "Python 101: Complete Python Programming Step by Step Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-programming-build-a-strong-foundation-in-coding/?couponCode=2C7C8EA6476F9B37E713",
-      "coupon_code": "2C7C8EA6476F9B37E713",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6182945_6e0a.jpg",
-      "title": "Python Programming: Build a Strong Foundation in Coding"
     },
     {
       "url": "https://www.udemy.com/course/responsive-web-design-with-css-a-complete-css-guide/?couponCode=2B905BC9248F6BFCBB76",
