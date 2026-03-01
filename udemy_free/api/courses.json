@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-03-01T08:39:54Z",
-  "count": 983,
+  "updated_at": "2026-03-01T09:37:38Z",
+  "count": 995,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/capcut-for-cinematography-motion-graphics-and-social-media/?couponCode=A597E17F9C3F47538AA6",
+      "coupon_code": "A597E17F9C3F47538AA6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=E31CE50AA8B2E313B140",
+      "coupon_code": "E31CE50AA8B2E313B140",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=1BECEB8BE1224B1E0EA2",
+      "coupon_code": "1BECEB8BE1224B1E0EA2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5508760_4f2a_4.jpg",
+      "title": "Ethically Hack the Planet"
+    },
+    {
+      "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=4C0A506BA2445B534180",
+      "coupon_code": "4C0A506BA2445B534180",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=F0F5E2ED2CFD78FAA1B8",
+      "coupon_code": "F0F5E2ED2CFD78FAA1B8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=9C65D162DDB367514774",
+      "coupon_code": "9C65D162DDB367514774",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestion-del-tiempo-y-timeboxing-en-negocios-y-organizaciones/?couponCode=4D9ADCD6CD1D9C0DEC22",
+      "coupon_code": "4D9ADCD6CD1D9C0DEC22",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/?couponCode=PHPCOURSE127",
+      "coupon_code": "PHPCOURSE127",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3755422_4493_3.jpg",
+      "title": "PHP for Beginners: PHP Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-ms-word-excel-powerpoint-and-google-doc-google-sheets/?couponCode=4B1CD58E4CE4F5CC3B93",
+      "coupon_code": "4B1CD58E4CE4F5CC3B93",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=03FCE436140A17FA571E",
+      "coupon_code": "03FCE436140A17FA571E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-microsoft-excel-masterclass-and-google-sheets-with-ai-chatgpt/?couponCode=C4D7E720BC0652F73390",
+      "coupon_code": "C4D7E720BC0652F73390",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6945227_9cb0_4.jpg",
+      "title": "Modern Excel MasterClass and Google Sheets with AI ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=0F74CC0CBB64C735A4C2",
+      "coupon_code": "0F74CC0CBB64C735A4C2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-beginners-guide-to-bash-scripting-and-automation/?couponCode=4847F5F1B78F82D777A8",
+      "coupon_code": "4847F5F1B78F82D777A8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/windows-command-mastery-for-ethical-hackers/?couponCode=A8B6877F168EBE7F9619",
+      "coupon_code": "A8B6877F168EBE7F9619",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/write-article-content-for-seo-and-affiliate-marketing-course/?couponCode=AB2925FF2EE54EF2C029",
+      "coupon_code": "AB2925FF2EE54EF2C029",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-capcut-tutorial-for-social-media-video-editing/?couponCode=CB3346A66960FADE6915",
       "coupon_code": "CB3346A66960FADE6915",
@@ -16,18 +94,6 @@
       "url": "https://www.udemy.com/course/entscheiden-ziele-erreichen/?couponCode=350EA85E07366524EEC8",
       "coupon_code": "350EA85E07366524EEC8",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/?couponCode=PHPCOURSE127",
-      "coupon_code": "PHPCOURSE127",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3755422_4493_3.jpg",
-      "title": "PHP for Beginners: PHP Crash Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/modern-microsoft-excel-masterclass-and-google-sheets-with-ai-chatgpt/?couponCode=C4D7E720BC0652F73390",
-      "coupon_code": "C4D7E720BC0652F73390",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6945227_9cb0_4.jpg",
-      "title": "Modern Excel MasterClass and Google Sheets with AI ChatGPT"
     },
     {
       "url": "https://www.udemy.com/course/montessori-masterclass/?couponCode=7EA2E3955ADCFFEE02B3",
@@ -57,47 +123,50 @@
     {
       "url": "https://www.udemy.com/course/python-automation-and-data-science-bootcamp-zero-to-hero/?couponCode=96941B58F80FCA99FCA0",
       "coupon_code": "96941B58F80FCA99FCA0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6836911_f120_3.jpg",
+      "title": "Python Automation and Data Science Bootcamp Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/python-for-automation-automate-tasks-excel-web-and-files/?couponCode=265CAAD3934C93D2FA30",
       "coupon_code": "265CAAD3934C93D2FA30",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6897205_937d.jpg",
+      "title": "Python for Automation: Automate Tasks, Excel, Web and Files"
     },
     {
       "url": "https://www.udemy.com/course/systemische-beratung/?couponCode=B73EEF245B4E468DE2EC",
       "coupon_code": "B73EEF245B4E468DE2EC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6588777_ab32_2.jpg",
+      "title": "Systemische Beratung & Coaching – Psychologische Grundlagen"
     },
     {
       "url": "https://www.udemy.com/course/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/?couponCode=FBF78C0F958364EB83EF",
       "coupon_code": "FBF78C0F958364EB83EF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/write-article-content-for-seo-and-affiliate-marketing-course/?couponCode=AB2925FF2EE54EF2C029",
-      "coupon_code": "AB2925FF2EE54EF2C029",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3406388_848f_5.jpg",
+      "title": "Modern Graphic Design MasterClass with AI Driven Tools"
     },
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-financial-analysis-and-management/?couponCode=53744AB2FBF1839D766E",
       "coupon_code": "53744AB2FBF1839D766E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6456169_2396_5.jpg",
+      "title": "Advanced Certificate in Financial Analysis and Management"
     },
     {
       "url": "https://www.udemy.com/course/cyber-security-and-ethical-hacking/?couponCode=135733D8EF86B6400ECD",
       "coupon_code": "135733D8EF86B6400ECD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6251845_eaf6.jpg",
+      "title": "Advanced Cybersecurity & Ethical Hacking: Tools & Techniques"
     },
     {
       "url": "https://www.udemy.com/course/data-based-decision-making-and-cost-benefit-analysis-cba/?couponCode=A474FFB41575C83297D0",
       "coupon_code": "A474FFB41575C83297D0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6477309_e02a_4.jpg",
+      "title": "Data-Driven Decision Making & Cost-Benefit Analysis (CBA)"
     },
     {
       "url": "https://www.udemy.com/course/executive-presence-foundations-of-confident-leadership/?couponCode=971A22CBF0E5E7EA5269",
       "coupon_code": "971A22CBF0E5E7EA5269",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6529345_9bf3_4.jpg",
+      "title": "Executive Presence: Foundations of Confident Leadership"
     },
     {
       "url": "https://www.udemy.com/course/expert-certificate-marketing-data-analysis-data-analytics/?couponCode=12922089504F302212CC",
