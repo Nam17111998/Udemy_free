@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-02T16:58:53Z",
-  "count": 968,
+  "updated_at": "2026-03-02T17:55:15Z",
+  "count": 971,
   "courses": [
     {
       "url": "https://www.udemy.com/course/ai-ethics-for-professionals-ai-ethics-ethical-ai/?couponCode=91A934DB85DDE16D5445",
@@ -15,18 +15,6 @@
       "title": "AI For Human Resources: Claude For Human Resources Teams A-Z"
     },
     {
-      "url": "https://www.udemy.com/course/ai_powered_microservices_with_vibe_coding/?couponCode=MARFREE03",
-      "coupon_code": "MARFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/1609282_cff9_2.jpg",
-      "title": "AI-Powered Microservices with Vibe Coding & Software 3.0"
-    },
-    {
-      "url": "https://www.udemy.com/course/aws-devops-bootcamp/?couponCode=MARFREE03",
-      "coupon_code": "MARFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/1436336_e1ca_6.jpg",
-      "title": "Ultimate AWS Bootcamp by School of Devops ®"
-    },
-    {
       "url": "https://www.udemy.com/course/certified_generative_ai_architect_with_knowledge_graphs/?couponCode=MARFREE03",
       "coupon_code": "MARFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/1588650_bd0d_4.jpg",
@@ -37,6 +25,11 @@
       "coupon_code": "MARFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3074966_1297_3.jpg",
       "title": "Windows Containers with Azure DevOps CI/CD Pipeline"
+    },
+    {
+      "url": "https://www.udemy.com/course/finance-essentials-for-analysts-decision-makers/?couponCode=2B7BCE9EC502D24977FB",
+      "coupon_code": "2B7BCE9EC502D24977FB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/internal-auditing-principles-practices-and-applications/?couponCode=E7BF458104549D198212",
@@ -51,10 +44,15 @@
       "title": "Supercourse - Ultimate Advanced Kubernetes Bootcamp"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-context-design-for-intelligent-ai-agents/?couponCode=MARFREE03",
+      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=MARFREE03",
       "coupon_code": "MARFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/1630106_3469_5.jpg",
-      "title": "Mastering Context Design for Intelligent AI Agents"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
+      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-chef-the-devops-way/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/mastering-puppet-the-devops-way/?couponCode=MARFREE03",
@@ -67,12 +65,6 @@
       "coupon_code": "MARFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/1271900_62ef_11.jpg",
       "title": "Ultimate Ansible Bootcamp by School of Devops®"
-    },
-    {
-      "url": "https://www.udemy.com/course/ultimate-devops-bootcamp-by-school-of-devops/?couponCode=MARFREE03",
-      "coupon_code": "MARFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/1834350_b2ec_3.jpg",
-      "title": "Ultimate DevOps Bootcamp by School of Devops®"
     },
     {
       "url": "https://www.udemy.com/course/ultimate-istio-bootcamp/?couponCode=MARFREE03",
@@ -91,6 +83,35 @@
       "coupon_code": "MARFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/1846476_67bb_6.jpg",
       "title": "Ultimate Terraform and OpenTofu Bootcamp by School of Devops"
+    },
+    {
+      "url": "https://www.udemy.com/course/zero-to-docker/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai_powered_microservices_with_vibe_coding/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1609282_cff9_2.jpg",
+      "title": "AI-Powered Microservices with Vibe Coding & Software 3.0"
+    },
+    {
+      "url": "https://www.udemy.com/course/aws-devops-bootcamp/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1436336_e1ca_6.jpg",
+      "title": "Ultimate AWS Bootcamp by School of Devops ®"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-context-design-for-intelligent-ai-agents/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1630106_3469_5.jpg",
+      "title": "Mastering Context Design for Intelligent AI Agents"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-devops-bootcamp-by-school-of-devops/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1834350_b2ec_3.jpg",
+      "title": "Ultimate DevOps Bootcamp by School of Devops®"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=MARFREE03",
@@ -145,12 +166,6 @@
       "coupon_code": "MARFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6584541_734c_2.jpg",
       "title": "[DE] KI-Masterclass: Vom Anfänger zum KI-Helden"
-    },
-    {
-      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=MARFREE03",
-      "coupon_code": "MARFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
-      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
     },
     {
       "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=MARFREE03",
