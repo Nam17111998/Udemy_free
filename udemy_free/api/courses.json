@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-03-02T14:52:01Z",
-  "count": 938,
+  "updated_at": "2026-03-02T15:50:13Z",
+  "count": 953,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584537_9e04_2.jpg",
+      "title": "[AR] دورة ماجستير في هندسة الذكاء الاصطناعي (AI)"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootcamp-de-agentes-de-ia-crea-chatbots-inteligentes/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6588621_57bb_3.jpg",
+      "title": "[ES] Bootcamp Agentes IA: Crea Chatbots Inteligentes"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootcamp-de-ia-practica-y-certificacion-en-7-dias/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6587237_acc6_2.jpg",
+      "title": "[ES] Bootcamp de IA Práctica y Certificación en 7 Días"
+    },
+    {
+      "url": "https://www.udemy.com/course/computacion-cuantica/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6586839_3244.jpg",
+      "title": "Máster en IA y Computación Cuántica: De Cero a Experto"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
+      "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/dominio-de-python-100-dias-100-proyectos/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6597337_e3b2.jpg",
+      "title": "[ES] Dominio de Python: 100 Días, 100 Proyectos"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-for-business-leaders-and-executives/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6595497_64d5.jpg",
+      "title": "Generative AI for Business Leaders and Executives"
+    },
+    {
+      "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584541_734c_2.jpg",
+      "title": "[DE] KI-Masterclass: Vom Anfänger zum KI-Helden"
+    },
+    {
+      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
+      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584543_c6a8_2.jpg",
+      "title": "[PT] Masterclass de Engenharia de IA: Do Zero ao Herói da IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-en-ingenierie-de-lia-de-zero-a-heros-de-lia/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584539_825f_2.jpg",
+      "title": "[FR] Masterclass IA : De zéro à héros de l'IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/ncp-aii-nvidia-certified-professional-ai-infrastructure/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583073_4e3b_4.jpg",
+      "title": "SoAI-Certified Professional: AI Infrastructure (NCP-AII)"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantum-computing-hi/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6586919_dbf6.jpg",
+      "title": "एआई और क्वांटम कंप्यूटिंग में मास्टर: शून्य से विशेषज्ञ तक"
+    },
+    {
+      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
     {
       "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=MARFREE03",
       "coupon_code": "MARFREE03",
