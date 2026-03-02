@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-02T17:55:15Z",
-  "count": 971,
+  "updated_at": "2026-03-02T18:59:23Z",
+  "count": 973,
   "courses": [
     {
       "url": "https://www.udemy.com/course/ai-ethics-for-professionals-ai-ethics-ethical-ai/?couponCode=91A934DB85DDE16D5445",
@@ -27,9 +27,16 @@
       "title": "Windows Containers with Azure DevOps CI/CD Pipeline"
     },
     {
-      "url": "https://www.udemy.com/course/finance-essentials-for-analysts-decision-makers/?couponCode=2B7BCE9EC502D24977FB",
-      "coupon_code": "2B7BCE9EC502D24977FB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/digitisation/?couponCode=59080D1D6108615B54B2",
+      "coupon_code": "59080D1D6108615B54B2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4480366_71d4.jpg",
+      "title": "Professional Diploma in Digitalization of Retail Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/dominio-de-python-100-dias-100-proyectos/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6597337_e3b2.jpg",
+      "title": "[ES] Dominio de Python: 100 Días, 100 Proyectos"
     },
     {
       "url": "https://www.udemy.com/course/internal-auditing-principles-practices-and-applications/?couponCode=E7BF458104549D198212",
@@ -38,27 +45,22 @@
       "title": "Internal Auditing: Principles, Practices, and Applications"
     },
     {
-      "url": "https://www.udemy.com/course/kubernetes-certified-administrator/?couponCode=MARFREE03",
-      "coupon_code": "MARFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/1271904_e382_7.jpg",
-      "title": "Supercourse - Ultimate Advanced Kubernetes Bootcamp"
-    },
-    {
       "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=MARFREE03",
       "coupon_code": "MARFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
       "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-chef-the-devops-way/?couponCode=MARFREE03",
-      "coupon_code": "MARFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-puppet-the-devops-way/?couponCode=MARFREE03",
       "coupon_code": "MARFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/1271898_4810_7.jpg",
       "title": "Mastering Puppet the devops way by School of DevOps®"
+    },
+    {
+      "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=9FAF341CDAB5F4EDD2C7",
+      "coupon_code": "9FAF341CDAB5F4EDD2C7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6022786_dbe8_2.jpg",
+      "title": "ÉVITER L'ÉCHEC : Le système qui maximalise la réussite"
     },
     {
       "url": "https://www.udemy.com/course/ultimate-ansible-bootcamp/?couponCode=MARFREE03",
@@ -87,7 +89,26 @@
     {
       "url": "https://www.udemy.com/course/zero-to-docker/?couponCode=MARFREE03",
       "coupon_code": "MARFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1246320_64b5_14.jpg",
+      "title": "Supercourse: Docker,Kubernetes, Argo Container Platform 2025"
+    },
+    {
+      "url": "https://www.udemy.com/course/finance-essentials-for-analysts-decision-makers/?couponCode=2B7BCE9EC502D24977FB",
+      "coupon_code": "2B7BCE9EC502D24977FB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6720120_cecd.jpg",
+      "title": "Finance Essentials for Analysts & Decision Makers"
+    },
+    {
+      "url": "https://www.udemy.com/course/kubernetes-certified-administrator/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1271904_e382_7.jpg",
+      "title": "Supercourse - Ultimate Advanced Kubernetes Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-chef-the-devops-way/?couponCode=MARFREE03",
+      "coupon_code": "MARFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1271882_8e44_4.jpg",
+      "title": "Mastering Chef the Devops Way by School of DevOps®"
     },
     {
       "url": "https://www.udemy.com/course/ai_powered_microservices_with_vibe_coding/?couponCode=MARFREE03",
@@ -148,12 +169,6 @@
       "coupon_code": "MARFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
       "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
-    },
-    {
-      "url": "https://www.udemy.com/course/dominio-de-python-100-dias-100-proyectos/?couponCode=MARFREE03",
-      "coupon_code": "MARFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6597337_e3b2.jpg",
-      "title": "[ES] Dominio de Python: 100 Días, 100 Proyectos"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-for-business-leaders-and-executives/?couponCode=MARFREE03",
