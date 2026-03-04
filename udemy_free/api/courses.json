@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-03-04T14:44:34Z",
-  "count": 965,
+  "updated_at": "2026-03-04T15:52:13Z",
+  "count": 969,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-coach-certification-aec/?couponCode=C84088F6C0EAAFEDF03B",
+      "coupon_code": "C84088F6C0EAAFEDF03B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-trainer-certification-aec/?couponCode=8B8602B27FE07C451C44",
+      "coupon_code": "8B8602B27FE07C451C44",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255535_1667.jpg",
+      "title": "Agile Trainer Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-trainer-certification/?couponCode=0AAD6FC43110421C33E2",
+      "coupon_code": "0AAD6FC43110421C33E2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6196873_be51.jpg",
+      "title": "Agile Trainer Certification"
+    },
     {
       "url": "https://www.udemy.com/course/bit-integrations-como-automatizar-tareas-en-wordpress/?couponCode=MARZO202601",
       "coupon_code": "MARZO202601",
@@ -45,6 +62,36 @@
       "title": "Curso de AI Copilot: Crea Contenido Automático en WordPress"
     },
     {
+      "url": "https://www.udemy.com/course/positionierung/?couponCode=1A73DDB6C427E647B802",
+      "coupon_code": "1A73DDB6C427E647B802",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4491170_311b.jpg",
+      "title": "Mehr Umsatz durch gute Positionierung und klare Zielgruppe!"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-owner-certification-exam-prep/?couponCode=A1DB5FE2B309144EBDB2",
+      "coupon_code": "A1DB5FE2B309144EBDB2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6255575_1c65.jpg",
+      "title": "Product Owner Exam Prep"
+    },
+    {
+      "url": "https://www.udemy.com/course/safe-general-overview-course-aece/?couponCode=8753EC1A989D1862191D",
+      "coupon_code": "8753EC1A989D1862191D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6364385_1f05_3.jpg",
+      "title": "SAFe 6.0 Fundamentals: Scaled Agile Framework (SAFe) Basics"
+    },
+    {
+      "url": "https://www.udemy.com/course/send-crea-campanas-de-correo-electronico-desde-wordpress/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818329_353a.jpg",
+      "title": "Send: Crea Campañas de Correo Electrónico desde WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/vorstellungsgespraech-bewerbungsgespraech-vorbereiten/?couponCode=C7318E0E17CA164784B8",
+      "coupon_code": "C7318E0E17CA164784B8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4612126_65ed_8.jpg",
+      "title": "Das Vorstellungsgespräch meistern: Erfolgreich vorbereiten!"
+    },
+    {
       "url": "https://www.udemy.com/course/how-to-be-a-professional-speaker/?couponCode=0C8D9171DF265D27CA92",
       "coupon_code": "0C8D9171DF265D27CA92",
       "image_url": "https://img-c.udemycdn.com/course/480x270/340736_6114_3.jpg",
@@ -73,24 +120,6 @@
       "coupon_code": "E76FE77B2AB8C69C0EA1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5416254_9863.jpg",
       "title": "Personal Productivity & Life Planning"
-    },
-    {
-      "url": "https://www.udemy.com/course/positionierung/?couponCode=1A73DDB6C427E647B802",
-      "coupon_code": "1A73DDB6C427E647B802",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4491170_311b.jpg",
-      "title": "Mehr Umsatz durch gute Positionierung und klare Zielgruppe!"
-    },
-    {
-      "url": "https://www.udemy.com/course/send-crea-campanas-de-correo-electronico-desde-wordpress/?couponCode=MARZO202601",
-      "coupon_code": "MARZO202601",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6818329_353a.jpg",
-      "title": "Send: Crea Campañas de Correo Electrónico desde WordPress"
-    },
-    {
-      "url": "https://www.udemy.com/course/vorstellungsgespraech-bewerbungsgespraech-vorbereiten/?couponCode=C7318E0E17CA164784B8",
-      "coupon_code": "C7318E0E17CA164784B8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4612126_65ed_8.jpg",
-      "title": "Das Vorstellungsgespräch meistern: Erfolgreich vorbereiten!"
     },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/?couponCode=8CD5B902B8B358B56C74",
@@ -4441,12 +4470,6 @@
       "coupon_code": "4B7F2E00ECBC1B54EB07",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5916838_a9f9.jpg",
       "title": "Professional Certificate of Agile and Scrum Business Analyst"
-    },
-    {
-      "url": "https://www.udemy.com/course/safe-general-overview-course-aece/?couponCode=8753EC1A989D1862191D",
-      "coupon_code": "8753EC1A989D1862191D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6364385_1f05_3.jpg",
-      "title": "SAFe 6.0 Fundamentals: Scaled Agile Framework (SAFe) Basics"
     },
     {
       "url": "https://www.udemy.com/course/sass-hojas-de-estilo-sorprendentes/?couponCode=B8396DAF5D34471109DA",
