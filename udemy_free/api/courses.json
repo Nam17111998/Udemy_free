@@ -1,31 +1,126 @@
 {
-  "updated_at": "2026-03-04T08:51:29Z",
-  "count": 926,
+  "updated_at": "2026-03-04T09:51:55Z",
+  "count": 941,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-hr-hrm-excellence/?couponCode=8F1C9F883D7864D6D8FF",
+      "coupon_code": "8F1C9F883D7864D6D8FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589225_5d58_2.jpg",
+      "title": "AI for Human Resources Management / HR/ HRM Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-operational-excellence/?couponCode=FD5F31C9EA4D206F8868",
+      "coupon_code": "FD5F31C9EA4D206F8868",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6559397_2ee4_4.jpg",
+      "title": "AI (Artificial Intelligence) for  Operational Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-project-planning-excellence/?couponCode=A93F795321DA34527C45",
+      "coupon_code": "A93F795321DA34527C45",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695941_7bc5.jpg",
+      "title": "AI (Artificial Intelligence) for Project Planning Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-crm-customer-relationship-management-excellence/?couponCode=B09EC526650BFB8CFD9E",
+      "coupon_code": "B09EC526650BFB8CFD9E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6630759_b825.jpg",
+      "title": "AI for CRM (Customer Relationship Management)  Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-marketing-and-advertising-excellence/?couponCode=0B4373640C4876918749",
+      "coupon_code": "0B4373640C4876918749",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6658657_64eb.jpg",
+      "title": "AI for Marketing and Advertising Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-risk-management-compliance-excellence/?couponCode=C4C5508BFDE2049557E7",
+      "coupon_code": "C4C5508BFDE2049557E7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6677895_e756.jpg",
+      "title": "AI for Risk Management & Compliance Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/brand-marketing-strategy-excellence-to-become-brand-manager/?couponCode=1E612C3FE6182E5FCF1B",
+      "coupon_code": "1E612C3FE6182E5FCF1B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5476638_ca35_5.jpg",
+      "title": "Master in Branding, Brand Strategy  and Brand Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/finance-and-accounting-fundamentals/?couponCode=56B15F490F97405B6A42",
+      "coupon_code": "56B15F490F97405B6A42",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6138655_59e8.jpg",
+      "title": "Finance and Accounting Fundamentals for non finance students"
+    },
+    {
+      "url": "https://www.udemy.com/course/marketing-strategy-excellence/?couponCode=68248F0B9087793FFC8E",
+      "coupon_code": "68248F0B9087793FFC8E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5118472_625b_4.jpg",
+      "title": "Master in Marketing Strategy and Marketing Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-agile-hr-human-resources-management/?couponCode=E9623DA8A8B8EEA8D26E",
+      "coupon_code": "E9623DA8A8B8EEA8D26E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6191867_7646.jpg",
+      "title": "Master in Agile HR (Human Resources Management- HRM)"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-construction-management/?couponCode=5683023DB719033F9638",
+      "coupon_code": "5683023DB719033F9638",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409223_c765.jpg",
+      "title": "Master in Construction Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-healthcare-revenue-cycle-management-rcm/?couponCode=2931074A5E06852ABAD2",
+      "coupon_code": "2931074A5E06852ABAD2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6240027_5fac.jpg",
+      "title": "Master in Healthcare Revenue Cycle Management (RCM)"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-new-business-development-and-entrepreneurship/?couponCode=91E4F853C50F5384F798",
+      "coupon_code": "91E4F853C50F5384F798",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6282555_eda3.jpg",
+      "title": "Master in New Business Development and Entrepreneurship"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-operations-supply-chain-management-moscm-course/?couponCode=E1709ADEB288918CD343",
+      "coupon_code": "E1709ADEB288918CD343",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5788288_4b6f_2.jpg",
+      "title": "Master in Integrated Operations & Supply Chain Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/pre-mba-for-undergraduates/?couponCode=2E0EADA357C3D787F2FF",
+      "coupon_code": "2E0EADA357C3D787F2FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5235874_e245_2.jpg",
+      "title": "Master in Business Administration / Management (MBA)"
+    },
     {
       "url": "https://www.udemy.com/course/arquitectura-de-software-y-patrones-de-diseno/?couponCode=DA8FCFEE455071C6A5B7",
       "coupon_code": "DA8FCFEE455071C6A5B7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691607_fd29_4.jpg",
+      "title": "Arquitectura de Software y Patrones de Diseño de Software"
     },
     {
       "url": "https://www.udemy.com/course/become-a-certified-people-partner-your-path-to-a-rewarding/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6305507_0e25_7.jpg",
+      "title": "People Partner HR certification program for future HRBP [EN]"
     },
     {
       "url": "https://www.udemy.com/course/become-certified-game-dev-recruiter-and-start-earning/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6346633_6203_8.jpg",
+      "title": "IT Recruitment in Gaming: Wargaming, EA & Riot approach [EN]"
     },
     {
       "url": "https://www.udemy.com/course/become-certified-hr-director-and-get-200-hr-tools/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6322135_03f0_6.jpg",
+      "title": "HR Director 2026 Ultimate course with 500+ HR Tools [EN]"
     },
     {
       "url": "https://www.udemy.com/course/certificate-programacion-lpi-web-development-essentials/?couponCode=F106D77C1175897F96EC",
       "coupon_code": "F106D77C1175897F96EC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5811488_b47c_2.jpg",
+      "title": "Certifícate en Programación. LPI Web Development Essentials"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-hr-and-recruiters-12-academic-hours-200-tools/?couponCode=PAPAHR_MAR_04",
@@ -36,32 +131,38 @@
     {
       "url": "https://www.udemy.com/course/complete-ethical-hacking-bundle/?couponCode=NEW2026",
       "coupon_code": "NEW2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018373_86a1.jpg",
+      "title": "Complete Ethical Hacking Bundle: 5 Courses in 1"
     },
     {
       "url": "https://www.udemy.com/course/director-de-rrhh-curso-en-linea-en-espanol/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6297335_1b4f_6.jpg",
+      "title": "Director de RRHH (Recursos Humanos): Curso 2026 [ES]"
     },
     {
       "url": "https://www.udemy.com/course/hr-generalist/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6368341_37d1_3.jpg",
+      "title": "The most compehensive HR Generalist course with tools [EN]"
     },
     {
       "url": "https://www.udemy.com/course/hrbp-stratejik-ik-is-ortag-sertifikas-2026-tr/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7062465_7a79.jpg",
+      "title": "HRBP: Stratejik İK İş Ortağı sertifikası 2026 [TR]"
     },
     {
       "url": "https://www.udemy.com/course/linkedin-recruiter-talentakquise-und-kandidatensuche-de/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7061153_ef79.jpg",
+      "title": "LinkedIn Recruiter: Talentakquise und Kandidatensuche [DE]"
     },
     {
       "url": "https://www.udemy.com/course/linkedin-recruiter-yetenek-kaynaklar-ve-aday-arama-tr/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7061193_b454.jpg",
+      "title": "LinkedIn Recruiter: Yetenek Kaynakları ve Aday Arama [TR]"
     },
     {
       "url": "https://www.udemy.com/course/master-emotional-intelligence-for-hr-and-leadership-success/?couponCode=PAPAHR_MAR_04",
@@ -84,12 +185,14 @@
     {
       "url": "https://www.udemy.com/course/become-better-people-manager-with-these-50-tools/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6338105_df92_6.jpg",
+      "title": "People Manager Certification Course [EN]"
     },
     {
       "url": "https://www.udemy.com/course/future-of-hr-master-2025-2030-trends-and-strategies/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6346421_7af3_3.jpg",
+      "title": "HR Trends 2026-2030: AI and Digital HR, Hybrid Work [EN]"
     },
     {
       "url": "https://www.udemy.com/course/social-media-recruitment-from-linkedin-to-facebook-github/?couponCode=PAPAHR_MAR_04",
