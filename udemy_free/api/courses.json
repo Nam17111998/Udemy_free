@@ -1,7 +1,86 @@
 {
-  "updated_at": "2026-03-05T02:44:21Z",
-  "count": 910,
+  "updated_at": "2026-03-05T04:50:37Z",
+  "count": 925,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/apache-spark-interview-question-and-answer-100-faq/?couponCode=A22210F8DA06908918B1",
+      "coupon_code": "A22210F8DA06908918B1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/bim-structural-steel-detailing-course-zero-to-hero/?couponCode=8A41E24C1814B5F8EC16",
+      "coupon_code": "8A41E24C1814B5F8EC16",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=C96F643CFE7CD7DC048C",
+      "coupon_code": "C96F643CFE7CD7DC048C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-for-social-media-zero-to-hero-graphic-design-in-canva/?couponCode=7B56B7121942F6FE98EB",
+      "coupon_code": "7B56B7121942F6FE98EB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-javascript-and-python-complete-course/?couponCode=D382D4C403155BDD847E",
+      "coupon_code": "D382D4C403155BDD847E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=A5D840416588B63A6F53",
+      "coupon_code": "A5D840416588B63A6F53",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-formulas-functions-beginner-to-expert-course/?couponCode=5D50E0754806B0F47FA9",
+      "coupon_code": "5D50E0754806B0F47FA9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=5E57799DA4B728C11C04",
+      "coupon_code": "5E57799DA4B728C11C04",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-google-docs-complete-google-docs-course/?couponCode=3B731B17F2E8F45C31E9",
+      "coupon_code": "3B731B17F2E8F45C31E9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-powerpoint-create-stunning-presentation/?couponCode=CD303580338DD168FDF4",
+      "coupon_code": "CD303580338DD168FDF4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=EFD4AC508F89D5ECAE32",
+      "coupon_code": "EFD4AC508F89D5ECAE32",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-cost-management-estimating-budgeting-earned-value/?couponCode=E966655B380A917E5112",
+      "coupon_code": "E966655B380A917E5112",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935619_e729_3.jpg",
+      "title": "Project Cost Management-Estimating"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantity-surveying-for-g11-high-rise-buildings-estimation/?couponCode=7FF84EEB45EB8FE82BF2",
+      "coupon_code": "7FF84EEB45EB8FE82BF2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6833151_ef77.jpg",
+      "title": "Building Estimation Masterclass: G+11 High-Rise Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=57A07B40572CB135F6F3",
+      "coupon_code": "57A07B40572CB135F6F3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4965774_88c7_8.jpg",
+      "title": "The Complete SEO Guide: SEO For Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/?couponCode=C4B1AA64436A3E63E7C0",
+      "coupon_code": "C4B1AA64436A3E63E7C0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5786672_2c3f.jpg",
+      "title": "The Complete C Programming Course for Basic to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=MARFREE02",
       "coupon_code": "MARFREE02",
@@ -17,7 +96,8 @@
     {
       "url": "https://www.udemy.com/course/ccus-policies-regulations-and-public-acceptance/?couponCode=693B247A9C66408D68FC",
       "coupon_code": "693B247A9C66408D68FC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6534699_58fa_3.jpg",
+      "title": "Carbon Capture (CCUS): Governance, Policy, & Social License"
     },
     {
       "url": "https://www.udemy.com/course/coding-the-brain-ai-machine-learning-for-bcis/?couponCode=MARFREE02",
@@ -34,7 +114,8 @@
     {
       "url": "https://www.udemy.com/course/complete-salesforce-administrator-masterclass-training-2026/?couponCode=MAR1FREE2026",
       "coupon_code": "MAR1FREE2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7041269_cd4a_2.jpg",
+      "title": "Complete Salesforce Administrator Masterclass Training 2026"
     },
     {
       "url": "https://www.udemy.com/course/corporate-entrepreneurship/?couponCode=87FFF8824B820841E8B6",
