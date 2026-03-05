@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-03-05T07:03:03Z",
-  "count": 930,
+  "updated_at": "2026-03-05T08:54:50Z",
+  "count": 942,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-bootcamp/?couponCode=BDD2AE40E305FF64D6DC",
+      "coupon_code": "BDD2AE40E305FF64D6DC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/api-course/?couponCode=AAFE2970D73DC729DF85",
+      "coupon_code": "AAFE2970D73DC729DF85",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-jquery-course-learn-from-beginner-to-advanced/?couponCode=66048B50963A4A8CD0B3",
+      "coupon_code": "66048B50963A4A8CD0B3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-microsoft-office-masterclass-word-excel-powerpoint/?couponCode=3DEF2534A9E11BE72F77",
+      "coupon_code": "3DEF2534A9E11BE72F77",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-python-course-learn-from-beginner-to-advanced/?couponCode=8899198FF9394765726E",
+      "coupon_code": "8899198FF9394765726E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=A5D840416588B63A6F53",
+      "coupon_code": "A5D840416588B63A6F53",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886376_a387_2.jpg",
+      "title": "Django Masterclass: Get Started With Django Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/fiverr-success-secrets-blueprint-from-beginner-to-top-seller/?couponCode=8347CE3F1C05B52E6529",
+      "coupon_code": "8347CE3F1C05B52E6529",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-autocad-2d/?couponCode=44731D73B3C1EC84487D",
+      "coupon_code": "44731D73B3C1EC84487D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-php-programming-create-dynamic-websites-with-mysql/?couponCode=1BBDA6B4961AB7A40F34",
+      "coupon_code": "1BBDA6B4961AB7A40F34",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-c-c-plus-programming-from-fundamentals-to-advanced/?couponCode=D49558A88411F7ED7A96",
+      "coupon_code": "D49558A88411F7ED7A96",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/?couponCode=EE3AD0424A8AEA089918",
+      "coupon_code": "EE3AD0424A8AEA089918",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini/?couponCode=71610360AF940A0119F2",
+      "coupon_code": "71610360AF940A0119F2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/programacion-orientada-a-objetos-con-php-sin-dolor/?couponCode=0C5E05A45C7E70A6A032",
+      "coupon_code": "0C5E05A45C7E70A6A032",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/225170_e177_3.jpg",
+      "title": "Introducción a la programación orientada a objetos con PHP"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/?couponCode=7733C975A60FEDD618BE",
+      "coupon_code": "7733C975A60FEDD618BE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/video-editing-with-chatgpt-adobe-premiere-pro-canva-capcut/?couponCode=F7133310DAF400E5C9AF",
+      "coupon_code": "F7133310DAF400E5C9AF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/apache-spark-interview-question-and-answer-100-faq/?couponCode=A22210F8DA06908918B1",
       "coupon_code": "A22210F8DA06908918B1",
@@ -24,12 +101,6 @@
       "title": "Canva for Social Media: Zero to Hero Graphic Design in Canva"
     },
     {
-      "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=A5D840416588B63A6F53",
-      "coupon_code": "A5D840416588B63A6F53",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5886376_a387_2.jpg",
-      "title": "Django Masterclass: Get Started With Django Web Development"
-    },
-    {
       "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=2D44BC9244BDCEE9B14D",
       "coupon_code": "2D44BC9244BDCEE9B14D",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -42,11 +113,6 @@
     {
       "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=5E57799DA4B728C11C04",
       "coupon_code": "5E57799DA4B728C11C04",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-autocad-2d/?couponCode=44731D73B3C1EC84487D",
-      "coupon_code": "44731D73B3C1EC84487D",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -71,12 +137,6 @@
       "coupon_code": "EFD4AC508F89D5ECAE32",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6014988_095c_3.jpg",
       "title": "Microsoft Excel : Mastering Data Analysis with Pivot Table"
-    },
-    {
-      "url": "https://www.udemy.com/course/programacion-orientada-a-objetos-con-php-sin-dolor/?couponCode=0C5E05A45C7E70A6A032",
-      "coupon_code": "0C5E05A45C7E70A6A032",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/225170_e177_3.jpg",
-      "title": "Introducción a la programación orientada a objetos con PHP"
     },
     {
       "url": "https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=57A07B40572CB135F6F3",
