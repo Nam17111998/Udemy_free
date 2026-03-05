@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-03-05T11:40:15Z",
-  "count": 960,
+  "updated_at": "2026-03-05T13:17:57Z",
+  "count": 962,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/3d-modeling-with-fusion-360tutorial-videos/?couponCode=FUSION_MAR",
-      "coupon_code": "FUSION_MAR",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/ai-for-personality-development/?couponCode=ED6DD8623D95849CB534",
       "coupon_code": "ED6DD8623D95849CB534",
@@ -26,7 +21,8 @@
     {
       "url": "https://www.udemy.com/course/autocad-electrical-2026-tutorials-exercises-and-projects/?couponCode=INV_MAR26",
       "coupon_code": "INV_MAR26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6832673_f4c7.jpg",
+      "title": "AutoCAD Electrical 2026: Tutorials, Exercises, and Projects"
     },
     {
       "url": "https://www.udemy.com/course/complete-course-in-autocad-electrical-2022/?couponCode=PID_SPEC",
@@ -45,15 +41,16 @@
       "title": "Desarrolla la Lógica de Programación con Pseint y algoritmos"
     },
     {
-      "url": "https://www.udemy.com/course/excel-word-powerpoint-in-one-course-become-office-ready/?couponCode=D9EA2F049BE6D4D270AF",
-      "coupon_code": "D9EA2F049BE6D4D270AF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7044763_ef4b.jpg",
-      "title": "Excel, Word & PowerPoint in One Course: Become Office Ready"
-    },
-    {
       "url": "https://www.udemy.com/course/exploring-navisworks-bim-tutorials-from-basics-to-advanced/?couponCode=NAVBIM_MAR",
       "coupon_code": "NAVBIM_MAR",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6049069_5b93_2.jpg",
+      "title": "Exploring Navisworks: BIM Tutorials from Basics to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=21BD32605D91B77CD363",
+      "coupon_code": "21BD32605D91B77CD363",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
+      "title": "Introduction to Human Resources Management"
     },
     {
       "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=163C32BD57E14263E19A",
@@ -68,20 +65,40 @@
       "title": "PHP with MySQL: Build 7 PHP and MySQL Projects"
     },
     {
+      "url": "https://www.udemy.com/course/plan-de-rescate-digital-como-actuar-frente-a-un-ciberataque/?couponCode=5390D0222C1E03CAE19E",
+      "coupon_code": "5390D0222C1E03CAE19E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6843687_0e4d.jpg",
+      "title": "Plan de Rescate Digital: Cómo Actuar Frente a un Ciberataque"
+    },
+    {
       "url": "https://www.udemy.com/course/python-development-essentials/?couponCode=1E7B5102DBB6D3F0EC07",
       "coupon_code": "1E7B5102DBB6D3F0EC07",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg",
+      "title": "Python Development Essentials"
     },
     {
       "url": "https://www.udemy.com/course/solidworks-mastery-bike-parts-assembly-and-drafting/?couponCode=SOLIBIKE_MAR",
       "coupon_code": "SOLIBIKE_MAR",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6073935_8ed6.jpg",
+      "title": "Mastering SOLIDWORKS (2024-25): A Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/web3-development-essentials/?couponCode=F29049521ED232CB4784",
       "coupon_code": "F29049521ED232CB4784",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5544558_1473_2.jpg",
       "title": "Web3 Development Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/3d-modeling-with-fusion-360tutorial-videos/?couponCode=FUSION_MAR",
+      "coupon_code": "FUSION_MAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6281331_084c_3.jpg",
+      "title": "3D Modeling with Fusion 360 (Tutorial Videos)"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-word-powerpoint-in-one-course-become-office-ready/?couponCode=D9EA2F049BE6D4D270AF",
+      "coupon_code": "D9EA2F049BE6D4D270AF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7044763_ef4b.jpg",
+      "title": "Excel, Word & PowerPoint in One Course: Become Office Ready"
     },
     {
       "url": "https://www.udemy.com/course/complete-jquery-course-learn-from-beginner-to-advanced/?couponCode=66048B50963A4A8CD0B3",
