@@ -1,7 +1,86 @@
 {
-  "updated_at": "2026-03-05T14:54:47Z",
-  "count": 963,
+  "updated_at": "2026-03-05T15:57:00Z",
+  "count": 973,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/aprende-jquery-ui-sin-dolor/?couponCode=072FCEC7C86C10B4DF9E",
+      "coupon_code": "072FCEC7C86C10B4DF9E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-cloudways/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-google-adsense/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-una-agencia-de-viajes/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-hacer-anuncios-efectivos-en-tiktok-ads/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-migrar-un-sitio-web-wordpress-a-cloudways/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-blocksy-el-mejor-tema-gratis-para-wordpress/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/elementor-ecommerce-hosting-crea-una-tienda-online-con-wordpress/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/exploring-navisworks-bim-tutorials-from-basics-to-advanced/?couponCode=NAVBIM_MAR",
+      "coupon_code": "NAVBIM_MAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6049069_5b93_2.jpg",
+      "title": "Exploring Navisworks: BIM Tutorials from Basics to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/fastpixel-mejora-la-velocidad-de-carga-en-wordpress/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=21BD32605D91B77CD363",
+      "coupon_code": "21BD32605D91B77CD363",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
+      "title": "Introduction to Human Resources Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/plan-de-rescate-digital-como-actuar-frente-a-un-ciberataque/?couponCode=5390D0222C1E03CAE19E",
+      "coupon_code": "5390D0222C1E03CAE19E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6843687_0e4d.jpg",
+      "title": "Plan de Rescate Digital: Cómo Actuar Frente a un Ciberataque"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-branding-and-brand-management/?couponCode=3C2715317480D58CA7BD",
+      "coupon_code": "3C2715317480D58CA7BD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-coaching-and-mentoring/?couponCode=48BAFD95AE2D668D2F74",
+      "coupon_code": "48BAFD95AE2D668D2F74",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/solidworks-mastery-bike-parts-assembly-and-drafting/?couponCode=SOLIBIKE_MAR",
+      "coupon_code": "SOLIBIKE_MAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6073935_8ed6.jpg",
+      "title": "Mastering SOLIDWORKS (2024-25): A Complete Course"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-personality-development/?couponCode=ED6DD8623D95849CB534",
       "coupon_code": "ED6DD8623D95849CB534",
@@ -31,28 +110,10 @@
       "title": "Desarrolla la Lógica de Programación con Pseint y algoritmos"
     },
     {
-      "url": "https://www.udemy.com/course/exploring-navisworks-bim-tutorials-from-basics-to-advanced/?couponCode=NAVBIM_MAR",
-      "coupon_code": "NAVBIM_MAR",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6049069_5b93_2.jpg",
-      "title": "Exploring Navisworks: BIM Tutorials from Basics to Advanced"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=21BD32605D91B77CD363",
-      "coupon_code": "21BD32605D91B77CD363",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
-      "title": "Introduction to Human Resources Management"
-    },
-    {
       "url": "https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=163C32BD57E14263E19A",
       "coupon_code": "163C32BD57E14263E19A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5560460_2aa2.jpg",
       "title": "Advanced Program in Entrepreneurship"
-    },
-    {
-      "url": "https://www.udemy.com/course/plan-de-rescate-digital-como-actuar-frente-a-un-ciberataque/?couponCode=5390D0222C1E03CAE19E",
-      "coupon_code": "5390D0222C1E03CAE19E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6843687_0e4d.jpg",
-      "title": "Plan de Rescate Digital: Cómo Actuar Frente a un Ciberataque"
     },
     {
       "url": "https://www.udemy.com/course/powerpoint-masterclass-create-professional-presentations/?couponCode=1E4FD015437CEB3103AC",
@@ -61,21 +122,10 @@
       "title": "PowerPoint Masterclass: Create Professional Presentations"
     },
     {
-      "url": "https://www.udemy.com/course/professional-diploma-in-branding-and-brand-management/?couponCode=3C2715317480D58CA7BD",
-      "coupon_code": "3C2715317480D58CA7BD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/python-development-essentials/?couponCode=1E7B5102DBB6D3F0EC07",
       "coupon_code": "1E7B5102DBB6D3F0EC07",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg",
       "title": "Python Development Essentials"
-    },
-    {
-      "url": "https://www.udemy.com/course/solidworks-mastery-bike-parts-assembly-and-drafting/?couponCode=SOLIBIKE_MAR",
-      "coupon_code": "SOLIBIKE_MAR",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6073935_8ed6.jpg",
-      "title": "Mastering SOLIDWORKS (2024-25): A Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/?couponCode=7733C975A60FEDD618BE",
