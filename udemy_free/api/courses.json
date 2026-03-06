@@ -1,21 +1,114 @@
 {
-  "updated_at": "2026-03-06T13:13:39Z",
-  "count": 971,
+  "updated_at": "2026-03-06T14:45:00Z",
+  "count": 986,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-cc-2020-masterclass/?couponCode=ILLU_M26",
+      "coupon_code": "ILLU_M26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3142752_48b2.jpg",
+      "title": "Adobe Illustrator CC 2020 MasterClass"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-autocad-2025-interactive-learning/?couponCode=ACADE2025_MAR",
+      "coupon_code": "ACADE2025_MAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483727_3e9b_3.jpg",
+      "title": "Advanced AutoCAD 2025: Interactive Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/autocad-electrical-2025-tutorials-exercises-projects/?couponCode=ACADE2025_MAR",
+      "coupon_code": "ACADE2025_MAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6443995_cdb1.jpg",
+      "title": "AutoCAD Electrical 2025: Tutorials, Exercises & Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-course-in-autocad-electrical-2021/?couponCode=ACADE21_COMP",
+      "coupon_code": "ACADE21_COMP",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3705332_86e8_17.jpg",
+      "title": "Complete Course in AutoCAD Electrical 2021"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-course-in-catia/?couponCode=CATIA_COMP",
+      "coupon_code": "CATIA_COMP",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3937166_0cb6.jpg",
+      "title": "Complete Course in CATIA"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-course-in-creo-parametric/?couponCode=CREO_COMP3",
+      "coupon_code": "CREO_COMP3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4768822_5a6f_2.jpg",
+      "title": "Complete Course in Creo Parametric"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=2D4A62545753E68D6CD1",
+      "coupon_code": "2D4A62545753E68D6CD1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4282170_1ea0.jpg",
+      "title": "CSS And JavaScript Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-chief-technology-officer/?couponCode=7A06D4DD1203F04153FC",
+      "coupon_code": "7A06D4DD1203F04153FC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5743116_a7f2.jpg",
+      "title": "Executive Diploma of Chief Technology Officer"
+    },
+    {
+      "url": "https://www.udemy.com/course/exploring-arcgis-pro/?couponCode=ARCGIS_MAR",
+      "coupon_code": "ARCGIS_MAR",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5824780_945e_2.jpg",
+      "title": "Exploring ArcGIS Pro: GIS Tutorials from Basics to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/exploring-autocad-civil-3d-tutorials-from-basics-to-advanced/?couponCode=CIVIL3D_M26",
+      "coupon_code": "CIVIL3D_M26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6059385_810b.jpg",
+      "title": "Exploring AutoCAD Civil 3D-Tutorials from Basics to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/exploring-autodesk-revit-for-structure-bim-tutorials/?couponCode=REVSTRU_MARCH",
+      "coupon_code": "REVSTRU_MARCH",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6142797_a207.jpg",
+      "title": "Exploring Autodesk Revit for Structure: BIM Tutorials"
+    },
+    {
+      "url": "https://www.udemy.com/course/exploring-bentley-staad-pro-connect-edition/?couponCode=STAAD_MAR26",
+      "coupon_code": "STAAD_MAR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6559957_b44f.jpg",
+      "title": "Exploring Bentley STAAD Pro CONNECT Edition"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=17DC19F822FD7C783696",
+      "coupon_code": "17DC19F822FD7C783696",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5022262_24b2.jpg",
+      "title": "Java And C++ And PHP Crash Course All in One For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/learning-solidworks-for-students-engineers-and-designers/?couponCode=SOLIDWORKS_OLDGOLD",
+      "coupon_code": "SOLIDWORKS_OLDGOLD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3176930_53ae_2.jpg",
+      "title": "Learning SOLIDWORKS : For Students, Engineers, and Designers"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-maxon-cinema-4d-2024-complete-tutorial-series/?couponCode=C4D2024_AINONE",
+      "coupon_code": "C4D2024_AINONE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6033394_fd31_2.jpg",
+      "title": "Mastering Maxon Cinema 4D 2024: Complete Tutorial Series"
+    },
     {
       "url": "https://www.udemy.com/course/certified-workplace-harassment-prevention-the-posh-act2013/?couponCode=F69E1390B05C13BAC85F",
       "coupon_code": "F69E1390B05C13BAC85F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6819853_7996_2.jpg",
+      "title": "Certified Workplace Harassment Prevention: The POSH Act,2013"
     },
     {
       "url": "https://www.udemy.com/course/cognitive-behavioral-therapy-cbt-from-theory-to-practice/?couponCode=27BF9BC1E61F646AD957",
       "coupon_code": "27BF9BC1E61F646AD957",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6810575_9cec.jpg",
+      "title": "Cognitive Behavioral Therapy (CBT): From Theory to Practice"
     },
     {
       "url": "https://www.udemy.com/course/complete-uiux-design-with-canva-design-smart-interface/?couponCode=45AFD591EDD5B5A2109D",
       "coupon_code": "45AFD591EDD5B5A2109D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6752731_bf9b_2.jpg",
+      "title": "Complete UI/UX Design with Canva - Design Smart Interface"
     },
     {
       "url": "https://www.udemy.com/course/diversity-equity-inclusion-building-inclusive-workplaces/?couponCode=AE2F9FAB9484328E92B6",
