@@ -1,81 +1,178 @@
 {
-  "updated_at": "2026-03-06T02:41:44Z",
-  "count": 914,
+  "updated_at": "2026-03-06T04:47:56Z",
+  "count": 929,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/apache-hive-interview-question-and-answer-100-faq/?couponCode=EC4466409E29844B0E88",
+      "coupon_code": "EC4466409E29844B0E88",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/continuous-integration-with-azure-devops-and-docker/?couponCode=MARFREE02",
+      "coupon_code": "MARFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/?couponCode=MARFREE02",
+      "coupon_code": "MARFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-diploma-in-performance-management-and-employee-development/?couponCode=96930F6E6D54A8006267",
+      "coupon_code": "96930F6E6D54A8006267",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/?couponCode=MARFREE02",
+      "coupon_code": "MARFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=29BB2E5B9A5E4B1EE800",
+      "coupon_code": "29BB2E5B9A5E4B1EE800",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/rust-programming-bootcamp/?couponCode=MARFREE02",
+      "coupon_code": "MARFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/substack-newsletter-email-marketing-community-growth/?couponCode=7AB1AFE491DF83EE6F27",
+      "coupon_code": "7AB1AFE491DF83EE6F27",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/todo-html5-y-css3-de-novato-a-experto/?couponCode=71544A3DABE1643957F4",
+      "coupon_code": "71544A3DABE1643957F4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/364022_bc05_3.jpg",
+      "title": "Todo HTML5 y CSS3, de novato a experto"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-argo-bootcamp-by-school-of-devops/?couponCode=MARFREE02",
+      "coupon_code": "MARFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6147733_2fe4_7.jpg",
+      "title": "Ultimate Argo Bootcamp by School of Devops® | 6 Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-istio-bootcamp/?couponCode=MARFREE02",
+      "coupon_code": "MARFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1967814_8fac_3.jpg",
+      "title": "Ultimate Istio Bootcamp by School of Devops®"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-jenkins-bootcamp-by-school-of-devops/?couponCode=MARFREE02",
+      "coupon_code": "MARFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5954866_2607_3.jpg",
+      "title": "CI/CD with Jenkins and Docker"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-openshift-bootcamp-by-school-of-devops/?couponCode=MARFREE02",
+      "coupon_code": "MARFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1843628_6005_4.jpg",
+      "title": "Ultimate Openshift (2021)  Bootcamp by School of Devops®"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-terraform-bootcamp/?couponCode=MARFREE02",
+      "coupon_code": "MARFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1846476_67bb_6.jpg",
+      "title": "Ultimate Terraform and OpenTofu Bootcamp by School of Devops"
+    },
+    {
+      "url": "https://www.udemy.com/course/unit-economics-crm-ltv-churn-retention-rates-cohorts/?couponCode=A007CABCA8A0E9ACB53E",
+      "coupon_code": "A007CABCA8A0E9ACB53E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5648162_5cf8_3.jpg",
+      "title": "Unit Economics & CRM: LTV, Churn, Retention Rates, Cohorts"
+    },
     {
       "url": "https://www.udemy.com/course/14-days-to-building-ai-systems-agents/?couponCode=MARFREE01",
       "coupon_code": "MARFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7053341_97c9.jpg",
+      "title": "14 Days to Building AI Systems & Agents"
     },
     {
       "url": "https://www.udemy.com/course/agenticops-designing-ai-native-autonomous-systems/?couponCode=MARFREE02",
       "coupon_code": "MARFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7031585_f024.jpg",
+      "title": "AgenticOps: Designing AI-Native Autonomous Systems"
     },
     {
       "url": "https://www.udemy.com/course/ai-driven-cybersecurity-automation/?couponCode=MARFREE01",
       "coupon_code": "MARFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7047765_4cf6.jpg",
+      "title": "AI-Driven Cybersecurity Automation"
     },
     {
       "url": "https://www.udemy.com/course/ai-enginner-2026-complete-course-gen-ai-deep-machine-llm/?couponCode=MARFREE01",
       "coupon_code": "MARFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7019205_f248.jpg",
+      "title": "AI Engineer 2026 Complete Course, GEN AI, Deep, Machine, LLM"
     },
     {
       "url": "https://www.udemy.com/course/ai-powered-job-search-land-high-paying-roles-faster-in-2026/?couponCode=MARFREE02",
       "coupon_code": "MARFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7069607_2569.jpg",
+      "title": "AI-Powered Job Search: Land High-Paying Roles Faster in 2026"
     },
     {
       "url": "https://www.udemy.com/course/ai-security-governance-compliance/?couponCode=MARFREE02",
       "coupon_code": "MARFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7043981_a8fd.jpg",
+      "title": "AI Security, Governance & Compliance"
     },
     {
       "url": "https://www.udemy.com/course/ai-trading-crypto-intelligence-masterclass/?couponCode=MARFREE02",
       "coupon_code": "MARFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7059117_fc3e.jpg",
+      "title": "AI Trading & Crypto Intelligence Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-real-world-applications-from-prompts-to-product/?couponCode=MARFREE01",
       "coupon_code": "MARFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7029869_5128.jpg",
+      "title": "ChatGPT for Real-World Applications: From Prompts to Product"
     },
     {
       "url": "https://www.udemy.com/course/clawdbot-build-real-world-ai-agents-without-coding/?couponCode=MARFREE01",
       "coupon_code": "MARFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7042417_276f_3.jpg",
+      "title": "Clawdbot: Build Real-World AI Agents Without Coding"
     },
     {
       "url": "https://www.udemy.com/course/data-analysis-ai-from-data-to-intelligent-decisions-2026/?couponCode=MARFREE01",
       "coupon_code": "MARFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7019441_01a2.jpg",
+      "title": "Data Analysis & AI: From Data to Intelligent Decisions 2026"
     },
     {
       "url": "https://www.udemy.com/course/enterprise-ai-agents-with-open-claw/?couponCode=MARFREE02",
       "coupon_code": "MARFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7051741_7293.jpg",
+      "title": "Enterprise AI Agents with Open Claw"
     },
     {
       "url": "https://www.udemy.com/course/modern-nlp-for-ai-engineers-data-scientists/?couponCode=MARFREE01",
       "coupon_code": "MARFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018971_c2c7.jpg",
+      "title": "Natural Language Processing, AI Engineers & Data Scientists"
     },
     {
       "url": "https://www.udemy.com/course/product-management-for-ai-data-science/?couponCode=MARFREE02",
       "coupon_code": "MARFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7038235_1925.jpg",
+      "title": "Product Management for AI & Data Science"
     },
     {
       "url": "https://www.udemy.com/course/python-development-data-science-variables-and-data-types/?couponCode=B0C9475AAF9680100652",
       "coupon_code": "B0C9475AAF9680100652",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5644182_a2eb.jpg",
+      "title": "Python Development & Data Science: Variables and Data Types"
     },
     {
       "url": "https://www.udemy.com/course/python-for-thinkers-concepts-logic-and-real-world-apps/?couponCode=MARFREE01",
       "coupon_code": "MARFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7049033_f264.jpg",
+      "title": "Python for Thinkers – Concepts, Logic, and Real-World Apps"
     },
     {
       "url": "https://www.udemy.com/course/ayurvedic-psychology-16-personality-archetypes/?couponCode=D508F5DE02C81A1B681C",
@@ -86,7 +183,8 @@
     {
       "url": "https://www.udemy.com/course/business-process-optimization-with-lean-six-sigma/?couponCode=481E343709BF48C93534",
       "coupon_code": "481E343709BF48C93534",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5632144_d8bd_2.jpg",
+      "title": "Business Process Optimization with Lean Six Sigma"
     },
     {
       "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=96CA5077ECA375653706",
@@ -115,7 +213,8 @@
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-chief-digital-officer/?couponCode=8AF27A543C1DEAE0FCFB",
       "coupon_code": "8AF27A543C1DEAE0FCFB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5627171_e24f_2.jpg",
+      "title": "Executive Diploma of Chief Digital Officer"
     },
     {
       "url": "https://www.udemy.com/course/introduction-a-la-gestion-des-ressources-humaines/?couponCode=DB0D8C6C055F9E8A38DA",
