@@ -1,16 +1,100 @@
 {
-  "updated_at": "2026-03-07T09:36:54Z",
-  "count": 973,
+  "updated_at": "2026-03-07T10:32:17Z",
+  "count": 980,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-coach-certification/?couponCode=C117119BDE56E6AC58BE",
+      "coupon_code": "C117119BDE56E6AC58BE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-trainer-certification/?couponCode=43A70F6C293CEBB6AC7A",
+      "coupon_code": "43A70F6C293CEBB6AC7A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-ethicsresponsible-use/?couponCode=2D807C1EFE91DEF81FC7",
+      "coupon_code": "2D807C1EFE91DEF81FC7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6936915_998a.jpg",
+      "title": "AI Ethics/Responsible Use"
+    },
     {
       "url": "https://www.udemy.com/course/canva-for-graphic-design-social-media-marketing/?couponCode=E22524D9512384747059",
       "coupon_code": "E22524D9512384747059",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7007971_3ade.jpg",
+      "title": "Canva for Graphic Design & Social Media Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/?couponCode=F35BE3AAC0B8F79FC64A",
+      "coupon_code": "F35BE3AAC0B8F79FC64A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916184_19c5.jpg",
+      "title": "ChatGPT and Generative AI in Business, Management, Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-managers/?couponCode=865AE0ACB4E554C916AD",
+      "coupon_code": "865AE0ACB4E554C916AD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6477577_0599_2.jpg",
+      "title": "ChatGPT for Product Owners"
+    },
+    {
+      "url": "https://www.udemy.com/course/entrepreneurship-and-business-motivation/?couponCode=13C4E164EAE8C3E524EB",
+      "coupon_code": "13C4E164EAE8C3E524EB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5824904_77a2.jpg",
+      "title": "Entrepreneurship and Business Motivation"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-cio-chief-information-officer/?couponCode=F9AB368715EA98CF272A",
+      "coupon_code": "F9AB368715EA98CF272A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5831800_1240.jpg",
+      "title": "Executive Diploma of CIO Chief Information Officer"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-vba-excel-automation-reports-dashboards-and-task/?couponCode=401E04CF6F8290A9510A",
+      "coupon_code": "401E04CF6F8290A9510A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995645_866e_4.jpg",
+      "title": "Microsoft VBA Excel Automation: Reports, Dashboards and Task"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-web-development-with-javascript-jquery-typescript/?couponCode=B699BCF5E4F259765A14",
+      "coupon_code": "B699BCF5E4F259765A14",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7005833_07b7_3.jpg",
+      "title": "Modern Web Development with JavaScript, jQuery & TypeScript"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-for-beginners-2021-the-complete-php-mysql-pdo-course/?couponCode=FULLSTACK119",
+      "coupon_code": "FULLSTACK119",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3893330_8df1.jpg",
+      "title": "PHP for Beginners: The Complete PHP MySQL PDO Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-agile-and-scrum/?couponCode=D7BD51B31ABAE20BCA8A",
+      "coupon_code": "D7BD51B31ABAE20BCA8A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5916100_0e04.jpg",
+      "title": "Professional Certificate in Agile and SCRUM"
+    },
+    {
+      "url": "https://www.udemy.com/course/protegete-y-detecta-el-phishing-la-principal-vulnerabilidad/?couponCode=22DF1012BF91C841BDA3",
+      "coupon_code": "22DF1012BF91C841BDA3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5004894_9ebf_2.jpg",
+      "title": "Protégete y Detecta el Phishing. La principal vulnerabilidad"
+    },
+    {
+      "url": "https://www.udemy.com/course/seguridad-informatica-para-computadoras-empresariales/?couponCode=29E73EBD1DA911CDE41D",
+      "coupon_code": "29E73EBD1DA911CDE41D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4891780_77ec.jpg",
+      "title": "Seguridad Informática para Computadoras. Protege tus Datos."
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-angularjs-bootcamp-for-web-developers/?couponCode=4628B9C9BB2998EC93BD",
+      "coupon_code": "4628B9C9BB2998EC93BD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000913_1441.jpg",
+      "title": "The Complete AngularJS Bootcamp for Web Developers"
     },
     {
       "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-practice-learn-by-coding/?couponCode=8C9A512FE693F07F8C61",
       "coupon_code": "8C9A512FE693F07F8C61",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7027917_41c0_2.jpg",
+      "title": "Data Structures And Algorithms In Practice: Learn by Coding"
     },
     {
       "url": "https://www.udemy.com/course/diseno-responsivo-con-cajas-flexibles-css3/?couponCode=40D24EDD51CF120A6625",
@@ -19,14 +103,10 @@
       "title": "Diseño responsivo con cajas flexibles CSS3"
     },
     {
-      "url": "https://www.udemy.com/course/entrepreneurship-and-business-motivation/?couponCode=13C4E164EAE8C3E524EB",
-      "coupon_code": "13C4E164EAE8C3E524EB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/excel-data-analysis-data-management-for-business-careers/?couponCode=398755E4F53CC0726EA7",
       "coupon_code": "398755E4F53CC0726EA7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7042949_64d0_3.jpg",
+      "title": "Excel Data Analysis & Data Management for Business & Careers"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-vice-president-chief-operating-officer/?couponCode=71EC274F5B6C798F5214",
@@ -37,42 +117,14 @@
     {
       "url": "https://www.udemy.com/course/graphics-design-and-video-editing-all-in-one-course/?couponCode=E744CF298872579B82A9",
       "coupon_code": "E744CF298872579B82A9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-vba-excel-automation-reports-dashboards-and-task/?couponCode=401E04CF6F8290A9510A",
-      "coupon_code": "401E04CF6F8290A9510A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/modern-web-development-with-javascript-jquery-typescript/?couponCode=B699BCF5E4F259765A14",
-      "coupon_code": "B699BCF5E4F259765A14",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/php-for-beginners-2021-the-complete-php-mysql-pdo-course/?couponCode=FULLSTACK119",
-      "coupon_code": "FULLSTACK119",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7052803_4cfa_2.jpg",
+      "title": "Graphics Design and Video Editing: All in One Course"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-agile-product-management/?couponCode=32354B4FEA2982736D89",
       "coupon_code": "32354B4FEA2982736D89",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/protegete-y-detecta-el-phishing-la-principal-vulnerabilidad/?couponCode=22DF1012BF91C841BDA3",
-      "coupon_code": "22DF1012BF91C841BDA3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/seguridad-informatica-para-computadoras-empresariales/?couponCode=29E73EBD1DA911CDE41D",
-      "coupon_code": "29E73EBD1DA911CDE41D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-angularjs-bootcamp-for-web-developers/?couponCode=4628B9C9BB2998EC93BD",
-      "coupon_code": "4628B9C9BB2998EC93BD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5823058_08a3.jpg",
+      "title": "Professional Diploma in Agile Product Management"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-digital-marketing-guide-for-beginners/?couponCode=1213EDCAC54D92913453",
@@ -107,7 +159,8 @@
     {
       "url": "https://www.udemy.com/course/dp-900-azure-data-fundamentals-codaming/?couponCode=F31D7EBE749C634DBDD1",
       "coupon_code": "F31D7EBE749C634DBDD1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6854657_82a0_5.jpg",
+      "title": "DP-900 Azure Data Fundamentals Practice Exam Questions 2026"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-of-vice-president-chief-innovation-officer/?couponCode=1B7D094D7960EBEED0E6",
