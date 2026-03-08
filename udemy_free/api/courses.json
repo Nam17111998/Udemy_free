@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-03-08T18:46:08Z",
-  "count": 933,
+  "updated_at": "2026-03-08T19:30:34Z",
+  "count": 942,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/c-programming-essentials/?couponCode=C8ABDB3B51118B79B4BF",
+      "coupon_code": "C8ABDB3B51118B79B4BF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-un-blog-con-inteligencia-artificial/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-un-blog-con-wordpress-para-principiantes/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641262_9113_3.jpg",
+      "title": "Cómo Crear un Blog con WordPress Para Principiantes 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-un-embudo-de-ventas-con-wordpress-desde-cero/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5578744_31e6_5.jpg",
+      "title": "Cómo Crear un Embudo de Ventas con WordPress Desde Cero 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-de-ventas-para-hotmart/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5525936_400d_2.jpg",
+      "title": "Cómo Crear una Página de Ventas Para Hotmart 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-inteligencia-artificial/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5576672_6ff3.jpg",
+      "title": "Cómo Crear una Página Web con Inteligencia Artificial 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/crea-una-pagina-web-con-elementor-pro-y-el-tema-hello/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5640810_d3f4.jpg",
+      "title": "Crea una Página Web con Elementor Pro y el Tema Hello 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=096EBC859BB55AA3F6E4",
+      "coupon_code": "096EBC859BB55AA3F6E4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6267057_5414_2.jpg",
+      "title": "Advanced Diploma in Depression Counselling"
+    },
+    {
+      "url": "https://www.udemy.com/course/elementor-hosting-como-crear-una-pagina-web-con-wordpress/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5480542_53c6_2.jpg",
+      "title": "Elementor Hosting: Cómo Crear una Página Web con WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-human-resources-strategy/?couponCode=A8D032E8E37B3ED3BA8E",
+      "coupon_code": "A8D032E8E37B3ED3BA8E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5923124_e4eb.jpg",
+      "title": "Executive Diploma in Human Resources Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-en-diseno-web-para-no-programadores/?couponCode=MARZO202601",
+      "coupon_code": "MARZO202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5483928_0bf1.jpg",
+      "title": "Máster en Diseño Web Para No Programadores 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/pakistani-cooking-become-a-asian-cooking-master/?couponCode=008ABE8BF2A89876E38B",
+      "coupon_code": "008ABE8BF2A89876E38B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4976104_8cab_2.jpg",
+      "title": "Pakistani Cooking - Become a Asian Cooking Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/pgdincapitalmarket/?couponCode=1446D288264F78CDA5D0",
+      "coupon_code": "1446D288264F78CDA5D0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6647621_9e8b_2.jpg",
+      "title": "Postgraduate Diploma in Capital Market (PGDCM)"
+    },
+    {
+      "url": "https://www.udemy.com/course/pgdinscem/?couponCode=06B4E41F890EBD9851D9",
+      "coupon_code": "06B4E41F890EBD9851D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6669423_321e_2.jpg",
+      "title": "Postgraduate Diploma in Supply Chain Engineering Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-of-executive-business-assistant/?couponCode=C966A6C1E0329D2D81CC",
+      "coupon_code": "C966A6C1E0329D2D81CC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5918176_2f67.jpg",
+      "title": "Professional Certificate of Executive Business Assistant"
+    },
     {
       "url": "https://www.udemy.com/course/aprenda-php-y-sqlite/?couponCode=C8B0898AA6A162F82BB6",
       "coupon_code": "C8B0898AA6A162F82BB6",
@@ -15,11 +103,6 @@
       "title": "C++ And Java Training Crash Course for Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/c-programming-essentials/?couponCode=C8ABDB3B51118B79B4BF",
-      "coupon_code": "C8ABDB3B51118B79B4BF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/crud-con-php-mysql-y-js-en-el-modelo-mvc/?couponCode=CENTROEDUCATIC6",
       "coupon_code": "CENTROEDUCATIC6",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3969284_e853_5.jpg",
@@ -28,27 +111,8 @@
     {
       "url": "https://www.udemy.com/course/dart-mastery-become-a-dart-master-from-hero-to-zero-dart/?couponCode=A885E4840F53F90685CC",
       "coupon_code": "A885E4840F53F90685CC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=096EBC859BB55AA3F6E4",
-      "coupon_code": "096EBC859BB55AA3F6E4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/pakistani-cooking-become-a-asian-cooking-master/?couponCode=008ABE8BF2A89876E38B",
-      "coupon_code": "008ABE8BF2A89876E38B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/pgdincapitalmarket/?couponCode=1446D288264F78CDA5D0",
-      "coupon_code": "1446D288264F78CDA5D0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/pgdinscem/?couponCode=06B4E41F890EBD9851D9",
-      "coupon_code": "06B4E41F890EBD9851D9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5486862_fee5_2.jpg",
+      "title": "Dart Mastery - Become a Dart Master From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-digital-business-unit-economics/?couponCode=8D0DE32715F900226CB0",
@@ -67,11 +131,6 @@
       "coupon_code": "51423580CA06EA9338B1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5916838_a9f9.jpg",
       "title": "Professional Certificate of Agile and Scrum Business Analyst"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-certificate-of-executive-business-assistant/?couponCode=C966A6C1E0329D2D81CC",
-      "coupon_code": "C966A6C1E0329D2D81CC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-of-secretary/?couponCode=32EDF3E0C3AC1ECD6B81",
