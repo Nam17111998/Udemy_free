@@ -1,11 +1,94 @@
 {
-  "updated_at": "2026-03-08T02:48:13Z",
-  "count": 946,
+  "updated_at": "2026-03-08T04:49:42Z",
+  "count": 957,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-metrics-project-management/?couponCode=DF4E0D2CE7FC1E79F5DF",
+      "coupon_code": "DF4E0D2CE7FC1E79F5DF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-project-management-genman/?couponCode=35736FC49D7CFB1661C6",
+      "coupon_code": "35736FC49D7CFB1661C6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-management-genman/?couponCode=0AB159676EA7E8D9C58B",
+      "coupon_code": "0AB159676EA7E8D9C58B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=4C59230D6BED0AD90521",
+      "coupon_code": "4C59230D6BED0AD90521",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753061_5882.jpg",
+      "title": "Comment Avoir Une Belle Vie"
+    },
+    {
+      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=B6BED0E2AB103E86B44A",
+      "coupon_code": "B6BED0E2AB103E86B44A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6712869_0b21_3.jpg",
+      "title": "Superhumain – Investir en soi en apprenant en continu"
+    },
+    {
+      "url": "https://www.udemy.com/course/employee-recognition-program/?couponCode=3F121B850505C3397914",
+      "coupon_code": "3F121B850505C3397914",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=D1121DF1756B4717EEA2",
+      "coupon_code": "D1121DF1756B4717EEA2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29.jpg",
+      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
+    },
+    {
+      "url": "https://www.udemy.com/course/jira-with-atlassian-intelligence-ai-rovo/?couponCode=CBA41B759EBB25BFD227",
+      "coupon_code": "CBA41B759EBB25BFD227",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-de-champion/?couponCode=5ECCBE90493A37B7C3C6",
+      "coupon_code": "5ECCBE90493A37B7C3C6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6840037_3e21.jpg",
+      "title": "Mental de Champion transformer tes problèmes en opportunités"
+    },
+    {
+      "url": "https://www.udemy.com/course/non-tech-product-management/?couponCode=5D1E012A1A10F4216700",
+      "coupon_code": "5D1E012A1A10F4216700",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/preventing-insider-trading-global/?couponCode=29A374EFEEBCF0E5B878",
+      "coupon_code": "29A374EFEEBCF0E5B878",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5338122_515d.jpg",
+      "title": "Preventing and Addressing Insider Trading in the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-management-product-ownership-in-hindi/?couponCode=11BECC7B61B977112DA6",
+      "coupon_code": "11BECC7B61B977112DA6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5620834_2128_2.jpg",
+      "title": "Product Management & Product Ownership in Hindi (हिंदी)"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-business-project-management/?couponCode=71D8EB76580263D68CBE",
+      "coupon_code": "71D8EB76580263D68CBE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-product-owner/?couponCode=55EE9D09343060C69466",
+      "coupon_code": "55EE9D09343060C69466",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=5877613103FA3D2C55E8",
+      "coupon_code": "5877613103FA3D2C55E8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2861796_b954.jpg",
+      "title": "Python And Django Framework For Beginners Complete Course"
+    },
     {
       "url": "https://www.udemy.com/course/ai-ethics-guidelines/?couponCode=ECC06DEB2FC437795DF9",
       "coupon_code": "ECC06DEB2FC437795DF9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6274223_a5eb_5.jpg",
+      "title": "Artificial Intelligence: Challenges, Ethics & Guidelines"
     },
     {
       "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=96CA5077ECA375653706",
@@ -16,7 +99,8 @@
     {
       "url": "https://www.udemy.com/course/diploma-of-microsoft-dynamics-365-crm-business-architect/?couponCode=9C93EA1A1DDA8AE71641",
       "coupon_code": "9C93EA1A1DDA8AE71641",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873894_ecef.jpg",
+      "title": "Diploma of Microsoft Dynamics 365 CRM Business Architect"
     },
     {
       "url": "https://www.udemy.com/course/growth-hacking-scarcity-marketing-in-the-digital-age/?couponCode=628647954B0EC1E1ED29",
@@ -27,12 +111,14 @@
     {
       "url": "https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=35BAB8ADAB28F850B24B",
       "coupon_code": "35BAB8ADAB28F850B24B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4976816_e82f.jpg",
+      "title": "Java And C++ Complete Course for Java And C++ Beginners"
     },
     {
       "url": "https://www.udemy.com/course/javascript-and-php-programming-complete-course/?couponCode=BF4273269CBDE1D4EA9E",
       "coupon_code": "BF4273269CBDE1D4EA9E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4551820_b8ca.jpg",
+      "title": "JavaScript And PHP Programming Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=9FAF341CDAB5F4EDD2C7",
@@ -55,7 +141,8 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-finance-business-partner/?couponCode=B8A33E7077F9678F47C8",
       "coupon_code": "B8A33E7077F9678F47C8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873934_a8d6.jpg",
+      "title": "Professional Diploma of Finance Business Partner"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-marketing-manager-business-partner/?couponCode=03C3992FF316813D0E65",
@@ -72,7 +159,8 @@
     {
       "url": "https://www.udemy.com/course/professional-diploma-of-virtual-executive-assistant/?couponCode=19EE5AD5F7F27AD0F221",
       "coupon_code": "19EE5AD5F7F27AD0F221",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873830_45bc.jpg",
+      "title": "Professional Diploma of Virtual Executive Assistant"
     },
     {
       "url": "https://www.udemy.com/course/seguridad-informatica-ingenieria-social-achirou-alvaro-chirou-hacking/?couponCode=BADFFC4DDBCD37217768",
@@ -89,7 +177,8 @@
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-amazon-afiliados/?couponCode=MARZO202601",
       "coupon_code": "MARZO202601",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5912020_88b2_2.jpg",
+      "title": "Cómo Crear una Página Web Para Amazon Afiliados 2026"
     },
     {
       "url": "https://www.udemy.com/course/elementor-kits-crea-una-pagina-web-con-elementor-pro/?couponCode=MARZO202601",
@@ -620,22 +709,10 @@
       "title": "Red Team Mastery: Advanced Offensive Security"
     },
     {
-      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=B6BED0E2AB103E86B44A",
-      "coupon_code": "B6BED0E2AB103E86B44A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6712869_0b21_3.jpg",
-      "title": "Superhumain – Investir en soi en apprenant en continu"
-    },
-    {
       "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=BB0A2472CC2B5AAD0C8F",
       "coupon_code": "BB0A2472CC2B5AAD0C8F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
       "title": "Transforme ton Intérieur en Environnement de Réussite"
-    },
-    {
-      "url": "https://www.udemy.com/course/mental-de-champion/?couponCode=5ECCBE90493A37B7C3C6",
-      "coupon_code": "5ECCBE90493A37B7C3C6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6840037_3e21.jpg",
-      "title": "Mental de Champion transformer tes problèmes en opportunités"
     },
     {
       "url": "https://www.udemy.com/course/azure-data-engineering-masters/?couponCode=5458FA7B1C95958867D2",
@@ -648,18 +725,6 @@
       "coupon_code": "RAMADAN-2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6901647_d207_2.jpg",
       "title": "Become Master in UiPath World"
-    },
-    {
-      "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=4C59230D6BED0AD90521",
-      "coupon_code": "4C59230D6BED0AD90521",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6753061_5882.jpg",
-      "title": "Comment Avoir Une Belle Vie"
-    },
-    {
-      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=D1121DF1756B4717EEA2",
-      "coupon_code": "D1121DF1756B4717EEA2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29.jpg",
-      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
     },
     {
       "url": "https://www.udemy.com/course/executive-diploma-in-strategy-and-innovation/?couponCode=3411652BCA22BC9BC35B",
