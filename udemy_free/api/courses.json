@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-03-09T04:59:10Z",
-  "count": 970,
+  "updated_at": "2026-03-09T06:07:20Z",
+  "count": 985,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-graphic-designers-and-freelancers/?couponCode=B35D0D3980665D36D883",
+      "coupon_code": "B35D0D3980665D36D883",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7052675_5fc9.jpg",
+      "title": "Adobe Illustrator for Graphic Designers and Freelancers"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=E930CE2D7CD76B71708E",
+      "coupon_code": "E930CE2D7CD76B71708E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266090_aba5.jpg",
+      "title": "Advanced Microsoft Word With Job Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/aws-essentials-a-complete-beginners-guide/?couponCode=37F8B1E04B7A08E2FA87",
+      "coupon_code": "37F8B1E04B7A08E2FA87",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6137243_6d44.jpg",
+      "title": "AWS Essentials: A Complete Beginner's Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=C3266894136D6DDE1C01",
+      "coupon_code": "C3266894136D6DDE1C01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5238908_582c.jpg",
+      "title": "Essential Lightroom Course for Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/grok-mastery-programming-ai-and-problem-solving-skills/?couponCode=AC08EB5697612CE7AEDA",
+      "coupon_code": "AC08EB5697612CE7AEDA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6880527_5513.jpg",
+      "title": "Grok Mastery: Programming, AI and Problem Solving Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=33F83101541C4EFEA8D9",
+      "coupon_code": "33F83101541C4EFEA8D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5198550_8207.jpg",
+      "title": "Learn Blockchain and Crypto from Beginning"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-excel-data-analysis-techniques-unlock-insights/?couponCode=25457EDFE608D8D49E74",
+      "coupon_code": "25457EDFE608D8D49E74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767733_8430.jpg",
+      "title": "Mastering Excel Data Analysis Techniques: Unlock Insights"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-perplexity-ai-smarter-research-better-results/?couponCode=D5A39DB2BCDA68187A26",
+      "coupon_code": "D5A39DB2BCDA68187A26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891903_50c7_3.jpg",
+      "title": "Mastering Perplexity AI: Smarter Research, Better Results"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-for-basic-to-expert/?couponCode=D1672B30D48CBF8AD325",
+      "coupon_code": "D1672B30D48CBF8AD325",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6764657_c74f_2.jpg",
+      "title": "Microsoft Excel Formulas and Functions For Basic to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-ufunc-machine-learning/?couponCode=C69850290EF5CBBA63DE",
+      "coupon_code": "C69850290EF5CBBA63DE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004057_cb53.jpg",
+      "title": "Numpy, Scipy, Matplotlib, Pandas, Ufunc : Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-app-development-masterclass-app-development-bootcamp/?couponCode=C926F5A4A625FFF0ACD6",
+      "coupon_code": "C926F5A4A625FFF0ACD6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6185803_45d9.jpg",
+      "title": "Python App Development Masterclass App Development Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-machine-learning-from-beginner-to-pro/?couponCode=B2C2EBC23C2F9F251676",
+      "coupon_code": "B2C2EBC23C2F9F251676",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6136815_6345_2.jpg",
+      "title": "Python Machine Learning: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/rank-your-social-media-and-go-viral-be-social-media-master/?couponCode=DA39FECDF2EC64A72FC2",
+      "coupon_code": "DA39FECDF2EC64A72FC2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6128285_7fd4_2.jpg",
+      "title": "Rank Your Social Media and Go Viral - Be Social Media Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-canva-course-from-beginners-to-advanced/?couponCode=23224D4BE536D531FBD0",
+      "coupon_code": "23224D4BE536D531FBD0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6856323_3851_3.jpg",
+      "title": "The Complete Canva Course From Beginners to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-design-course-with-html-css-and-wordpress/?couponCode=805938270FAE5DA7828F",
+      "coupon_code": "805938270FAE5DA7828F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266094_ae5a.jpg",
+      "title": "Web Design Course with HTML CSS and Wordpress"
+    },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-and-machine-learning-in-arabic/?couponCode=F9A4A206A218C2395EF1",
       "coupon_code": "F9A4A206A218C2395EF1",
