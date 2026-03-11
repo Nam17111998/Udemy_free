@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-03-11T04:49:21Z",
-  "count": 913,
+  "updated_at": "2026-03-11T05:56:07Z",
+  "count": 927,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/canva-rockstar-design-like-a-pro-for-social-media-success/?couponCode=4015B6F24A66493C5D1C",
+      "coupon_code": "4015B6F24A66493C5D1C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/communications-masterclass/?couponCode=LAUNCH-DAY-GIVEAWAY",
+      "coupon_code": "LAUNCH-DAY-GIVEAWAY",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/crea-una-tienda-virtual-con-php-y-mysql-con-el-patron-mvc/?couponCode=AF428BDAD7F796CEC494",
+      "coupon_code": "AF428BDAD7F796CEC494",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-transformation-customer-experience-management-cxm/?couponCode=FB0A0A5366BFCAB4D1E4",
+      "coupon_code": "FB0A0A5366BFCAB4D1E4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-excel-for-beginner-to-advanced/?couponCode=3C34396497B545C781D1",
+      "coupon_code": "3C34396497B545C781D1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-vba-learn-visual-basic-macros-beginner-to-advanced/?couponCode=59607167A273666C9535",
+      "coupon_code": "59607167A273666C9535",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=BBE8F10F4EB5CAA666AE",
+      "coupon_code": "BBE8F10F4EB5CAA666AE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=7B6E9377B941411F45A4",
+      "coupon_code": "7B6E9377B941411F45A4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-with-formulas-functions/?couponCode=A5938EF8B4077E6787EB",
+      "coupon_code": "A5938EF8B4077E6787EB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-visualization-mastery-from-beginner-to-expert/?couponCode=8F38AD73D433A0291F5F",
+      "coupon_code": "8F38AD73D433A0291F5F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/sales-skills-training-course/?couponCode=GIVE-AWAY",
+      "coupon_code": "GIVE-AWAY",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-mastery-illustrator-photoshop-and-canva/?couponCode=E65FF3C15CA7A65F69A7",
+      "coupon_code": "E65FF3C15CA7A65F69A7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/uiux-with-figma-and-adobe-xd/?couponCode=E75ADE963C9C73A1046F",
+      "coupon_code": "E75ADE963C9C73A1046F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-design-for-beginner-to-advanced/?couponCode=F4B5E7B4A8C84DCDA1EA",
+      "coupon_code": "F4B5E7B4A8C84DCDA1EA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/youtube-masterclass-with-video-editing-and-graphics-design/?couponCode=6A2BAEB3350A4CE333D7",
+      "coupon_code": "6A2BAEB3350A4CE333D7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/apache-hive-for-data-engineers-hands-on/?couponCode=22D5DAEED294893D9C9F",
       "coupon_code": "22D5DAEED294893D9C9F",
@@ -41,11 +116,6 @@
     {
       "url": "https://www.udemy.com/course/mastering-innovation-competitions-hackathon-crowdsourcing/?couponCode=844D09328F5D2DB20E9B",
       "coupon_code": "844D09328F5D2DB20E9B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=7B6E9377B941411F45A4",
-      "coupon_code": "7B6E9377B941411F45A4",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
