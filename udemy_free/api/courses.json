@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-03-11T17:03:14Z",
-  "count": 961,
+  "updated_at": "2026-03-11T19:03:16Z",
+  "count": 968,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-after-effect-with-motion-graphics-and-animation/?couponCode=896AB18C8B0FEB0B5EB4",
+      "coupon_code": "896AB18C8B0FEB0B5EB4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5538222_b323.jpg",
+      "title": "Learn Adobe  After Effect with Motion Graphics and Animation"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-for-everyone-design-like-a-pro/?couponCode=B318A75D3E6D0BB174B6",
       "coupon_code": "B318A75D3E6D0BB174B6",
@@ -9,10 +15,14 @@
       "title": "Adobe Illustrator for Everyone: Design Like a Pro"
     },
     {
-      "url": "https://www.udemy.com/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/?couponCode=F44DE5228198DE18B45E",
-      "coupon_code": "F44DE5228198DE18B45E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5860312_861b.jpg",
-      "title": "Adobe Illustrator for T-Shirt Design: From Sketch to Print"
+      "url": "https://www.udemy.com/course/advanced-certificate-in-customer-experience-management/?couponCode=19443FA68F4ABF4C4C69",
+      "coupon_code": "19443FA68F4ABF4C4C69",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/aprende-google-chart-con-php-y-mysql/?couponCode=1A2AE932ADFC24CF48C2",
+      "coupon_code": "1A2AE932ADFC24CF48C2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/beginner-guide-to-learn-t-shirt-design-with-photoshop/?couponCode=1F8BD61BF681214489F7",
@@ -24,6 +34,60 @@
       "url": "https://www.udemy.com/course/c-training-crash-course-2022/?couponCode=21C5CF6323BCD41B38B4",
       "coupon_code": "21C5CF6323BCD41B38B4",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/dhcp-server/?couponCode=D979B849F8534A668331",
+      "coupon_code": "D979B849F8534A668331",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/figma-essential-for-user-interface-and-user-experience-ui-ux/?couponCode=C020C5B4811D9CC1DCA6",
+      "coupon_code": "C020C5B4811D9CC1DCA6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641704_bd3b.jpg",
+      "title": "Figma Essential for User Interface and User Experience UI UX"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-and-css-for-beginners-from-basic-to-advance/?couponCode=CCFD55B1DAC478B1678F",
+      "coupon_code": "CCFD55B1DAC478B1678F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4815794_822f_3.jpg",
+      "title": "HTML and CSS for Beginners From Basic to Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/lean-quality-management-six-sigma-continuous-improvement/?couponCode=E00CFB40EE59049C2B85",
+      "coupon_code": "E00CFB40EE59049C2B85",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-devops/?couponCode=01C482962F656D7352F8",
+      "coupon_code": "01C482962F656D7352F8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-certificate-in-risk-management/?couponCode=2137083104C372AB8126",
+      "coupon_code": "2137083104C372AB8126",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=A24670EC032DEC0CE8C5",
+      "coupon_code": "A24670EC032DEC0CE8C5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/supplychain-procurement-logistics/?couponCode=A23CDA96E8D52F5E6ECD",
+      "coupon_code": "A23CDA96E8D52F5E6ECD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-in-adobe-illustrator-beginner-guide-to-expert/?couponCode=F731B2068813E7424A62",
+      "coupon_code": "F731B2068813E7424A62",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638110_36b8_3.jpg",
+      "title": "T-Shirt Design in Adobe Illustrator Beginner Guide to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/?couponCode=F44DE5228198DE18B45E",
+      "coupon_code": "F44DE5228198DE18B45E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860312_861b.jpg",
+      "title": "Adobe Illustrator for T-Shirt Design: From Sketch to Print"
     },
     {
       "url": "https://www.udemy.com/course/canva-for-beginners-create-stunning-visuals-design/?couponCode=D2E57330607D6276D4CD",
@@ -38,12 +102,6 @@
       "title": "Essential Microsoft Excel VBA: Learn VBA for become Expert"
     },
     {
-      "url": "https://www.udemy.com/course/figma-essential-for-user-interface-and-user-experience-ui-ux/?couponCode=C020C5B4811D9CC1DCA6",
-      "coupon_code": "C020C5B4811D9CC1DCA6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5641704_bd3b.jpg",
-      "title": "Figma Essential for User Interface and User Experience UI UX"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-microsoft-excel-a-comprehensive-guide-to-boost-you/?couponCode=C3293C331992613CAC88",
       "coupon_code": "C3293C331992613CAC88",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5611698_9d6c_4.jpg",
@@ -56,21 +114,10 @@
       "title": "Perplexity AI: Transform Your Research and Writing Workflow"
     },
     {
-      "url": "https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=A24670EC032DEC0CE8C5",
-      "coupon_code": "A24670EC032DEC0CE8C5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/social-media-graphics-design-masterclass-with-adobe-canva/?couponCode=9D4AA6FDA24975F3C2C6",
       "coupon_code": "9D4AA6FDA24975F3C2C6",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5880608_7e66.jpg",
       "title": "Social Media Graphics Design Masterclass with Adobe & Canva"
-    },
-    {
-      "url": "https://www.udemy.com/course/t-shirt-design-in-adobe-illustrator-beginner-guide-to-expert/?couponCode=F731B2068813E7424A62",
-      "coupon_code": "F731B2068813E7424A62",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5638110_36b8_3.jpg",
-      "title": "T-Shirt Design in Adobe Illustrator Beginner Guide to Expert"
     },
     {
       "url": "https://www.udemy.com/course/tensorflow-course-basic-to-advanced-neural-network-beyond/?couponCode=EE358FCEA2E6A269D835",
@@ -103,12 +150,6 @@
       "title": "Advanced Instagram Marketing Blueprint Complete Guide"
     },
     {
-      "url": "https://www.udemy.com/course/adobe-after-effect-with-motion-graphics-and-animation/?couponCode=896AB18C8B0FEB0B5EB4",
-      "coupon_code": "896AB18C8B0FEB0B5EB4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5538222_b323.jpg",
-      "title": "Learn Adobe  After Effect with Motion Graphics and Animation"
-    },
-    {
       "url": "https://www.udemy.com/course/adobe-illustrator-cc-for-learning-graphics-design/?couponCode=AD1CEA1D6A0126D29B4A",
       "coupon_code": "AD1CEA1D6A0126D29B4A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5539844_139d.jpg",
@@ -125,12 +166,6 @@
       "coupon_code": "5C8080F8C1291CD49EC9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6790885_6fd8_2.jpg",
       "title": "Excel Data Insights: Power Query Pivot Analysis and Visuals"
-    },
-    {
-      "url": "https://www.udemy.com/course/html-and-css-for-beginners-from-basic-to-advance/?couponCode=CCFD55B1DAC478B1678F",
-      "coupon_code": "CCFD55B1DAC478B1678F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4815794_822f_3.jpg",
-      "title": "HTML and CSS for Beginners From Basic to Advance"
     },
     {
       "url": "https://www.udemy.com/course/learn-filmora-for-video-editing-masterclass-course/?couponCode=36F8E19217F16922F4B0",
