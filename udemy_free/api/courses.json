@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-03-11T19:03:16Z",
-  "count": 968,
+  "updated_at": "2026-03-11T20:41:31Z",
+  "count": 983,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-powered-product-marketing-and-market-research/?couponCode=036595B7E7FA6A19A86B",
+      "coupon_code": "036595B7E7FA6A19A86B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6429141_259b_3.jpg",
+      "title": "AI-Powered Product Marketing and Market Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/api-rest-con-php-y-mysql/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4879476_6a73_2.jpg",
+      "title": "API REST con PHP  y MYSQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/aprende-hacking-etico-protege-y-penetra-redes/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5561292_468d_3.jpg",
+      "title": "Aprende Hacking Ético: Protege y Penetra Redes"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-un-blog-de-exito-paso-a-paso/?couponCode=MARZO202602",
+      "coupon_code": "MARZO202602",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2536190_0e40_5.jpg",
+      "title": "Cómo Crear un Blog con WordPress y ChatGPT Desde Cero 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-javascript-de-0-a-heroe/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4791834_a185_6.jpg",
+      "title": "Maestría en JavaScript: Desde Principiante Hasta Experto"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-siteground-el-mejor-hosting-para-wordpress/?couponCode=MARZO202602",
+      "coupon_code": "MARZO202602",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3947090_9d9c_7.jpg",
+      "title": "Curso SiteGround 2026: El Mejor Hosting para WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4263710_a74d_5.jpg",
+      "title": "Curso PHP Proyecto web usuarios y roles Patron mvc"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-wordpress-como-crear-un-blog-gratis-paso-a-paso/?couponCode=MARZO202602",
+      "coupon_code": "MARZO202602",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2627270_aae8.jpg",
+      "title": "Curso WordPress 2026:  Cómo Crear una Página Web Desde Cero"
+    },
+    {
+      "url": "https://www.udemy.com/course/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4511080_7e9d_10.jpg",
+      "title": "Curso de PHP y MVC : Construye proyectos web desde cero"
+    },
+    {
+      "url": "https://www.udemy.com/course/desarrolla-un-sistema-web-pos-des-cero-con-php-nativo/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4761658_694c_5.jpg",
+      "title": "Desarrolla un sistema web  POS desde cero con PHP NATIVO"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-en-php-desde-0-hasta-desarrollar-sistemas-completos/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5319678_a721_2.jpg",
+      "title": "Master en PHP Desde 0 hasta Desarrollar Sistemas Completos"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-masterclass-desarrollo-de-proyectos-avanzados-y-completo/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5348330_adb1_7.jpg",
+      "title": "PHP Masterclass Desarrollo de Proyectos Avanzados y Completo"
+    },
+    {
+      "url": "https://www.udemy.com/course/programacion-web-php-mvc-poo-y-mysql-tienda-online/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4940344_cf07_5.jpg",
+      "title": "Ecommerce Fullstack con PHP y MySQL - Tienda Online"
+    },
+    {
+      "url": "https://www.udemy.com/course/sistema-punto-de-venta-con-php-y-mysql-con-adminlte/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4623880_cedd_8.jpg",
+      "title": "¡Aprende a crear un Sistema Punto de Venta con PHP, MVC, POO"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-scraping-moderno-con-python-usando-scrapy-seleniun/?couponCode=MAR2026-2",
+      "coupon_code": "MAR2026-2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5022174_e354_2.jpg",
+      "title": "Web Scraping moderno con Python usando Scrapy Seleniun"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-after-effect-with-motion-graphics-and-animation/?couponCode=896AB18C8B0FEB0B5EB4",
       "coupon_code": "896AB18C8B0FEB0B5EB4",
@@ -17,12 +107,14 @@
     {
       "url": "https://www.udemy.com/course/advanced-certificate-in-customer-experience-management/?couponCode=19443FA68F4ABF4C4C69",
       "coupon_code": "19443FA68F4ABF4C4C69",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6362575_6b46_2.jpg",
+      "title": "Advanced Certificate in Customer Experience Management"
     },
     {
       "url": "https://www.udemy.com/course/aprende-google-chart-con-php-y-mysql/?couponCode=1A2AE932ADFC24CF48C2",
       "coupon_code": "1A2AE932ADFC24CF48C2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1245642_0cfa_3.jpg",
+      "title": "Aprende Google Chart con PHP y MySQL"
     },
     {
       "url": "https://www.udemy.com/course/beginner-guide-to-learn-t-shirt-design-with-photoshop/?couponCode=1F8BD61BF681214489F7",
@@ -33,12 +125,14 @@
     {
       "url": "https://www.udemy.com/course/c-training-crash-course-2022/?couponCode=21C5CF6323BCD41B38B4",
       "coupon_code": "21C5CF6323BCD41B38B4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4986100_e31c.jpg",
+      "title": "C++ Training Crash Course for C++ Beginners"
     },
     {
       "url": "https://www.udemy.com/course/dhcp-server/?couponCode=D979B849F8534A668331",
       "coupon_code": "D979B849F8534A668331",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6493021_6646.jpg",
+      "title": "DHCP Server: Deploy, Manage, and Secure Your Network"
     },
     {
       "url": "https://www.udemy.com/course/figma-essential-for-user-interface-and-user-experience-ui-ux/?couponCode=C020C5B4811D9CC1DCA6",
@@ -55,27 +149,32 @@
     {
       "url": "https://www.udemy.com/course/lean-quality-management-six-sigma-continuous-improvement/?couponCode=E00CFB40EE59049C2B85",
       "coupon_code": "E00CFB40EE59049C2B85",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6408335_2e49.jpg",
+      "title": "Lean & Quality Management, Six Sigma, Continuous Improvement"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-devops/?couponCode=01C482962F656D7352F8",
       "coupon_code": "01C482962F656D7352F8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409957_384f_4.jpg",
+      "title": "Professional Certificate in DevOps"
     },
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-risk-management/?couponCode=2137083104C372AB8126",
       "coupon_code": "2137083104C372AB8126",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6421785_36d5.jpg",
+      "title": "Professional Certificate in Risk Management"
     },
     {
       "url": "https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=A24670EC032DEC0CE8C5",
       "coupon_code": "A24670EC032DEC0CE8C5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3518698_0aff.jpg",
+      "title": "Python Demonstrations For Practice Course"
     },
     {
       "url": "https://www.udemy.com/course/supplychain-procurement-logistics/?couponCode=A23CDA96E8D52F5E6ECD",
       "coupon_code": "A23CDA96E8D52F5E6ECD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180283_274b_3.jpg",
+      "title": "Professional Diploma in Supply Chain, Procurement, Logistics"
     },
     {
       "url": "https://www.udemy.com/course/t-shirt-design-in-adobe-illustrator-beginner-guide-to-expert/?couponCode=F731B2068813E7424A62",
