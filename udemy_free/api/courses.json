@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12T17:54:25Z",
+  "updated_at": "2026-03-12T19:04:09Z",
   "count": 999,
   "courses": [
     {
@@ -19,6 +19,18 @@
       "coupon_code": "9C9C26BBDCAFDCA71A30",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5945698_fa06.jpg",
       "title": "CSCA - Certified Supply Chain Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=B5B833819F6D0EE64C6B",
+      "coupon_code": "B5B833819F6D0EE64C6B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4280734_2d17.jpg",
+      "title": "CSS Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/digital-marketing-mastery-20/?couponCode=761B20B38E4506A6509A",
+      "coupon_code": "761B20B38E4506A6509A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927127_699b.jpg",
+      "title": "Digital Marketing Mastery 2.0"
     },
     {
       "url": "https://www.udemy.com/course/diversity-recruitment-and-organizational-success-hr/?couponCode=5F18A69D5D99E316A375",
@@ -45,16 +57,10 @@
       "title": "Leadership Essentials for New Managers 2.0 (A to Z)"
     },
     {
-      "url": "https://www.udemy.com/course/leadership-future-thinking-succession-planning/?couponCode=2FD38D2D725F24BACF4B",
-      "coupon_code": "2FD38D2D725F24BACF4B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6480817_afac.jpg",
-      "title": "Leadership : Future Thinking & Succession Planning 2.0"
-    },
-    {
-      "url": "https://www.udemy.com/course/linux-for-developers/?couponCode=MYWORLD",
-      "coupon_code": "MYWORLD",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5781840_fd42.jpg",
-      "title": "Linux for Devops Engineers and Developers"
+      "url": "https://www.udemy.com/course/learn-staad-pro-from-zero-to-hero-hindi/?couponCode=042E64372E1BC734D937",
+      "coupon_code": "042E64372E1BC734D937",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6390589_765f.jpg",
+      "title": "Learn STAAD PRO | From Zero to Hero | Hindi"
     },
     {
       "url": "https://www.udemy.com/course/master-course-advertising-strategy/?couponCode=3DBF2B2575D547EE7C05",
@@ -63,22 +69,16 @@
       "title": "Advertising Strategy, Sales and Marketing Strategy 2.0"
     },
     {
-      "url": "https://www.udemy.com/course/master-course-big-data-for-hr-marketing-and-finance/?couponCode=CD61C745D16C7A53CCAC",
-      "coupon_code": "CD61C745D16C7A53CCAC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5943696_9cdd_3.jpg",
-      "title": "Master Course : Big Data for HR, Marketing and Finance 2.0"
-    },
-    {
       "url": "https://www.udemy.com/course/master-course-in-audit-administration/?couponCode=3D0BD73E8273FF6E2DF8",
       "coupon_code": "3D0BD73E8273FF6E2DF8",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5937684_9890.jpg",
       "title": "Master course in Audit Administration 2.0"
     },
     {
-      "url": "https://www.udemy.com/course/retail-digital-banking-green-banking-sustainable-banking/?couponCode=35A9A7531EF1BE4867F8",
-      "coupon_code": "35A9A7531EF1BE4867F8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5546958_03a0.jpg",
-      "title": "Retail & Digital Banking, Green Banking, Sustainable Banking"
+      "url": "https://www.udemy.com/course/operations-and-process-management-data-analysis-analytics/?couponCode=33D912852CCC392482E6",
+      "coupon_code": "33D912852CCC392482E6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561535_4d3f.jpg",
+      "title": "Operations and Process Management Data Analysis & Analytics"
     },
     {
       "url": "https://www.udemy.com/course/sphr-101-senior-professional-in-human-resources/?couponCode=716606192FE8E6F5F786",
@@ -93,28 +93,40 @@
       "title": "Ultimate Linux File Protection"
     },
     {
+      "url": "https://www.udemy.com/course/leadership-future-thinking-succession-planning/?couponCode=2FD38D2D725F24BACF4B",
+      "coupon_code": "2FD38D2D725F24BACF4B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6480817_afac.jpg",
+      "title": "Leadership : Future Thinking & Succession Planning 2.0"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-for-developers/?couponCode=MYWORLD",
+      "coupon_code": "MYWORLD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5781840_fd42.jpg",
+      "title": "Linux for Devops Engineers and Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-course-big-data-for-hr-marketing-and-finance/?couponCode=CD61C745D16C7A53CCAC",
+      "coupon_code": "CD61C745D16C7A53CCAC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5943696_9cdd_3.jpg",
+      "title": "Master Course : Big Data for HR, Marketing and Finance 2.0"
+    },
+    {
+      "url": "https://www.udemy.com/course/retail-digital-banking-green-banking-sustainable-banking/?couponCode=35A9A7531EF1BE4867F8",
+      "coupon_code": "35A9A7531EF1BE4867F8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5546958_03a0.jpg",
+      "title": "Retail & Digital Banking, Green Banking, Sustainable Banking"
+    },
+    {
       "url": "https://www.udemy.com/course/creacion-de-webservice-con-node-js-y-sql-server/?couponCode=CENTROEDUCATIC4",
       "coupon_code": "CENTROEDUCATIC4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3822938_2cac_4.jpg",
       "title": "Creación de API REST con Node Js, SQL Server y Swagger"
     },
     {
-      "url": "https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=B5B833819F6D0EE64C6B",
-      "coupon_code": "B5B833819F6D0EE64C6B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4280734_2d17.jpg",
-      "title": "CSS Complete Course For Beginners"
-    },
-    {
       "url": "https://www.udemy.com/course/curso-laravel-crud-y-despliegue-de-aplicaciones-web/?couponCode=PROMOV5",
       "coupon_code": "PROMOV5",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6112061_86e9_10.jpg",
       "title": "Curso Laravel: CRUD y Despliegue de Aplicaciones Web"
-    },
-    {
-      "url": "https://www.udemy.com/course/digital-marketing-mastery-20/?couponCode=761B20B38E4506A6509A",
-      "coupon_code": "761B20B38E4506A6509A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6927127_699b.jpg",
-      "title": "Digital Marketing Mastery 2.0"
     },
     {
       "url": "https://www.udemy.com/course/envio-masivo-de-correos-electronicos-con-php-mysql-y-js/?couponCode=CENTROEDUCATIC2",
@@ -135,22 +147,10 @@
       "title": "Human Resources Expert Certificate: HR Metrics and Analytics"
     },
     {
-      "url": "https://www.udemy.com/course/learn-staad-pro-from-zero-to-hero-hindi/?couponCode=042E64372E1BC734D937",
-      "coupon_code": "042E64372E1BC734D937",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6390589_765f.jpg",
-      "title": "Learn STAAD PRO | From Zero to Hero | Hindi"
-    },
-    {
       "url": "https://www.udemy.com/course/master-hr-analytics-unlock-data-driven-workforce-strategies/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6346503_e339_3.jpg",
       "title": "HR Analytics for Data-Driven Decisions and Forecasting [EN]"
-    },
-    {
-      "url": "https://www.udemy.com/course/operations-and-process-management-data-analysis-analytics/?couponCode=33D912852CCC392482E6",
-      "coupon_code": "33D912852CCC392482E6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6561535_4d3f.jpg",
-      "title": "Operations and Process Management Data Analysis & Analytics"
     },
     {
       "url": "https://www.udemy.com/course/strategic-product-development-a-practical-guide-to-research/?couponCode=C76A14B6AA4C8F48D909",
