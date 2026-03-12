@@ -1,20 +1,10 @@
 {
-  "updated_at": "2026-03-12T11:37:15Z",
-  "count": 972,
+  "updated_at": "2026-03-12T13:18:58Z",
+  "count": 976,
   "courses": [
     {
       "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=DD0293CDA5721C44EE43",
       "coupon_code": "DD0293CDA5721C44EE43",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/best-generative-ai/?couponCode=120326_FREE",
-      "coupon_code": "120326_FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?couponCode=C30C84D0ABDFC8FEFFB6",
-      "coupon_code": "C30C84D0ABDFC8FEFFB6",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -23,8 +13,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/complete-sql-course-become-an-expert-in-database-management/?couponCode=B590101CFAFDC0E50498",
-      "coupon_code": "B590101CFAFDC0E50498",
+      "url": "https://www.udemy.com/course/digital-marketing-mastery-20/?couponCode=761B20B38E4506A6509A",
+      "coupon_code": "761B20B38E4506A6509A",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -35,6 +25,16 @@
     {
       "url": "https://www.udemy.com/course/intelligence-analysis-fundamentals/?couponCode=13C636E16709D5847BC8",
       "coupon_code": "13C636E16709D5847BC8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-hr-analytics-unlock-data-driven-workforce-strategies/?couponCode=PAPAHR_MAR_04",
+      "coupon_code": "PAPAHR_MAR_04",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-product-development-from-idea-to-market-success/?couponCode=652547D0D7DB128921CB",
+      "coupon_code": "652547D0D7DB128921CB",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -62,10 +62,9 @@
       "title": "OSINT: Her şeyi bulun, çevrimiçi arayın ve araştırın [TR]"
     },
     {
-      "url": "https://www.udemy.com/course/python-automation-mastery-automate-boring-tasks-like-a-pro/?couponCode=E5A43DDE322FA7A64DBA",
-      "coupon_code": "E5A43DDE322FA7A64DBA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6818625_e99d_2.jpg",
-      "title": "Python Automation Mastery Automate Boring Tasks Like a Pro"
+      "url": "https://www.udemy.com/course/strategic-product-development-a-practical-guide-to-research/?couponCode=C76A14B6AA4C8F48D909",
+      "coupon_code": "C76A14B6AA4C8F48D909",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/time-management-and-timeboxing-in-business-projects-agile/?couponCode=6F2E480BB95E922EBDA9",
@@ -84,6 +83,27 @@
       "coupon_code": "PAPAHR_MAR_04",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7074803_67a7.jpg",
       "title": "Yetkinlik Temelli Mülakat: STAR, PARLA, CARE soruları [TR]"
+    },
+    {
+      "url": "https://www.udemy.com/course/best-generative-ai/?couponCode=120326_FREE",
+      "coupon_code": "120326_FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?couponCode=C30C84D0ABDFC8FEFFB6",
+      "coupon_code": "C30C84D0ABDFC8FEFFB6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-sql-course-become-an-expert-in-database-management/?couponCode=B590101CFAFDC0E50498",
+      "coupon_code": "B590101CFAFDC0E50498",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-automation-mastery-automate-boring-tasks-like-a-pro/?couponCode=E5A43DDE322FA7A64DBA",
+      "coupon_code": "E5A43DDE322FA7A64DBA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818625_e99d_2.jpg",
+      "title": "Python Automation Mastery Automate Boring Tasks Like a Pro"
     },
     {
       "url": "https://www.udemy.com/course/certificado-profesional-en-gestion-de-riesgos/?couponCode=AF1790F1E260087FF904",
@@ -213,7 +233,8 @@
     {
       "url": "https://www.udemy.com/course/crear-una-tienda-virtual-con-boostrap-javascript-php-mysql/?couponCode=DE16A12DF05DE501C12C",
       "coupon_code": "DE16A12DF05DE501C12C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1292564_168b_3.jpg",
+      "title": "Crear una tienda virtual con Boostrap  JavaScript PHP MySQL"
     },
     {
       "url": "https://www.udemy.com/course/el-proceso-administrativo-para-triunfar-y-ser-feliz/?couponCode=39F30F1DA5F1F17F1368",
