@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-03-12T14:58:19Z",
-  "count": 985,
+  "updated_at": "2026-03-12T16:08:39Z",
+  "count": 988,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/c-and-c-for-beginners-step-by-step-to-mastery/?couponCode=29450040A5FE82D3B047",
-      "coupon_code": "29450040A5FE82D3B047",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7017095_15f6.jpg",
-      "title": "C and C++ for Beginners: Step-by-Step to Mastery"
-    },
     {
       "url": "https://www.udemy.com/course/creacion-de-webservice-con-node-js-y-sql-server/?couponCode=CENTROEDUCATIC4",
       "coupon_code": "CENTROEDUCATIC4",
@@ -39,6 +33,11 @@
       "title": "Envío Masivo de Correos Electrónicos con PHP, MySQL y JS"
     },
     {
+      "url": "https://www.udemy.com/course/gestion-des-risques/?couponCode=CFF85A2D8DE10273045E",
+      "coupon_code": "CFF85A2D8DE10273045E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/hack-network-pcs/?couponCode=REMEMBER",
       "coupon_code": "REMEMBER",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4818004_bcc2.jpg",
@@ -63,6 +62,11 @@
       "title": "Learn STAAD PRO | From Zero to Hero | Hindi"
     },
     {
+      "url": "https://www.udemy.com/course/linux-for-developers/?couponCode=MYWORLD",
+      "coupon_code": "MYWORLD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/master-hr-analytics-unlock-data-driven-workforce-strategies/?couponCode=PAPAHR_MAR_04",
       "coupon_code": "PAPAHR_MAR_04",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6346503_e339_3.jpg",
@@ -75,16 +79,27 @@
       "title": "Operations and Process Management Data Analysis & Analytics"
     },
     {
-      "url": "https://www.udemy.com/course/python-complete-course-and-flask-framework-html-2024-edition/?couponCode=327ED2AE35E146F5D7F4",
-      "coupon_code": "327ED2AE35E146F5D7F4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5865880_9953.jpg",
-      "title": "Python Complete Course And Flask Framework, HTML Essentials"
-    },
-    {
       "url": "https://www.udemy.com/course/strategic-product-development-a-practical-guide-to-research/?couponCode=C76A14B6AA4C8F48D909",
       "coupon_code": "C76A14B6AA4C8F48D909",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6552099_5f99_2.jpg",
       "title": "Strategic Product Development: A Practical Guide to Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-linux-file-protection/?couponCode=MYWORLD",
+      "coupon_code": "MYWORLD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-c-for-beginners-step-by-step-to-mastery/?couponCode=29450040A5FE82D3B047",
+      "coupon_code": "29450040A5FE82D3B047",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017095_15f6.jpg",
+      "title": "C and C++ for Beginners: Step-by-Step to Mastery"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-complete-course-and-flask-framework-html-2024-edition/?couponCode=327ED2AE35E146F5D7F4",
+      "coupon_code": "327ED2AE35E146F5D7F4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865880_9953.jpg",
+      "title": "Python Complete Course And Flask Framework, HTML Essentials"
     },
     {
       "url": "https://www.udemy.com/course/time-management-and-timeboxing-in-business-projects-agile/?couponCode=6F2E480BB95E922EBDA9",
