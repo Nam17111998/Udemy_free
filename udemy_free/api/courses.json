@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-03-13T18:54:39Z",
-  "count": 994,
+  "updated_at": "2026-03-13T19:37:38Z",
+  "count": 999,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/business-strategy-and-innovation-frameworks/?couponCode=245111A42F4E15698BE1",
+      "coupon_code": "245111A42F4E15698BE1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/cell-structure-and-function/?couponCode=FC4509375D4FAC7FCB14",
       "coupon_code": "FC4509375D4FAC7FCB14",
@@ -13,6 +18,11 @@
       "coupon_code": "F046DC589AC2E7BAE8BE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5024434_6792.jpg",
       "title": "Clinical Research Certification Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/communication-skills-acquire-effective-communication/?couponCode=594267C58F5A2F04CBA4",
+      "coupon_code": "594267C58F5A2F04CBA4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/crispr-cas9-technology/?couponCode=9F7F72C3FE486025765F",
@@ -27,10 +37,9 @@
       "title": "Cyber Security & Ethical Hacking Online Course"
     },
     {
-      "url": "https://www.udemy.com/course/drug-regulatory-affair/?couponCode=0CFADF16F71B78B3B43D",
-      "coupon_code": "0CFADF16F71B78B3B43D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5179664_0290.jpg",
-      "title": "Drug Regulatory Affair"
+      "url": "https://www.udemy.com/course/diploma-in-office-management/?couponCode=9B5E5E02536CC46E5915",
+      "coupon_code": "9B5E5E02536CC46E5915",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/food-science-and-processing-technology/?couponCode=5D299CC31FB3635A23CD",
@@ -51,6 +60,40 @@
       "title": "Medical Coding"
     },
     {
+      "url": "https://www.udemy.com/course/patent-strategies-in-biotechnology-protecting-innovations/?couponCode=934CDFFFB8CC356EA720",
+      "coupon_code": "934CDFFFB8CC356EA720",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6430197_1271.jpg",
+      "title": "Patent Strategies in Biotechnology - Protecting Innovations"
+    },
+    {
+      "url": "https://www.udemy.com/course/pharmaceutical-quality-control/?couponCode=599C5EFFC02B4C0D4B98",
+      "coupon_code": "599C5EFFC02B4C0D4B98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5180514_c463.jpg",
+      "title": "Pharmaceutical Quality Control"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-ef/?couponCode=9BAAAB9242D0E39F10F7",
+      "coupon_code": "9BAAAB9242D0E39F10F7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6479751_651b.jpg",
+      "title": "Python for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/smartphone-detox-for-kids/?couponCode=7737697FB50F87E60D1E",
+      "coupon_code": "7737697FB50F87E60D1E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-scm/?couponCode=6B6C40DFFEF9E76284B8",
+      "coupon_code": "6B6C40DFFEF9E76284B8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/drug-regulatory-affair/?couponCode=0CFADF16F71B78B3B43D",
+      "coupon_code": "0CFADF16F71B78B3B43D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5179664_0290.jpg",
+      "title": "Drug Regulatory Affair"
+    },
+    {
       "url": "https://www.udemy.com/course/microbiome-online-course/?couponCode=CCB2C64472339B4447B5",
       "coupon_code": "CCB2C64472339B4447B5",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5785194_7bde_2.jpg",
@@ -63,34 +106,16 @@
       "title": "Molecular Diagnostics Online Course"
     },
     {
-      "url": "https://www.udemy.com/course/patent-strategies-in-biotechnology-protecting-innovations/?couponCode=934CDFFFB8CC356EA720",
-      "coupon_code": "934CDFFFB8CC356EA720",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6430197_1271.jpg",
-      "title": "Patent Strategies in Biotechnology - Protecting Innovations"
-    },
-    {
       "url": "https://www.udemy.com/course/pharmaceutical-production-management-course/?couponCode=58BCAC267B8CBE94E036",
       "coupon_code": "58BCAC267B8CBE94E036",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5821808_b818.jpg",
       "title": "Pharmaceutical Production Management Course"
     },
     {
-      "url": "https://www.udemy.com/course/pharmaceutical-quality-control/?couponCode=599C5EFFC02B4C0D4B98",
-      "coupon_code": "599C5EFFC02B4C0D4B98",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5180514_c463.jpg",
-      "title": "Pharmaceutical Quality Control"
-    },
-    {
       "url": "https://www.udemy.com/course/plant-cell-tissue-culture-course/?couponCode=7977E0C98671922C29AC",
       "coupon_code": "7977E0C98671922C29AC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5819282_e172.jpg",
       "title": "Plant Cell & Tissue Culture Course"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-for-beginners-ef/?couponCode=9BAAAB9242D0E39F10F7",
-      "coupon_code": "9BAAAB9242D0E39F10F7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6479751_651b.jpg",
-      "title": "Python for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/become-html-hero/?couponCode=9DEB1BC4E2ADAADAC6E5",
