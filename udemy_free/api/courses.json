@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-03-13T13:16:52Z",
-  "count": 944,
+  "updated_at": "2026-03-13T14:52:01Z",
+  "count": 959,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-mindset-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/databases-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/gpt-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/oop-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3520172_30b8_2.jpg",
+      "title": "Object Oriented Programming - Basics to Advance (Java OOP)"
+    },
+    {
+      "url": "https://www.udemy.com/course/oracle-certification-java-21-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291083_8dee.jpg",
+      "title": "Oracle Java SE 21 Developer Professional: 1Z0-830"
+    },
+    {
+      "url": "https://www.udemy.com/course/qa-metrics-kpis-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643199_eee7.jpg",
+      "title": "QA Metrics & KPIs: Testing, Defect Tracking & Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/resilience-patterns-microservice-architecture-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6748697_de0c.jpg",
+      "title": "Resilience Patterns in Microservice Architecture: Hands-On"
+    },
+    {
+      "url": "https://www.udemy.com/course/resilience4j-spring-boot-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6748695_ab03.jpg",
+      "title": "Resilience4j with Spring Boot: Build Fault-Tolerant Systems"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-coding-spring-boot-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6748711_2333.jpg",
+      "title": "Secure Coding in Spring Boot: Real-World Coding Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/software-architecture-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/test-metrics-kpis-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/testing-for-developers/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/uml-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/xp-programming-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-genai-security-mastering-cyber-risks-2025/?couponCode=1EF8DA9C7969377A7462",
       "coupon_code": "1EF8DA9C7969377A7462",
