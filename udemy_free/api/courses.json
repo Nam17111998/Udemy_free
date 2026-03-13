@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-13T14:52:01Z",
-  "count": 959,
+  "updated_at": "2026-03-13T15:51:56Z",
+  "count": 961,
   "courses": [
     {
       "url": "https://www.udemy.com/course/agile-mindset-learnit/?couponCode=MARCHFREE22026",
@@ -18,6 +18,11 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=2DDFD9DAC2DFB1461135",
+      "coupon_code": "2DDFD9DAC2DFB1461135",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/oop-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3520172_30b8_2.jpg",
@@ -28,12 +33,6 @@
       "coupon_code": "MARCHFREE22026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6291083_8dee.jpg",
       "title": "Oracle Java SE 21 Developer Professional: 1Z0-830"
-    },
-    {
-      "url": "https://www.udemy.com/course/qa-metrics-kpis-learnit/?couponCode=MARCHFREE22026",
-      "coupon_code": "MARCHFREE22026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6643199_eee7.jpg",
-      "title": "QA Metrics & KPIs: Testing, Defect Tracking & Automation"
     },
     {
       "url": "https://www.udemy.com/course/resilience-patterns-microservice-architecture-learnit/?couponCode=MARCHFREE22026",
@@ -48,12 +47,6 @@
       "title": "Resilience4j with Spring Boot: Build Fault-Tolerant Systems"
     },
     {
-      "url": "https://www.udemy.com/course/secure-coding-spring-boot-learnit/?couponCode=MARCHFREE22026",
-      "coupon_code": "MARCHFREE22026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6748711_2333.jpg",
-      "title": "Secure Coding in Spring Boot: Real-World Coding Guide"
-    },
-    {
       "url": "https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -64,6 +57,11 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/strategic-digital-transformation-for-business-growth/?couponCode=87D8EAFC6C2EEE537454",
+      "coupon_code": "87D8EAFC6C2EEE537454",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/test-metrics-kpis-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -71,17 +69,32 @@
     {
       "url": "https://www.udemy.com/course/testing-for-developers/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3273578_a5eb.jpg",
+      "title": "JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD"
     },
     {
       "url": "https://www.udemy.com/course/uml-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5603270_a39a.jpg",
+      "title": "UML: The Most Complete Guide with Real-Life Examples"
     },
     {
       "url": "https://www.udemy.com/course/xp-programming-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6522461_d9e1.jpg",
+      "title": "Extreme Programming (XP): Techniques for Agile Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/qa-metrics-kpis-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643199_eee7.jpg",
+      "title": "QA Metrics & KPIs: Testing, Defect Tracking & Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-coding-spring-boot-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6748711_2333.jpg",
+      "title": "Secure Coding in Spring Boot: Real-World Coding Guide"
     },
     {
       "url": "https://www.udemy.com/course/advanced-genai-security-mastering-cyber-risks-2025/?couponCode=1EF8DA9C7969377A7462",
