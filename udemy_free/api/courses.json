@@ -1,26 +1,118 @@
 {
-  "updated_at": "2026-03-13T16:51:27Z",
-  "count": 964,
+  "updated_at": "2026-03-13T17:42:03Z",
+  "count": 979,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/become-html-hero/?couponCode=9DEB1BC4E2ADAADAC6E5",
+      "coupon_code": "9DEB1BC4E2ADAADAC6E5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/big-data-hadoop-online-course/?couponCode=4DDDA3927D441295DB74",
+      "coupon_code": "4DDDA3927D441295DB74",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/business-analytics-online-class/?couponCode=79692C9161E7C66FD47B",
+      "coupon_code": "79692C9161E7C66FD47B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5963106_c587_2.jpg",
+      "title": "Business Analytics Online Class"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analytics-j/?couponCode=0E91272AEDB117C186DE",
+      "coupon_code": "0E91272AEDB117C186DE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6448273_a103.jpg",
+      "title": "Data Analytics Essentials: Analyze, Visualize, Interpret"
+    },
+    {
+      "url": "https://www.udemy.com/course/entrepreneurship-masterclass/?couponCode=EC7FB8DA3C862F9A8952",
+      "coupon_code": "EC7FB8DA3C862F9A8952",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6284651_a334.jpg",
+      "title": "Entrepreneurship Simplified Launch Your Venture Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/hazard-analysis-and-critical-control-points/?couponCode=0E1BD1B32326D29A26A0",
+      "coupon_code": "0E1BD1B32326D29A26A0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6674317_ea91.jpg",
+      "title": "Hazard Analysis and Critical Control Points"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-online-course/?couponCode=812EBC096564EA456414",
+      "coupon_code": "812EBC096564EA456414",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5788708_2f7f.jpg",
+      "title": "Machine Learning Online Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-ios-development/?couponCode=36835F461B204E016911",
+      "coupon_code": "36835F461B204E016911",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5896234_84b7.jpg",
+      "title": "Mastering iOS Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-power-bi-from-data-to-dashboard/?couponCode=DADCC468ED6136786F8D",
+      "coupon_code": "DADCC468ED6136786F8D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6616359_29bb.jpg",
+      "title": "Mastering Power BI: From Data to Dashboard"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-azure-y/?couponCode=362FF843D51A949D5B13",
+      "coupon_code": "362FF843D51A949D5B13",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6478199_1e7f.jpg",
+      "title": "Microsoft Azure"
+    },
+    {
+      "url": "https://www.udemy.com/course/people-analytics-t/?couponCode=769EE4B1BAE4044C42C9",
+      "coupon_code": "769EE4B1BAE4044C42C9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6478083_5783.jpg",
+      "title": "HR Analytics for Leaders: Making Smarter Workforce Decisions"
+    },
+    {
+      "url": "https://www.udemy.com/course/programmable-logic-controllers/?couponCode=3BAACF7BAD7DBFCC9C7D",
+      "coupon_code": "3BAACF7BAD7DBFCC9C7D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6478241_b069.jpg",
+      "title": "Programmable Logic Controllers"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-course-o/?couponCode=94F2700B7711A93C144F",
+      "coupon_code": "94F2700B7711A93C144F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5988208_dcca.jpg",
+      "title": "Advanced Project Management: Strategies for Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/risk-management-in-hindi/?couponCode=A102F66A07A803101B83",
+      "coupon_code": "A102F66A07A803101B83",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6607221_b17e_5.jpg",
+      "title": "रिस्क मैनेजमेंट में प्रोफेशनल सर्टिफिकेट"
+    },
+    {
+      "url": "https://www.udemy.com/course/solar-cell-technology/?couponCode=99E39EB958A69CAEB40C",
+      "coupon_code": "99E39EB958A69CAEB40C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6018240_e755.jpg",
+      "title": "Solar Cell Technology"
+    },
     {
       "url": "https://www.udemy.com/course/gpt-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5363190_69df.jpg",
+      "title": "ChatGPT Complete Guide: OpenAI API, AI Tools, ChatGPT 4"
     },
     {
       "url": "https://www.udemy.com/course/iphone-filmmaking-taking-better-photo-with-your-smartphone/?couponCode=PROMESE",
       "coupon_code": "PROMESE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2114564_a1d3_6.jpg",
+      "title": "Snap & Shine: Elevate Your iPhone Photography"
     },
     {
       "url": "https://www.udemy.com/course/iphone-photography-mini-course-tell-your-story-like-a-pro/?couponCode=PROMESE",
       "coupon_code": "PROMESE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2593246_cf96_3.jpg",
+      "title": "Iphone Photography Mini Course Tell Your Story Like a Pro"
     },
     {
       "url": "https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=2DDFD9DAC2DFB1461135",
       "coupon_code": "2DDFD9DAC2DFB1461135",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4200228_c917_2.jpg",
+      "title": "Javascript Practicals Crash Course"
     },
     {
       "url": "https://www.udemy.com/course/oop-learnit/?couponCode=MARCHFREE22026",
@@ -37,7 +129,8 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-risk-management-arabic-version/?couponCode=B100582382BEC641AF71",
       "coupon_code": "B100582382BEC641AF71",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6607207_7136_3.jpg",
+      "title": "شهادة مهنية في إدارة المخاطر"
     },
     {
       "url": "https://www.udemy.com/course/resilience-patterns-microservice-architecture-learnit/?couponCode=MARCHFREE22026",
@@ -54,22 +147,26 @@
     {
       "url": "https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6478831_313a.jpg",
+      "title": "Secure Coding: Security Best Practices in Web Applications"
     },
     {
       "url": "https://www.udemy.com/course/software-architecture-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3957390_1f27.jpg",
+      "title": "Software Architecture and Clean Code Design in OOP"
     },
     {
       "url": "https://www.udemy.com/course/strategic-digital-transformation-for-business-growth/?couponCode=87D8EAFC6C2EEE537454",
       "coupon_code": "87D8EAFC6C2EEE537454",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6603151_1652.jpg",
+      "title": "Strategic Digital Transformation for Business Growth"
     },
     {
       "url": "https://www.udemy.com/course/test-metrics-kpis-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643209_0e5d.jpg",
+      "title": "Defect Management & QA Reporting: Metrics & KPIs"
     },
     {
       "url": "https://www.udemy.com/course/testing-for-developers/?couponCode=MARCHFREE22026",
@@ -86,12 +183,14 @@
     {
       "url": "https://www.udemy.com/course/agile-mindset-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6522467_add9.jpg",
+      "title": "Agile Mindset & Adaptability: The Complete Guide to XP"
     },
     {
       "url": "https://www.udemy.com/course/databases-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4309902_4081_2.jpg",
+      "title": "Relational Databases & SQL: Complete Guide for Developers"
     },
     {
       "url": "https://www.udemy.com/course/uml-learnit/?couponCode=MARCHFREE22026",
