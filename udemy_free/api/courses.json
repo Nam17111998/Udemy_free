@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-03-13T20:44:54Z",
-  "count": 999,
+  "updated_at": "2026-03-13T21:40:33Z",
+  "count": 1000,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-powered-data-and-product-masterclass/?couponCode=0F51CD8C49F7D5B5159D",
+      "coupon_code": "0F51CD8C49F7D5B5159D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6665293_55cd_4.jpg",
+      "title": "AI-Powered Data & Product Masterclass"
+    },
     {
       "url": "https://www.udemy.com/course/business-strategy-and-innovation-frameworks/?couponCode=245111A42F4E15698BE1",
       "coupon_code": "245111A42F4E15698BE1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6627259_626f.jpg",
+      "title": "Business Strategy & Innovation Frameworks"
     },
     {
       "url": "https://www.udemy.com/course/cell-structure-and-function/?couponCode=FC4509375D4FAC7FCB14",
@@ -62,12 +69,6 @@
       "title": "Patent Strategies in Biotechnology - Protecting Innovations"
     },
     {
-      "url": "https://www.udemy.com/course/pharmaceutical-production-management-course/?couponCode=58BCAC267B8CBE94E036",
-      "coupon_code": "58BCAC267B8CBE94E036",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5821808_b818.jpg",
-      "title": "Pharmaceutical Production Management Course"
-    },
-    {
       "url": "https://www.udemy.com/course/pharmaceutical-quality-control/?couponCode=599C5EFFC02B4C0D4B98",
       "coupon_code": "599C5EFFC02B4C0D4B98",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5180514_c463.jpg",
@@ -92,9 +93,16 @@
       "title": "Professional Diploma in Strategic Supply Chain Management"
     },
     {
+      "url": "https://www.udemy.com/course/pharmaceutical-production-management-course/?couponCode=58BCAC267B8CBE94E036",
+      "coupon_code": "58BCAC267B8CBE94E036",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5821808_b818.jpg",
+      "title": "Pharmaceutical Production Management Course"
+    },
+    {
       "url": "https://www.udemy.com/course/communication-skills-acquire-effective-communication/?couponCode=594267C58F5A2F04CBA4",
       "coupon_code": "594267C58F5A2F04CBA4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5100742_b7ae_7.jpg",
+      "title": "Communication Skills: Acquire Effective Communication"
     },
     {
       "url": "https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=98408117331A802C646A",
