@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-14T08:47:04Z",
-  "count": 933,
+  "updated_at": "2026-03-14T09:41:51Z",
+  "count": 934,
   "courses": [
     {
       "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=2F2B6DF0D4C91C79C5E0",
@@ -11,6 +11,11 @@
     {
       "url": "https://www.udemy.com/course/c-programming-masterclass-build-your-programming-foundation/?couponCode=B1D3DD6D401F4964CE2E",
       "coupon_code": "B1D3DD6D401F4964CE2E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=85392C4D933EC1551A7B",
+      "coupon_code": "85392C4D933EC1551A7B",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -33,12 +38,6 @@
       "url": "https://www.udemy.com/course/mastering-prompt-engineering-from-beginner-to-ai-expert/?couponCode=E3BD60AE6487FE199C0B",
       "coupon_code": "E3BD60AE6487FE199C0B",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/?couponCode=FB1D2FB9DC3B0310BF58",
-      "coupon_code": "FB1D2FB9DC3B0310BF58",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg",
-      "title": "Microsoft Excel Data Analysis for Business & Finance"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-master-formulas-functions-and-data-tools/?couponCode=48AE556970B4271F08CB",
@@ -83,6 +82,12 @@
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels/?couponCode=349060CF2F9EFDD274CF",
       "coupon_code": "349060CF2F9EFDD274CF",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/?couponCode=FB1D2FB9DC3B0310BF58",
+      "coupon_code": "FB1D2FB9DC3B0310BF58",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg",
+      "title": "Microsoft Excel Data Analysis for Business & Finance"
     },
     {
       "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=0819565C7DC9A8996211",
