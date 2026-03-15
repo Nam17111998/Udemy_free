@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-15T18:52:00Z",
-  "count": 964,
+  "updated_at": "2026-03-15T19:35:24Z",
+  "count": 965,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-course-for-graphics-design/?couponCode=9F65D986BB7838B12780",
@@ -50,6 +50,11 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/master-in-new-business-development-and-entrepreneurship/?couponCode=368EA326F4876AFD5C73",
+      "coupon_code": "368EA326F4876AFD5C73",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/plumbing-design-engineering/?couponCode=217B9DE82A21ABAA2DB2",
       "coupon_code": "217B9DE82A21ABAA2DB2",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -61,17 +66,6 @@
       "title": "Salesforce Admin & Developer Skills from Scratch"
     },
     {
-      "url": "https://www.udemy.com/course/sap-ui5-fiori-essentials-beginners-complete-walkthrough/?couponCode=64F803F185A3D17C71E7",
-      "coupon_code": "64F803F185A3D17C71E7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/techtalenthive-javadevelopercourse/?couponCode=TTHJAVAIVMARFREE",
-      "coupon_code": "TTHJAVAIVMARFREE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6550765_77bc_8.jpg",
-      "title": "Java Interview Preparation Course"
-    },
-    {
       "url": "https://www.udemy.com/course/vigilant-leader-upskilling-erg-leadership/?couponCode=F1ED209948FF29FB7602",
       "coupon_code": "F1ED209948FF29FB7602",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5271064_a843.jpg",
@@ -81,6 +75,17 @@
       "url": "https://www.udemy.com/course/wordpress-elementor-course-develop-site-without-coding/?couponCode=CD562773C9C2F63329B3",
       "coupon_code": "CD562773C9C2F63329B3",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-ui5-fiori-essentials-beginners-complete-walkthrough/?couponCode=64F803F185A3D17C71E7",
+      "coupon_code": "64F803F185A3D17C71E7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/techtalenthive-javadevelopercourse/?couponCode=TTHJAVAIVMARFREE",
+      "coupon_code": "TTHJAVAIVMARFREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6550765_77bc_8.jpg",
+      "title": "Java Interview Preparation Course"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-mastery-office-personal-productivity-with-ai/?couponCode=F4D9F80F570D3A092244",
@@ -211,7 +216,8 @@
     {
       "url": "https://www.udemy.com/course/employee-attrition-prediction-in-apache-spark-ml/?couponCode=7416488A1BE2EB913116",
       "coupon_code": "7416488A1BE2EB913116",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2419732_1b9c_3.jpg",
+      "title": "Employee Attrition Prediction in Apache Spark (ML) Project"
     },
     {
       "url": "https://www.udemy.com/course/hands-on-react-js-from-beginner-to-expert/?couponCode=A8D4B734585C9D701FCF",
