@@ -1,21 +1,110 @@
 {
-  "updated_at": "2026-03-15T03:20:25Z",
-  "count": 903,
+  "updated_at": "2026-03-15T05:39:53Z",
+  "count": 915,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-course-for-graphics-design/?couponCode=9F65D986BB7838B12780",
+      "coupon_code": "9F65D986BB7838B12780",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/?couponCode=73F50DE50FFB46F3A7C0",
+      "coupon_code": "73F50DE50FFB46F3A7C0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-wordpress-course-for-professionals/?couponCode=FEE4FDCD8C6A32B151C7",
+      "coupon_code": "FEE4FDCD8C6A32B151C7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/customer-service-with-ai-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-adobe-lightroom-course-for-photo-editing/?couponCode=658140F9F086CE2A6734",
+      "coupon_code": "658140F9F086CE2A6734",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346426_982e_2.jpg",
+      "title": "Essential Adobe Lightroom Course for Photo Editing"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-slides-full-guide-to-creating-impactful-presentation/?couponCode=D4F3E76BDB6CE0E537B7",
+      "coupon_code": "D4F3E76BDB6CE0E537B7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6126889_f56f_3.jpg",
+      "title": "Google Slides: Full Guide to Creating Impactful Presentation"
+    },
+    {
+      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6949313_7782_4.jpg",
+      "title": "Language Learning with AI: Practical Skills Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-with-formulas-and-vba/?couponCode=67617C4DB6946AF91DC2",
+      "coupon_code": "67617C4DB6946AF91DC2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6095875_9df5_3.jpg",
+      "title": "Microsoft Excel Data Analysis with Formulas and VBA"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-training-master-excel-powerpoint-word/?couponCode=23B7191146114BBD6CC4",
+      "coupon_code": "23B7191146114BBD6CC4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6014740_0383_5.jpg",
+      "title": "Microsoft Office Training : Master Excel, PowerPoint & Word"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-the-complete-mongodb-developers-course/?couponCode=DA4A04987B08A782C606",
+      "coupon_code": "DA4A04987B08A782C606",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5999168_45c8_5.jpg",
+      "title": "MongoDB - The Complete MongoDB Developers Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/owasp-llm-security-learnit/?couponCode=MARCHFREE22026",
+      "coupon_code": "MARCHFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6756235_67c6.jpg",
+      "title": "OWASP Top 10 LLM 2025: AI Security Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-101-complete-python-programming-step-by-step-guide/?couponCode=F774D9D3356B8881FC72",
+      "coupon_code": "F774D9D3356B8881FC72",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709303_f812_2.jpg",
+      "title": "Python 101: Complete Python Programming Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-r-programming-language-beginners-to-pro/?couponCode=C6F163F59490B68CF117",
+      "coupon_code": "C6F163F59490B68CF117",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5890956_f61d_2.jpg",
+      "title": "R Programming - R Programming Language Beginners to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/responsive-web-design-with-css-a-complete-css-guide/?couponCode=C06A182D11FFDD4B816F",
+      "coupon_code": "C06A182D11FFDD4B816F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709411_19ad_2.jpg",
+      "title": "Responsive Web Design with CSS: A Complete CSS Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-graphics-design-and-video-editing-with-canva/?couponCode=B8B72CD1F7978DC3641F",
+      "coupon_code": "B8B72CD1F7978DC3641F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6038488_d144_5.jpg",
+      "title": "Social Media Graphics Design and Video Editing with Canva"
+    },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-hr-hrm-excellence/?couponCode=BD6A483D0A5BA1BCEEA8",
       "coupon_code": "BD6A483D0A5BA1BCEEA8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589225_5d58_2.jpg",
+      "title": "AI for Human Resources Management / HR/ HRM Excellence"
     },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-project-planning-excellence/?couponCode=A09319B56AC75A31181C",
       "coupon_code": "A09319B56AC75A31181C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695941_7bc5.jpg",
+      "title": "AI (Artificial Intelligence) for Project Planning Excellence"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-crm-customer-relationship-management-excellence/?couponCode=2B70BBBF448541442F7C",
       "coupon_code": "2B70BBBF448541442F7C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6630759_b825.jpg",
+      "title": "AI for CRM (Customer Relationship Management)  Excellence"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-data-driven-management-excellence/?couponCode=B4C417FC58CB975AF3C2",
@@ -29,11 +118,6 @@
     },
     {
       "url": "https://www.udemy.com/course/code-reviews-learnit/?couponCode=MARCHFREE22026",
-      "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/customer-service-with-ai-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
@@ -53,17 +137,7 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=MARCHFREE22026",
-      "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/owasp-learnit/?couponCode=MARCHFREE22026",
-      "coupon_code": "MARCHFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/owasp-llm-security-learnit/?couponCode=MARCHFREE22026",
       "coupon_code": "MARCHFREE22026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
