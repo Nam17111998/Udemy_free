@@ -1,101 +1,210 @@
 {
-  "updated_at": "2026-03-16T09:07:17Z",
-  "count": 922,
+  "updated_at": "2026-03-16T11:02:47Z",
+  "count": 937,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/capcut-mastery-from-beginner-to-pro/?couponCode=16DAAC59962847BB09F8",
+      "coupon_code": "16DAAC59962847BB09F8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6212797_8091.jpg",
+      "title": "CapCut Mastery: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/comprehensive-davinci-resolve-with-color-grading-masterclass/?couponCode=E235AB0766065878EFB8",
+      "coupon_code": "E235AB0766065878EFB8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5927452_cdfd.jpg",
+      "title": "Comprehensive DaVinci Resolve With Color Grading Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-after-effects-from-beginner-to-motion-master/?couponCode=F70BB47BF0F74AF9754E",
+      "coupon_code": "F70BB47BF0F74AF9754E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5803016_9a0a_2.jpg",
+      "title": "Essential After Effects: From Beginner to Motion Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/fiverr-success-secrets-blueprint-from-beginner-to-top-seller/?couponCode=68E685FC2A05DBC63F47",
+      "coupon_code": "68E685FC2A05DBC63F47",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6224457_8a19_2.jpg",
+      "title": "Fiverr Success Secrets Blueprint From Beginner to Top Seller"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphic-design-masterclass-adobe-photoshop-illustrator-indesign-canva/?couponCode=95767CA67821E7B02713",
+      "coupon_code": "95767CA67821E7B02713",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5803102_5223_3.jpg",
+      "title": "Learn Graphic Design with Photoshop Illustrator and InDesign"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-adobe-premiere-pro-cc-from-beginner-to-pro-editor/?couponCode=24A826E7FFFBEC28C50D",
+      "coupon_code": "24A826E7FFFBEC28C50D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5797752_cf8c_3.jpg",
+      "title": "Mastering Adobe Premiere Pro CC: From Beginner to Pro Editor"
+    },
+    {
+      "url": "https://www.udemy.com/course/premiere-pro-cc-novice-to-expert-how-to-earn-money-by-video/?couponCode=A3DCE5F37EC96E1FB956",
+      "coupon_code": "A3DCE5F37EC96E1FB956",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1619752_ff0e.jpg",
+      "title": "Video Editing Course Premiere Pro:  18 Project In 1 Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=B9CB9FB9B2E8C56A8102",
+      "coupon_code": "B9CB9FB9B2E8C56A8102",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3213441_6289_4.jpg",
+      "title": "Professional Adobe Photoshop CC Course With Advance Training"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-for-beginners-learn-python-from-scratch/?couponCode=867950E0DCCE195480EB",
+      "coupon_code": "867950E0DCCE195480EB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6053693_14e0_2.jpg",
+      "title": "Python Programming for Beginners: Learn Python from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-bootcamp-photoshop-illustrator-canva/?couponCode=F7E6FBADF458B9D254DB",
+      "coupon_code": "F7E6FBADF458B9D254DB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5789946_1f41.jpg",
+      "title": "T-Shirt Design Bootcamp: Photoshop, Illustrator & Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-masterclass-in-photoshop-sell-your-t-shirt/?couponCode=DD09F59207869E377206",
+      "coupon_code": "DD09F59207869E377206",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3603092_eb4c_3.jpg",
+      "title": "T-Shirt Design Masterclass In Photoshop | Sell Your T-Shirt"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-guide-to-instagram-marketing-for-businesses/?couponCode=1B8E451F8A41AD5AF8FC",
+      "coupon_code": "1B8E451F8A41AD5AF8FC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992018_0d73.jpg",
+      "title": "The Complete Guide to Instagram Marketing for Businesses"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-filmora-video-editing-course-beginner-to-pro/?couponCode=497C8A4513E77A1E8337",
+      "coupon_code": "497C8A4513E77A1E8337",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906506_1469.jpg",
+      "title": "The Ultimate Filmora Video Editing Course: Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-freelancing-course-from-beginner-to-expert-success/?couponCode=B117C697C8F7D69C3828",
+      "coupon_code": "B117C697C8F7D69C3828",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6222597_b766_2.jpg",
+      "title": "Ultimate Freelancing Course From Beginner to  Expert Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-job-seeker-course-resume-cover-letter-interview/?couponCode=E6A740C874A338A9FF53",
+      "coupon_code": "E6A740C874A338A9FF53",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6181393_329b_2.jpg",
+      "title": "Ultimate Job Seeker Course - Resume, Cover Letter, Interview"
+    },
     {
       "url": "https://www.udemy.com/course/body-language-for-speakers/?couponCode=48AC646AB0E2A5ABDF2B",
       "coupon_code": "48AC646AB0E2A5ABDF2B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/294638_2fef_4.jpg",
+      "title": "Body Language: Appear Confident and Poised When You Speak"
     },
     {
       "url": "https://www.udemy.com/course/crisis-communications-training-for-oil-and-gas-executives/?couponCode=3609DBE2291CE7F52DAF",
       "coupon_code": "3609DBE2291CE7F52DAF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/294698_ce3c_4.jpg",
+      "title": "Public Relations: Crisis Communications Oil and Gas Industry"
     },
     {
       "url": "https://www.udemy.com/course/democratic-candidate-communications-training/?couponCode=D7962EEA85260318D406",
       "coupon_code": "D7962EEA85260318D406",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/294870_69e9_4.jpg",
+      "title": "Media Training for Democratic Candidates: You Can Win"
     },
     {
       "url": "https://www.udemy.com/course/etabs-from-zero-to-hero/?couponCode=AE1A61A5D22C3A177A6C",
       "coupon_code": "AE1A61A5D22C3A177A6C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5419432_c578_2.jpg",
+      "title": "Etabs : From Zero to Hero : in Hindi / English"
     },
     {
       "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=541912663339C56513BC",
       "coupon_code": "541912663339C56513BC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285311_bd70_2.jpg",
+      "title": "Flutter Masterclass - Your Complete Guide to App Development"
     },
     {
       "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=C464BAA76F3FC7651CBC",
       "coupon_code": "C464BAA76F3FC7651CBC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6189863_aae8.jpg",
+      "title": "Hands-On Python Machine Learning with Real World Projects"
     },
     {
       "url": "https://www.udemy.com/course/how-to-ask-for-a-raise2/?couponCode=3FE243DFA22AAE0DF6C0",
       "coupon_code": "3FE243DFA22AAE0DF6C0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/296377_9d3a_3.jpg",
+      "title": "Salary Negotiation - How to Ask for and Receive a Pay Raise"
     },
     {
       "url": "https://www.udemy.com/course/learn-bar-bending-schedule-in-autocad-excel/?couponCode=BD0714A1EF480FD09F8A",
       "coupon_code": "BD0714A1EF480FD09F8A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5419308_90a5_3.jpg",
+      "title": "Learn Bar Bending Schedule in AutoCAD & Excel"
     },
     {
       "url": "https://www.udemy.com/course/learn-dynamo-in-revit-zero-to-hero-in-hindi/?couponCode=96D5AAB87DBB9A8106D6",
       "coupon_code": "96D5AAB87DBB9A8106D6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5984942_af17_3.jpg",
+      "title": "Learn Dynamo in Revit : Zero to Hero in Hindi"
     },
     {
       "url": "https://www.udemy.com/course/learn-kotlin-for-android-android-app-development-bootcamp/?couponCode=3B64B6064A4AF2FF4E69",
       "coupon_code": "3B64B6064A4AF2FF4E69",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000881_f64a.jpg",
+      "title": "Learn Kotlin for Android: Android App Development Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/master-html-for-modern-web-design-front-end-web-development/?couponCode=26ABABF5E037F88BFEE8",
       "coupon_code": "26ABABF5E037F88BFEE8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000869_4e34.jpg",
+      "title": "Master HTML for Modern Web Design: Front End Web Development"
     },
     {
       "url": "https://www.udemy.com/course/mastering-c-learn-building-games-application-softwares/?couponCode=C5F29506DDCE23672CF8",
       "coupon_code": "C5F29506DDCE23672CF8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6457969_889b_2.jpg",
+      "title": "Mastering C# Learn Building Games, Application, Softwares"
     },
     {
       "url": "https://www.udemy.com/course/pivot-tables-microsoft-excel-pivot-table-and-data-analysis/?couponCode=7E129CCD6DBE0263DE44",
       "coupon_code": "7E129CCD6DBE0263DE44",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893679_41d3_2.jpg",
+      "title": "Pivot Tables - Microsoft Excel Pivot Table and Data Analysis"
     },
     {
       "url": "https://www.udemy.com/course/python-web-developer-masterclass-build-6-website/?couponCode=1A38FAF1C849FA525D55",
       "coupon_code": "1A38FAF1C849FA525D55",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285393_3aad.jpg",
+      "title": "Python Web Developer Masterclass - Build 6 Website"
     },
     {
       "url": "https://www.udemy.com/course/quantity-surveying-building-estimate/?couponCode=EFB4BC8063A72A104E74",
       "coupon_code": "EFB4BC8063A72A104E74",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5417816_f406_2.jpg",
+      "title": "Quantity Surveying & Building Estimate"
     },
     {
       "url": "https://www.udemy.com/course/10-proyectos-de-javascript-para-tu-portafolio-y-entrevistas/?couponCode=8438955BFC0A4B0B8953",
       "coupon_code": "8438955BFC0A4B0B8953",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5528164_76c7_3.jpg",
+      "title": "10 Proyectos de Javascript para tu portafolio y entrevistas"
     },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=77250CE169D446E0D9F2",
       "coupon_code": "77250CE169D446E0D9F2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5278956_79a9_3.jpg",
+      "title": "Adobe Premiere Pro CC For Video Editing - Novice to Expert"
     },
     {
       "url": "https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=1A46355D0B7BC1D7FDDC",
       "coupon_code": "1A46355D0B7BC1D7FDDC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5313330_d78b_2.jpg",
+      "title": "Advance MS Excel VBA for Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=FB5E726C4264FEA0C1E4",
       "coupon_code": "FB5E726C4264FEA0C1E4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5266090_aba5.jpg",
+      "title": "Advanced Microsoft Word With Job Success"
     },
     {
       "url": "https://www.udemy.com/course/advanced-ms-word-excel-powerpoint-course-for-job-success/?couponCode=5ABD19A515B957C0165E",
@@ -106,17 +215,20 @@
     {
       "url": "https://www.udemy.com/course/digital-marketing-foundations-for-beginners/?couponCode=06C18CB68585DF161326",
       "coupon_code": "06C18CB68585DF161326",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6859743_82aa_2.jpg",
+      "title": "Digital Marketing Foundations for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/essential-canva-course-for-graphics-design-learn-in-2-hour/?couponCode=3F993ECE7E9C856A81EF",
       "coupon_code": "3F993ECE7E9C856A81EF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5308280_ab92_2.jpg",
+      "title": "Essential Canva Course for Graphics Design Learn in 2 Hour"
     },
     {
       "url": "https://www.udemy.com/course/essential-excel-with-tips-trick-shortcuts-and-job-success/?couponCode=622265CD5E42D6289F84",
       "coupon_code": "622265CD5E42D6289F84",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5313324_8cc2.jpg",
+      "title": "Essential Excel With Tips Trick Shortcuts and Job Success"
     },
     {
       "url": "https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/?couponCode=332D9EFCE2D1B5C79037",
@@ -127,7 +239,8 @@
     {
       "url": "https://www.udemy.com/course/modeling-rending-interior-office-project-in-revit/?couponCode=F26980C58F340E592619",
       "coupon_code": "F26980C58F340E592619",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5379914_29c2.jpg",
+      "title": "Mastering Revit | By Projects | English / Hindi"
     },
     {
       "url": "https://www.udemy.com/course/web-design-course-with-html-css-and-wordpress/?couponCode=53D18CF6442871E7B6BD",
@@ -150,7 +263,8 @@
     {
       "url": "https://www.udemy.com/course/build-your-personal-website-using-chatgpt/?couponCode=FD73284ECA6EA7E02E0A",
       "coupon_code": "FD73284ECA6EA7E02E0A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6656725_6a48_4.jpg",
+      "title": "Build your Personal Portfolio Website"
     },
     {
       "url": "https://www.udemy.com/course/fastpixel-mejora-la-velocidad-de-carga-en-wordpress/?couponCode=MARZO202602",
@@ -167,27 +281,32 @@
     {
       "url": "https://www.udemy.com/course/ielts-preparationn/?couponCode=IELTSSPEAKING",
       "coupon_code": "IELTSSPEAKING",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5862224_b8a8_3.jpg",
+      "title": "IELTS Listening Practice Test-Based on Recent Exam 2026"
     },
     {
       "url": "https://www.udemy.com/course/operations_management/?couponCode=AF7B9B384B7FDE0BD99E",
       "coupon_code": "AF7B9B384B7FDE0BD99E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5411158_9c7a.jpg",
+      "title": "Executive Diploma in Operations Management"
     },
     {
       "url": "https://www.udemy.com/course/personal_productivity/?couponCode=A745CBF432FC5FEC5520",
       "coupon_code": "A745CBF432FC5FEC5520",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5416254_9863.jpg",
+      "title": "Personal Productivity & Life Planning"
     },
     {
       "url": "https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp-2023/?couponCode=SIRILIFE",
       "coupon_code": "SIRILIFE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5007626_01d1_9.jpg",
+      "title": "Becoming a Data Wizard From Basics to Brilliance"
     },
     {
       "url": "https://www.udemy.com/course/the-melody-of-english/?couponCode=REALDISMAR26",
       "coupon_code": "REALDISMAR26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4412876_864d_4.jpg",
+      "title": "The Melody of English"
     },
     {
       "url": "https://www.udemy.com/course/advanced-databricks-data-warehouse-performance-optimization/?couponCode=SIRILIFE",
@@ -198,32 +317,38 @@
     {
       "url": "https://www.udemy.com/course/advanced-statistical-modeling-for-deep-learning-practitioner/?couponCode=SIRILIFE",
       "coupon_code": "SIRILIFE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5562936_a291_4.jpg",
+      "title": "Advanced Statistical Modeling for Deep Learning and AI"
     },
     {
       "url": "https://www.udemy.com/course/excel-mastery-the-ultimate-excel-course-for-power-users/?couponCode=SIRILIFE",
       "coupon_code": "SIRILIFE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5383496_91f7_6.jpg",
+      "title": "Excel Power Tools Master Formulas, Automation & Data Analys"
     },
     {
       "url": "https://www.udemy.com/course/master-the-machine-muse-build-generative-ai-with-ml/?couponCode=SIRILIFE",
       "coupon_code": "SIRILIFE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6085251_5113_6.jpg",
+      "title": "Master the Machine Muse Build Generative AI with ML"
     },
     {
       "url": "https://www.udemy.com/course/mastering-aptitude-a-comprehensive-guide-to-problem-solving/?couponCode=SIRILIFE",
       "coupon_code": "SIRILIFE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5586354_b9b9_6.jpg",
+      "title": "Aptitude Decoded and Step-by-Step Guide to Solving Problems"
     },
     {
       "url": "https://www.udemy.com/course/mastering-deep-learning-for-generative-ai/?couponCode=SIRILIFE",
       "coupon_code": "SIRILIFE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6085269_ee3f_4.jpg",
+      "title": "Mastering Deep Learning for Generative AI"
     },
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-power-bi-unleashing-insights-aiml/?couponCode=SIRILIFE",
       "coupon_code": "SIRILIFE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5497008_f18a_5.jpg",
+      "title": "Mastering Microsoft Power BI: Unleashing Insights - AI/ML"
     },
     {
       "url": "https://www.udemy.com/course/mastering-power-bi-and-gen-ai-integration-for-analytics/?couponCode=SIRILIFE",
