@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-03-17T06:08:35Z",
-  "count": 993,
+  "updated_at": "2026-03-17T07:58:00Z",
+  "count": 999,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-graphic-designers-and-freelancers/?couponCode=6DAF6955E3AF1C6745FB",
+      "coupon_code": "6DAF6955E3AF1C6745FB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7052675_5fc9.jpg",
+      "title": "Adobe Illustrator for Graphic Designers and Freelancers"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificate-in-criminal-psychology-fully-accredited/?couponCode=41BC98EE562B4B9B070D",
+      "coupon_code": "41BC98EE562B4B9B070D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6897451_1d1d_2.jpg",
+      "title": "Certificate in Criminal Psychology - Fully Accredited"
+    },
     {
       "url": "https://www.udemy.com/course/excel-excel-essential-with-tips-trick-and-job-success/?couponCode=F86E465F7C992307A7ED",
       "coupon_code": "F86E465F7C992307A7ED",
@@ -9,16 +21,16 @@
       "title": "Excel - Excel Essentials Course For Beginners to Expert"
     },
     {
-      "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=F9DD92BEA9859154A07D",
-      "coupon_code": "F9DD92BEA9859154A07D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4374892_4094_6.jpg",
-      "title": "Master in End to End Solutions Design and Development"
-    },
-    {
       "url": "https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=F15F83EB58990F441363",
       "coupon_code": "F15F83EB58990F441363",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5577250_5ff6_2.jpg",
       "title": "Introduction to Human Resources Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-masterclass-from-beginner-to-expert-i/?couponCode=D765D1BE22A716A6EF25",
+      "coupon_code": "D765D1BE22A716A6EF25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7056365_3441.jpg",
+      "title": "Java Programming Masterclass: From Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/kotlin-mastering-complete-kotlin-web-development-course/?couponCode=E13DCE3AF14CD476358B",
@@ -45,6 +57,48 @@
       "title": "Mastering 5S: A Complete Guide with Hands-On Training"
     },
     {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-with-chart-and-graph/?couponCode=BC0383B2ECCDCFFE24F7",
+      "coupon_code": "BC0383B2ECCDCFFE24F7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7048033_0239_2.jpg",
+      "title": "Microsoft Excel Data Analysis with Chart and Graph"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-master-php-for-back-end-web-development-with-mysql/?couponCode=C0D29F3B534A836C717B",
+      "coupon_code": "C0D29F3B534A836C717B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7025259_6a1d.jpg",
+      "title": "PHP - Master PHP for Back End Web Development with MySQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-project-management/?couponCode=56FA3D33E28238900521",
+      "coupon_code": "56FA3D33E28238900521",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5589912_8cbe_2.jpg",
+      "title": "Professional Diploma in Agile and Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-coaching-and-mentoring/?couponCode=0D78E0BF3B09504697AD",
+      "coupon_code": "0D78E0BF3B09504697AD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5589712_084b_2.jpg",
+      "title": "Professional Diploma in Coaching and Mentoring"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-development-first-steps-and-development-ide-platform/?couponCode=6540973C5208AA6718B7",
+      "coupon_code": "6540973C5208AA6718B7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5578118_9536_2.jpg",
+      "title": "Python Development First Steps and Development IDE Platform"
+    },
+    {
+      "url": "https://www.udemy.com/course/word-microsoft-word-from-basic-to-advanced/?couponCode=7F68BDAAB1E4F455A3E3",
+      "coupon_code": "7F68BDAAB1E4F455A3E3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5983044_dd3a_2.jpg",
+      "title": "Word - Microsoft Word from Basic to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=F9DD92BEA9859154A07D",
+      "coupon_code": "F9DD92BEA9859154A07D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4374892_4094_6.jpg",
+      "title": "Master in End to End Solutions Design and Development"
+    },
+    {
       "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-the-pivot-table-masterclass/?couponCode=06C659155AC7EE80664F",
       "coupon_code": "06C659155AC7EE80664F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5990836_ab6f_3.jpg",
@@ -63,34 +117,16 @@
       "title": "Advanced Program in Entrepreneurship"
     },
     {
-      "url": "https://www.udemy.com/course/professional-diploma-in-coaching-and-mentoring/?couponCode=0D78E0BF3B09504697AD",
-      "coupon_code": "0D78E0BF3B09504697AD",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5589712_084b_2.jpg",
-      "title": "Professional Diploma in Coaching and Mentoring"
-    },
-    {
       "url": "https://www.udemy.com/course/python-development-essentials/?couponCode=05F69BCE9A663734F936",
       "coupon_code": "05F69BCE9A663734F936",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg",
       "title": "Python Development Essentials"
     },
     {
-      "url": "https://www.udemy.com/course/python-development-first-steps-and-development-ide-platform/?couponCode=6540973C5208AA6718B7",
-      "coupon_code": "6540973C5208AA6718B7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5578118_9536_2.jpg",
-      "title": "Python Development First Steps and Development IDE Platform"
-    },
-    {
       "url": "https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=A3A961995D3FEE4518D4",
       "coupon_code": "A3A961995D3FEE4518D4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3495852_8004.jpg",
       "title": "Python For Beginners Course In-Depth"
-    },
-    {
-      "url": "https://www.udemy.com/course/word-microsoft-word-from-basic-to-advanced/?couponCode=7F68BDAAB1E4F455A3E3",
-      "coupon_code": "7F68BDAAB1E4F455A3E3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5983044_dd3a_2.jpg",
-      "title": "Word - Microsoft Word from Basic to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/executive-assistance-and-management/?couponCode=A9D432F2F744162881B0",
