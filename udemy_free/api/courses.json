@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-03-17T23:39:29Z",
-  "count": 958,
+  "updated_at": "2026-03-18T02:52:33Z",
+  "count": 962,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-essentials-introduction-to-artificial-intelligence/?couponCode=50DD9BA470FBD86B7CF8",
+      "coupon_code": "50DD9BA470FBD86B7CF8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/authentic-engagement-through-influencer-partnerships/?couponCode=F526D5F5E8CAD177E226",
       "coupon_code": "F526D5F5E8CAD177E226",
@@ -18,11 +23,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/executive-diploma-in-sales-and-service-management/?couponCode=BBA10BCAE203A8B23593",
-      "coupon_code": "BBA10BCAE203A8B23593",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/executive-diploma-in-technology-management/?couponCode=CCFA109E97732DDBDDB0",
       "coupon_code": "CCFA109E97732DDBDDB0",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -33,10 +33,9 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/hr-diploma-in-performance-management-and-employee-development/?couponCode=B15CEFDE2563D45B7208",
-      "coupon_code": "B15CEFDE2563D45B7208",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5657534_7543.jpg",
-      "title": "HR Diploma in Performance Management & Employee Development"
+      "url": "https://www.udemy.com/course/global-career-development-job-search-interviewing-skills/?couponCode=68D1C112533FC579FD8A",
+      "coupon_code": "68D1C112533FC579FD8A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/logisticsmanagement/?couponCode=078FA4D7E8F64F170EE3",
@@ -51,16 +50,14 @@
       "title": "Master Course : Selling Into the Manufacturing Industry 2.0"
     },
     {
-      "url": "https://www.udemy.com/course/master-en-diseno-web-con-inteligencia-artificial/?couponCode=MARZO202602",
-      "coupon_code": "MARZO202602",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5644230_d322.jpg",
-      "title": "Máster en Diseño Web con Inteligencia Artificial 2026"
+      "url": "https://www.udemy.com/course/micro-mba-in-business-administration/?couponCode=0DEB986E258656CD3C16",
+      "coupon_code": "0DEB986E258656CD3C16",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/microsoft-office-word-excel-powerpoint-v/?couponCode=HAPPYEID",
-      "coupon_code": "HAPPYEID",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3941686_5cda.jpg",
-      "title": "Microsoft Office: Word, Excel, PowerPoint  من الصفر للاحتراف"
+      "url": "https://www.udemy.com/course/professional-diploma-in-advertising-management/?couponCode=FCD83E1BBAD9A9F02327",
+      "coupon_code": "FCD83E1BBAD9A9F02327",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-in-product-management/?couponCode=4C8B6ACA65E421310A63",
@@ -85,6 +82,29 @@
       "coupon_code": "F7593D1FD56E01D9EF5A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5648162_5cf8_3.jpg",
       "title": "Unit Economics & CRM: LTV, Churn, Retention Rates, Cohorts"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-in-sales-and-service-management/?couponCode=BBA10BCAE203A8B23593",
+      "coupon_code": "BBA10BCAE203A8B23593",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-diploma-in-performance-management-and-employee-development/?couponCode=B15CEFDE2563D45B7208",
+      "coupon_code": "B15CEFDE2563D45B7208",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5657534_7543.jpg",
+      "title": "HR Diploma in Performance Management & Employee Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-en-diseno-web-con-inteligencia-artificial/?couponCode=MARZO202602",
+      "coupon_code": "MARZO202602",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5644230_d322.jpg",
+      "title": "Máster en Diseño Web con Inteligencia Artificial 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-word-excel-powerpoint-v/?couponCode=HAPPYEID",
+      "coupon_code": "HAPPYEID",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3941686_5cda.jpg",
+      "title": "Microsoft Office: Word, Excel, PowerPoint  من الصفر للاحتراف"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-inteligencia-artificial/?couponCode=MARZO202602",
