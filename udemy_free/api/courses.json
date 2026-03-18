@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-03-18T02:52:33Z",
-  "count": 962,
+  "updated_at": "2026-03-18T05:03:34Z",
+  "count": 977,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/complete-css-web-design-course-front-end-web-development/?couponCode=74215C99220BC535EC43",
+      "coupon_code": "74215C99220BC535EC43",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-management-and-analysis-for-basic-to-expert-level/?couponCode=B0208681639B6E298A5B",
+      "coupon_code": "B0208681639B6E298A5B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6636437_6c62.jpg",
+      "title": "Excel Data Management and Analysis for Basic to Expert Level"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-formulas-and-functions-tips-tricks-and-shortcuts/?couponCode=CA11066284EA49C714BE",
+      "coupon_code": "CA11066284EA49C714BE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893605_5574_2.jpg",
+      "title": "Excel Formulas and Functions: Tips, Tricks, and Shortcuts"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-diploma-of-chief-technology-officer/?couponCode=8DE3707E6783DE6AAD58",
+      "coupon_code": "8DE3707E6783DE6AAD58",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5743116_a7f2.jpg",
+      "title": "Executive Diploma of Chief Technology Officer"
+    },
+    {
+      "url": "https://www.udemy.com/course/gemini-masterclass-boost-creativity-innovate-with-ai/?couponCode=D1238E616F7382C14B55",
+      "coupon_code": "D1238E616F7382C14B55",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891887_c348_2.jpg",
+      "title": "Gemini Masterclass: Boost Creativity & Innovate with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-sheets-the-complete-google-sheets-course/?couponCode=851F0CEB49359DCD954C",
+      "coupon_code": "851F0CEB49359DCD954C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5645246_df25_2.jpg",
+      "title": "Google Sheets - The Complete Google Sheets Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-slides-full-guide-to-creating-impactful-presentation/?couponCode=8E1D6E5E681E6D00DC8D",
+      "coupon_code": "8E1D6E5E681E6D00DC8D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6126889_f56f_3.jpg",
+      "title": "Google Slides: Full Guide to Creating Impactful Presentation"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-fundamentals-course-for-beginners/?couponCode=1AA9773C68FE0B2B4924",
+      "coupon_code": "1AA9773C68FE0B2B4924",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638522_57a6.jpg",
+      "title": "JavaScript Fundamentals Course for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-c-language-c-programming-language-for-beginners/?couponCode=C9E740B04B311419D1FA",
+      "coupon_code": "C9E740B04B311419D1FA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5618828_4904.jpg",
+      "title": "Mastering C Language - C Programming For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-complete-excel-from-beginner-to-advanced/?couponCode=6612BCA298D2B7040828",
+      "coupon_code": "6612BCA298D2B7040828",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6533669_8fb2.jpg",
+      "title": "Microsoft Excel: Complete Excel from Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-beginner-to-expert/?couponCode=4755A96BD608DEAB3C95",
+      "coupon_code": "4755A96BD608DEAB3C95",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6634655_dd41.jpg",
+      "title": "Microsoft Excel Formulas and Functions: Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/?couponCode=D846BA9D26A7D8CBB503",
+      "coupon_code": "D846BA9D26A7D8CBB503",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663784_d3d0_2.jpg",
+      "title": "NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-visualization-mastery-from-beginner-to-expert/?couponCode=80E8398B36F1B408AF15",
+      "coupon_code": "80E8398B36F1B408AF15",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695873_5008.jpg",
+      "title": "Python Data Visualization Mastery: From Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-javascript-developer-learn-modern-javascript/?couponCode=FA6ECC1BF58E83BE2456",
+      "coupon_code": "FA6ECC1BF58E83BE2456",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695975_d609_2.jpg",
+      "title": "The Complete JavaScript Developer: Learn Modern JavaScript"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-and-pivot-tables/?couponCode=05F55D28913657AF4071",
+      "coupon_code": "05F55D28913657AF4071",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6740851_aabd_2.jpg",
+      "title": "The Complete Microsoft Excel Data Analysis and Pivot Tables"
+    },
     {
       "url": "https://www.udemy.com/course/ai-essentials-introduction-to-artificial-intelligence/?couponCode=50DD9BA470FBD86B7CF8",
       "coupon_code": "50DD9BA470FBD86B7CF8",
