@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-03-18T05:03:34Z",
-  "count": 977,
+  "updated_at": "2026-03-18T07:12:51Z",
+  "count": 979,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/apache-spark-project-world-development-indicators-analytics/?couponCode=4BFB3DC039C33C3B75D0",
+      "coupon_code": "4BFB3DC039C33C3B75D0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/complete-css-web-design-course-front-end-web-development/?couponCode=74215C99220BC535EC43",
       "coupon_code": "74215C99220BC535EC43",
@@ -38,12 +43,6 @@
       "title": "Google Sheets - The Complete Google Sheets Course"
     },
     {
-      "url": "https://www.udemy.com/course/google-slides-full-guide-to-creating-impactful-presentation/?couponCode=8E1D6E5E681E6D00DC8D",
-      "coupon_code": "8E1D6E5E681E6D00DC8D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6126889_f56f_3.jpg",
-      "title": "Google Slides: Full Guide to Creating Impactful Presentation"
-    },
-    {
       "url": "https://www.udemy.com/course/javascript-fundamentals-course-for-beginners/?couponCode=1AA9773C68FE0B2B4924",
       "coupon_code": "1AA9773C68FE0B2B4924",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5638522_57a6.jpg",
@@ -74,10 +73,9 @@
       "title": "NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning"
     },
     {
-      "url": "https://www.udemy.com/course/python-data-visualization-mastery-from-beginner-to-expert/?couponCode=80E8398B36F1B408AF15",
-      "coupon_code": "80E8398B36F1B408AF15",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6695873_5008.jpg",
-      "title": "Python Data Visualization Mastery: From Beginner to Expert"
+      "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-scrum/?couponCode=BBE13A7232B948B37ED0",
+      "coupon_code": "BBE13A7232B948B37ED0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-javascript-developer-learn-modern-javascript/?couponCode=FA6ECC1BF58E83BE2456",
@@ -90,6 +88,18 @@
       "coupon_code": "05F55D28913657AF4071",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6740851_aabd_2.jpg",
       "title": "The Complete Microsoft Excel Data Analysis and Pivot Tables"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-slides-full-guide-to-creating-impactful-presentation/?couponCode=8E1D6E5E681E6D00DC8D",
+      "coupon_code": "8E1D6E5E681E6D00DC8D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6126889_f56f_3.jpg",
+      "title": "Google Slides: Full Guide to Creating Impactful Presentation"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-visualization-mastery-from-beginner-to-expert/?couponCode=80E8398B36F1B408AF15",
+      "coupon_code": "80E8398B36F1B408AF15",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695873_5008.jpg",
+      "title": "Python Data Visualization Mastery: From Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/ai-essentials-introduction-to-artificial-intelligence/?couponCode=50DD9BA470FBD86B7CF8",
