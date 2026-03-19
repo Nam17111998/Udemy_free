@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-03-19T16:02:17Z",
-  "count": 972,
+  "updated_at": "2026-03-19T17:55:52Z",
+  "count": 974,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-cc-from-a-z-beginner-to-master/?couponCode=E47DA39FBA20F7E23394",
+      "coupon_code": "E47DA39FBA20F7E23394",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/deep-learning-all-models-explained-for-beginners/?couponCode=09592E169A955895A799",
+      "coupon_code": "09592E169A955895A799",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860645_1681.jpg",
+      "title": "DEEP LEARNING ALL MODELS EXPLAINED FOR BEGINNERS"
+    },
     {
       "url": "https://www.udemy.com/course/diploma-of-microsoft-dynamics-365-crm-business-architect/?couponCode=AC861967FEE3D75D78D9",
       "coupon_code": "AC861967FEE3D75D78D9",
@@ -11,7 +22,8 @@
     {
       "url": "https://www.udemy.com/course/engineering-mathematics-sd/?couponCode=F3F496921B068DA59AE5",
       "coupon_code": "F3F496921B068DA59AE5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4906554_6e03.jpg",
+      "title": "Mastering Fourier Series and Infinite Series in Engineering"
     },
     {
       "url": "https://www.udemy.com/course/excel-power-query-transformation-von-daten/?couponCode=4375C64E3A04794F8E42",
@@ -24,12 +36,6 @@
       "coupon_code": "CC3FCABBFFD4BEA5CAFF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4230804_d544_5.jpg",
       "title": "SET THEORY"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-word-mastery-essential-skill-for-job-and-business/?couponCode=BE08F3131FB5AEF3F8E3",
-      "coupon_code": "BE08F3131FB5AEF3F8E3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6043410_7f4a.jpg",
-      "title": "Microsoft Word Mastery: Essential Skill for Job and Business"
     },
     {
       "url": "https://www.udemy.com/course/number-theory-unvisited-applications-in-the-real-world/?couponCode=AD2D1D41E934436EC4DD",
@@ -80,16 +86,22 @@
       "title": "Professional Diploma of Finance Business Partner"
     },
     {
-      "url": "https://www.udemy.com/course/professional-diploma-of-marketing-manager-business-partner/?couponCode=EA4CF621701CE7CA943D",
-      "coupon_code": "EA4CF621701CE7CA943D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5873910_8b5b.jpg",
-      "title": "Professional Diploma of Marketing Manager Business Partner"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-of-virtual-executive-assistant/?couponCode=E4C7D0568F7F2FA7EF51",
       "coupon_code": "E4C7D0568F7F2FA7EF51",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5873830_45bc.jpg",
       "title": "Professional Diploma of Virtual Executive Assistant"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-word-mastery-essential-skill-for-job-and-business/?couponCode=BE08F3131FB5AEF3F8E3",
+      "coupon_code": "BE08F3131FB5AEF3F8E3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6043410_7f4a.jpg",
+      "title": "Microsoft Word Mastery: Essential Skill for Job and Business"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-marketing-manager-business-partner/?couponCode=EA4CF621701CE7CA943D",
+      "coupon_code": "EA4CF621701CE7CA943D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873910_8b5b.jpg",
+      "title": "Professional Diploma of Marketing Manager Business Partner"
     },
     {
       "url": "https://www.udemy.com/course/bootstrapping-business-without-money-investments-getting/?couponCode=A7405ECA53DDBBBB4A07",
