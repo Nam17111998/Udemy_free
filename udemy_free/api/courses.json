@@ -1,12 +1,17 @@
 {
-  "updated_at": "2026-03-20T02:44:50Z",
-  "count": 984,
+  "updated_at": "2026-03-20T04:54:03Z",
+  "count": 989,
   "courses": [
     {
       "url": "https://www.udemy.com/course/all-in-one-wp-migration-migra-tu-sitio-web-de-wordpress/?couponCode=MARZO202602",
       "coupon_code": "MARZO202602",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5480430_710f.jpg",
       "title": "All in One WP Migration: Migra tu Sitio Web de WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-guide-to-python-data-structures-and-algorithms-cour/?couponCode=043725AE1E42F9457A14",
+      "coupon_code": "043725AE1E42F9457A14",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/elementor-hosting-como-crear-una-pagina-web-con-wordpress/?couponCode=MARZO202602",
@@ -21,10 +26,10 @@
       "title": "Mastering Fourier Series and Infinite Series in Engineering"
     },
     {
-      "url": "https://www.udemy.com/course/excel-power-query-transformation-von-daten/?couponCode=4375C64E3A04794F8E42",
-      "coupon_code": "4375C64E3A04794F8E42",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4845536_5e64_4.jpg",
-      "title": "Excel Power Query: Tiefgehende Datenanalyse und Manipulation"
+      "url": "https://www.udemy.com/course/html-5-with-quizzes-and-python-3-complete-course-2023/?couponCode=B264AB8039C9915FDAD2",
+      "coupon_code": "B264AB8039C9915FDAD2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5009916_fc64.jpg",
+      "title": "HTML 5 With Quizzes And Python 3 Complete Course"
     },
     {
       "url": "https://www.udemy.com/course/master-set-theory-from-scratch/?couponCode=CC3FCABBFFD4BEA5CAFF",
@@ -35,7 +40,14 @@
     {
       "url": "https://www.udemy.com/course/master-wordpress-by-building-sites-in-hindi/?couponCode=E263DC08D21763480D84",
       "coupon_code": "E263DC08D21763480D84",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6951999_4d5a_2.jpg",
+      "title": "Master WordPress by Building 7 Sites + AI Techniques (Hindi)"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-management-and-visualization/?couponCode=446E367C5F8B7D232C69",
+      "coupon_code": "446E367C5F8B7D232C69",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6868193_d0d6.jpg",
+      "title": "Microsoft Excel: Data Analysis, Management and Visualization"
     },
     {
       "url": "https://www.udemy.com/course/number-theory-unvisited-applications-in-the-real-world/?couponCode=AD2D1D41E934436EC4DD",
@@ -44,22 +56,10 @@
       "title": "Number Theory (Unvisited applications in the Real World)"
     },
     {
-      "url": "https://www.udemy.com/course/physics-in-motion/?couponCode=DF3FA4EEC9716E13C555",
-      "coupon_code": "DF3FA4EEC9716E13C555",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4491300_b3ee_3.jpg",
-      "title": "Physics in Motion (Fundamentals of Physics)"
-    },
-    {
       "url": "https://www.udemy.com/course/playing-with-binary/?couponCode=9AC7E0516BA6C4FF7384",
       "coupon_code": "9AC7E0516BA6C4FF7384",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4773012_040d.jpg",
       "title": "Playing with Binary"
-    },
-    {
-      "url": "https://www.udemy.com/course/power-pivot-in-excel-datenmodelle/?couponCode=49D1918D5A67014F8FD9",
-      "coupon_code": "49D1918D5A67014F8FD9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4968670_f1fa.jpg",
-      "title": "Power Pivot in Excel: Erstelle leistungsstarke Datenmodelle"
     },
     {
       "url": "https://www.udemy.com/course/professional-diploma-government-public-sector-technology/?couponCode=52C632F845EAEF643C4F",
@@ -68,27 +68,56 @@
       "title": "Professional Diploma: Government & Public Sector Technology"
     },
     {
-      "url": "https://www.udemy.com/course/professional-diploma-in-ma-business-mergers-acquisitions/?couponCode=6029EA8F7ED187D83A84",
-      "coupon_code": "6029EA8F7ED187D83A84",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5873118_229d.jpg",
-      "title": "Professional Diploma in M&A Business Mergers & Acquisitions"
-    },
-    {
       "url": "https://www.udemy.com/course/professional-diploma-of-finance-business-partner/?couponCode=5F0A44430CE3CE7E2DCF",
       "coupon_code": "5F0A44430CE3CE7E2DCF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5873934_a8d6.jpg",
       "title": "Professional Diploma of Finance Business Partner"
     },
     {
-      "url": "https://www.udemy.com/course/professional-diploma-of-virtual-executive-assistant/?couponCode=E4C7D0568F7F2FA7EF51",
-      "coupon_code": "E4C7D0568F7F2FA7EF51",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5873830_45bc.jpg",
-      "title": "Professional Diploma of Virtual Executive Assistant"
+      "url": "https://www.udemy.com/course/terraform-for-beginners-handson/?couponCode=43631A322FEDD422DA2A",
+      "coupon_code": "43631A322FEDD422DA2A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6754963_7b8f_3.jpg",
+      "title": "Terraform for Beginners: Hands-On AWS Infra automation"
     },
     {
       "url": "https://www.udemy.com/course/the-beginners-free-website-masterclass-urdu-hindi/?couponCode=FREE-INTAKE",
       "coupon_code": "FREE-INTAKE",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels-j/?couponCode=4E27BB8CCF5C87351F60",
+      "coupon_code": "4E27BB8CCF5C87351F60",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-power-query-transformation-von-daten/?couponCode=4375C64E3A04794F8E42",
+      "coupon_code": "4375C64E3A04794F8E42",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4845536_5e64_4.jpg",
+      "title": "Excel Power Query: Tiefgehende Datenanalyse und Manipulation"
+    },
+    {
+      "url": "https://www.udemy.com/course/physics-in-motion/?couponCode=DF3FA4EEC9716E13C555",
+      "coupon_code": "DF3FA4EEC9716E13C555",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4491300_b3ee_3.jpg",
+      "title": "Physics in Motion (Fundamentals of Physics)"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-pivot-in-excel-datenmodelle/?couponCode=49D1918D5A67014F8FD9",
+      "coupon_code": "49D1918D5A67014F8FD9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4968670_f1fa.jpg",
+      "title": "Power Pivot in Excel: Erstelle leistungsstarke Datenmodelle"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-ma-business-mergers-acquisitions/?couponCode=6029EA8F7ED187D83A84",
+      "coupon_code": "6029EA8F7ED187D83A84",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873118_229d.jpg",
+      "title": "Professional Diploma in M&A Business Mergers & Acquisitions"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-of-virtual-executive-assistant/?couponCode=E4C7D0568F7F2FA7EF51",
+      "coupon_code": "E4C7D0568F7F2FA7EF51",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5873830_45bc.jpg",
+      "title": "Professional Diploma of Virtual Executive Assistant"
     },
     {
       "url": "https://www.udemy.com/course/ethical-hacking-linux-privilege-escalation/?couponCode=DE1F2311775950C18AD5",
