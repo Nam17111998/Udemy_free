@@ -1,24 +1,17 @@
 {
-  "updated_at": "2026-03-21T10:36:18Z",
-  "count": 930,
+  "updated_at": "2026-03-21T11:30:01Z",
+  "count": 933,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-masterclass-beginner-to-pro-photo-editor/?couponCode=B32B2D97B8D64821B28E",
+      "coupon_code": "B32B2D97B8D64821B28E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/all-in-one-wp-migration-migra-tu-sitio-web-de-wordpress/?couponCode=MARZO202602",
       "coupon_code": "MARZO202602",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5480430_710f.jpg",
       "title": "All in One WP Migration: Migra tu Sitio Web de WordPress"
-    },
-    {
-      "url": "https://www.udemy.com/course/elementor-hosting-como-crear-una-pagina-web-con-wordpress/?couponCode=MARZO202602",
-      "coupon_code": "MARZO202602",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5480542_53c6_2.jpg",
-      "title": "Elementor Hosting: Cómo Crear una Página Web con WordPress"
-    },
-    {
-      "url": "https://www.udemy.com/course/engineering-mathematics-sd/?couponCode=F3F496921B068DA59AE5",
-      "coupon_code": "F3F496921B068DA59AE5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4906554_6e03.jpg",
-      "title": "Mastering Fourier Series and Infinite Series in Engineering"
     },
     {
       "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=BB2EB047146276767032",
@@ -51,12 +44,6 @@
       "title": "Create Winning MT4/MT5 Forex Trading Robots without Coding"
     },
     {
-      "url": "https://www.udemy.com/course/fundamental-techniques-in-adobe-photoshop-cc/?couponCode=DB0032CB2E4DAE6BAN",
-      "coupon_code": "DB0032CB2E4DAE6BAN",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6435249_56c1_3.jpg",
-      "title": "The Ultimate Adobe Photoshop CC Fundamental Course"
-    },
-    {
       "url": "https://www.udemy.com/course/how-to-be-a-government-spokesperson/?couponCode=AEC9F5A6D354B865B12E",
       "coupon_code": "AEC9F5A6D354B865B12E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/352234_4ba4_3.jpg",
@@ -81,6 +68,17 @@
       "title": "Microsoft Excel Eğitimi | Başlangıçtan İleri Seviyeye"
     },
     {
+      "url": "https://www.udemy.com/course/microsoft-excel-master-data-analysis-cleaning-dashboards/?couponCode=A0B11E0D207F25898571",
+      "coupon_code": "A0B11E0D207F25898571",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6868137_498d.jpg",
+      "title": "Microsoft Excel: Master Data Analysis, Cleaning & Dashboards"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-masterclass-learn-excel-step-by-step/?couponCode=55708A95E49E1AAED52D",
+      "coupon_code": "55708A95E49E1AAED52D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-coffee-shop-system/?couponCode=PHPCOFFEE56",
       "coupon_code": "PHPCOFFEE56",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5302566_b70d.jpg",
@@ -91,6 +89,24 @@
       "coupon_code": "8332B76F82708ACBAFE1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
       "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
+    },
+    {
+      "url": "https://www.udemy.com/course/elementor-hosting-como-crear-una-pagina-web-con-wordpress/?couponCode=MARZO202602",
+      "coupon_code": "MARZO202602",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5480542_53c6_2.jpg",
+      "title": "Elementor Hosting: Cómo Crear una Página Web con WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/engineering-mathematics-sd/?couponCode=F3F496921B068DA59AE5",
+      "coupon_code": "F3F496921B068DA59AE5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4906554_6e03.jpg",
+      "title": "Mastering Fourier Series and Infinite Series in Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamental-techniques-in-adobe-photoshop-cc/?couponCode=DB0032CB2E4DAE6BAN",
+      "coupon_code": "DB0032CB2E4DAE6BAN",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6435249_56c1_3.jpg",
+      "title": "The Ultimate Adobe Photoshop CC Fundamental Course"
     },
     {
       "url": "https://www.udemy.com/course/physics-in-motion/?couponCode=DF3FA4EEC9716E13C555",
