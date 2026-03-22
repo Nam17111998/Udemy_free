@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-22T11:31:23Z",
-  "count": 972,
+  "updated_at": "2026-03-22T13:08:18Z",
+  "count": 975,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-101-learn-editing-effects-transitions/?couponCode=01A92B51671582592597",
@@ -9,16 +9,33 @@
       "title": "Adobe Premiere Pro 101: Learn Editing, Effects & Transitions"
     },
     {
-      "url": "https://www.udemy.com/course/apirest-con-clean-architecture-desde-cero-en-c-net/?couponCode=96E1597D43997A363C5E",
-      "coupon_code": "96E1597D43997A363C5E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6363065_ab98_2.jpg",
-      "title": "API/REST con Clean Architecture  desde cero en C# con .NET"
+      "url": "https://www.udemy.com/course/advanced-powerpoint-course-for-professional-and-job-success/?couponCode=93D9CD0C43C226976CC2",
+      "coupon_code": "93D9CD0C43C226976CC2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5182934_d5cc.jpg",
+      "title": "Advanced PowerPoint Course For Professional and Job Success"
     },
     {
       "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=968DB3C572AAC1E0C965",
       "coupon_code": "968DB3C572AAC1E0C965",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5941852_757f_3.jpg",
       "title": "Efficacité et Concentration pour RÉSULTATS EXTRÊMES"
+    },
+    {
+      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=BB2EB047146276767032",
+      "coupon_code": "BB2EB047146276767032",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
+      "title": "Transforme ton Intérieur en Environnement de Réussite"
+    },
+    {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=6EE5C2843D3BCF11AA60",
+      "coupon_code": "6EE5C2843D3BCF11AA60",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29.jpg",
+      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=69AE39427EE9C1C13197",
+      "coupon_code": "69AE39427EE9C1C13197",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_220",
@@ -31,12 +48,6 @@
       "coupon_code": "coupo",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7079521_a4cd_8.jpg",
       "title": "Figma UX Design: Stop Watching, Start Designing (Beginner)"
-    },
-    {
-      "url": "https://www.udemy.com/course/fundamentals-of-compliance-management-and-risk-management/?couponCode=ABA2552F551CB65D2B7C",
-      "coupon_code": "ABA2552F551CB65D2B7C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6597735_a810_2.jpg",
-      "title": "Certificate in Compliance, Audit & Risk Management"
     },
     {
       "url": "https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-development/?couponCode=5BE31375234A95EC52CE",
@@ -69,16 +80,33 @@
       "title": "Professional Diploma in Office Administration Management"
     },
     {
-      "url": "https://www.udemy.com/course/php-codeigniter-4-build-coffee-shop-management-system-2025/?couponCode=CICOFFEESHOP41",
-      "coupon_code": "CICOFFEESHOP41",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6731263_b800_2.jpg",
-      "title": "PHP CodeIgniter 4: Build Coffee Shop Management System 2026"
-    },
-    {
       "url": "https://www.udemy.com/course/php-with-mysql-2023-build-amazing-streaming-service/?couponCode=PHPSTREAMING55",
       "coupon_code": "PHPSTREAMING55",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5338380_fc35.jpg",
       "title": "PHP with MySQL: Build Amazing Streaming Service"
+    },
+    {
+      "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=17BE2CE4CD96594208AC",
+      "coupon_code": "17BE2CE4CD96594208AC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/apirest-con-clean-architecture-desde-cero-en-c-net/?couponCode=96E1597D43997A363C5E",
+      "coupon_code": "96E1597D43997A363C5E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6363065_ab98_2.jpg",
+      "title": "API/REST con Clean Architecture  desde cero en C# con .NET"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-compliance-management-and-risk-management/?couponCode=ABA2552F551CB65D2B7C",
+      "coupon_code": "ABA2552F551CB65D2B7C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6597735_a810_2.jpg",
+      "title": "Certificate in Compliance, Audit & Risk Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-codeigniter-4-build-coffee-shop-management-system-2025/?couponCode=CICOFFEESHOP41",
+      "coupon_code": "CICOFFEESHOP41",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6731263_b800_2.jpg",
+      "title": "PHP CodeIgniter 4: Build Coffee Shop Management System 2026"
     },
     {
       "url": "https://www.udemy.com/course/power-bi-transformacion-digital-con-inteligencia-artificial/?couponCode=F842406CB5AA3C7D6FE9",
@@ -93,12 +121,6 @@
       "title": "Liberté et Efficacité : vivre du minimalisme en voyageant"
     },
     {
-      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=6EE5C2843D3BCF11AA60",
-      "coupon_code": "6EE5C2843D3BCF11AA60",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29.jpg",
-      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
-    },
-    {
       "url": "https://www.udemy.com/course/perplexity-ai-masterclass-ai-search-and-research/?couponCode=8CABAE7FF510F1E75ED4",
       "coupon_code": "8CABAE7FF510F1E75ED4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7012527_e10e.jpg",
@@ -109,12 +131,6 @@
       "coupon_code": "EB78F88519FD9914C8E5",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6983243_8516_6.jpg",
       "title": "AI Models Mastery - ChatGPT, Gemini and DeepSeek"
-    },
-    {
-      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=BB2EB047146276767032",
-      "coupon_code": "BB2EB047146276767032",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
-      "title": "Transforme ton Intérieur en Environnement de Réussite"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-dashboard-egitimi/?couponCode=3790C3CC55EECA299386",
