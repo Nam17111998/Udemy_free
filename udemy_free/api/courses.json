@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-03-22T04:59:13Z",
-  "count": 958,
+  "updated_at": "2026-03-22T06:01:54Z",
+  "count": 962,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-101-learn-editing-effects-transitions/?couponCode=01A92B51671582592597",
+      "coupon_code": "01A92B51671582592597",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6879857_bbd6.jpg",
+      "title": "Adobe Premiere Pro 101: Learn Editing, Effects & Transitions"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_222",
       "coupon_code": "AR_FREE_222",
@@ -15,28 +21,10 @@
       "title": "Efficacité et Concentration pour RÉSULTATS EXTRÊMES"
     },
     {
-      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=BB2EB047146276767032",
-      "coupon_code": "BB2EB047146276767032",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
-      "title": "Transforme ton Intérieur en Environnement de Réussite"
-    },
-    {
-      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=6EE5C2843D3BCF11AA60",
-      "coupon_code": "6EE5C2843D3BCF11AA60",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29.jpg",
-      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
-    },
-    {
       "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_220",
       "coupon_code": "AR_FREE_220",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
       "title": "Essentials for PyQGIS: Python for Geospatial Automation"
-    },
-    {
-      "url": "https://www.udemy.com/course/excel-ile-korelasyon-ve-regresyon-analizi/?couponCode=084D5B924254E076BFE9",
-      "coupon_code": "084D5B924254E076BFE9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5346796_e9fe.jpg",
-      "title": "Excel ile Korelasyon ve Regresyon Analizi"
     },
     {
       "url": "https://www.udemy.com/course/excellence-in-problem-solving/?couponCode=C48E8F5ACF83E5274C43",
@@ -63,10 +51,16 @@
       "title": "La IA GRATUITA para Hacer TODO sin Instalar Nada. QWEN"
     },
     {
-      "url": "https://www.udemy.com/course/microsoft-excel-dashboard-egitimi/?couponCode=3790C3CC55EECA299386",
-      "coupon_code": "3790C3CC55EECA299386",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5888882_0884.jpg",
-      "title": "Microsoft Excel Dashboard Eğitimi"
+      "url": "https://www.udemy.com/course/learn-kotlin-for-android-android-app-development-bootcamp/?couponCode=9FF75FF184F93B2DB0FB",
+      "coupon_code": "9FF75FF184F93B2DB0FB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000881_f64a.jpg",
+      "title": "Learn Kotlin for Android: Android App Development Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-html-for-modern-web-design-front-end-web-development/?couponCode=CB071A31807B37B1C7E2",
+      "coupon_code": "CB071A31807B37B1C7E2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000869_4e34.jpg",
+      "title": "Master HTML for Modern Web Design: Front End Web Development"
     },
     {
       "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=28ABBF837877074C773F",
@@ -87,10 +81,40 @@
       "title": "Personality Development for a Successful Career and Life"
     },
     {
+      "url": "https://www.udemy.com/course/pivot-tables-microsoft-excel-pivot-table-and-data-analysis/?couponCode=21D7583D3B7BEB69D1A3",
+      "coupon_code": "21D7583D3B7BEB69D1A3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893679_41d3_2.jpg",
+      "title": "Pivot Tables - Microsoft Excel Pivot Table and Data Analysis"
+    },
+    {
       "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=BBC0BF4FEF497A0A2B51",
       "coupon_code": "BBC0BF4FEF497A0A2B51",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6860025_1f3c_3.jpg",
       "title": "Liberté et Efficacité : vivre du minimalisme en voyageant"
+    },
+    {
+      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=BB2EB047146276767032",
+      "coupon_code": "BB2EB047146276767032",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
+      "title": "Transforme ton Intérieur en Environnement de Réussite"
+    },
+    {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=6EE5C2843D3BCF11AA60",
+      "coupon_code": "6EE5C2843D3BCF11AA60",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29.jpg",
+      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-ile-korelasyon-ve-regresyon-analizi/?couponCode=084D5B924254E076BFE9",
+      "coupon_code": "084D5B924254E076BFE9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346796_e9fe.jpg",
+      "title": "Excel ile Korelasyon ve Regresyon Analizi"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-dashboard-egitimi/?couponCode=3790C3CC55EECA299386",
+      "coupon_code": "3790C3CC55EECA299386",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5888882_0884.jpg",
+      "title": "Microsoft Excel Dashboard Eğitimi"
     },
     {
       "url": "https://www.udemy.com/course/developing-data-science-projects-with-google-colab/?couponCode=ADC21879FED7F1DB76F8",
