@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-03-23T19:05:26Z",
-  "count": 965,
+  "updated_at": "2026-03-23T20:46:06Z",
+  "count": 968,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/ai-cybersecurity-learnit/?couponCode=MARCHFREE32026",
-      "coupon_code": "MARCHFREE32026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6757241_d334_3.jpg",
-      "title": "AI Cybersecurity Solutions: Overview of Applied AI Security"
-    },
     {
       "url": "https://www.udemy.com/course/ai-for-customer-experience-learnit/?couponCode=MARCHFREE32026",
       "coupon_code": "MARCHFREE32026",
@@ -19,12 +13,6 @@
       "coupon_code": "MARCHFREE32026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6946213_6d79.jpg",
       "title": "AI for Program Managers: Practical Skills and Automation"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-security-learnit/?couponCode=MARCHFREE32026",
-      "coupon_code": "MARCHFREE32026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6927317_a7a8_3.jpg",
-      "title": "AI Security Fundamentals: Risks, Frameworks & Tools"
     },
     {
       "url": "https://www.udemy.com/course/code-reviews-learnit/?couponCode=MARCHFREE32026",
@@ -57,10 +45,16 @@
       "title": "Java Best Practices for Efficient, Scalable, and Secure Code"
     },
     {
-      "url": "https://www.udemy.com/course/oracle-certification-java-21-learnit/?couponCode=MARCHFREE32026",
-      "coupon_code": "MARCHFREE32026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6291083_8dee.jpg",
-      "title": "Oracle Java SE 21 Developer Professional: 1Z0-830"
+      "url": "https://www.udemy.com/course/learn-canva-from-basic-to-advanced-and-earn-money-in-2025/?couponCode=3E516D1851F8003DF904",
+      "coupon_code": "3E516D1851F8003DF904",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407183_634a_2.jpg",
+      "title": "Learn Canva from Basic to Advanced and Earn Money in 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/love-after-baby/?couponCode=B240A6E478CC5B6A881F",
+      "coupon_code": "B240A6E478CC5B6A881F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6675457_e6eb_2.jpg",
+      "title": "Love After Baby: Reconnecting as a Couple Post-Parenthood"
     },
     {
       "url": "https://www.udemy.com/course/oracle-java-17-ocp-certification-learnit/?couponCode=MARCHFREE32026",
@@ -71,7 +65,14 @@
     {
       "url": "https://www.udemy.com/course/owasp-learnit/?couponCode=MARCHFREE32026",
       "coupon_code": "MARCHFREE32026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4748828_fc3e_2.jpg",
+      "title": "OWASP API Security Top 10 2021/2023/2025 with Java Examples"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-en-accion-de-principiante-a-programador-funcional/?couponCode=4A240E4BD936CE58EC88",
+      "coupon_code": "4A240E4BD936CE58EC88",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6351949_efaf_2.jpg",
+      "title": "Python en Acción: De Principiante a Programador Funcional"
     },
     {
       "url": "https://www.udemy.com/course/qa-qc-metrics-kpis-learnit/?couponCode=MARCHFREE32026",
@@ -82,7 +83,8 @@
     {
       "url": "https://www.udemy.com/course/secure-code-java-spring-boot-learnit/?couponCode=MARCHFREE32026",
       "coupon_code": "MARCHFREE32026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6705809_864e.jpg",
+      "title": "Secure Code in Java and Spring Boot: Build Resilient Apps"
     },
     {
       "url": "https://www.udemy.com/course/securing-ai-applications-learnit/?couponCode=MARCHFREE32026",
@@ -91,34 +93,58 @@
       "title": "Securing AI Applications: From Threats to Controls"
     },
     {
+      "url": "https://www.udemy.com/course/ai-cybersecurity-learnit/?couponCode=MARCHFREE32026",
+      "coupon_code": "MARCHFREE32026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6757241_d334_3.jpg",
+      "title": "AI Cybersecurity Solutions: Overview of Applied AI Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-security-learnit/?couponCode=MARCHFREE32026",
+      "coupon_code": "MARCHFREE32026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927317_a7a8_3.jpg",
+      "title": "AI Security Fundamentals: Risks, Frameworks & Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/oracle-certification-java-21-learnit/?couponCode=MARCHFREE32026",
+      "coupon_code": "MARCHFREE32026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291083_8dee.jpg",
+      "title": "Oracle Java SE 21 Developer Professional: 1Z0-830"
+    },
+    {
       "url": "https://www.udemy.com/course/como-crear-una-landing-page-con-wordpress-desde-cero/?couponCode=MARZO202603",
       "coupon_code": "MARZO202603",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4234262_07d6_5.jpg",
+      "title": "Cómo Crear una Landing Page con WordPress Desde Cero 2026"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor/?couponCode=MARZO202603",
       "coupon_code": "MARZO202603",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4786282_fbfd_3.jpg",
+      "title": "Cómo Crear una Página web con WordPress y Elementor 2026"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-tarjeta-de-presentacion-digital-con-wordpress/?couponCode=MARZO202603",
       "coupon_code": "MARZO202603",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4700204_61a0_3.jpg",
+      "title": "Cómo Crear una Tarjeta de Presentación Digital con WordPress"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-desde-cero/?couponCode=MARZO202603",
       "coupon_code": "MARZO202603",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4556704_fc04.jpg",
+      "title": "Cómo Crear una Tienda Online con WordPress Desde Cero 2026"
     },
     {
       "url": "https://www.udemy.com/course/social-media-graphics-design-and-video-editing-in-canva/?couponCode=A3D311254913060A3368",
       "coupon_code": "A3D311254913060A3368",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5773322_f699_5.jpg",
+      "title": "Social Media Graphics Design and Video Editing in Canva"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-microsoft-word-essential-comprehensive-guide/?couponCode=66B136B2DBE44FFC4388",
       "coupon_code": "66B136B2DBE44FFC4388",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5713346_2215.jpg",
+      "title": "The Ultimate Microsoft Word: Essential Comprehensive Guide"
     },
     {
       "url": "https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=MARCHFREE32026",
