@@ -1,25 +1,15 @@
 {
-  "updated_at": "2026-03-23T11:00:23Z",
-  "count": 934,
+  "updated_at": "2026-03-23T11:52:10Z",
+  "count": 938,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=F2FF0CF9488A99BEA71B",
-      "coupon_code": "F2FF0CF9488A99BEA71B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/canva-for-beginners-create-stunning-visuals-design/?couponCode=854552FA07D4069DD979",
       "coupon_code": "854552FA07D4069DD979",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/certificate-programacion-lpi-web-development-essentials/?couponCode=D5D1A76C7415020B3A46",
-      "coupon_code": "D5D1A76C7415020B3A46",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/codeigniter-4-for-2023-build-real-estate-management-system/?couponCode=CIREALESTATE83",
-      "coupon_code": "CIREALESTATE83",
+      "url": "https://www.udemy.com/course/curso-de-lenguaje-c-de-cero-a-experto/?couponCode=22A0E9D99DE926093886",
+      "coupon_code": "22A0E9D99DE926093886",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -30,23 +20,26 @@
     {
       "url": "https://www.udemy.com/course/hr-strategy-and-leadership-from-administration-to-boardroom/?couponCode=DDF20C81C7793A4D1FB4",
       "coupon_code": "DDF20C81C7793A4D1FB4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7049945_5132_2.jpg",
+      "title": "HR Strategy and Leadership: From Administration to Boardroom"
     },
     {
       "url": "https://www.udemy.com/course/introduccion-a-bootstrap-5/?couponCode=7B3489BB7DDBF9910FDC",
       "coupon_code": "7B3489BB7DDBF9910FDC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3801926_4984.jpg",
+      "title": "Introducción a Bootstrap 5"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-excel-formulas-functions-beginner-to-advanced/?couponCode=7AF7D08AB3B9086EC4DB",
+      "coupon_code": "7AF7D08AB3B9086EC4DB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5777014_3cd8.jpg",
+      "title": "Mastering Excel Formulas & Functions: Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-excel-a-comprehensive-guide-to-boost-you/?couponCode=6C0E9E3178C51BA4AA93",
       "coupon_code": "6C0E9E3178C51BA4AA93",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/media-trainer-how-to-become-a-media-trainer/?couponCode=BDC5F9CF9251265F3ED9",
-      "coupon_code": "BDC5F9CF9251265F3ED9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/275410_b201_4.jpg",
-      "title": "Media Training: You Can Be a Media Trainer"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611698_9d6c_4.jpg",
+      "title": "Mastering Microsoft Excel A Comprehensive Guide to Boost You"
     },
     {
       "url": "https://www.udemy.com/course/medical-device-regulations-mdr-essentials/?couponCode=BA2BA9B83D5917404444",
@@ -55,54 +48,100 @@
       "title": "Medical Device Regulations (MDR) Essentials"
     },
     {
+      "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-the-pivot-table-masterclass/?couponCode=32D35B6171D3D26BBA20",
+      "coupon_code": "32D35B6171D3D26BBA20",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5990836_ab6f_3.jpg",
+      "title": "Microsoft Excel Pivot Tables: The Pivot Table Masterclass"
+    },
+    {
       "url": "https://www.udemy.com/course/php-with-laravel-2023-build-cms-blog-with-admin-panel/?couponCode=LARABLOG69",
       "coupon_code": "LARABLOG69",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5370338_0007_4.jpg",
+      "title": "PHP with Laravel: Build CMS Blog with Admin Panel"
     },
     {
       "url": "https://www.udemy.com/course/posh-2-prevention-of-sexual-harassment-in-india/?couponCode=0A2640FF0C2339DAA48E",
       "coupon_code": "0A2640FF0C2339DAA48E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6997217_6104.jpg",
+      "title": "POSH 2.0: Prevention of Sexual Harassment in India"
     },
     {
       "url": "https://www.udemy.com/course/python-data-analysis-bootcamp-pandas-seaborn-and-plotly/?couponCode=F888C355AA9260F585D7",
       "coupon_code": "F888C355AA9260F585D7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5864046_ef60_10.jpg",
+      "title": "Python Data Analysis Bootcamp - Pandas, Seaborn and Plotly"
     },
     {
       "url": "https://www.udemy.com/course/time-productivity-management-the-2026-architect-advanced/?couponCode=F315EDE5FAC2DA75BAAB",
       "coupon_code": "F315EDE5FAC2DA75BAAB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6997173_1bb9.jpg",
+      "title": "Time & Productivity Management: The 2026 Architect Advanced"
     },
     {
       "url": "https://www.udemy.com/course/whistleblower-protection-legal-frameworks-ethics/?couponCode=A55D8CA9B53753BD815A",
       "coupon_code": "A55D8CA9B53753BD815A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018455_cfca.jpg",
+      "title": "Whistleblower Protection: Legal Frameworks & Ethics"
+    },
+    {
+      "url": "https://www.udemy.com/course/word-microsoft-word-from-basic-to-advanced/?couponCode=193F049828E38CB3A5E7",
+      "coupon_code": "193F049828E38CB3A5E7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5983044_dd3a_2.jpg",
+      "title": "Word - Microsoft Word from Basic to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=F2FF0CF9488A99BEA71B",
+      "coupon_code": "F2FF0CF9488A99BEA71B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5236430_f326_2.jpg",
+      "title": "Advanced Excel Course With Shortcuts Tips and Tricks for JOB"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificate-programacion-lpi-web-development-essentials/?couponCode=D5D1A76C7415020B3A46",
+      "coupon_code": "D5D1A76C7415020B3A46",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5811488_b47c_2.jpg",
+      "title": "Certifícate en Programación. LPI Web Development Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/codeigniter-4-for-2023-build-real-estate-management-system/?couponCode=CIREALESTATE83",
+      "coupon_code": "CIREALESTATE83",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5574530_8c35.jpg",
+      "title": "CodeIgniter 4: Build Real Estate Management System"
+    },
+    {
+      "url": "https://www.udemy.com/course/media-trainer-how-to-become-a-media-trainer/?couponCode=BDC5F9CF9251265F3ED9",
+      "coupon_code": "BDC5F9CF9251265F3ED9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/275410_b201_4.jpg",
+      "title": "Media Training: You Can Be a Media Trainer"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-for-everyone-design-like-a-pro/?couponCode=B8B67187A8F81336E2E8",
       "coupon_code": "B8B67187A8F81336E2E8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5719700_ccbe.jpg",
+      "title": "Adobe Illustrator for Everyone: Design Like a Pro"
     },
     {
       "url": "https://www.udemy.com/course/beginner-guide-to-learn-t-shirt-design-with-photoshop/?couponCode=1C709C7FC732D4AB8200",
       "coupon_code": "1C709C7FC732D4AB8200",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641684_642f.jpg",
+      "title": "Beginner Guide to Learn T-Shirt Design With Photoshop"
     },
     {
       "url": "https://www.udemy.com/course/complete-microsoft-word-excel-powerpoint-course/?couponCode=DAF1B6B8020F35E37BF1",
       "coupon_code": "DAF1B6B8020F35E37BF1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5100256_f721.jpg",
+      "title": "Complete Microsoft Word Excel PowerPoint Course"
     },
     {
       "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=96CA5077ECA375653706",
       "coupon_code": "96CA5077ECA375653706",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5941852_757f_3.jpg",
+      "title": "Efficacité et Concentration pour RÉSULTATS EXTRÊMES"
     },
     {
       "url": "https://www.udemy.com/course/essential-excel-for-beginner-to-advanced/?couponCode=8ADE0DB4466584D3ABE2",
       "coupon_code": "8ADE0DB4466584D3ABE2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5002062_aa6a.jpg",
+      "title": "Essential Microsoft Excel from Beginner to Advance level"
     },
     {
       "url": "https://www.udemy.com/course/how-to-be-an-expert2/?couponCode=FA3AEB5BC7EA93902764",
