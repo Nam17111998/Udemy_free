@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-24T19:14:56Z",
-  "count": 937,
+  "updated_at": "2026-03-24T20:51:22Z",
+  "count": 940,
   "courses": [
     {
       "url": "https://www.udemy.com/course/a-practical-guide-to-mastering-endpoint-security-management/?couponCode=STAR_STUDENT4",
@@ -9,16 +9,16 @@
       "title": "A Practical Guide to Mastering Endpoint Security Management"
     },
     {
+      "url": "https://www.udemy.com/course/advanced-excel-t/?couponCode=NEWWAY",
+      "coupon_code": "NEWWAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6093799_6e99.jpg",
+      "title": "Advanced Excel - مهارات اكسل متقدمة"
+    },
+    {
       "url": "https://www.udemy.com/course/ai-innovations-with-open-tools-in-healthcare-processes/?couponCode=STAR_STUDENT4",
       "coupon_code": "STAR_STUDENT4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6840517_59cd_2.jpg",
       "title": "AI in Healthcare: Transforming Clinical & Admin Workflows"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-powered-sales-marketing-forecast-smarter-with-genai/?couponCode=STAR_STUDENT4",
-      "coupon_code": "STAR_STUDENT4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6782997_b40d.jpg",
-      "title": "AI for Marketing & Sales: Forecasting, Analytics & Insights"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-for-entrepreneurs/?couponCode=STAR_STUDENT4",
@@ -31,12 +31,6 @@
       "coupon_code": "STAR_STUDENT4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6866463_cabb_3.jpg",
       "title": "Credit Analysis & Credit Risk Management Masterclass 2026"
-    },
-    {
-      "url": "https://www.udemy.com/course/credit-portfolio-strategy-and-regulatory-compliance/?couponCode=STAR_STUDENT4",
-      "coupon_code": "STAR_STUDENT4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6749677_bd3c_2.jpg",
-      "title": "Credit Portfolio Strategy and Regulatory Compliance"
     },
     {
       "url": "https://www.udemy.com/course/excel-vba-makros-lass-excel-fur-dich-arbeiten/?couponCode=B864D27FBFDE660B9E35",
@@ -63,9 +57,16 @@
       "title": "Mastering Leadership in Cybersecurity Oversight"
     },
     {
+      "url": "https://www.udemy.com/course/microsoft-office-word-excel-powerpoint-v/?couponCode=NEWWAY",
+      "coupon_code": "NEWWAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3941686_5cda.jpg",
+      "title": "Microsoft Office: Word, Excel, PowerPoint  من الصفر للاحتراف"
+    },
+    {
       "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=B406F9090D8F06005375",
       "coupon_code": "B406F9090D8F06005375",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6160617_f212_4.jpg",
+      "title": "Professional Diploma in Odd Jobs: Skills for Every Situation"
     },
     {
       "url": "https://www.udemy.com/course/omnichannel-sales-service-management/?couponCode=78B79C7FEFE5D181EE5E",
@@ -74,10 +75,10 @@
       "title": "Omnichannel Sales & Service Management: Professional Diploma"
     },
     {
-      "url": "https://www.udemy.com/course/sleep-management/?couponCode=0CF4BB453AE170C9CF5B",
-      "coupon_code": "0CF4BB453AE170C9CF5B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6438429_6998_3.jpg",
-      "title": "Professional Diploma in Quality Sleep Management"
+      "url": "https://www.udemy.com/course/proyectos-para-tu-portafolio-de-programador/?couponCode=8D950413F226009A9C4F",
+      "coupon_code": "8D950413F226009A9C4F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4666926_22f0.jpg",
+      "title": "10 Proyectos Completos para tu Portafolio de Programador."
     },
     {
       "url": "https://www.udemy.com/course/strategic-applications-of-cybersecurity-policy-governance/?couponCode=STAR_STUDENT4",
@@ -90,6 +91,24 @@
       "coupon_code": "STAR_STUDENT4",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6870377_a83a_6.jpg",
       "title": "The Executive Leader's Complete Guide to Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-sales-marketing-forecast-smarter-with-genai/?couponCode=STAR_STUDENT4",
+      "coupon_code": "STAR_STUDENT4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6782997_b40d.jpg",
+      "title": "AI for Marketing & Sales: Forecasting, Analytics & Insights"
+    },
+    {
+      "url": "https://www.udemy.com/course/credit-portfolio-strategy-and-regulatory-compliance/?couponCode=STAR_STUDENT4",
+      "coupon_code": "STAR_STUDENT4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6749677_bd3c_2.jpg",
+      "title": "Credit Portfolio Strategy and Regulatory Compliance"
+    },
+    {
+      "url": "https://www.udemy.com/course/sleep-management/?couponCode=0CF4BB453AE170C9CF5B",
+      "coupon_code": "0CF4BB453AE170C9CF5B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6438429_6998_3.jpg",
+      "title": "Professional Diploma in Quality Sleep Management"
     },
     {
       "url": "https://www.udemy.com/course/ai-leadership-mastery-for-executives/?couponCode=STAR_STUDENT4",
