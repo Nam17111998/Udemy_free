@@ -1,11 +1,24 @@
 {
-  "updated_at": "2026-03-25T05:01:35Z",
-  "count": 971,
+  "updated_at": "2026-03-25T07:12:44Z",
+  "count": 976,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-cc-for-learning-graphics-design/?couponCode=B5CC8B8C880BECED4C76",
+      "coupon_code": "B5CC8B8C880BECED4C76",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5539844_139d.jpg",
+      "title": "Adobe Illustrator CC for Learning Graphics Design"
+    },
     {
       "url": "https://www.udemy.com/course/bases-de-datos-con-mysql-y-mongodb/?couponCode=MARZOW426",
       "coupon_code": "MARZOW426",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599966_7a6c_4.jpg",
+      "title": "Bases de Datos con MySQL + ChatGPT y MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-programming-masterclass-build-your-programming-foundation/?couponCode=18C58FE8547ACBE5CCB4",
+      "coupon_code": "18C58FE8547ACBE5CCB4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849391_3cee_2.jpg",
+      "title": "C Programming Masterclass: Build Your Programming Foundation"
     },
     {
       "url": "https://www.udemy.com/course/curso-de-prompt-engineering-con-chatgpt/?couponCode=MARZOW426",
@@ -44,10 +57,10 @@
       "title": "Funciones, Tablas dinámicas, ChatGPT y más con Google Sheets"
     },
     {
-      "url": "https://www.udemy.com/course/java-programming-language-step-by-step-learning-path/?couponCode=378D9AD12580857DF5DA",
-      "coupon_code": "378D9AD12580857DF5DA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6236511_5ecc_2.jpg",
-      "title": "Java Programming Language Step-by-Step Learning Path"
+      "url": "https://www.udemy.com/course/learn-filmora-for-video-editing-masterclass-course/?couponCode=4F8FFD444A7B4866FF31",
+      "coupon_code": "4F8FFD444A7B4866FF31",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5547028_780b.jpg",
+      "title": "Learn Filmora for Video Editing Masterclass Course"
     },
     {
       "url": "https://www.udemy.com/course/learn-spanish-now/?couponCode=MARCHAPRIL26",
@@ -62,16 +75,34 @@
       "title": "Excel Data Analysis Visualization with Management Technique"
     },
     {
-      "url": "https://www.udemy.com/course/operaciones-crud-modelado-y-consultas-avanzadas-con-mongodb/?couponCode=MARZOW426",
-      "coupon_code": "MARZOW426",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5599936_df64.jpg",
-      "title": "Operaciones CRUD, Modelado y Consultas Avanzadas con MongoDB"
-    },
-    {
       "url": "https://www.udemy.com/course/powerpoint-microsoft-powerpoint-from-basic-to-advanced/?couponCode=73B33A2E132E6BAB91B2",
       "coupon_code": "73B33A2E132E6BAB91B2",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5729682_a836.jpg",
       "title": "PowerPoint - Microsoft PowerPoint From Basic to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-complete-guide-build-interactive-web-applications/?couponCode=309E03A40BEA8E1C36B7",
+      "coupon_code": "309E03A40BEA8E1C36B7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849329_133a.jpg",
+      "title": "React.js Complete Guide: Build Interactive Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/responsive-design-with-css3-create-mobile-friendly-webpages/?couponCode=D04BD8BF9B9AFA2C7DBE",
+      "coupon_code": "D04BD8BF9B9AFA2C7DBE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849563_f60c_2.jpg",
+      "title": "Responsive Design with CSS3: Create Mobile Friendly Webpages"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-language-step-by-step-learning-path/?couponCode=378D9AD12580857DF5DA",
+      "coupon_code": "378D9AD12580857DF5DA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6236511_5ecc_2.jpg",
+      "title": "Java Programming Language Step-by-Step Learning Path"
+    },
+    {
+      "url": "https://www.udemy.com/course/operaciones-crud-modelado-y-consultas-avanzadas-con-mongodb/?couponCode=MARZOW426",
+      "coupon_code": "MARZOW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599936_df64.jpg",
+      "title": "Operaciones CRUD, Modelado y Consultas Avanzadas con MongoDB"
     },
     {
       "url": "https://www.udemy.com/course/python-and-flask-only-demonstration-course/?couponCode=A7808232C3F89085F1AC",
