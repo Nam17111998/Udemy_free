@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-03-25T02:51:03Z",
-  "count": 963,
+  "updated_at": "2026-03-25T05:01:35Z",
+  "count": 971,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/?couponCode=MARZOW426",
-      "coupon_code": "MARZOW426",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming-y-python/?couponCode=MARZOW426",
-      "coupon_code": "MARZOW426",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/bases-de-datos-con-mysql-y-mongodb/?couponCode=MARZOW426",
       "coupon_code": "MARZOW426",
@@ -20,13 +10,98 @@
     {
       "url": "https://www.udemy.com/course/curso-de-prompt-engineering-con-chatgpt/?couponCode=MARZOW426",
       "coupon_code": "MARZOW426",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5658340_ffde_7.jpg",
+      "title": "Curso IA Generativa + Prompt Engineering con ChatGPT-4"
     },
     {
       "url": "https://www.udemy.com/course/curso-de-tableau-analisis-y-visualizacion-de-datos/?couponCode=MARZOW426",
       "coupon_code": "MARZOW426",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5730136_07d7.jpg",
       "title": "Curso de Tableau: Análisis y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-charts-graphs-master-class-excel-charts-graphs/?couponCode=FD39E3268D82F334545B",
+      "coupon_code": "FD39E3268D82F334545B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5982646_3a79_2.jpg",
+      "title": "Excel Charts & Graphs: Master Class Excel Charts & Graphs"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-excel-essential-with-tips-trick-and-job-success/?couponCode=D85D9D647419359BCAC2",
+      "coupon_code": "D85D9D647419359BCAC2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5689142_0e5d.jpg",
+      "title": "Excel - Excel Essentials Course For Beginners to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/frameworks-indices-transacciones-y-mucho-mas-con-mongodb/?couponCode=MARZOW426",
+      "coupon_code": "MARZOW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5771254_1140.jpg",
+      "title": "Frameworks, Índices, Transacciones y mucho más con MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/funciones-tablas-dinamicas-chatgpt-y-mas-con-google-sheets/?couponCode=MARZOW426",
+      "coupon_code": "MARZOW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5642840_9cc8.jpg",
+      "title": "Funciones, Tablas dinámicas, ChatGPT y más con Google Sheets"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-language-step-by-step-learning-path/?couponCode=378D9AD12580857DF5DA",
+      "coupon_code": "378D9AD12580857DF5DA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6236511_5ecc_2.jpg",
+      "title": "Java Programming Language Step-by-Step Learning Path"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-spanish-now/?couponCode=MARCHAPRIL26",
+      "coupon_code": "MARCHAPRIL26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4067814_b5da_11.jpg",
+      "title": "Learn Spanish Now: All-in-One Knowledge Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-visualization-with-management-technique/?couponCode=1786F358A8076E6A390B",
+      "coupon_code": "1786F358A8076E6A390B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6766001_369d.jpg",
+      "title": "Excel Data Analysis Visualization with Management Technique"
+    },
+    {
+      "url": "https://www.udemy.com/course/operaciones-crud-modelado-y-consultas-avanzadas-con-mongodb/?couponCode=MARZOW426",
+      "coupon_code": "MARZOW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599936_df64.jpg",
+      "title": "Operaciones CRUD, Modelado y Consultas Avanzadas con MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/powerpoint-microsoft-powerpoint-from-basic-to-advanced/?couponCode=73B33A2E132E6BAB91B2",
+      "coupon_code": "73B33A2E132E6BAB91B2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5729682_a836.jpg",
+      "title": "PowerPoint - Microsoft PowerPoint From Basic to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-flask-only-demonstration-course/?couponCode=A7808232C3F89085F1AC",
+      "coupon_code": "A7808232C3F89085F1AC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3526008_d891_5.jpg",
+      "title": "Python And Flask  Demonstrations Practice Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-build-and-deploy-your-own-applications/?couponCode=1AB3D3955B287F91D1B6",
+      "coupon_code": "1AB3D3955B287F91D1B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6509823_1c8a.jpg",
+      "title": "Python Programming: Build and Deploy Your Own Applications."
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-from-beginners-to-expert/?couponCode=E87A62B47763D92FAA86",
+      "coupon_code": "E87A62B47763D92FAA86",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6764847_ffcb.jpg",
+      "title": "The Complete Microsoft Excel From Beginners to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/?couponCode=MARZOW426",
+      "coupon_code": "MARZOW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5043548_094c_2.jpg",
+      "title": "Análisis de datos con Microsoft Excel y Power BI"
+    },
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming-y-python/?couponCode=MARZOW426",
+      "coupon_code": "MARZOW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5511332_f43e_2.jpg",
+      "title": "Análisis de datos con R Programming y Python"
     },
     {
       "url": "https://www.udemy.com/course/examen-mo-200-microsoft-excel-office-2019/?couponCode=MARZOW426",
@@ -47,18 +122,6 @@
       "title": "Finanzas Personales: Éxito financiero a tu alcance"
     },
     {
-      "url": "https://www.udemy.com/course/frameworks-indices-transacciones-y-mucho-mas-con-mongodb/?couponCode=MARZOW426",
-      "coupon_code": "MARZOW426",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5771254_1140.jpg",
-      "title": "Frameworks, Índices, Transacciones y mucho más con MongoDB"
-    },
-    {
-      "url": "https://www.udemy.com/course/funciones-tablas-dinamicas-chatgpt-y-mas-con-google-sheets/?couponCode=MARZOW426",
-      "coupon_code": "MARZOW426",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5642840_9cc8.jpg",
-      "title": "Funciones, Tablas dinámicas, ChatGPT y más con Google Sheets"
-    },
-    {
       "url": "https://www.udemy.com/course/microsoft-powerpoint-desde-cero/?couponCode=MARZOW426",
       "coupon_code": "MARZOW426",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4960314_4ed6_3.jpg",
@@ -71,22 +134,10 @@
       "title": "MongoDB: Aprende los fundamentos de las bases de datos NoSQL"
     },
     {
-      "url": "https://www.udemy.com/course/operaciones-crud-modelado-y-consultas-avanzadas-con-mongodb/?couponCode=MARZOW426",
-      "coupon_code": "MARZOW426",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5599936_df64.jpg",
-      "title": "Operaciones CRUD, Modelado y Consultas Avanzadas con MongoDB"
-    },
-    {
       "url": "https://www.udemy.com/course/power-bi-analisis-de-proyectos-reales/?couponCode=MARZOW426",
       "coupon_code": "MARZOW426",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5179612_425a_2.jpg",
       "title": "Power BI: Dashboards y análisis de proyectos reales"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-and-flask-only-demonstration-course/?couponCode=A7808232C3F89085F1AC",
-      "coupon_code": "A7808232C3F89085F1AC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3526008_d891_5.jpg",
-      "title": "Python And Flask  Demonstrations Practice Course"
     },
     {
       "url": "https://www.udemy.com/course/advanced-excel-t/?couponCode=NEWWAY",
