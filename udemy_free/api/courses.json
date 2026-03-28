@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-03-28T08:51:05Z",
-  "count": 922,
+  "updated_at": "2026-03-28T09:47:12Z",
+  "count": 927,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/ai-for-data-driven-management-excellence/?couponCode=B993AE55BF1ED949FE50",
-      "coupon_code": "B993AE55BF1ED949FE50",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6713235_10ea.jpg",
-      "title": "AI for Data Driven Management Excellence"
-    },
     {
       "url": "https://www.udemy.com/course/ai-for-interpersonal-skills-excellence/?couponCode=CF98B9D7FC30C7FF2E7C",
       "coupon_code": "CF98B9D7FC30C7FF2E7C",
@@ -33,12 +27,6 @@
       "title": "AI for Personality Growth & Self-Development"
     },
     {
-      "url": "https://www.udemy.com/course/ai-for-problem-solving-excellence/?couponCode=EF9AAF71AC916D9B2768",
-      "coupon_code": "EF9AAF71AC916D9B2768",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6767201_d0f3.jpg",
-      "title": "AI for Structured Problem Solving / Critical Thinking Skills"
-    },
-    {
       "url": "https://www.udemy.com/course/ai-for-verbal-non-verbal-communication-excellence/?couponCode=72B736E8CCA350C969A1",
       "coupon_code": "72B736E8CCA350C969A1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6742017_64c1.jpg",
@@ -49,6 +37,72 @@
       "coupon_code": "06FD492AA0CFCC9B5F87",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7031547_6d9a.jpg",
       "title": "AI-Powered Career Strategy & Adaptation"
+    },
+    {
+      "url": "https://www.udemy.com/course/kotlin-mastering-complete-kotlin-web-development-course/?couponCode=410E702E17AE1BCF8542",
+      "coupon_code": "410E702E17AE1BCF8542",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886332_eaea_3.jpg",
+      "title": "Kotlin Mastering: Complete Kotlin Web Development Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=693FFA7F225017C43D2B",
+      "coupon_code": "693FFA7F225017C43D2B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
+      "title": "Master PHP Programming: From Beginner to Advanced Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=51CEA1E0AE556127CF58",
+      "coupon_code": "51CEA1E0AE556127CF58",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg",
+      "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-food-ordering-ecommerce-store/?couponCode=LARAVELFOOD94",
+      "coupon_code": "LARAVELFOOD94",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5459868_b02b_7.jpg",
+      "title": "PHP Laravel: Build Food Ordering Ecommerce Store"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-symfony-7-build-a-complete-cms-blog-system-2025/?couponCode=SYMFONYBLOG36",
+      "coupon_code": "SYMFONYBLOG36",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6819661_86d6.jpg",
+      "title": "PHP Symfony 7: Build a Complete CMS Blog System 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-a-step-by-step-programming-course/?couponCode=F401537CB5AD97A4BDD1",
+      "coupon_code": "F401537CB5AD97A4BDD1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173779_c69c.jpg",
+      "title": "Python Programming: A Step-by-Step Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-r-programming-language-beginners-to-pro/?couponCode=A6442B7387A7FF697613",
+      "coupon_code": "A6442B7387A7FF697613",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5890956_f61d_2.jpg",
+      "title": "R Programming - R Programming Language Beginners to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-capcut-premiere-pro/?couponCode=016A04FFADEC348DEA07",
+      "coupon_code": "016A04FFADEC348DEA07",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6076619_c91f_2.jpg",
+      "title": "Social Media Video Editing with Canva, Capcut & Premiere Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/thinking-deciding-and-leading-with-ai-as-cognitive-partner/?couponCode=DC293288E7D6CBFA79E0",
+      "coupon_code": "DC293288E7D6CBFA79E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995691_421b.jpg",
+      "title": "Thinking, Deciding and Leading with AI as Cognitive Partner"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-data-driven-management-excellence/?couponCode=B993AE55BF1ED949FE50",
+      "coupon_code": "B993AE55BF1ED949FE50",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713235_10ea.jpg",
+      "title": "AI for Data Driven Management Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-problem-solving-excellence/?couponCode=EF9AAF71AC916D9B2768",
+      "coupon_code": "EF9AAF71AC916D9B2768",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767201_d0f3.jpg",
+      "title": "AI for Structured Problem Solving / Critical Thinking Skills"
     },
     {
       "url": "https://www.udemy.com/course/complete-nodejs-bootcamp-from-basics-to-advanced/?couponCode=671C173B3164A8395CB4",
@@ -63,34 +117,10 @@
       "title": "Excel - Learn Excel Course From Beginners to Advanced"
     },
     {
-      "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=693FFA7F225017C43D2B",
-      "coupon_code": "693FFA7F225017C43D2B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
-      "title": "Master PHP Programming: From Beginner to Advanced Developer"
-    },
-    {
       "url": "https://www.udemy.com/course/microsoft-excel-basic-to-advanced-a-complete-learning-path/?couponCode=30B0E3F58325A21822C0",
       "coupon_code": "30B0E3F58325A21822C0",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6186053_f756_2.jpg",
       "title": "Microsoft Excel Basic to Advanced: A Complete Learning Path"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=51CEA1E0AE556127CF58",
-      "coupon_code": "51CEA1E0AE556127CF58",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg",
-      "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro"
-    },
-    {
-      "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-capcut-premiere-pro/?couponCode=016A04FFADEC348DEA07",
-      "coupon_code": "016A04FFADEC348DEA07",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6076619_c91f_2.jpg",
-      "title": "Social Media Video Editing with Canva, Capcut & Premiere Pro"
-    },
-    {
-      "url": "https://www.udemy.com/course/thinking-deciding-and-leading-with-ai-as-cognitive-partner/?couponCode=DC293288E7D6CBFA79E0",
-      "coupon_code": "DC293288E7D6CBFA79E0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6995691_421b.jpg",
-      "title": "Thinking, Deciding and Leading with AI as Cognitive Partner"
     },
     {
       "url": "https://www.udemy.com/course/c-and-c-for-beginners-step-by-step-to-mastery/?couponCode=00E35E94894F9DFA1E5A",
