@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-03-30T08:26:11Z",
-  "count": 908,
+  "updated_at": "2026-03-30T10:23:30Z",
+  "count": 913,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/augmented-reality-in-depth-101-by-debayandey-thnewagetraveller/?couponCode=D495B9CB4AEC2C7FDB49",
+      "coupon_code": "D495B9CB4AEC2C7FDB49",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-the-complete-guide-to-css-zero-to-hero/?couponCode=CA5E79196827413CE160",
+      "coupon_code": "CA5E79196827413CE160",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636428_79ca_2.jpg",
+      "title": "CSS - The Complete Guide to CSS for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=E5F8523DDFD19303A7EC",
+      "coupon_code": "E5F8523DDFD19303A7EC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
+      "title": "Transforme ton Intérieur en Environnement de Réussite"
+    },
+    {
+      "url": "https://www.udemy.com/course/etsy-promotion/?couponCode=02MARCH2026",
+      "coupon_code": "02MARCH2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4999108_6e6d.jpg",
+      "title": "Etsy: The Ultimate Guide to Boosting Your Business"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-ile-korelasyon-ve-regresyon-analizi/?couponCode=084D5B924254E076BFE9",
+      "coupon_code": "084D5B924254E076BFE9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346796_e9fe.jpg",
+      "title": "Excel ile Korelasyon ve Regresyon Analizi"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestion-des-risques/?couponCode=CFF85A2D8DE10273045E",
+      "coupon_code": "CFF85A2D8DE10273045E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561809_589d_2.jpg",
+      "title": "Certificat Professionnel en Gestion des Risques"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-fundamentals-course-for-beginners/?couponCode=8B57AD1CB148DAE9FCBD",
+      "coupon_code": "8B57AD1CB148DAE9FCBD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638424_41f4.jpg",
+      "title": "Java Fundamentals Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/kotlin-mastering-complete-kotlin-web-development-course/?couponCode=9B3516AB708FE9BD2354",
+      "coupon_code": "9B3516AB708FE9BD2354",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886332_eaea_3.jpg",
+      "title": "Kotlin Mastering: Complete Kotlin Web Development Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=328444BD57501D850E53",
+      "coupon_code": "328444BD57501D850E53",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5800130_dfbb.jpg",
+      "title": "Learn AngularJS Course for Beginners to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/organisch-statt-ads-sichtbarkeit-ohne-werbebudget-mit-ki/?couponCode=6C5EEB3F92CA7C9D64C3",
+      "coupon_code": "6C5EEB3F92CA7C9D64C3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451137_ac6b.jpg",
+      "title": "Organisch statt Ads: Sichtbarkeit ohne Werbebudget mit KI"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-codeigniter-4-for-beginners-2023-build-full-blog-system/?couponCode=CIBLOG80",
+      "coupon_code": "CIBLOG80",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5525478_8e01_4.jpg",
+      "title": "PHP CodeIgniter 4 for Beginners: Build Full Blog System"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-amazing-streaming-service/?couponCode=LARAVELSTREAMING98",
+      "coupon_code": "LARAVELSTREAMING98",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5513698_bca9.jpg",
+      "title": "PHP Laravel: Build Amazing Streaming Service"
+    },
+    {
+      "url": "https://www.udemy.com/course/risk-management-in-hindi/?couponCode=A102F66A07A803101B83",
+      "coupon_code": "A102F66A07A803101B83",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6607221_b17e_5.jpg",
+      "title": "रिस्क मैनेजमेंट में प्रोफेशनल सर्टिफिकेट"
+    },
     {
       "url": "https://www.udemy.com/course/b2b-outbound-lead-generation-mastery/?couponCode=27MARCH2026",
       "coupon_code": "27MARCH2026",
@@ -13,18 +90,6 @@
       "coupon_code": "27MARCH2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4154164_c02e_5.jpg",
       "title": "AI-Powered Content Marketing: Master ChatGPT, SEO & Strategy"
-    },
-    {
-      "url": "https://www.udemy.com/course/css-the-complete-guide-to-css-zero-to-hero/?couponCode=CA5E79196827413CE160",
-      "coupon_code": "CA5E79196827413CE160",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5636428_79ca_2.jpg",
-      "title": "CSS - The Complete Guide to CSS for Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/etsy-promotion/?couponCode=02MARCH2026",
-      "coupon_code": "02MARCH2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4999108_6e6d.jpg",
-      "title": "Etsy: The Ultimate Guide to Boosting Your Business"
     },
     {
       "url": "https://www.udemy.com/course/facebook-marketing-course-for-beginners/?couponCode=27MARCH2026",
@@ -43,12 +108,6 @@
       "coupon_code": "27MARCH2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4339012_afc0_6.jpg",
       "title": "Instagram Marketing. How to Promote Your Business!"
-    },
-    {
-      "url": "https://www.udemy.com/course/java-fundamentals-course-for-beginners/?couponCode=8B57AD1CB148DAE9FCBD",
-      "coupon_code": "8B57AD1CB148DAE9FCBD",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5638424_41f4.jpg",
-      "title": "Java Fundamentals Course For Beginners"
     },
     {
       "url": "https://www.udemy.com/course/keyword_research/?couponCode=27MARCH2026",
@@ -105,18 +164,6 @@
       "title": "Campus Placements & Corporate Relations Excellence"
     },
     {
-      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=E5F8523DDFD19303A7EC",
-      "coupon_code": "E5F8523DDFD19303A7EC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
-      "title": "Transforme ton Intérieur en Environnement de Réussite"
-    },
-    {
-      "url": "https://www.udemy.com/course/excel-ile-korelasyon-ve-regresyon-analizi/?couponCode=084D5B924254E076BFE9",
-      "coupon_code": "084D5B924254E076BFE9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5346796_e9fe.jpg",
-      "title": "Excel ile Korelasyon ve Regresyon Analizi"
-    },
-    {
       "url": "https://www.udemy.com/course/have-you-ever-dreamed-of-being-an-entrepreneur/?couponCode=9D63ACC36C6823297903",
       "coupon_code": "9D63ACC36C6823297903",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6298505_fc43_2.jpg",
@@ -157,12 +204,6 @@
       "coupon_code": "4EB07A4E723666638DE6",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6578071_3043_8.jpg",
       "title": "Online Business Mastery 2026: Sell Your Digital Products"
-    },
-    {
-      "url": "https://www.udemy.com/course/organisch-statt-ads-sichtbarkeit-ohne-werbebudget-mit-ki/?couponCode=6C5EEB3F92CA7C9D64C3",
-      "coupon_code": "6C5EEB3F92CA7C9D64C3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6451137_ac6b.jpg",
-      "title": "Organisch statt Ads: Sichtbarkeit ohne Werbebudget mit KI"
     },
     {
       "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-capcut-premiere-pro/?couponCode=75D16DF2EFF1D71B1A78",
@@ -249,12 +290,6 @@
       "title": "Master in Healthcare Revenue Cycle Management (RCM)"
     },
     {
-      "url": "https://www.udemy.com/course/risk-management-in-hindi/?couponCode=A102F66A07A803101B83",
-      "coupon_code": "A102F66A07A803101B83",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6607221_b17e_5.jpg",
-      "title": "रिस्क मैनेजमेंट में प्रोफेशनल सर्टिफिकेट"
-    },
-    {
       "url": "https://www.udemy.com/course/ai-tools-for-non-tech-creators/?couponCode=DISCUDEMY.COM",
       "coupon_code": "DISCUDEMY.COM",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6675107_2ba9_2.jpg",
@@ -265,12 +300,6 @@
       "coupon_code": "3282026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6924725_37a7_2.jpg",
       "title": "AutoCAD 3D Modeling Essentials"
-    },
-    {
-      "url": "https://www.udemy.com/course/gestion-des-risques/?couponCode=CFF85A2D8DE10273045E",
-      "coupon_code": "CFF85A2D8DE10273045E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6561809_589d_2.jpg",
-      "title": "Certificat Professionnel en Gestion des Risques"
     },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-hr-hrm-excellence/?couponCode=8B4DEDF05FD419199C16",
