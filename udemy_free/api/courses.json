@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-31T07:39:32Z",
-  "count": 940,
+  "updated_at": "2026-03-31T09:11:05Z",
+  "count": 949,
   "courses": [
     {
       "url": "https://www.udemy.com/course/advanced-powerpoint-masterclass-for-professionals/?couponCode=56DC8218515AD7D2AF72",
@@ -15,17 +15,6 @@
       "title": "Become an Expert in Excel & Google Sheet Formula & Functions"
     },
     {
-      "url": "https://www.udemy.com/course/beginner-to-pro-how-to-develop-for-apple-watch/?couponCode=",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/552204_0fb1_7.jpg",
-      "title": "Beginner to Pro: How to Develop for Apple Watch - 10+ Apps!"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=58740E05AC5F7AA24FA6",
-      "coupon_code": "58740E05AC5F7AA24FA6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6173757_cf20.jpg",
-      "title": "Complete JavaScript Programming: From Novice to Expert"
-    },
-    {
       "url": "https://www.udemy.com/course/computer-basics-and-it-fundamentals-for-beginners/?couponCode=B6530FA916A548F0EFA3",
       "coupon_code": "B6530FA916A548F0EFA3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6497543_1e69_3.jpg",
@@ -38,16 +27,87 @@
       "title": "Advanced Diploma in Depression Counselling"
     },
     {
-      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=E5F8523DDFD19303A7EC",
-      "coupon_code": "E5F8523DDFD19303A7EC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
-      "title": "Transforme ton Intérieur en Environnement de Réussite"
-    },
-    {
       "url": "https://www.udemy.com/course/executive-assistance-and-management/?couponCode=7035827525D8328600C5",
       "coupon_code": "7035827525D8328600C5",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6241145_65cb_4.jpg",
       "title": "Professional Diploma in Executive Assistance and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/figma-essential-for-user-interface-and-user-experience-ui-ux/?couponCode=C796041062FEEFD0AA14",
+      "coupon_code": "C796041062FEEFD0AA14",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641704_bd3b.jpg",
+      "title": "Figma Essential for User Interface and User Experience UI UX"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-canva-for-advance-graphics-design/?couponCode=A3497773C9005BD8B582",
+      "coupon_code": "A3497773C9005BD8B582",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5780890_09a1.jpg",
+      "title": "Learn Canva for Advance Graphics Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-google-sheets-and-microsoft-excel-at-once-from-basic/?couponCode=789F397CD72FCEFD86A0",
+      "coupon_code": "789F397CD72FCEFD86A0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5611690_575b.jpg",
+      "title": "Learn Google Sheets and Microsoft Excel at Once from Basic"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/?couponCode=7FE978F6E48B7691E94B",
+      "coupon_code": "7FE978F6E48B7691E94B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6172073_37a4.jpg",
+      "title": "NumPy Programming Mastery: Learn Python for Data Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-codeigniter-4-build-restaurant-management-system-2025/?couponCode=CIRESTURANT40",
+      "coupon_code": "CIRESTURANT40",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6722115_c1a1_2.jpg",
+      "title": "PHP CodeIgniter 4: Build Restaurant Management System 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-hotel-booking-management-system/?couponCode=LARAVELHOTEL100",
+      "coupon_code": "LARAVELHOTEL100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5495274_fedc.jpg",
+      "title": "PHP Laravel: Build Hotel Booking Management System"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-excel-data-analysis-course-step-by-step-guide/?couponCode=8CCBFCC1784F36BCC59D",
+      "coupon_code": "8CCBFCC1784F36BCC59D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6848589_c224_2.jpg",
+      "title": "The Complete Excel Data Analysis Course: Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-excel-pivot-table-data-analysis-and-reporting/?couponCode=4C6BDF2D90EDB371B08E",
+      "coupon_code": "4C6BDF2D90EDB371B08E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847537_f5cc_3.jpg",
+      "title": "The Complete Excel Pivot Table: Data Analysis and Reporting"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-advanced/?couponCode=3DC4F641793DB251D2E0",
+      "coupon_code": "3DC4F641793DB251D2E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6848609_db52.jpg",
+      "title": "The Complete Microsoft Excel Course: Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-photo-editing-masterclass-with-adobe-and-canva/?couponCode=6633AAA5A01FE7F61E25",
+      "coupon_code": "6633AAA5A01FE7F61E25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5938924_5d3f.jpg",
+      "title": "The Complete Photo Editing Masterclass With Adobe and Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/beginner-to-pro-how-to-develop-for-apple-watch/?couponCode=",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/552204_0fb1_7.jpg",
+      "title": "Beginner to Pro: How to Develop for Apple Watch - 10+ Apps!"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=58740E05AC5F7AA24FA6",
+      "coupon_code": "58740E05AC5F7AA24FA6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173757_cf20.jpg",
+      "title": "Complete JavaScript Programming: From Novice to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=E5F8523DDFD19303A7EC",
+      "coupon_code": "E5F8523DDFD19303A7EC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
+      "title": "Transforme ton Intérieur en Environnement de Réussite"
     },
     {
       "url": "https://www.udemy.com/course/free-google-maps-api-course-for-beginners/?couponCode=DOESNTMATTER",
@@ -66,12 +126,6 @@
       "coupon_code": "E1EB4EEF7608FC31CF21",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6395555_6dfe_2.jpg",
       "title": "JavaScript Master Course From Beginner to Expert Developer"
-    },
-    {
-      "url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/?couponCode=7FE978F6E48B7691E94B",
-      "coupon_code": "7FE978F6E48B7691E94B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6172073_37a4.jpg",
-      "title": "NumPy Programming Mastery: Learn Python for Data Analysis"
     },
     {
       "url": "https://www.udemy.com/course/organisch-statt-ads-sichtbarkeit-ohne-werbebudget-mit-ki/?couponCode=6C5EEB3F92CA7C9D64C3",
