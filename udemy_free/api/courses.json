@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-03-31T05:47:54Z",
-  "count": 937,
+  "updated_at": "2026-03-31T07:39:32Z",
+  "count": 940,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-powerpoint-masterclass-for-professionals/?couponCode=56DC8218515AD7D2AF72",
+      "coupon_code": "56DC8218515AD7D2AF72",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6184319_e6d2.jpg",
+      "title": "Advanced PowerPoint Masterclass for Professionals"
+    },
     {
       "url": "https://www.udemy.com/course/become-an-expert-in-excel-google-sheet-formula-functions/?couponCode=04C2D967622CFF96D815",
       "coupon_code": "04C2D967622CFF96D815",
@@ -9,16 +15,21 @@
       "title": "Become an Expert in Excel & Google Sheet Formula & Functions"
     },
     {
-      "url": "https://www.udemy.com/course/complete-database-course-sql-mysql-postgresql-mongodb/?couponCode=12B8163F12EF7F20C1C4",
-      "coupon_code": "12B8163F12EF7F20C1C4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7004091_3777.jpg",
-      "title": "Complete Database Course: SQL, MySQL, PostgreSQL & MongoDB"
+      "url": "https://www.udemy.com/course/beginner-to-pro-how-to-develop-for-apple-watch/?couponCode=",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/552204_0fb1_7.jpg",
+      "title": "Beginner to Pro: How to Develop for Apple Watch - 10+ Apps!"
     },
     {
       "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=58740E05AC5F7AA24FA6",
       "coupon_code": "58740E05AC5F7AA24FA6",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6173757_cf20.jpg",
       "title": "Complete JavaScript Programming: From Novice to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/computer-basics-and-it-fundamentals-for-beginners/?couponCode=B6530FA916A548F0EFA3",
+      "coupon_code": "B6530FA916A548F0EFA3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6497543_1e69_3.jpg",
+      "title": "Digital Skills 101 for Seniors & Vulnerable Adults"
     },
     {
       "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=DISCUDEMY.COM",
@@ -33,16 +44,52 @@
       "title": "Transforme ton Intérieur en Environnement de Réussite"
     },
     {
-      "url": "https://www.udemy.com/course/excel-ile-korelasyon-ve-regresyon-analizi/?couponCode=084D5B924254E076BFE9",
-      "coupon_code": "084D5B924254E076BFE9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5346796_e9fe.jpg",
-      "title": "Excel ile Korelasyon ve Regresyon Analizi"
-    },
-    {
       "url": "https://www.udemy.com/course/executive-assistance-and-management/?couponCode=7035827525D8328600C5",
       "coupon_code": "7035827525D8328600C5",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6241145_65cb_4.jpg",
       "title": "Professional Diploma in Executive Assistance and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/free-google-maps-api-course-for-beginners/?couponCode=DOESNTMATTER",
+      "coupon_code": "DOESNTMATTER",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6800033_4552.jpg",
+      "title": "Free Google Maps API Course for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestion-des-risques/?couponCode=CFF85A2D8DE10273045E",
+      "coupon_code": "CFF85A2D8DE10273045E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561809_589d_2.jpg",
+      "title": "Certificat Professionnel en Gestion des Risques"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-master-course-from-beginner-to-expert-developer/?couponCode=E1EB4EEF7608FC31CF21",
+      "coupon_code": "E1EB4EEF7608FC31CF21",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6395555_6dfe_2.jpg",
+      "title": "JavaScript Master Course From Beginner to Expert Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/?couponCode=7FE978F6E48B7691E94B",
+      "coupon_code": "7FE978F6E48B7691E94B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6172073_37a4.jpg",
+      "title": "NumPy Programming Mastery: Learn Python for Data Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/organisch-statt-ads-sichtbarkeit-ohne-werbebudget-mit-ki/?couponCode=6C5EEB3F92CA7C9D64C3",
+      "coupon_code": "6C5EEB3F92CA7C9D64C3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451137_ac6b.jpg",
+      "title": "Organisch statt Ads: Sichtbarkeit ohne Werbebudget mit KI"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-database-course-sql-mysql-postgresql-mongodb/?couponCode=12B8163F12EF7F20C1C4",
+      "coupon_code": "12B8163F12EF7F20C1C4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004091_3777.jpg",
+      "title": "Complete Database Course: SQL, MySQL, PostgreSQL & MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-ile-korelasyon-ve-regresyon-analizi/?couponCode=084D5B924254E076BFE9",
+      "coupon_code": "084D5B924254E076BFE9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346796_e9fe.jpg",
+      "title": "Excel ile Korelasyon ve Regresyon Analizi"
     },
     {
       "url": "https://www.udemy.com/course/google-cloud-productivity-docs-forms-sheets-and-slides/?couponCode=0BC1FFA1A1A0C6AC29A9",
@@ -61,12 +108,6 @@
       "coupon_code": "FC8374A2FEA83DB0186E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6100625_b9a9.jpg",
       "title": "Mastering Microsoft PowerPoint: Create Stunning Presentation"
-    },
-    {
-      "url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/?couponCode=7FE978F6E48B7691E94B",
-      "coupon_code": "7FE978F6E48B7691E94B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6172073_37a4.jpg",
-      "title": "NumPy Programming Mastery: Learn Python for Data Analysis"
     },
     {
       "url": "https://www.udemy.com/course/python-data-science-and-machine-learning-made-easy/?couponCode=9988486DE42A93CD1055",
@@ -99,22 +140,10 @@
       "title": "Frontend architecture and patterns bootcamp"
     },
     {
-      "url": "https://www.udemy.com/course/gestion-des-risques/?couponCode=CFF85A2D8DE10273045E",
-      "coupon_code": "CFF85A2D8DE10273045E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6561809_589d_2.jpg",
-      "title": "Certificat Professionnel en Gestion des Risques"
-    },
-    {
       "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=DISCUDEMY.COM",
       "coupon_code": "DISCUDEMY.COM",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6160617_f212_4.jpg",
       "title": "Professional Diploma in Odd Jobs: Skills for Every Situation"
-    },
-    {
-      "url": "https://www.udemy.com/course/organisch-statt-ads-sichtbarkeit-ohne-werbebudget-mit-ki/?couponCode=6C5EEB3F92CA7C9D64C3",
-      "coupon_code": "6C5EEB3F92CA7C9D64C3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6451137_ac6b.jpg",
-      "title": "Organisch statt Ads: Sichtbarkeit ohne Werbebudget mit KI"
     },
     {
       "url": "https://www.udemy.com/course/risk-management-in-hindi/?couponCode=A102F66A07A803101B83",
@@ -133,17 +162,6 @@
       "coupon_code": "REALDISCMAR26",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6023722_c42c.jpg",
       "title": "American English Vowels & Placement for All"
-    },
-    {
-      "url": "https://www.udemy.com/course/beginner-to-pro-how-to-develop-for-apple-watch/?couponCode=",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/552204_0fb1_7.jpg",
-      "title": "Beginner to Pro: How to Develop for Apple Watch - 10+ Apps!"
-    },
-    {
-      "url": "https://www.udemy.com/course/free-google-maps-api-course-for-beginners/?couponCode=DOESNTMATTER",
-      "coupon_code": "DOESNTMATTER",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6800033_4552.jpg",
-      "title": "Free Google Maps API Course for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/the-rhythm-of-english/?couponCode=REALDISCAPR25",
