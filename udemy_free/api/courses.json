@@ -1,11 +1,24 @@
 {
-  "updated_at": "2026-03-31T03:18:21Z",
-  "count": 929,
+  "updated_at": "2026-03-31T05:47:54Z",
+  "count": 937,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/ai-and-increasing-productivity-at-work-level-2/?couponCode=980F5572AE843CF69062",
-      "coupon_code": "980F5572AE843CF69062",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/become-an-expert-in-excel-google-sheet-formula-functions/?couponCode=04C2D967622CFF96D815",
+      "coupon_code": "04C2D967622CFF96D815",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182711_11f7.jpg",
+      "title": "Become an Expert in Excel & Google Sheet Formula & Functions"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-database-course-sql-mysql-postgresql-mongodb/?couponCode=12B8163F12EF7F20C1C4",
+      "coupon_code": "12B8163F12EF7F20C1C4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004091_3777.jpg",
+      "title": "Complete Database Course: SQL, MySQL, PostgreSQL & MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=58740E05AC5F7AA24FA6",
+      "coupon_code": "58740E05AC5F7AA24FA6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173757_cf20.jpg",
+      "title": "Complete JavaScript Programming: From Novice to Expert"
     },
     {
       "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=DISCUDEMY.COM",
@@ -32,21 +45,64 @@
       "title": "Professional Diploma in Executive Assistance and Management"
     },
     {
-      "url": "https://www.udemy.com/course/frontend-architecture-and-patterns/?couponCode=0661F88CD394D5B3F764",
-      "coupon_code": "0661F88CD394D5B3F764",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/gestion-des-risques/?couponCode=CFF85A2D8DE10273045E",
-      "coupon_code": "CFF85A2D8DE10273045E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6561809_589d_2.jpg",
-      "title": "Certificat Professionnel en Gestion des Risques"
+      "url": "https://www.udemy.com/course/google-cloud-productivity-docs-forms-sheets-and-slides/?couponCode=0BC1FFA1A1A0C6AC29A9",
+      "coupon_code": "0BC1FFA1A1A0C6AC29A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6183277_79af_2.jpg",
+      "title": "Google Cloud Productivity: Docs, Forms, Sheets and Slides"
     },
     {
       "url": "https://www.udemy.com/course/master-listening-to-transform-your-relationships/?couponCode=12FA399D028F40345A63",
       "coupon_code": "12FA399D028F40345A63",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6436865_9128_2.jpg",
       "title": "Master listening to transform your relationships"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-powerpoint-create-stunning-presentation/?couponCode=FC8374A2FEA83DB0186E",
+      "coupon_code": "FC8374A2FEA83DB0186E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6100625_b9a9.jpg",
+      "title": "Mastering Microsoft PowerPoint: Create Stunning Presentation"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/?couponCode=7FE978F6E48B7691E94B",
+      "coupon_code": "7FE978F6E48B7691E94B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6172073_37a4.jpg",
+      "title": "NumPy Programming Mastery: Learn Python for Data Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-science-and-machine-learning-made-easy/?couponCode=9988486DE42A93CD1055",
+      "coupon_code": "9988486DE42A93CD1055",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004411_e752.jpg",
+      "title": "Python Data Science and Machine Learning Made Easy"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-bootcamp/?couponCode=DD88C01813E912A49BC7",
+      "coupon_code": "DD88C01813E912A49BC7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6141449_679d_4.jpg",
+      "title": "The Complete Microsoft Excel Data Analysis Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/vowels-for-advanced-chinese-learners-of-american-english/?couponCode=REALDISCMAR26",
+      "coupon_code": "REALDISCMAR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1837892_b71f_3.jpg",
+      "title": "American English Vowels for Chinese Professionals"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-and-increasing-productivity-at-work-level-2/?couponCode=980F5572AE843CF69062",
+      "coupon_code": "980F5572AE843CF69062",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6234055_1e65_2.jpg",
+      "title": "Business AI Mastery  &  Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/frontend-architecture-and-patterns/?couponCode=0661F88CD394D5B3F764",
+      "coupon_code": "0661F88CD394D5B3F764",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5781958_4527_3.jpg",
+      "title": "Frontend architecture and patterns bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/gestion-des-risques/?couponCode=CFF85A2D8DE10273045E",
+      "coupon_code": "CFF85A2D8DE10273045E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561809_589d_2.jpg",
+      "title": "Certificat Professionnel en Gestion des Risques"
     },
     {
       "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=DISCUDEMY.COM",
@@ -71,12 +127,6 @@
       "coupon_code": "71C43969CB99D3B02910",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5629280_1f9c.jpg",
       "title": "Salesforce LWC (Lightning Web Component) with Live Project"
-    },
-    {
-      "url": "https://www.udemy.com/course/vowels-for-advanced-chinese-learners-of-american-english/?couponCode=REALDISCMAR26",
-      "coupon_code": "REALDISCMAR26",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/1837892_b71f_3.jpg",
-      "title": "American English Vowels for Chinese Professionals"
     },
     {
       "url": "https://www.udemy.com/course/american-english-vowels-placement-for-all/?couponCode=REALDISCMAR26",
