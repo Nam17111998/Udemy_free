@@ -1,24 +1,18 @@
 {
-  "updated_at": "2026-04-01T17:05:20Z",
-  "count": 971,
+  "updated_at": "2026-04-01T19:14:31Z",
+  "count": 979,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/?couponCode=A19ECB1090BC842BD1A1",
-      "coupon_code": "A19ECB1090BC842BD1A1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5437534_25fa_2.jpg",
-      "title": "Practical HTML, CSS, JS: 10 Real-World Projects for Practice"
-    },
-    {
-      "url": "https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=F3A4D0B413B4699387B6",
-      "coupon_code": "F3A4D0B413B4699387B6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5436820_0d3d.jpg",
-      "title": "Android Course Build 3 Applications from Scratch with Java"
-    },
     {
       "url": "https://www.udemy.com/course/aprende-guitarra-desde-cero-/?couponCode=LAGUITARRADEMAURO11",
       "coupon_code": "LAGUITARRADEMAURO11",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6259741_e671_3.jpg",
       "title": "Aprende Guitarra desde cero"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=5CA695CA3F1B54CDD9A9",
+      "coupon_code": "5CA695CA3F1B54CDD9A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5377010_fb30_4.jpg",
+      "title": "Build a Robust RESTful API with PHP 8, from Scratch!"
     },
     {
       "url": "https://www.udemy.com/course/certifiedincybersecurityisc2/?couponCode=TECHSERKS2026",
@@ -27,10 +21,22 @@
       "title": "The Ultimate ISC2 Certified in Cybersecurity CC Course 2025"
     },
     {
-      "url": "https://www.udemy.com/course/competency-based-interview-star-parla-care-questions-de/?couponCode=PAPAHR_APR_01",
-      "coupon_code": "PAPAHR_APR_01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7101021_3288_2.jpg",
-      "title": "Zertifizierter Interviewer: STAR PARLA & CARE Methoden [DE]"
+      "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=0B1D3584BEFAD3113CF8",
+      "coupon_code": "0B1D3584BEFAD3113CF8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753061_5882.jpg",
+      "title": "Comment Avoir Une Belle Vie"
+    },
+    {
+      "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=5DDC55296A5C1E6D58EC",
+      "coupon_code": "5DDC55296A5C1E6D58EC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5941852_757f_3.jpg",
+      "title": "Efficacité et Concentration pour RÉSULTATS EXTRÊMES"
+    },
+    {
+      "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=80CD8FA5247C35F681B1",
+      "coupon_code": "80CD8FA5247C35F681B1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
     },
     {
       "url": "https://www.udemy.com/course/curso-tutorial-aprender-como-usar-power-bi-excel-ejercicios-practicos/?couponCode=ABR_2026",
@@ -45,10 +51,64 @@
       "title": "Advanced Diploma in Depression Counselling"
     },
     {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=56B2768D7F854D44FBF6",
+      "coupon_code": "56B2768D7F854D44FBF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29_2.jpg",
+      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
+    },
+    {
       "url": "https://www.udemy.com/course/executive-assistance-and-management/?couponCode=DISCUDEMY.COM",
       "coupon_code": "DISCUDEMY.COM",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6241145_65cb_4.jpg",
       "title": "Professional Diploma in Executive Assistance and Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/jquery-y-mobile/?couponCode=00ED9B35D8A9F225C496",
+      "coupon_code": "00ED9B35D8A9F225C496",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/23114_ad39_10.jpg",
+      "title": "Todo jQuery... de novato a experto"
+    },
+    {
+      "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=E0F58B505C544FC315C0",
+      "coupon_code": "E0F58B505C544FC315C0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6022786_dbe8_2.jpg",
+      "title": "ÉVITER L'ÉCHEC : Le système qui maximalise la réussite"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-executive-ai-audit/?couponCode=APRIL2026",
+      "coupon_code": "APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7034043_1595_4.jpg",
+      "title": "The Executive AI Audit"
+    },
+    {
+      "url": "https://www.udemy.com/course/vivre-librement/?couponCode=B0951DF387F4F887EE9E",
+      "coupon_code": "B0951DF387F4F887EE9E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
+      "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
+    },
+    {
+      "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=ADF26257627866D3A43E",
+      "coupon_code": "ADF26257627866D3A43E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860025_1f3c_3.jpg",
+      "title": "Liberté et Efficacité : vivre du minimalisme en voyageant"
+    },
+    {
+      "url": "https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/?couponCode=A19ECB1090BC842BD1A1",
+      "coupon_code": "A19ECB1090BC842BD1A1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5437534_25fa_2.jpg",
+      "title": "Practical HTML, CSS, JS: 10 Real-World Projects for Practice"
+    },
+    {
+      "url": "https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=F3A4D0B413B4699387B6",
+      "coupon_code": "F3A4D0B413B4699387B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5436820_0d3d.jpg",
+      "title": "Android Course Build 3 Applications from Scratch with Java"
+    },
+    {
+      "url": "https://www.udemy.com/course/competency-based-interview-star-parla-care-questions-de/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7101021_3288_2.jpg",
+      "title": "Zertifizierter Interviewer: STAR PARLA & CARE Methoden [DE]"
     },
     {
       "url": "https://www.udemy.com/course/forex-trading-course-and-guide/?couponCode=F10C00A64CEFB63EB9DA",
@@ -69,12 +129,6 @@
       "title": "JavaScript 10 Projects in 10 Days Course for Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/jquery-y-mobile/?couponCode=00ED9B35D8A9F225C496",
-      "coupon_code": "00ED9B35D8A9F225C496",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/23114_ad39_10.jpg",
-      "title": "Todo jQuery... de novato a experto"
-    },
-    {
       "url": "https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=BA93801AC64FD3634BB1",
       "coupon_code": "BA93801AC64FD3634BB1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5437012_f633.jpg",
@@ -85,12 +139,6 @@
       "coupon_code": "D3CE00858298B8D9500B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7087219_747f.jpg",
       "title": "Medical Receptionist Training: Legal, Record & Call Skills"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-executive-ai-audit/?couponCode=APRIL2026",
-      "coupon_code": "APRIL2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7034043_1595_4.jpg",
-      "title": "The Executive AI Audit"
     },
     {
       "url": "https://www.udemy.com/course/android-apps-development-masterclass-build-2-apps-java/?couponCode=6D1C811183671360AFDE",
