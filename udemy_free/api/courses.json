@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-04-01T19:14:31Z",
-  "count": 979,
+  "updated_at": "2026-04-01T20:55:10Z",
+  "count": 987,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/aprende-guitarra-desde-cero-/?couponCode=LAGUITARRADEMAURO11",
-      "coupon_code": "LAGUITARRADEMAURO11",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6259741_e671_3.jpg",
-      "title": "Aprende Guitarra desde cero"
+      "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=9E0A8032F5B65A5E3103",
+      "coupon_code": "9E0A8032F5B65A5E3103",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5150328_6242_9.jpg",
+      "title": "Generative AI : Create an impressive AI Art"
+    },
+    {
+      "url": "https://www.udemy.com/course/brain-computer-interface-with-deep-learning/?couponCode=1E11D69E552B855C2CD4",
+      "coupon_code": "1E11D69E552B855C2CD4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6082337_b988_4.jpg",
+      "title": "Brain computer interface with deep learning"
     },
     {
       "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=5CA695CA3F1B54CDD9A9",
@@ -15,10 +21,10 @@
       "title": "Build a Robust RESTful API with PHP 8, from Scratch!"
     },
     {
-      "url": "https://www.udemy.com/course/certifiedincybersecurityisc2/?couponCode=TECHSERKS2026",
-      "coupon_code": "TECHSERKS2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5073526_78e7_12.jpg",
-      "title": "The Ultimate ISC2 Certified in Cybersecurity CC Course 2025"
+      "url": "https://www.udemy.com/course/building-ai-android-applications/?couponCode=777BB7823C3C709D2F74",
+      "coupon_code": "777BB7823C3C709D2F74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4727364_66c8_3.jpg",
+      "title": "Android apps with artificial Intelligence"
     },
     {
       "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=0B1D3584BEFAD3113CF8",
@@ -39,6 +45,66 @@
       "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
     },
     {
+      "url": "https://www.udemy.com/course/create-udemy-courses-fast-with-manus-ai-unofficial/?couponCode=7DE49D450B4807849FA0",
+      "coupon_code": "7DE49D450B4807849FA0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6527619_b5da.jpg",
+      "title": "Create And Sell  Courses Fast with the Help of an AI Agent"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-laravel-crud-y-despliegue-de-aplicaciones-web/?couponCode=CENTROEDUCATIC6",
+      "coupon_code": "CENTROEDUCATIC6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6112061_86e9_10.jpg",
+      "title": "Curso Laravel: CRUD y Despliegue de Aplicaciones Web"
+    },
+    {
+      "url": "https://www.udemy.com/course/deep-reinforcement-learning-using-python/?couponCode=D4455D9390C87B245AD0",
+      "coupon_code": "D4455D9390C87B245AD0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4884246_63da.jpg",
+      "title": "Deep Reinforcement Learning using python"
+    },
+    {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=56B2768D7F854D44FBF6",
+      "coupon_code": "56B2768D7F854D44FBF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29_2.jpg",
+      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
+    },
+    {
+      "url": "https://www.udemy.com/course/feature-engineering-for-machine-learning-101/?couponCode=3AF59612EEEC7F1AD10E",
+      "coupon_code": "3AF59612EEEC7F1AD10E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6141171_c75f_3.jpg",
+      "title": "Feature Engineering  For Machine Learning 101"
+    },
+    {
+      "url": "https://www.udemy.com/course/spacy-with-nlp/?couponCode=3C7748B455066FF7E799",
+      "coupon_code": "3C7748B455066FF7E799",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5559560_88b1_6.jpg",
+      "title": "Natural Language Preprocessing Using spaCy"
+    },
+    {
+      "url": "https://www.udemy.com/course/vivre-librement/?couponCode=B0951DF387F4F887EE9E",
+      "coupon_code": "B0951DF387F4F887EE9E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
+      "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
+    },
+    {
+      "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=ADF26257627866D3A43E",
+      "coupon_code": "ADF26257627866D3A43E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860025_1f3c_3.jpg",
+      "title": "Liberté et Efficacité : vivre du minimalisme en voyageant"
+    },
+    {
+      "url": "https://www.udemy.com/course/aprende-guitarra-desde-cero-/?couponCode=LAGUITARRADEMAURO11",
+      "coupon_code": "LAGUITARRADEMAURO11",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6259741_e671_3.jpg",
+      "title": "Aprende Guitarra desde cero"
+    },
+    {
+      "url": "https://www.udemy.com/course/certifiedincybersecurityisc2/?couponCode=TECHSERKS2026",
+      "coupon_code": "TECHSERKS2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5073526_78e7_12.jpg",
+      "title": "The Ultimate ISC2 Certified in Cybersecurity CC Course 2025"
+    },
+    {
       "url": "https://www.udemy.com/course/curso-tutorial-aprender-como-usar-power-bi-excel-ejercicios-practicos/?couponCode=ABR_2026",
       "coupon_code": "ABR_2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/2369118_fcb4_7.jpg",
@@ -49,12 +115,6 @@
       "coupon_code": "DISCUDEMY.COM",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6267057_5414_2.jpg",
       "title": "Advanced Diploma in Depression Counselling"
-    },
-    {
-      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=56B2768D7F854D44FBF6",
-      "coupon_code": "56B2768D7F854D44FBF6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29_2.jpg",
-      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
     },
     {
       "url": "https://www.udemy.com/course/executive-assistance-and-management/?couponCode=DISCUDEMY.COM",
@@ -79,18 +139,6 @@
       "coupon_code": "APRIL2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7034043_1595_4.jpg",
       "title": "The Executive AI Audit"
-    },
-    {
-      "url": "https://www.udemy.com/course/vivre-librement/?couponCode=B0951DF387F4F887EE9E",
-      "coupon_code": "B0951DF387F4F887EE9E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
-      "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
-    },
-    {
-      "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=ADF26257627866D3A43E",
-      "coupon_code": "ADF26257627866D3A43E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6860025_1f3c_3.jpg",
-      "title": "Liberté et Efficacité : vivre du minimalisme en voyageant"
     },
     {
       "url": "https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/?couponCode=A19ECB1090BC842BD1A1",
