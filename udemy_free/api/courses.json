@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-01T09:17:35Z",
-  "count": 926,
+  "updated_at": "2026-04-01T11:06:04Z",
+  "count": 941,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/complete-salesforce-administrator-masterclass-training-2026/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7041269_cd4a_2.jpg",
+      "title": "Complete Salesforce Administrator Masterclass Training 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-web-development-html-css-javascript-bootstrap-react-js/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6813221_094a_2.jpg",
+      "title": "Web Development: HTML, CSS, JavaScript, Bootstrap, React JS"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-like-never-before/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6202947_8e15_2.jpg",
+      "title": "HTML, CSS for freshers 2026!"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-like-never-before/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6154347_3dc9_4.jpg",
+      "title": "Javascript for freshers 2026!!"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-azure-devops-from-beginner-to-advanced/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6827461_2d62_2.jpg",
+      "title": "Mastering Azure DevOps: From Beginner to Advanced 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-seo-from-beginner-to-pro-in-digital-marketing/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6780947_2b21_3.jpg",
+      "title": "Mastering SEO: Beginner to Pro in Digital Marketing 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-servicenow-administration-from-basics-to-expert/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6244441_bcb0_5.jpg",
+      "title": "Mastering the Complete Servicenow Administration Course 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-servicenow-human-resources-service-delivery-hrsd/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767691_64f3_4.jpg",
+      "title": "Mastering Servicenow Human Resources Service Delivery 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-catalog-item-and-record-producer-workflow-flows/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6266673_9642.jpg",
+      "title": "Catalog Items, Workflow, and Flows in the Servicenow 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-integrations-explained-in-detail/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6210889_6e74_2.jpg",
+      "title": "Integrations for the Servicenow Professionals 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-javascript-by-uday-gadiparthii/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6094353_4881_8.jpg",
+      "title": "Javascript for the Servicenow Professionals 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-mock-interviews-interview-questions/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6147907_fa48_2.jpg",
+      "title": "Servicenow Mock Interviews, 500 Interview Questions 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-scripting-mastery-advanced-development/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6256005_475f_3.jpg",
+      "title": "Scripting and Advanced Development in the Servicenow 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/total-servicenow-developer-and-admin-course-with-javascript/?couponCode=APR2026",
+      "coupon_code": "APR2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6223349_9075_5.jpg",
+      "title": "Master Servicenow Admin & Development from basic to pro 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/yetkinlik-temelli-mulakat-star-parla-care-sorular-tr/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7074803_67a7_2.jpg",
+      "title": "Sertifikalı Mülakatçı: STAR PARLA & CARE Yöntemleri [TR]"
+    },
     {
       "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=D96FC390442BE70D393A",
       "coupon_code": "D96FC390442BE70D393A",
