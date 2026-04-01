@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-01T11:06:04Z",
-  "count": 941,
+  "updated_at": "2026-04-01T13:54:48Z",
+  "count": 956,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/20-web-projects-with-html-css-and-javascript-master-js/?couponCode=15A63DF9643B5ADC6873",
+      "coupon_code": "15A63DF9643B5ADC6873",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5666836_9440_6.jpg",
+      "title": "Build 20 JavaScript Projects in 20 Day with HTML, CSS  & JS"
+    },
+    {
+      "url": "https://www.udemy.com/course/30-html-css-javascript-projects-a-beginners-guide-to-js/?couponCode=F2CE8DB13D6126412A88",
+      "coupon_code": "F2CE8DB13D6126412A88",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5815070_89ed.jpg",
+      "title": "30 HTML CSS & JavaScript Projects A Beginner's Guide to JS"
+    },
+    {
+      "url": "https://www.udemy.com/course/android-projects-course-build-3-applications-from-scratch/?couponCode=C3088E9045F15B061396",
+      "coupon_code": "C3088E9045F15B061396",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5672420_7ba7.jpg",
+      "title": "Android Projects Course Build 3 Applications from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/boost-your-portfolio-with-20-html-css-javascript-projects/?couponCode=E9142369D310A7E2735B",
+      "coupon_code": "E9142369D310A7E2735B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5727660_c410_3.jpg",
+      "title": "20 Web Projects build 20 HTML, CSS and JavaScript projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/competency-based-interview-star-parla-care-questions-de/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7101021_3288_2.jpg",
+      "title": "Zertifizierter Interviewer: STAR PARLA & CARE Methoden [DE]"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-dbt-modelado-y-pipelines-en-el-modern-data-stack/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643369_2395.jpg",
+      "title": "Curso DBT: Modelado y Pipelines en el Modern Data Stack"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-snowflake-analisis-y-visualizacion-de-datos/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6484341_9e78.jpg",
+      "title": "Curso Snowflake: Análisis y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-gemini-for-hr-ai-recruiting-analytics-en/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7109295_84de_2.jpg",
+      "title": "Certified Gemini HR Pro: AI Recruiting & Analytics [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/is-degerleme-ve-adil-ucret-yaplar-olusturma-tr/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7074867_e186_2.jpg",
+      "title": "Sertifikalı İş Değerleme Uzmanı: Adil Ücret & Grading [TR]"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-30-projects-in-30-days-course-for-beginners/?couponCode=EBBA60F01DE706EBA90D",
+      "coupon_code": "EBBA60F01DE706EBA90D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6036646_5148_8.jpg",
+      "title": "Master JavaScript, HTML, and CSS with 30 Projects in 30 Days"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-programming-course-build-100-projects-in-100-days/?couponCode=3B062D4674DC6E86FABD",
+      "coupon_code": "3B062D4674DC6E86FABD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7023779_38cb_3.jpg",
+      "title": "Javascript Programming Course Build 100 Projects in 100 Days"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-receptionist-training-legal-record-call-skills/?couponCode=D3CE00858298B8D9500B",
+      "coupon_code": "D3CE00858298B8D9500B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7087219_747f.jpg",
+      "title": "Medical Receptionist Training: Legal, Record & Call Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-presentation-pro/?couponCode=8E5173949E5521A71C64",
+      "coupon_code": "8E5173949E5521A71C64",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790825_22c9_2.jpg",
+      "title": "Microsoft PowerPoint: From Beginner to Presentation Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/procurement-and-vendor-management/?couponCode=DA6FFF25C1912229C946",
+      "coupon_code": "DA6FFF25C1912229C946",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6470485_248c_2.jpg",
+      "title": "Professional Diploma in Procurement and Vendor Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-java-programming-course-hands-on-training/?couponCode=281F4763DD63B87138A5",
+      "coupon_code": "281F4763DD63B87138A5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790875_65ba_2.jpg",
+      "title": "The Ultimate Java Programming Course: Hands-On Training"
+    },
     {
       "url": "https://www.udemy.com/course/complete-salesforce-administrator-masterclass-training-2026/?couponCode=APR2026",
       "coupon_code": "APR2026",
