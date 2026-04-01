@@ -1,11 +1,12 @@
 {
-  "updated_at": "2026-04-01T03:30:52Z",
-  "count": 998,
+  "updated_at": "2026-04-01T05:59:51Z",
+  "count": 1000,
   "courses": [
     {
       "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/?couponCode=MARZOW526",
       "coupon_code": "MARZOW526",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5043548_094c_2.jpg",
+      "title": "Análisis de datos con Microsoft Excel y Power BI"
     },
     {
       "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming-y-python/?couponCode=MARZOW526",
@@ -20,6 +21,12 @@
       "title": "Bases de Datos con MySQL + ChatGPT y MongoDB"
     },
     {
+      "url": "https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=2DA7BB0753D406C31712",
+      "coupon_code": "2DA7BB0753D406C31712",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4816774_b433_6.jpg",
+      "title": "Employee CyberSecurity Awareness First Line of Defense"
+    },
+    {
       "url": "https://www.udemy.com/course/curso-de-prompt-engineering-con-chatgpt/?couponCode=MARZOW526",
       "coupon_code": "MARZOW526",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5658340_ffde_7.jpg",
@@ -30,6 +37,12 @@
       "coupon_code": "MARZOW526",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5345672_ea3e_3.jpg",
       "title": "Examen MO-200 Microsoft Excel (Office 2019)"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-formulas-and-functions-tips-tricks-and-shortcuts/?couponCode=AAD45BA564249F93D5FD",
+      "coupon_code": "AAD45BA564249F93D5FD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893605_5574_2.jpg",
+      "title": "Excel Formulas and Functions: Tips, Tricks, and Shortcuts"
     },
     {
       "url": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/?couponCode=MARZOW526",
