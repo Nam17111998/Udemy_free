@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-03-31T23:40:38Z",
-  "count": 983,
+  "updated_at": "2026-04-01T03:30:52Z",
+  "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming-y-python/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5511332_f43e_2.jpg",
+      "title": "Análisis de datos con R Programming y Python"
+    },
+    {
+      "url": "https://www.udemy.com/course/bases-de-datos-con-mysql-y-mongodb/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599966_7a6c_4.jpg",
+      "title": "Bases de Datos con MySQL + ChatGPT y MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-prompt-engineering-con-chatgpt/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5658340_ffde_7.jpg",
+      "title": "Curso IA Generativa + Prompt Engineering con ChatGPT-4"
+    },
+    {
+      "url": "https://www.udemy.com/course/examen-mo-200-microsoft-excel-office-2019/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5345672_ea3e_3.jpg",
+      "title": "Examen MO-200 Microsoft Excel (Office 2019)"
+    },
+    {
+      "url": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5512766_9cd2_8.jpg",
+      "title": "Experto en Análisis y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/finanzas-personales-exito-financiero/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5537998_aa00.jpg",
+      "title": "Finanzas Personales: Éxito financiero a tu alcance"
+    },
+    {
+      "url": "https://www.udemy.com/course/frameworks-indices-transacciones-y-mucho-mas-con-mongodb/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5771254_1140.jpg",
+      "title": "Frameworks, Índices, Transacciones y mucho más con MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/funciones-tablas-dinamicas-chatgpt-y-mas-con-google-sheets/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5642840_9cc8.jpg",
+      "title": "Funciones, Tablas dinámicas, ChatGPT y más con Google Sheets"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-fundamentals-course-for-beginners/?couponCode=C0930A8734F6E5520793",
+      "coupon_code": "C0930A8734F6E5520793",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638522_57a6.jpg",
+      "title": "JavaScript Fundamentals Course for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-aprende-los-fundamentos-de-las-bases-de-datos-nosql/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5107788_2735_2.jpg",
+      "title": "MongoDB: Aprende los fundamentos de las bases de datos NoSQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/operaciones-crud-modelado-y-consultas-avanzadas-con-mongodb/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599936_df64.jpg",
+      "title": "Operaciones CRUD, Modelado y Consultas Avanzadas con MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-analisis-de-proyectos-reales/?couponCode=MARZOW526",
+      "coupon_code": "MARZOW526",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5179612_425a_2.jpg",
+      "title": "Power BI: Dashboards y análisis de proyectos reales"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-python-bootcamp-for-beginners/?couponCode=8DC2E6DF6B15E050663A",
+      "coupon_code": "8DC2E6DF6B15E050663A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663766_280c.jpg",
+      "title": "Python Programming: Python Bootcamp For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?couponCode=F50144E33C8FAF590B22",
+      "coupon_code": "F50144E33C8FAF590B22",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5634496_f8b0_4.jpg",
+      "title": "The Ultimate SQL Bootcamp : Go From Zero to Hero"
+    },
     {
       "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=08E3E95FA58EA39230BB",
       "coupon_code": "08E3E95FA58EA39230BB",
