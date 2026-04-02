@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-02T17:03:30Z",
-  "count": 908,
+  "updated_at": "2026-04-02T19:07:12Z",
+  "count": 921,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_232",
+      "coupon_code": "AR_FREE_232",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
+      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-una-agencia-de-viajes/?couponCode=ABRIL202601",
+      "coupon_code": "ABRIL202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6434653_761d.jpg",
+      "title": "Cómo Crear una Página Web Para una Agencia de Viajes 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-blocksy-el-mejor-tema-gratis-para-wordpress/?couponCode=ABRIL202601",
+      "coupon_code": "ABRIL202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6479371_3658_5.jpg",
+      "title": "Curso de Blocksy 2026: El Mejor Tema Gratis Para WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_229",
+      "coupon_code": "AR_FREE_229",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_230",
+      "coupon_code": "AR_FREE_230",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
+      "title": "Essentials for PyQGIS: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/figma-ux-design-for-beginners-real-projects-no-code/?couponCode=FREEUXCOURSE",
+      "coupon_code": "FREEUXCOURSE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7079521_a4cd_8.jpg",
+      "title": "Figma UX Design: Stop Watching, Start Designing (Beginner)"
+    },
+    {
+      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/?couponCode=AR_FREE_236",
+      "coupon_code": "AR_FREE_236",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6823217_2c07.jpg",
+      "title": "Geospatial AI: Deep Learning for Satellite Imagery"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_231",
+      "coupon_code": "AR_FREE_231",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
+      "title": "Django Essentials: Build and Deploy Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/pgd-in-scom/?couponCode=BDAACF83C63F69A8109D",
+      "coupon_code": "BDAACF83C63F69A8109D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6609829_4ec7_2.jpg",
+      "title": "Postgraduate Diploma in Supply Chain & Operations Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_233",
+      "coupon_code": "AR_FREE_233",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
+      "title": "Programming for Scientific Research with Python and R"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-ai/?couponCode=AR_FREE_228",
+      "coupon_code": "AR_FREE_228",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6749075_4cc0.jpg",
+      "title": "Python for AI and Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-gis-automation/?couponCode=AR_FREE_227",
+      "coupon_code": "AR_FREE_227",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6762543_37bf.jpg",
+      "title": "Python for GIS Automation and Geospatial Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_234",
+      "coupon_code": "AR_FREE_234",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
+      "title": "Python for Scientific Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_235",
+      "coupon_code": "AR_FREE_235",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
+      "title": "R for Researchers: From Basics to Advanced Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/smartphone-detox-for-kids/?couponCode=DISCUDEMY",
+      "coupon_code": "DISCUDEMY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6675417_7bb4_2.jpg",
+      "title": "Smartphone Detox for Kids: A 7-Day Family Challenge"
+    },
     {
       "url": "https://www.udemy.com/course/amazon-afiliados-como-crear-una-pagina-web-de-nicho/?couponCode=ABRIL202601",
       "coupon_code": "ABRIL202601",
@@ -19,12 +109,6 @@
       "coupon_code": "ABRIL202601",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6426699_f3e3_2.jpg",
       "title": "Cómo Crear una Página Web Para Google Adsense 2026"
-    },
-    {
-      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-una-agencia-de-viajes/?couponCode=ABRIL202601",
-      "coupon_code": "ABRIL202601",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6434653_761d.jpg",
-      "title": "Cómo Crear una Página Web Para una Agencia de Viajes 2026"
     },
     {
       "url": "https://www.udemy.com/course/como-hacer-anuncios-efectivos-en-tiktok-ads/?couponCode=ABRIL202601",
@@ -49,12 +133,6 @@
       "coupon_code": "ABRIL202601",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5958656_72ea_2.jpg",
       "title": "Curso Básico de MailerLite: Crea Automatizaciones de Correo"
-    },
-    {
-      "url": "https://www.udemy.com/course/curso-de-blocksy-el-mejor-tema-gratis-para-wordpress/?couponCode=ABRIL202601",
-      "coupon_code": "ABRIL202601",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6479371_3658_5.jpg",
-      "title": "Curso de Blocksy 2026: El Mejor Tema Gratis Para WordPress"
     },
     {
       "url": "https://www.udemy.com/course/elementor-ecommerce-hosting-crea-una-tienda-online-con-wordpress/?couponCode=ABRIL202601",
