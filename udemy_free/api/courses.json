@@ -1,11 +1,100 @@
 {
-  "updated_at": "2026-04-02T02:55:51Z",
-  "count": 907,
+  "updated_at": "2026-04-02T05:09:51Z",
+  "count": 922,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/complete-guide-to-python-data-structures-and-algorithms-cour/?couponCode=626231FD6F1E573F0346",
+      "coupon_code": "626231FD6F1E573F0346",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/?couponCode=3ACFFA9A8263034C046A",
+      "coupon_code": "3ACFFA9A8263034C046A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cpo-chief-product-officer-from-manager-to-c-level-en/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7044527_4a29_2.jpg",
+      "title": "CPO Academy: Chief Product Officer & C-Level Leadership [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/grok-mastery-programming-ai-and-problem-solving-skills/?couponCode=5976601668B819642D4C",
+      "coupon_code": "5976601668B819642D4C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6880527_5513.jpg",
+      "title": "Grok Mastery: Programming, AI and Problem Solving Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/hrbp-stratejik-ik-is-ortag-sertifikas-2026-tr/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7062465_7a79_2.jpg",
+      "title": "HRBP Masterclass: Stratejik İK İş Ortağı Sertifikası [TR]"
+    },
+    {
+      "url": "https://www.udemy.com/course/linkedin-recruiter-talentakquise-und-kandidatensuche-de/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7061153_ef79_2.jpg",
+      "title": "Experte LinkedIn Recruiter: Talentakquise & Kandidaten [DE]"
+    },
+    {
+      "url": "https://www.udemy.com/course/linkedin-recruiter-yetenek-kaynaklar-ve-aday-arama-tr/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7061193_b454_2.jpg",
+      "title": "Uzman LinkedIn Recruiter: Yetenek Kaynakları & Aday [TR]"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-and-functions-beginner-to-advanced/?couponCode=448E7D21A3F9F74C39D1",
+      "coupon_code": "448E7D21A3F9F74C39D1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893803_851c.jpg",
+      "title": "Microsoft Excel Formulas and Functions: Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/nextjs-build-dynamic-fast-scalable-web-applications/?couponCode=7C4EA0A4ADFCFA791C71",
+      "coupon_code": "7C4EA0A4ADFCFA791C71",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6761541_dcde_3.jpg",
+      "title": "Next.js: Build Dynamic, Fast & Scalable Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/osint-her-seyi-bulun-cevrimici-arayn-ve-arastrn-tr/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7038713_b543_2.jpg",
+      "title": "Sertifikalı OSINT Araştırmacı: Arama & Soruşturma [TR]"
+    },
+    {
+      "url": "https://www.udemy.com/course/perplexity-ai-transform-your-research-and-writing-workflow/?couponCode=303F0F16DDBB9BBD9F46",
+      "coupon_code": "303F0F16DDBB9BBD9F46",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6835803_8a17_6.jpg",
+      "title": "Perplexity AI: Transform Your Research and Writing Workflow"
+    },
+    {
+      "url": "https://www.udemy.com/course/pivot-tables-in-microsoft-excel-pivot-table-data-analysis/?couponCode=84AD82BC742C14F783EB",
+      "coupon_code": "84AD82BC742C14F783EB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893523_7b0b_2.jpg",
+      "title": "Pivot Tables in Microsoft Excel: Pivot Table & Data Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/positive-psychology-emotional-intelligence-certification/?couponCode=8AB098A4CABCFD53A24E",
+      "coupon_code": "8AB098A4CABCFD53A24E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7038327_54b8.jpg",
+      "title": "POSITIVE PSYCHOLOGY: EMOTIONAL INTELLIGENCE CERTIFICATION"
+    },
+    {
+      "url": "https://www.udemy.com/course/pr-director-corporate-reputation-public-relations-en/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7066035_1bfb_2.jpg",
+      "title": "PR Director Academy: Corporate Reputation & PR Strategy [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/?couponCode=196330952DEC5B82E78F",
+      "coupon_code": "196330952DEC5B82E78F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6758057_2d7b.jpg",
+      "title": "The Modern JavaScript Course: Build Interactive Websites"
+    },
     {
       "url": "https://www.udemy.com/course/ai-powered-career-strategy-adaptation/?couponCode=E0AF0A4546CC6DB0B9C9",
       "coupon_code": "E0AF0A4546CC6DB0B9C9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7031547_6d9a.jpg",
+      "title": "AI-Powered Career Strategy & Adaptation"
     },
     {
       "url": "https://www.udemy.com/course/bit-integrations-como-automatizar-tareas-en-wordpress/?couponCode=ABRIL202601",
