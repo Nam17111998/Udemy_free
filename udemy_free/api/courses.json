@@ -1,16 +1,108 @@
 {
-  "updated_at": "2026-04-02T05:09:51Z",
-  "count": 922,
+  "updated_at": "2026-04-02T07:24:16Z",
+  "count": 937,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/101-ai-tools-to-improve-productivity-save-time/?couponCode=DC88C7AA256F377B0410",
+      "coupon_code": "DC88C7AA256F377B0410",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6313699_bebd.jpg",
+      "title": "101 AI Tools to Improve Productivity & Save Time"
+    },
+    {
+      "url": "https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=B4CDA98DA28C9097D9A5",
+      "coupon_code": "B4CDA98DA28C9097D9A5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6260351_a597_2.jpg",
+      "title": "Become a Hydra Expert: Advanced Brute Forcing Techniques"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-graphics-design-bootcamp-beginner-to-advanced/?couponCode=6748DC978DFB5ADF51B4",
+      "coupon_code": "6748DC978DFB5ADF51B4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5401764_4279_2.jpg",
+      "title": "Complete Graphics Design Bootcamp Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/dvwa-for-ethical-hackers-master-web-app-attacks/?couponCode=3CFFA9318045786E9E9C",
+      "coupon_code": "3CFFA9318045786E9E9C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6559419_4b55_2.jpg",
+      "title": "DVWA for Ethical Hackers: Master Web App Attacks"
+    },
+    {
+      "url": "https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=1253C8BBC0704EBAD683",
+      "coupon_code": "1253C8BBC0704EBAD683",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6214531_ba5c_3.jpg",
+      "title": "Ethically Hack Human Mind: Social Engineering Fundamentals"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-fundamentals-course-for-beginners/?couponCode=E3900BFB2E06CCDB3672",
+      "coupon_code": "E3900BFB2E06CCDB3672",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638424_41f4.jpg",
+      "title": "Java Fundamentals Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/?couponCode=7F7AD4240F2D7A014186",
+      "coupon_code": "7F7AD4240F2D7A014186",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5623458_170b_3.jpg",
+      "title": "Mastering C++ Language - C++ Programming For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-innovation-competitions-hackathon-crowdsourcing/?couponCode=EA52218FD0920CC3158C",
+      "coupon_code": "EA52218FD0920CC3158C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6047443_b3ba_5.jpg",
+      "title": "Mastering Innovation Competitions, Hackathon & Crowdsourcing"
+    },
+    {
+      "url": "https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?couponCode=73473F237A579F04601D",
+      "coupon_code": "73473F237A579F04601D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6106075_a530_3.jpg",
+      "title": "NMAP Mastery: Ultimate Guide to Network Scanning"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=7EB386E26EABCE39BB89",
+      "coupon_code": "7EB386E26EABCE39BB89",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636472_7921.jpg",
+      "title": "PHP Master Class - The Complete PHP Developer Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-django-full-stack-development-build-modern-web-app/?couponCode=CD9C1EB49A3C9A6B9B68",
+      "coupon_code": "CD9C1EB49A3C9A6B9B68",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6576145_939d.jpg",
+      "title": "Python Django Full Stack Development: Build Modern Web App"
+    },
+    {
+      "url": "https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=5093CB43ED0F995D0BC5",
+      "coupon_code": "5093CB43ED0F995D0BC5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6311131_636f_2.jpg",
+      "title": "Recon Ninja: Advanced Info Gathering for Ethical Hackers"
+    },
+    {
+      "url": "https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=7CAFDDEFF1C357ADF3E3",
+      "coupon_code": "7CAFDDEFF1C357ADF3E3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6372991_8faf_2.jpg",
+      "title": "Red Team Mastery: Advanced Offensive Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=9EB05746428C0FEE1203",
+      "coupon_code": "9EB05746428C0FEE1203",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6163031_3fcc_3.jpg",
+      "title": "SQLMap From Scratch for Ethical Hackers"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-for-beginner-to-advanced-with-adobe-photoshop/?couponCode=B9F24CD1571396ED412A",
+      "coupon_code": "B9F24CD1571396ED412A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5408160_8b72_3.jpg",
+      "title": "T-Shirt Design for Beginner to Advanced with Adobe Photoshop"
+    },
     {
       "url": "https://www.udemy.com/course/complete-guide-to-python-data-structures-and-algorithms-cour/?couponCode=626231FD6F1E573F0346",
       "coupon_code": "626231FD6F1E573F0346",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004151_5be6.jpg",
+      "title": "Complete Guide to Python Data Structures & Algorithms Course"
     },
     {
       "url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/?couponCode=3ACFFA9A8263034C046A",
       "coupon_code": "3ACFFA9A8263034C046A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5465518_4f1b_2.jpg",
+      "title": "Computer Engineering Mastery: From Beginner to Expert!"
     },
     {
       "url": "https://www.udemy.com/course/cpo-chief-product-officer-from-manager-to-c-level-en/?couponCode=PAPAHR_APR_01",
