@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-02T11:54:07Z",
-  "count": 963,
+  "updated_at": "2026-04-02T13:44:49Z",
+  "count": 978,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/becoming-a-sought-after-coach/?couponCode=COACHING_APR_2026",
+      "coupon_code": "COACHING_APR_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6574067_d862_5.jpg",
+      "title": "Becoming a Sought-After Coach"
+    },
+    {
+      "url": "https://www.udemy.com/course/bridging-cultural-differences/?couponCode=CULTURE_APR_2026",
+      "coupon_code": "CULTURE_APR_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6238523_bcc1_6.jpg",
+      "title": "Cross-Cultural Leadership Mastery for Global Teams"
+    },
+    {
+      "url": "https://www.udemy.com/course/entrepreneurship-mastery/?couponCode=MASTERY_APR_2026",
+      "coupon_code": "MASTERY_APR_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6837176_aa40.jpg",
+      "title": "Entrepreneurship Mastery: Building and Scaling Your Business"
+    },
+    {
+      "url": "https://www.udemy.com/course/expert-strategies-for-application-security-best-practices/?couponCode=STAR_STUDENT6",
+      "coupon_code": "STAR_STUDENT6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6851211_98c5_4.jpg",
+      "title": "Expert Strategies for Application Security Best Practices"
+    },
+    {
+      "url": "https://www.udemy.com/course/expert-strategies-in-cyber-espionage-counterintelligence/?couponCode=STAR_STUDENT6",
+      "coupon_code": "STAR_STUDENT6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6950653_967c_2.jpg",
+      "title": "Expert Strategies in Cyber Espionage & Counterintelligence"
+    },
+    {
+      "url": "https://www.udemy.com/course/genai-ceo-playbook-amplifying-visionary-leadership/?couponCode=STAR_STUDENT6",
+      "coupon_code": "STAR_STUDENT6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6688231_2d1d_2.jpg",
+      "title": "GenAI for CEOs: Strategy, Innovation & Competitive Advantage"
+    },
+    {
+      "url": "https://www.udemy.com/course/genai-data-and-analytics-academy/?couponCode=STAR_STUDENT6",
+      "coupon_code": "STAR_STUDENT6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6861669_c769_4.jpg",
+      "title": "GenAI for Data Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/healthcare-data-security-and-risk-management-guide/?couponCode=STAR_STUDENT6",
+      "coupon_code": "STAR_STUDENT6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6970309_4923_3.jpg",
+      "title": "Healthcare Data Security and Risk Management Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/industry-dynamics-and-economic-trends-in-credit-assessment/?couponCode=STAR_STUDENT6",
+      "coupon_code": "STAR_STUDENT6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6749713_1a11_6.jpg",
+      "title": "Advanced Credit: Macro, ESG & Industry Trends Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/innovative-ai-practices-in-telemedicine-virtual-care/?couponCode=STAR_STUDENT6",
+      "coupon_code": "STAR_STUDENT6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6758145_5ce7_3.jpg",
+      "title": "Innovative AI Practices in Telemedicine & Virtual Care"
+    },
+    {
+      "url": "https://www.udemy.com/course/intelligent-business-operations/?couponCode=STAR_STUDENT6",
+      "coupon_code": "STAR_STUDENT6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6870539_3a1b_10.jpg",
+      "title": "Intelligent Business Operations"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-prompt-engineering-for-generative-ai-z/?couponCode=STAR_STUDENT6",
+      "coupon_code": "STAR_STUDENT6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6738901_8fbb_5.jpg",
+      "title": "Generative AI Prompt Engineering Certification Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-the-art-of-professional-speaking/?couponCode=COACHING_APR_2026",
+      "coupon_code": "COACHING_APR_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6686373_e46c_3.jpg",
+      "title": "Mastering the Art of Professional Speaking"
+    },
+    {
+      "url": "https://www.udemy.com/course/time-management-for-remote-workers-and-busy-professionals/?couponCode=TIME_APR_2026",
+      "coupon_code": "TIME_APR_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6190747_75a9_5.jpg",
+      "title": "Time Management for Remote Workers and Busy Professionals"
+    },
+    {
+      "url": "https://www.udemy.com/course/writing-and-publishing-your-bestselling-book/?couponCode=WRITING_APR_2026",
+      "coupon_code": "WRITING_APR_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6379409_0a7d_4.jpg",
+      "title": "Writing and Publishing Your Bestselling Book"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-python-automation-for-excel-and-accounting/?couponCode=A238FA98616E266A6C89",
       "coupon_code": "A238FA98616E266A6C89",
