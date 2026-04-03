@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-03T07:21:10Z",
-  "count": 940,
+  "updated_at": "2026-04-03T09:04:23Z",
+  "count": 955,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=C7C6DBAF5728FCFD9C8D",
+      "coupon_code": "C7C6DBAF5728FCFD9C8D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5112922_e7f7_9.jpg",
+      "title": "Learn React by Building the Simplest App from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=3BFF4DB621EFBDCBA3E0",
+      "coupon_code": "3BFF4DB621EFBDCBA3E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
+      "title": "Build a Backend REST API with Node JS from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/chro-werden-sie-strategischer-personalvorstand-de/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017337_26f2_2.jpg",
+      "title": "Diplomierter CHRO: Strategischer Personalvorstand [DE]"
+    },
+    {
+      "url": "https://www.udemy.com/course/coo-operasyon-direktoru-ve-operasyonlar-direktoru-tr/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7028035_fd50_2.jpg",
+      "title": "COO: Operasyon Direktörü ve Operasyonlar Direktörü [TR]"
+    },
+    {
+      "url": "https://www.udemy.com/course/critical-thinking-how-to-make-decisions-in-the-ai-era-en/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7033713_f65c_2.jpg",
+      "title": "Certified Critical Thinker: Decisions in the AI Era [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=AA4AF2B0CCCFB278040F",
+      "coupon_code": "AA4AF2B0CCCFB278040F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6750979_af53_5.jpg",
+      "title": "Transforme ton Intérieur en Environnement de Réussite"
+    },
+    {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=55F803816B94A41C0A78",
+      "coupon_code": "55F803816B94A41C0A78",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29_2.jpg",
+      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
+    },
+    {
+      "url": "https://www.udemy.com/course/implementation-of-occupational-health-and-safety-in-industry/?couponCode=C926A2DC51944EC5219D",
+      "coupon_code": "C926A2DC51944EC5219D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6120939_7b45_3.jpg",
+      "title": "Implementation of Occupational Health and Safety in Industry"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-occupational-health-and-safety-professional/?couponCode=4E3AC2A41F060FA62ED3",
+      "coupon_code": "4E3AC2A41F060FA62ED3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6314837_9642_3.jpg",
+      "title": "Introduction to Occupational Health and Safety Professional"
+    },
+    {
+      "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=8BCB84FE51470669E8BF",
+      "coupon_code": "8BCB84FE51470669E8BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6022786_dbe8_2.jpg",
+      "title": "ÉVITER L'ÉCHEC : Le système qui maximalise la réussite"
+    },
+    {
+      "url": "https://www.udemy.com/course/personalplanung-optimierung-und-bedarfsprognose-de/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7005683_6e27_2.jpg",
+      "title": "Personalplanung Mastery: Optimierung & Bedarfsprognose [DE]"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-pdo-2021-the-ultimate-pdo-crash-course/?couponCode=PDOCOURSE86",
+      "coupon_code": "PDOCOURSE86",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3855420_74ef_5.jpg",
+      "title": "PHP for Beginners: PDO Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/practicing-homeopath-certificate-course/?couponCode=49AA6ADC93E88B8FF6D3",
+      "coupon_code": "49AA6ADC93E88B8FF6D3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6805333_96a8_3.jpg",
+      "title": "Practicing Homeopath Certificate Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-analysis-bootcamp-pandas-seaborn-and-plotly/?couponCode=4AA003FE44093F3B0DFB",
+      "coupon_code": "4AA003FE44093F3B0DFB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5864046_ef60_11.jpg",
+      "title": "Python Data Analysis Bootcamp - Pandas, Seaborn and Plotly"
+    },
+    {
+      "url": "https://www.udemy.com/course/start-your-freelancing-agency/?couponCode=F13156962AE86381C96D",
+      "coupon_code": "F13156962AE86381C96D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6269857_b5bf_2.jpg",
+      "title": "Start Your One-Person Freelance Agency"
+    },
     {
       "url": "https://www.udemy.com/course/canva-rockstar-design-like-a-pro-for-social-media-success/?couponCode=1E7EC77C0BF8172597AE",
       "coupon_code": "1E7EC77C0BF8172597AE",
