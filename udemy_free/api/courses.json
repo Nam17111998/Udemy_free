@@ -1,17 +1,102 @@
 {
-  "updated_at": "2026-04-02T23:41:28Z",
-  "count": 925,
+  "updated_at": "2026-04-03T03:16:17Z",
+  "count": 934,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=C48DE7EBB91F635D07CF",
+      "coupon_code": "C48DE7EBB91F635D07CF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5377010_fb30_4.jpg",
+      "title": "Build a Robust RESTful API with PHP 8, from Scratch!"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-rockstar-design-like-a-pro-for-social-media-success/?couponCode=1E7EC77C0BF8172597AE",
+      "coupon_code": "1E7EC77C0BF8172597AE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6031266_690c_2.jpg",
+      "title": "Canva Rockstar: Design Like a Pro for Social Media Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=B084E7FF3785E9B26E37",
+      "coupon_code": "B084E7FF3785E9B26E37",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753061_5882.jpg",
+      "title": "Comment Avoir Une Belle Vie"
+    },
+    {
+      "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=92168DC92071D8552F55",
+      "coupon_code": "92168DC92071D8552F55",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5941852_757f_3.jpg",
+      "title": "Efficacité et Concentration pour RÉSULTATS EXTRÊMES"
+    },
+    {
+      "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=77BB6B44152EFC2B451B",
+      "coupon_code": "77BB6B44152EFC2B451B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg",
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+"
+    },
+    {
+      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=1CA1B0990A417D8C0613",
+      "coupon_code": "1CA1B0990A417D8C0613",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6712869_0b21_3.jpg",
+      "title": "Superhumain – Investir en soi en apprenant en continu"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_229",
+      "coupon_code": "AR_FREE_229",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/?couponCode=AR_FREE_236",
+      "coupon_code": "AR_FREE_236",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6823217_2c07.jpg",
+      "title": "Geospatial AI: Deep Learning for Satellite Imagery"
+    },
+    {
+      "url": "https://www.udemy.com/course/iso-29993-lead-auditor-course-clause-by-clause/?couponCode=25509FE2DAD7F0B6CAFA",
+      "coupon_code": "25509FE2DAD7F0B6CAFA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7025853_da42.jpg",
+      "title": "ISO 29993:2017 Lead Auditor Course (Clause by Clause)"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-mysql-database-creation-management-sql-queries/?couponCode=B434FA0B0BCF1FCEA050",
+      "coupon_code": "B434FA0B0BCF1FCEA050",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182905_c45a.jpg",
+      "title": "Mastering MYSQL: Database Creation, Management & SQL Queries"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=BC77CD63DF675723873C",
+      "coupon_code": "BC77CD63DF675723873C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6014988_095c_3.jpg",
+      "title": "Microsoft Excel : Mastering Data Analysis with Pivot Table"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-with-formulas-functions/?couponCode=49D89E554C7EFCFCBFA8",
+      "coupon_code": "49D89E554C7EFCFCBFA8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5994066_cdaf.jpg",
+      "title": "Microsoft Excel Pivot Tables With Formulas & Functions"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-build-a-strong-foundation-in-coding/?couponCode=C2562A3943892111D656",
+      "coupon_code": "C2562A3943892111D656",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182945_6e0a.jpg",
+      "title": "Python Programming: Build a Strong Foundation in Coding"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-rhythm-of-english/?couponCode=REALDISAPR26",
+      "coupon_code": "REALDISAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3852486_243d_2.jpg",
+      "title": "The Rhythm of English"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-tricentis-neoload-bootcamp/?couponCode=37B8A8FCE1EC92557944",
+      "coupon_code": "37B8A8FCE1EC92557944",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6417831_3c0c_6.jpg",
+      "title": "The Complete Tricentis NeoLoad Bootcamp 2026"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_232",
       "coupon_code": "AR_FREE_232",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
       "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
-    },
-    {
-      "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=B084E7FF3785E9B26E37",
-      "coupon_code": "B084E7FF3785E9B26E37",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-para-google-adsense/?couponCode=ABRIL202601",
@@ -32,17 +117,6 @@
       "title": "Curso de Blocksy 2026: El Mejor Tema Gratis Para WordPress"
     },
     {
-      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=1CA1B0990A417D8C0613",
-      "coupon_code": "1CA1B0990A417D8C0613",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_229",
-      "coupon_code": "AR_FREE_229",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
-      "title": "Essentials for ArcPy: Python for Geospatial Automation"
-    },
-    {
       "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_230",
       "coupon_code": "AR_FREE_230",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
@@ -53,18 +127,6 @@
       "coupon_code": "FREEUXCOURSE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7079521_a4cd_8.jpg",
       "title": "Figma UX Design: Stop Watching, Start Designing (Beginner)"
-    },
-    {
-      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/?couponCode=AR_FREE_236",
-      "coupon_code": "AR_FREE_236",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6823217_2c07.jpg",
-      "title": "Geospatial AI: Deep Learning for Satellite Imagery"
-    },
-    {
-      "url": "https://www.udemy.com/course/iso-29993-lead-auditor-course-clause-by-clause/?couponCode=25509FE2DAD7F0B6CAFA",
-      "coupon_code": "25509FE2DAD7F0B6CAFA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7025853_da42.jpg",
-      "title": "ISO 29993:2017 Lead Auditor Course (Clause by Clause)"
     },
     {
       "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_231",
@@ -83,12 +145,6 @@
       "coupon_code": "DISCUDEMY",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6675417_7bb4_2.jpg",
       "title": "Smartphone Detox for Kids: A 7-Day Family Challenge"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-ultimate-tricentis-neoload-bootcamp/?couponCode=37B8A8FCE1EC92557944",
-      "coupon_code": "37B8A8FCE1EC92557944",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6417831_3c0c_6.jpg",
-      "title": "The Complete Tricentis NeoLoad Bootcamp 2026"
     },
     {
       "url": "https://www.udemy.com/course/como-hacer-anuncios-efectivos-en-tiktok-ads/?couponCode=ABRIL202601",
