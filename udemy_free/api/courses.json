@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-03T09:04:23Z",
-  "count": 955,
+  "updated_at": "2026-04-03T10:52:45Z",
+  "count": 959,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advertising-strategy-fundamentals-upskill-to-drive-growth/?couponCode=52784221B346DDB6DE12",
+      "coupon_code": "52784221B346DDB6DE12",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5995612_bf74_6.jpg",
+      "title": "Advertising Strategy Fundamentals: Upskill to Drive Growth"
+    },
     {
       "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=C7C6DBAF5728FCFD9C8D",
       "coupon_code": "C7C6DBAF5728FCFD9C8D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5112922_e7f7_9.jpg",
       "title": "Learn React by Building the Simplest App from Scratch"
-    },
-    {
-      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=3BFF4DB621EFBDCBA3E0",
-      "coupon_code": "3BFF4DB621EFBDCBA3E0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
-      "title": "Build a Backend REST API with Node JS from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/chro-werden-sie-strategischer-personalvorstand-de/?couponCode=PAPAHR_APR_01",
@@ -27,10 +27,10 @@
       "title": "COO: Operasyon Direktörü ve Operasyonlar Direktörü [TR]"
     },
     {
-      "url": "https://www.udemy.com/course/critical-thinking-how-to-make-decisions-in-the-ai-era-en/?couponCode=PAPAHR_APR_01",
+      "url": "https://www.udemy.com/course/einstellung-von-entwicklern-it-recruiting-in-tech-de/?couponCode=PAPAHR_APR_01",
       "coupon_code": "PAPAHR_APR_01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7033713_f65c_2.jpg",
-      "title": "Certified Critical Thinker: Decisions in the AI Era [EN]"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7008685_cb83_2.jpg",
+      "title": "IT-Recruiter Spezialist: Einstellung von Entwicklern [DE]"
     },
     {
       "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=AA4AF2B0CCCFB278040F",
@@ -43,6 +43,12 @@
       "coupon_code": "55F803816B94A41C0A78",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29_2.jpg",
       "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
+    },
+    {
+      "url": "https://www.udemy.com/course/headhunting-und-executive-search-fur-personalvermittler-de/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7016969_6f7b_2.jpg",
+      "title": "Headhunter Spezialist: Executive Search & Vermittlung [DE]"
     },
     {
       "url": "https://www.udemy.com/course/implementation-of-occupational-health-and-safety-in-industry/?couponCode=C926A2DC51944EC5219D",
@@ -79,6 +85,24 @@
       "coupon_code": "49AA6ADC93E88B8FF6D3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6805333_96a8_3.jpg",
       "title": "Practicing Homeopath Certificate Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/vergutung-benefits-cb-im-total-rewards-system-de/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7028595_91f7_2.jpg",
+      "title": "Total Rewards Mastery: Vergütung & Benefits System [DE]"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=3BFF4DB621EFBDCBA3E0",
+      "coupon_code": "3BFF4DB621EFBDCBA3E0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg",
+      "title": "Build a Backend REST API with Node JS from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/critical-thinking-how-to-make-decisions-in-the-ai-era-en/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7033713_f65c_2.jpg",
+      "title": "Certified Critical Thinker: Decisions in the AI Era [EN]"
     },
     {
       "url": "https://www.udemy.com/course/python-data-analysis-bootcamp-pandas-seaborn-and-plotly/?couponCode=4AA003FE44093F3B0DFB",
