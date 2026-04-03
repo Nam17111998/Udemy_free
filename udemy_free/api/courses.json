@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-03T03:16:17Z",
-  "count": 934,
+  "updated_at": "2026-04-03T05:44:59Z",
+  "count": 939,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/automl-for-ai-powered-professionals/?couponCode=FREEGIFTAI",
+      "coupon_code": "FREEGIFTAI",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4204684_a7e6_2.jpg",
+      "title": "Automated Machine Learning for Beginners (Google & Apple)"
+    },
     {
       "url": "https://www.udemy.com/course/build-modern-php-api/?couponCode=C48DE7EBB91F635D07CF",
       "coupon_code": "C48DE7EBB91F635D07CF",
@@ -39,6 +45,54 @@
       "title": "Superhumain – Investir en soi en apprenant en continu"
     },
     {
+      "url": "https://www.udemy.com/course/iso-29993-lead-auditor-course-clause-by-clause/?couponCode=25509FE2DAD7F0B6CAFA",
+      "coupon_code": "25509FE2DAD7F0B6CAFA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7025853_da42.jpg",
+      "title": "ISO 29993:2017 Lead Auditor Course (Clause by Clause)"
+    },
+    {
+      "url": "https://www.udemy.com/course/jquery-complete-jquery-course-from-beginner-to-advanced/?couponCode=805C360C793C5A03D394",
+      "coupon_code": "805C360C793C5A03D394",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636534_c4c8_5.jpg",
+      "title": "jQuery - Complete jQuery Course From Beginner To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-c-language-c-programming-language-for-beginners/?couponCode=2D09D5A4B284CAA66859",
+      "coupon_code": "2D09D5A4B284CAA66859",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5618828_4904.jpg",
+      "title": "Mastering C Language - C Programming For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-mysql-database-creation-management-sql-queries/?couponCode=B434FA0B0BCF1FCEA050",
+      "coupon_code": "B434FA0B0BCF1FCEA050",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6182905_c45a.jpg",
+      "title": "Mastering MYSQL: Database Creation, Management & SQL Queries"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=BAA14BA8BEF3076B4E77",
+      "coupon_code": "BAA14BA8BEF3076B4E77",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3694430_429b.jpg",
+      "title": "Python Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/redash-masterclass-dashboards-sql-on-prem-deployment/?couponCode=9B53A2451E97A9F84683",
+      "coupon_code": "9B53A2451E97A9F84683",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6964669_44c5.jpg",
+      "title": "Redash Masterclass: Dashboards, SQL & On-Prem Deployment"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-rhythm-of-english/?couponCode=REALDISAPR26",
+      "coupon_code": "REALDISAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3852486_243d_2.jpg",
+      "title": "The Rhythm of English"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-tricentis-neoload-bootcamp/?couponCode=37B8A8FCE1EC92557944",
+      "coupon_code": "37B8A8FCE1EC92557944",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6417831_3c0c_6.jpg",
+      "title": "The Complete Tricentis NeoLoad Bootcamp 2026"
+    },
+    {
       "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_229",
       "coupon_code": "AR_FREE_229",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
@@ -49,18 +103,6 @@
       "coupon_code": "AR_FREE_236",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6823217_2c07.jpg",
       "title": "Geospatial AI: Deep Learning for Satellite Imagery"
-    },
-    {
-      "url": "https://www.udemy.com/course/iso-29993-lead-auditor-course-clause-by-clause/?couponCode=25509FE2DAD7F0B6CAFA",
-      "coupon_code": "25509FE2DAD7F0B6CAFA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7025853_da42.jpg",
-      "title": "ISO 29993:2017 Lead Auditor Course (Clause by Clause)"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-mysql-database-creation-management-sql-queries/?couponCode=B434FA0B0BCF1FCEA050",
-      "coupon_code": "B434FA0B0BCF1FCEA050",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6182905_c45a.jpg",
-      "title": "Mastering MYSQL: Database Creation, Management & SQL Queries"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=BC77CD63DF675723873C",
@@ -79,18 +121,6 @@
       "coupon_code": "C2562A3943892111D656",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6182945_6e0a.jpg",
       "title": "Python Programming: Build a Strong Foundation in Coding"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-rhythm-of-english/?couponCode=REALDISAPR26",
-      "coupon_code": "REALDISAPR26",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3852486_243d_2.jpg",
-      "title": "The Rhythm of English"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-ultimate-tricentis-neoload-bootcamp/?couponCode=37B8A8FCE1EC92557944",
-      "coupon_code": "37B8A8FCE1EC92557944",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6417831_3c0c_6.jpg",
-      "title": "The Complete Tricentis NeoLoad Bootcamp 2026"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_232",
