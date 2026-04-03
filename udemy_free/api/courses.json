@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-03T11:42:50Z",
-  "count": 965,
+  "updated_at": "2026-04-03T13:20:41Z",
+  "count": 980,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-interpersonal-skills-excellence/?couponCode=B1FC75134E3032CFC54D",
+      "coupon_code": "B1FC75134E3032CFC54D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6789369_cce8_2.jpg",
+      "title": "AI for Interpersonal & Relationship Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-leadership-leadership-development-excellence/?couponCode=9AD13F0C165D41B4ED94",
+      "coupon_code": "9AD13F0C165D41B4ED94",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6871837_2536_2.jpg",
+      "title": "AI for Leadership & Leadership Development Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-mastering-complexity/?couponCode=720D6BA25F92CB2E3407",
+      "coupon_code": "720D6BA25F92CB2E3407",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6922499_0e6a.jpg",
+      "title": "AI for Mastering Complexity"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-personality-development/?couponCode=F45EA759279C4F922D90",
+      "coupon_code": "F45EA759279C4F922D90",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6947251_6827_4.jpg",
+      "title": "AI for Personality Growth & Self-Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-problem-solving-excellence/?couponCode=3311ACBA4827EF306235",
+      "coupon_code": "3311ACBA4827EF306235",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767201_d0f3.jpg",
+      "title": "AI for Structured Problem Solving / Critical Thinking Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-time-management-excellence/?couponCode=AAF673C87179A80F08B7",
+      "coupon_code": "AAF673C87179A80F08B7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6845821_c8a2.jpg",
+      "title": "AI for Time Management Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-verbal-non-verbal-communication-excellence/?couponCode=B7CC4FCE8EB572552066",
+      "coupon_code": "B7CC4FCE8EB572552066",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742017_64c1.jpg",
+      "title": "AI for Communication Skills: Verbal & Nonverbal (Non Verbal)"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=813D39A7D5161B0EAD4C",
+      "coupon_code": "813D39A7D5161B0EAD4C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5049552_545e.jpg",
+      "title": "C++ And PHP Complete Course for C++ and PHP Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-mysql-bootcamp-learn-sql-step-by-step/?couponCode=9925204909B20FD0E55B",
+      "coupon_code": "9925204909B20FD0E55B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6707335_cf68_2.jpg",
+      "title": "Complete MySQL Bootcamp: Learn SQL Step by Step"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-nodejs-bootcamp-from-basics-to-advanced/?couponCode=04A6149D89B2F7A9AFF3",
+      "coupon_code": "04A6149D89B2F7A9AFF3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6696081_61f0_3.jpg",
+      "title": "Complete Node.js Bootcamp: From Basics to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/humanresourceshrm/?couponCode=DISCUDEMY.COM",
+      "coupon_code": "DISCUDEMY.COM",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241287_860d_2.jpg",
+      "title": "Executive Diploma in Human Resources Management (HRM)"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-game-theory/?couponCode=F413E12DAA8CAB5A6059",
+      "coupon_code": "F413E12DAA8CAB5A6059",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6031262_db9e_4.jpg",
+      "title": "Master in Game Theory"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-systems-thinking/?couponCode=05720CA02F6D33D2743D",
+      "coupon_code": "05720CA02F6D33D2743D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5940178_c358.jpg",
+      "title": "Master in Systems Thinking"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-scm/?couponCode=0E0F55D9F92749C19D23",
+      "coupon_code": "0E0F55D9F92749C19D23",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6482983_b140_2.jpg",
+      "title": "Professional Diploma in Strategic Supply Chain Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/thinking-deciding-and-leading-with-ai-as-cognitive-partner/?couponCode=AE2F2060AC0145D39D33",
+      "coupon_code": "AE2F2060AC0145D39D33",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995691_421b.jpg",
+      "title": "Thinking, Deciding and Leading with AI as Cognitive Partner"
+    },
     {
       "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=C7C6DBAF5728FCFD9C8D",
       "coupon_code": "C7C6DBAF5728FCFD9C8D",
