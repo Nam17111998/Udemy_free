@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-04T11:36:09Z",
-  "count": 930,
+  "updated_at": "2026-04-04T13:13:06Z",
+  "count": 931,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/?couponCode=72E5DCDC04BB87611D74",
@@ -39,10 +39,10 @@
       "title": "Hands-On Python Machine Learning with Real World Projects"
     },
     {
-      "url": "https://www.udemy.com/course/javascript-coding-interview-questions-with-solutions/?couponCode=F557C87D3261B6AB245C",
-      "coupon_code": "F557C87D3261B6AB245C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6171259_321d_2.jpg",
-      "title": "100+ JavaScript Coding Practice Test Questions Answers 2026"
+      "url": "https://www.udemy.com/course/java-coding-interview-questions/?couponCode=B445BE0D29BDA58B5561",
+      "coupon_code": "B445BE0D29BDA58B5561",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6447165_c67e_2.jpg",
+      "title": "100+ Java Coding Practice Test [Questions & Answers] 2026"
     },
     {
       "url": "https://www.udemy.com/course/javascript-fundamentals-to-advanced-full-stack-development/?couponCode=B26271CEEBFA78D51967",
@@ -51,22 +51,33 @@
       "title": "JavaScript Fundamentals to Advanced: Full Stack Development"
     },
     {
-      "url": "https://www.udemy.com/course/learn-cpp-programming-beginner-to-advanced/?couponCode=8203067C322D925B78C5",
-      "coupon_code": "8203067C322D925B78C5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4871278_dc28_4.jpg",
-      "title": "Learn C++ Programming - Beginner to Advanced"
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=1DA13A1A8EF7197A2BE1",
+      "coupon_code": "1DA13A1A8EF7197A2BE1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5381926_9f28.jpg",
+      "title": "Learn Blockchain and Cryptocurrency from Beginning"
     },
     {
-      "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=373C96911170A2A3374E",
-      "coupon_code": "373C96911170A2A3374E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5000842_fcec_3.jpg",
-      "title": "Learn Salesforce (Admin + Developer) with LWC Live Project"
+      "url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/?couponCode=50E74A449EA3CE3ED20C",
+      "coupon_code": "50E74A449EA3CE3ED20C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380132_3dad.jpg",
+      "title": "Learn HTML and CSS from Beginning to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=625C30E7419A38D16F2C",
+      "coupon_code": "625C30E7419A38D16F2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5381922_8c87.jpg",
+      "title": "Learn PHP and MySQL for Web Application and Web Development"
     },
     {
       "url": "https://www.udemy.com/course/learn-t-shirt-design-with-adobe-photoshop-and-illustrator/?couponCode=A81CA18B9149B8C98D75",
       "coupon_code": "A81CA18B9149B8C98D75",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5380122_bcb1.jpg",
       "title": "Learn T-Shirt Design with Adobe Illustrator"
+    },
+    {
+      "url": "https://www.udemy.com/course/montessori-masterclass/?couponCode=D84935FC79E0328E6442",
+      "coupon_code": "D84935FC79E0328E6442",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/?couponCode=54318BB5A0699233CBA3",
@@ -81,6 +92,24 @@
       "title": "PHP with MySQL: Build Hotel Booking Management System"
     },
     {
+      "url": "https://www.udemy.com/course/javascript-coding-interview-questions-with-solutions/?couponCode=F557C87D3261B6AB245C",
+      "coupon_code": "F557C87D3261B6AB245C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6171259_321d_2.jpg",
+      "title": "100+ JavaScript Coding Practice Test Questions Answers 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-cpp-programming-beginner-to-advanced/?couponCode=8203067C322D925B78C5",
+      "coupon_code": "8203067C322D925B78C5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4871278_dc28_4.jpg",
+      "title": "Learn C++ Programming - Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=373C96911170A2A3374E",
+      "coupon_code": "373C96911170A2A3374E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5000842_fcec_3.jpg",
+      "title": "Learn Salesforce (Admin + Developer) with LWC Live Project"
+    },
+    {
       "url": "https://www.udemy.com/course/salesforce-lwc-lightning-web-component-with-live-project/?couponCode=DAC00435E353EDC64232",
       "coupon_code": "DAC00435E353EDC64232",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5629280_1f9c.jpg",
@@ -91,24 +120,6 @@
       "coupon_code": "7F0FF0BAA1772EB0F4A9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6409565_5caf_3.jpg",
       "title": "The PhD Toolkit: A Complete Masterclass For Ph.D. Students"
-    },
-    {
-      "url": "https://www.udemy.com/course/java-coding-interview-questions/?couponCode=B445BE0D29BDA58B5561",
-      "coupon_code": "B445BE0D29BDA58B5561",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6447165_c67e_2.jpg",
-      "title": "100+ Java Coding Practice Test [Questions & Answers] 2026"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/?couponCode=50E74A449EA3CE3ED20C",
-      "coupon_code": "50E74A449EA3CE3ED20C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5380132_3dad.jpg",
-      "title": "Learn HTML and CSS from Beginning to Advanced"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=625C30E7419A38D16F2C",
-      "coupon_code": "625C30E7419A38D16F2C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5381922_8c87.jpg",
-      "title": "Learn PHP and MySQL for Web Application and Web Development"
     },
     {
       "url": "https://www.udemy.com/course/python-interview-questions-answers-coding/?couponCode=DDEBF6EC1293E46C210A",
@@ -127,12 +138,6 @@
       "coupon_code": "BA68F2D91B1C93F6B364",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4897506_489a_2.jpg",
       "title": "Complete Windows Password Cracking Course | Practical Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=1DA13A1A8EF7197A2BE1",
-      "coupon_code": "1DA13A1A8EF7197A2BE1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5381926_9f28.jpg",
-      "title": "Learn Blockchain and Cryptocurrency from Beginning"
     },
     {
       "url": "https://www.udemy.com/course/excel-for-financial-modeling-valuation-the-complete-guide/?couponCode=7ED83DCA79F2CC852B2B",
