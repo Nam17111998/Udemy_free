@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-04-04T06:05:43Z",
-  "count": 916,
+  "updated_at": "2026-04-04T07:52:29Z",
+  "count": 921,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/?couponCode=72E5DCDC04BB87611D74",
+      "coupon_code": "72E5DCDC04BB87611D74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346430_f677.jpg",
+      "title": "Adobe Photoshop Course from Basic to Advacned for Graphics"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=0BD49FB779B22C18C520",
       "coupon_code": "0BD49FB779B22C18C520",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5382116_b978.jpg",
       "title": "Adobe Premiere Pro Advanced Video Editing Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-wordpress-course-for-professionals/?couponCode=B226AF958A2B5A27346F",
+      "coupon_code": "B226AF958A2B5A27346F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346432_a2d4.jpg",
+      "title": "Advanced Wordpress Course for Professionals"
     },
     {
       "url": "https://www.udemy.com/course/crack-windows-passwords/?couponCode=BA68F2D91B1C93F6B364",
@@ -15,22 +27,16 @@
       "title": "Complete Windows Password Cracking Course | Practical Guide"
     },
     {
-      "url": "https://www.udemy.com/course/excel-data-visualization-and-dashboard-design-masterclass/?couponCode=73887FAC8D729BC41B43",
-      "coupon_code": "73887FAC8D729BC41B43",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6847491_6081_3.jpg",
-      "title": "Excel Data Visualization and Dashboard Design Masterclass"
+      "url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=81A37C7B6BEDAF7FF0BD",
+      "coupon_code": "81A37C7B6BEDAF7FF0BD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346438_96d4.jpg",
+      "title": "Essential Microsoft PowerPoint Course for Everyone"
     },
     {
       "url": "https://www.udemy.com/course/excel-for-financial-modeling-valuation-the-complete-guide/?couponCode=7ED83DCA79F2CC852B2B",
       "coupon_code": "7ED83DCA79F2CC852B2B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6847477_16f6_3.jpg",
       "title": "Excel for Financial Modeling & Valuation: The Complete Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/gemini-ai-complete-guide-to-googles-powerful-ai/?couponCode=0919DBA5AFD887FC279A",
-      "coupon_code": "0919DBA5AFD887FC279A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7012513_acdf.jpg",
-      "title": "Gemini AI: Complete Guide to Google’s Powerful AI"
     },
     {
       "url": "https://www.udemy.com/course/hands-on-chatgpt-ai-build-ai-powered-tools-and-workflows/?couponCode=C1051E198630052319EF",
@@ -69,16 +75,40 @@
       "title": "Learn PHP and MySQL for Web Application and Web Development"
     },
     {
-      "url": "https://www.udemy.com/course/microsoft-powerpoint-blank-slide-to-powerful-presentation/?couponCode=4DD9ED3BEE90F6E278EE",
-      "coupon_code": "4DD9ED3BEE90F6E278EE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6636045_ccb8_3.jpg",
-      "title": "Microsoft PowerPoint: Blank Slide to Powerful Presentation"
+      "url": "https://www.udemy.com/course/learn-t-shirt-design-with-adobe-photoshop-and-illustrator/?couponCode=A81CA18B9149B8C98D75",
+      "coupon_code": "A81CA18B9149B8C98D75",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380122_bcb1.jpg",
+      "title": "Learn T-Shirt Design with Adobe Illustrator"
     },
     {
       "url": "https://www.udemy.com/course/python-interview-questions-answers-coding/?couponCode=DDEBF6EC1293E46C210A",
       "coupon_code": "DDEBF6EC1293E46C210A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6434833_7af8_2.jpg",
       "title": "100+ Python Coding Practice Test [Questions & Answers] 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-phd-toolkit/?couponCode=7F0FF0BAA1772EB0F4A9",
+      "coupon_code": "7F0FF0BAA1772EB0F4A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409565_5caf_3.jpg",
+      "title": "The PhD Toolkit: A Complete Masterclass For Ph.D. Students"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-visualization-and-dashboard-design-masterclass/?couponCode=73887FAC8D729BC41B43",
+      "coupon_code": "73887FAC8D729BC41B43",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847491_6081_3.jpg",
+      "title": "Excel Data Visualization and Dashboard Design Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/gemini-ai-complete-guide-to-googles-powerful-ai/?couponCode=0919DBA5AFD887FC279A",
+      "coupon_code": "0919DBA5AFD887FC279A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7012513_acdf.jpg",
+      "title": "Gemini AI: Complete Guide to Google’s Powerful AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-blank-slide-to-powerful-presentation/?couponCode=4DD9ED3BEE90F6E278EE",
+      "coupon_code": "4DD9ED3BEE90F6E278EE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6636045_ccb8_3.jpg",
+      "title": "Microsoft PowerPoint: Blank Slide to Powerful Presentation"
     },
     {
       "url": "https://www.udemy.com/course/python-with-machine-learning-start-building-ai-models-today/?couponCode=89D0E29E3162E0A985D4",
