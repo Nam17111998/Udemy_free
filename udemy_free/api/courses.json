@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-06T03:29:34Z",
-  "count": 932,
+  "updated_at": "2026-04-06T06:03:20Z",
+  "count": 947,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6834655_6933_2.jpg",
+      "title": "Agentic AI: Building the Next Generation of Smart Agents"
+    },
+    {
+      "url": "https://www.udemy.com/course/applied-ai-foundations-8-week-professional-course/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6810199_db56_2.jpg",
+      "title": "Applied AI Foundations: 8-Week Professional Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-data-engineering-foundation-course/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6766877_f8b6_4.jpg",
+      "title": "Data Engineer Foundations: Build Modern Data Systems"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-science-ai-mastery-100-days-to-career-success/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818091_ce55_3.jpg",
+      "title": "Data Science & AI Mastery: 100 Days to Career Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-science-ai-mastery-from-basics-to-deployment/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6824767_6877_2.jpg",
+      "title": "Data Science & AI Mastery: From Basics to Deployment"
+    },
+    {
+      "url": "https://www.udemy.com/course/deep-learning-specialization-advanced-ai-architectures/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6785809_5f88_2.jpg",
+      "title": "Deep Learning Specialization: Advanced AI, Hands on Lab"
+    },
+    {
+      "url": "https://www.udemy.com/course/ecommerce-and-amazon-crash-course/?couponCode=6B1D976062568F4EB315",
+      "coupon_code": "6B1D976062568F4EB315",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4879914_d1c0.jpg",
+      "title": "E-commerce and Amazon Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-engineering-with-openai-anthropic/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6901057_e04e.jpg",
+      "title": "Generative AI Engineering with OpenAI, Anthropic"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-llms-foundations-from-basics-to-application/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6797231_ab5d_2.jpg",
+      "title": "Generative AI & LLMs Foundations: From Basics to Application"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-css-made-easy-web-design-front-end-web-development/?couponCode=37612516BD9E4000AFC7",
+      "coupon_code": "37612516BD9E4000AFC7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004011_c650.jpg",
+      "title": "HTML & CSS Made Easy: Web Design & Front-End Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-ai-foundations-course/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6777123_c064_2.jpg",
+      "title": "Machine Learning & AI Foundations Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-microsoft-excel/?couponCode=B2175FDE6C3FB61B5040",
+      "coupon_code": "B2175FDE6C3FB61B5040",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893859_5377_5.jpg",
+      "title": "Microsoft Office All-in-One: Excel, Word and PowerPoint"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-vba-excel-automation-reports-dashboards-and-task/?couponCode=D712D88AE1BD27811EAE",
+      "coupon_code": "D712D88AE1BD27811EAE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995645_866e_4.jpg",
+      "title": "Microsoft VBA Excel Automation: Reports, Dashboards and Task"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-crash-course1/?couponCode=00977E650599E0D485F6",
+      "coupon_code": "00977E650599E0D485F6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4362924_9797_4.jpg",
+      "title": "Project Management Crash Course in 60 Minutes"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-angularjs-bootcamp-for-web-developers/?couponCode=B7583430181B8119CFAC",
+      "coupon_code": "B7583430181B8119CFAC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000913_1441.jpg",
+      "title": "The Complete AngularJS Bootcamp for Web Developers"
+    },
     {
       "url": "https://www.udemy.com/course/configuracion-optimizacion-pagina-facebook-marketing-digital-2021/?couponCode=050426",
       "coupon_code": "050426",
