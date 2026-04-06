@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-06T10:16:41Z",
-  "count": 962,
+  "updated_at": "2026-04-06T11:53:21Z",
+  "count": 975,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/angularjs-essentials-from-beginner-to-advanced-developer/?couponCode=1C9949817295AE48DBF2",
+      "coupon_code": "1C9949817295AE48DBF2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6262525_eb9c_2.jpg",
+      "title": "AngularJS Essentials - From Beginner to Advanced Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?couponCode=4EA516EAE2C56D316A5F",
+      "coupon_code": "4EA516EAE2C56D316A5F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6501521_9cab_5.jpg",
+      "title": "Build 11  JavaScript Application and Web JavaScript BootCamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-8-python-apps-games-and-web-application-python-master/?couponCode=66FD9914234AFE0E2D0D",
+      "coupon_code": "66FD9914234AFE0E2D0D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6395467_02fd.jpg",
+      "title": "Build 8 Python Apps Games and Web Application Python Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-mastery-create-stunning-social-media-videos/?couponCode=EA94B972375404D3D3FD",
+      "coupon_code": "EA94B972375404D3D3FD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285257_8aeb_3.jpg",
+      "title": "Capcut Mastery: Create Stunning Social Media Videos"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analysis-bootcamp-master-data-science-skills/?couponCode=55A5D1A30FACCAA45161",
+      "coupon_code": "55A5D1A30FACCAA45161",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285337_5c3f_3.jpg",
+      "title": "Data Analysis Bootcamp: Master Data Science Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-master-course-from-beginner-to-expert-developer/?couponCode=6ED9798D8774313BAAA0",
+      "coupon_code": "6ED9798D8774313BAAA0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6395555_6dfe_2.jpg",
+      "title": "JavaScript Master Course From Beginner to Expert Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-filmora-editing-motion-graphics-and-color-grading/?couponCode=6F456F50616FFB4BBBA5",
+      "coupon_code": "6F456F50616FFB4BBBA5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5932528_9420_2.jpg",
+      "title": "Master Filmora: Editing, Motion Graphics, and Color Grading"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/?couponCode=01E0DAD50B78B4524A65",
+      "coupon_code": "01E0DAD50B78B4524A65",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173817_8c19_2.jpg",
+      "title": "Master Java, Python, C & C++: All-in-One Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-video-editing-with-ai-chatgpt-for-content-creators/?couponCode=93A68886427333047D59",
+      "coupon_code": "93A68886427333047D59",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6577113_15af.jpg",
+      "title": "Mastering Video Editing with AI ChatGPT for Content Creators"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=6350949FF5EBB9B6F3EA",
+      "coupon_code": "6350949FF5EBB9B6F3EA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6014988_095c_3.jpg",
+      "title": "Microsoft Excel : Mastering Data Analysis with Pivot Table"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-mastery-the-complete-web-programming-course/?couponCode=0DB34BAB1650E79B691E",
+      "coupon_code": "0DB34BAB1650E79B691E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173959_c9b3_2.jpg",
+      "title": "Python Mastery: The Complete Web Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-software-application-games-automation-development/?couponCode=58889370608D469A7DBF",
+      "coupon_code": "58889370608D469A7DBF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6457931_5336.jpg",
+      "title": "Python Software, Application, Games, Automation  Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-mastery-illustrator-photoshop-and-canva/?couponCode=57F890D34B5205A228F5",
+      "coupon_code": "57F890D34B5205A228F5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6038346_b339_4.jpg",
+      "title": "T-Shirt Design Mastery: Illustrator, Photoshop and Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-google-forms-course-mastering-google-forms/?couponCode=01C3A77486548C56C8BA",
+      "coupon_code": "01C3A77486548C56C8BA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638900_8e10.jpg",
+      "title": "The Complete Google Forms Course - Mastering Google Forms"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-youtube-blueprint-proven-tactics-channel-success/?couponCode=AF8137AC26AFB8E0D4A8",
+      "coupon_code": "AF8137AC26AFB8E0D4A8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5931688_08e1.jpg",
+      "title": "Ultimate YouTube Blueprint: Proven Tactics Channel Success"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-capcut-from-beginner-to-motion-graphics-master/?couponCode=54F1DA2F4B73663D43FD",
       "coupon_code": "54F1DA2F4B73663D43FD",
@@ -57,12 +147,6 @@
       "title": "İK Bütçe Uzmanı: Planlama Tahmin & Gerekçelendirme [TR]"
     },
     {
-      "url": "https://www.udemy.com/course/master-filmora-editing-motion-graphics-and-color-grading/?couponCode=6F456F50616FFB4BBBA5",
-      "coupon_code": "6F456F50616FFB4BBBA5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5932528_9420_2.jpg",
-      "title": "Master Filmora: Editing, Motion Graphics, and Color Grading"
-    },
-    {
       "url": "https://www.udemy.com/course/microsoft-office-mastery-learn-word-excel-and-powerpoint/?couponCode=A28B2DD021BCC9B0CECC",
       "coupon_code": "A28B2DD021BCC9B0CECC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5985834_0eb9_3.jpg",
@@ -85,12 +169,6 @@
       "coupon_code": "03685DD62AA82E3C2E60",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5946086_4f80.jpg",
       "title": "The Complete Da Vinci Resolve Course: Beginner to Filmmaker"
-    },
-    {
-      "url": "https://www.udemy.com/course/ultimate-youtube-blueprint-proven-tactics-channel-success/?couponCode=AF8137AC26AFB8E0D4A8",
-      "coupon_code": "AF8137AC26AFB8E0D4A8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5931688_08e1.jpg",
-      "title": "Ultimate YouTube Blueprint: Proven Tactics Channel Success"
     },
     {
       "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=APRFREE01",
