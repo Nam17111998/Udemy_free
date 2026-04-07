@@ -1,21 +1,114 @@
 {
-  "updated_at": "2026-04-07T07:43:18Z",
-  "count": 948,
+  "updated_at": "2026-04-07T09:13:44Z",
+  "count": 963,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/?couponCode=EB36C96DF6BC517E6D27",
+      "coupon_code": "EB36C96DF6BC517E6D27",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7052725_356f.jpg",
+      "title": "Adobe Premiere Pro for Content Creators and YouTubers"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-capcut-tutorial-for-social-media-video-editing/?couponCode=3D0D014A1EC3AF51890F",
+      "coupon_code": "3D0D014A1EC3AF51890F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6258769_6151_2.jpg",
+      "title": "Advanced Capcut Tutorial for Social Media Video Editing"
+    },
+    {
+      "url": "https://www.udemy.com/course/convertools/?couponCode=96CF07D0C166DDA42A76",
+      "coupon_code": "96CF07D0C166DDA42A76",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2691178_e6d1.jpg",
+      "title": "Convertlink - Dein Affiliate-Marketing vollautomatisiert!"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-the-complete-guide-to-css-zero-to-hero/?couponCode=A0C723864E3995D09924",
+      "coupon_code": "A0C723864E3995D09924",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636428_79ca_2.jpg",
+      "title": "CSS - The Complete Guide to CSS for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-complete-developers-guide/?couponCode=07792CA19D9CF7A011D9",
+      "coupon_code": "07792CA19D9CF7A011D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018229_38cf.jpg",
+      "title": "Data Structures and Algorithms: Complete Developer’s Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/e-mail-marketing-mit-klick-tipp-werde-profi-in-4-stunden/?couponCode=DC8AFC4E6B34C9CDD5BF",
+      "coupon_code": "DC8AFC4E6B34C9CDD5BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2607520_aef8_2.jpg",
+      "title": "E-Mail Marketing mit Klick-Tipp: Werde Profi in 4 Stunden!"
+    },
+    {
+      "url": "https://www.udemy.com/course/e-mail-marketing-mit-quentn/?couponCode=C1E01661EBA959590DE4",
+      "coupon_code": "C1E01661EBA959590DE4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2753438_83ed_2.jpg",
+      "title": "Profitables E-Mail Marketing mit Quentn in 5 Stunden lernen"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphic-design-masterclass-master-illustrator-photoshop/?couponCode=0D1D79A220A098C61173",
+      "coupon_code": "0D1D79A220A098C61173",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5832228_0be6.jpg",
+      "title": "Graphic Design Masterclass: Master Illustrator & Photoshop"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-masterclass-beginner-to-master/?couponCode=B4E0BCA1536915DEA645",
+      "coupon_code": "B4E0BCA1536915DEA645",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638204_76bd.jpg",
+      "title": "Java Programming Masterclass - Beginner to Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/kundengewinnung-und-kundenbindung-mit-wowing/?couponCode=00B969DFB1824E4AF395",
+      "coupon_code": "00B969DFB1824E4AF395",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2856890_6055_2.jpg",
+      "title": "Online Marketing: Erreiche Kunden durch Videobotschaften"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-ai-neural-networks-a-complete-course/?couponCode=A59FE24C306E2E5C6F70",
+      "coupon_code": "A59FE24C306E2E5C6F70",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7014399_a376.jpg",
+      "title": "Machine Learning, AI & Neural Networks: A Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-7-php-and-mysql-projects/?couponCode=PHP7PROJECTS72",
+      "coupon_code": "PHP7PROJECTS72",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5010434_6d6a_3.jpg",
+      "title": "PHP with MySQL: Build 7 PHP and MySQL Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-a-step-by-step-programming-course/?couponCode=375DD27924F6B87ED96D",
+      "coupon_code": "375DD27924F6B87ED96D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173779_c69c.jpg",
+      "title": "Python Programming: A Step-by-Step Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-r-programming-language-beginners-to-pro/?couponCode=CE304FA0AA0DE5DCF6A5",
+      "coupon_code": "CE304FA0AA0DE5DCF6A5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5890956_f61d_2.jpg",
+      "title": "R Programming - R Programming Language Beginners to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?couponCode=2744BED95C71F87A6061",
+      "coupon_code": "2744BED95C71F87A6061",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5634496_f8b0_4.jpg",
+      "title": "The Ultimate SQL Bootcamp : Go From Zero to Hero"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-after-effects-from-beginner-to-motion-master/?couponCode=43CF2B74216753164B42",
       "coupon_code": "43CF2B74216753164B42",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5927302_12ae.jpg",
+      "title": "Adobe After Effects: From Beginner to Motion Master"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-essentials-design-like-a-pro-in-days/?couponCode=275D626A071F8465FCC2",
       "coupon_code": "275D626A071F8465FCC2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5928512_3d47.jpg",
+      "title": "Adobe Illustrator Essentials: Design Like a Pro in Days"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/?couponCode=D66623612D85650B616B",
       "coupon_code": "D66623612D85650B616B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5926794_6929.jpg",
+      "title": "Adobe Illustrator Essentials: Zero to Hero for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=A0B219281200A252528C",
