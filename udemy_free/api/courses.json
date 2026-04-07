@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-07T09:13:44Z",
-  "count": 963,
+  "updated_at": "2026-04-07T11:06:00Z",
+  "count": 978,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/business-fundamentals-go-to-market-strategy-gtm-strategy/?couponCode=FREE2604",
+      "coupon_code": "FREE2604",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6803243_36c4_3.jpg",
+      "title": "Business Fundamentals: Go-To-Market Strategy | GTM Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-salesforce-administrator-masterclass-training-2026/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7041269_cd4a_2.jpg",
+      "title": "Complete Salesforce Admin and CPQ Training 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-python-with-generative-and-agentic-ai/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6866665_217b.jpg",
+      "title": "Become a Python Full Stack Developer from Zero to Hero 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-web-development-html-css-javascript-bootstrap-react-js/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6813221_094a_2.jpg",
+      "title": "Web Development: HTML, CSS, JavaScript, Bootstrap, React JS"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-ads-mastery-from-beginner-to-advanced-d/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6781155_fd37.jpg",
+      "title": "Google Ads Mastery: From Beginner to Advanced 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-logo-design-with-photoshop-illustrator-zero-to-pro/?couponCode=A9EAC6351727C0E38A50",
+      "coupon_code": "A9EAC6351727C0E38A50",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6078937_4e36_3.jpg",
+      "title": "Master Logo Design with Photoshop Illustrator Zero to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-azure-devops-from-beginner-to-advanced/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6827461_2d62_2.jpg",
+      "title": "Mastering Azure DevOps: From Beginner to Advanced 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-mysql-from-beginner-to-advanced/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6861533_6acc.jpg",
+      "title": "Mastering MySQL: From Beginner to Advanced 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-seo-from-beginner-to-pro-in-digital-marketing/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6780947_2b21_3.jpg",
+      "title": "Mastering SEO: Beginner to Pro in Digital Marketing 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-servicenow-human-resources-service-delivery-hrsd/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767691_64f3_4.jpg",
+      "title": "Mastering Servicenow Human Resources Service Delivery 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-for-app-developers-build-your-first-app/?couponCode=2CA3D0A72C07EAE82CD2",
+      "coupon_code": "2CA3D0A72C07EAE82CD2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6104657_1cc1_3.jpg",
+      "title": "Python Course for App Developers: Build Your First App"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-machine-learning-from-beginner-to-pro/?couponCode=D55E190407FD214EC9CE",
+      "coupon_code": "D55E190407FD214EC9CE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6136815_6345_2.jpg",
+      "title": "Python Machine Learning: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/rank-your-social-media-and-go-viral-be-social-media-master/?couponCode=96029372E5A1A85476E5",
+      "coupon_code": "96029372E5A1A85476E5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6128285_7fd4_2.jpg",
+      "title": "Rank Your Social Media and Go Viral - Be Social Media Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-catalog-item-and-record-producer-workflow-flows/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6266673_9642.jpg",
+      "title": "Catalog Items, Workflow, and Flows in the Servicenow 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-scripting-mastery-advanced-development/?couponCode=APRNEW2026",
+      "coupon_code": "APRNEW2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6256005_475f_3.jpg",
+      "title": "Scripting and Advanced Development in the Servicenow 2026"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/?couponCode=EB36C96DF6BC517E6D27",
       "coupon_code": "EB36C96DF6BC517E6D27",
