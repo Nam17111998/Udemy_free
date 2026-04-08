@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-07T23:47:38Z",
-  "count": 914,
+  "updated_at": "2026-04-08T03:21:38Z",
+  "count": 929,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming-y-python/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5511332_f43e_2.jpg",
+      "title": "Análisis de datos con R Programming y Python"
+    },
+    {
+      "url": "https://www.udemy.com/course/bases-de-datos-con-mysql-y-mongodb/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599966_7a6c_4.jpg",
+      "title": "Bases de Datos con MySQL + ChatGPT y MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/body-language-non-verbal-communication-for-leaders-y/?couponCode=E8603B2D94CDABDDB641",
+      "coupon_code": "E8603B2D94CDABDDB641",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6514103_9a53_2.jpg",
+      "title": "Body Language & Non-Verbal Communication for Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=AB6166DACA9F5D420BB4",
+      "coupon_code": "AB6166DACA9F5D420BB4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4435576_a1dc.jpg",
+      "title": "CSS, Bootstrap, JavaScript And PHP Stack Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-prompt-engineering-con-chatgpt/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5658340_ffde_7.jpg",
+      "title": "Curso IA Generativa + Prompt Engineering con ChatGPT-4"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-tableau-analisis-y-visualizacion-de-datos/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5730136_07d7.jpg",
+      "title": "Curso de Tableau: Análisis y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-snowflake-analisis-y-visualizacion-de-datos/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6484341_9e78.jpg",
+      "title": "Curso Snowflake: Análisis y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/examen-mo-200-microsoft-excel-office-2019/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5345672_ea3e_3.jpg",
+      "title": "Examen MO-200 Microsoft Excel (Office 2019)"
+    },
+    {
+      "url": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5512766_9cd2_8.jpg",
+      "title": "Experto en Análisis y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/frameworks-indices-transacciones-y-mucho-mas-con-mongodb/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5771254_1140.jpg",
+      "title": "Frameworks, Índices, Transacciones y mucho más con MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/funciones-tablas-dinamicas-chatgpt-y-mas-con-google-sheets/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5642840_9cc8.jpg",
+      "title": "Funciones, Tablas dinámicas, ChatGPT y más con Google Sheets"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-aprende-los-fundamentos-de-las-bases-de-datos-nosql/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5107788_2735_2.jpg",
+      "title": "MongoDB: Aprende los fundamentos de las bases de datos NoSQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/operaciones-crud-modelado-y-consultas-avanzadas-con-mongodb/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599936_df64.jpg",
+      "title": "Operaciones CRUD, Modelado y Consultas Avanzadas con MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-analisis-de-proyectos-reales/?couponCode=ABRILW126",
+      "coupon_code": "ABRILW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5179612_425a_2.jpg",
+      "title": "Power BI: Dashboards y análisis de proyectos reales"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-science-of-happiness-simple-secrets-to-a-joyful-life/?couponCode=86648F37227E9CE588BA",
+      "coupon_code": "86648F37227E9CE588BA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6503823_040a_3.jpg",
+      "title": "The Science of Happiness - Simple Secrets to a Joyful Life"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-human-resources-claude-for-human-resources-teams-a-z/?couponCode=26E8F2B941A0212C0297",
       "coupon_code": "26E8F2B941A0212C0297",
