@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-08T05:51:27Z",
-  "count": 942,
+  "updated_at": "2026-04-08T07:46:41Z",
+  "count": 957,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-animate-a-comprehensive-guide-for-beginners-to-pro/?couponCode=190EA74CFB5BA9C64AE7",
+      "coupon_code": "190EA74CFB5BA9C64AE7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5823254_9e71_2.jpg",
+      "title": "Adobe Animate: A Comprehensive Guide for Beginners to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/apache-hive-for-data-engineers-hands-on/?couponCode=00BD9006F65E3E72F4D1",
+      "coupon_code": "00BD9006F65E3E72F4D1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4394060_67f4.jpg",
+      "title": "Apache Hive for Data Engineers (Hands On) with 2 Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-video-editing-for-social-media-reels-shorts-videos/?couponCode=C6C61ADE41C77B5753E3",
+      "coupon_code": "C6C61ADE41C77B5753E3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5823330_a37d_3.jpg",
+      "title": "Capcut Video Editing for Social Media Reels Shorts Videos"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-vba-learn-visual-basic-macros-beginner-to-advanced/?couponCode=05073C00EA64E3C2E902",
+      "coupon_code": "05073C00EA64E3C2E902",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6024162_d56b_3.jpg",
+      "title": "Excel VBA - Learn Visual Basic Macros | Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-sheets-bootcamp-boost-productivity-and-efficiency/?couponCode=044BE6072AD8F2366F6E",
+      "coupon_code": "044BE6072AD8F2366F6E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5815014_67b6_2.jpg",
+      "title": "Google Sheets Bootcamp Boost Productivity Expert in Cloud"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-google-docs-complete-google-docs-course/?couponCode=A4AE2FA6E9C931A94721",
+      "coupon_code": "A4AE2FA6E9C931A94721",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5640234_3186.jpg",
+      "title": "Mastering Google Docs - Complete Google Docs Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-functions-with-charts-graphs/?couponCode=808F4D5531A6510901FB",
+      "coupon_code": "808F4D5531A6510901FB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992188_a650_2.jpg",
+      "title": "Microsoft Excel: Formulas & Functions with Charts & Graphs"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-pandas-python-for-data-analysis-a-complete-guide/?couponCode=94BFE85FD6B19D778BB9",
+      "coupon_code": "94BFE85FD6B19D778BB9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6150987_e84f.jpg",
+      "title": "NumPy, Pandas, & Python for Data Analysis: A Complete Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-graphics-design-and-video-editing-in-canva/?couponCode=38A53488B02C1D09D300",
+      "coupon_code": "38A53488B02C1D09D300",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5773322_f699_5.jpg",
+      "title": "Social Media Graphics Design and Video Editing in Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-video-editing-with-premiere-pro-canva-filmora/?couponCode=2A44014E5D03BD30DA3A",
+      "coupon_code": "2A44014E5D03BD30DA3A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5767990_03ce_2.jpg",
+      "title": "Social Media Video Editing With Premiere Pro Canva Filmora"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/?couponCode=0E904231A9F3DE34F276",
+      "coupon_code": "0E904231A9F3DE34F276",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5642330_9d84_2.jpg",
+      "title": "The Complete C & C++ Programming Course - Mastering  C & C++"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-javascript-course-from-zero-to-expert-o/?couponCode=AB4871A15C9AF4BC6296",
+      "coupon_code": "AB4871A15C9AF4BC6296",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638532_1c7a.jpg",
+      "title": "The Complete JavaScript Course: From Zero to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-video-editing-bootcamp-from-beginning-to-expert/?couponCode=97432108B44DA337E76C",
+      "coupon_code": "97432108B44DA337E76C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5662243_d84b_2.jpg",
+      "title": "The Complete Video Editing Bootcamp from Beginning to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-microsoft-excel-essential-comprehensive-guide/?couponCode=5F90CD15F3EF09C58C1A",
+      "coupon_code": "5F90CD15F3EF09C58C1A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5682086_df39_3.jpg",
+      "title": "The Ultimate Microsoft Excel: Essential Comprehensive Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-microsoft-word-essential-comprehensive-guide/?couponCode=30F9C53B91671DEBEA55",
+      "coupon_code": "30F9C53B91671DEBEA55",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5713346_2215.jpg",
+      "title": "The Ultimate Microsoft Word: Essential Comprehensive Guide"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-course-for-beginner/?couponCode=260AEC7B9D521D05116F",
       "coupon_code": "260AEC7B9D521D05116F",
