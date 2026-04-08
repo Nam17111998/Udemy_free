@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-08T03:21:38Z",
-  "count": 929,
+  "updated_at": "2026-04-08T05:51:27Z",
+  "count": 942,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-course-for-beginner/?couponCode=260AEC7B9D521D05116F",
+      "coupon_code": "260AEC7B9D521D05116F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5182936_0106_2.jpg",
+      "title": "Adobe Illustrator Course For Beginner"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-excel-course-for-job-and-real-world/?couponCode=4FD099DDAD41D88D6A82",
+      "coupon_code": "4FD099DDAD41D88D6A82",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5175514_2c3e.jpg",
+      "title": "Advanced Excel Course for Job and Real World"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-powerpoint-course-for-professional-and-job-success/?couponCode=2FAAF97BE986EB79721E",
+      "coupon_code": "2FAAF97BE986EB79721E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5182934_d5cc.jpg",
+      "title": "Advanced PowerPoint Course For Professional and Job Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-beginners-learn-chatgpt-gemini-perplexity-and-grok/?couponCode=26DDF387E5F599CE743C",
+      "coupon_code": "26DDF387E5F599CE743C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6892015_6ed9.jpg",
+      "title": "AI for Beginners: Learn ChatGPT, Gemini, Perplexity and Grok"
+    },
+    {
+      "url": "https://www.udemy.com/course/body-language-non-verbal-communication-for-leaders-y/?couponCode=E8603B2D94CDABDDB641",
+      "coupon_code": "E8603B2D94CDABDDB641",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6514103_9a53_2.jpg",
+      "title": "Body Language & Non-Verbal Communication for Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-for-graphic-design-social-media-marketing/?couponCode=51AEF620C6FFC3FC6789",
+      "coupon_code": "51AEF620C6FFC3FC6789",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7007971_3ade.jpg",
+      "title": "Canva for Graphic Design & Social Media Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=1EFB078467F9B54F0E16",
+      "coupon_code": "1EFB078467F9B54F0E16",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5153726_038d_7.jpg",
+      "title": "ChatGPT: Make Money with ChatGPT as a New Freelancer"
+    },
+    {
+      "url": "https://www.udemy.com/course/desarrolla-juegos-html5-con-canvas/?couponCode=D1C1E11DF0FE8447E77C",
+      "coupon_code": "D1C1E11DF0FE8447E77C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/63194_53a5_8.jpg",
+      "title": "Desarrolla juegos HTML5 con canvas"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-mastery-formulas-functions-charts-and-graphs/?couponCode=23212B022EF68C447BC1",
+      "coupon_code": "23212B022EF68C447BC1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6737369_0724.jpg",
+      "title": "Excel Data Mastery: Formulas, Functions, Charts, and Graphs"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-microsoft-excel-course-beginner-to-expert-2022/?couponCode=191FDC6C5DD7FD86D731",
+      "coupon_code": "191FDC6C5DD7FD86D731",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4758504_f0ea_4.jpg",
+      "title": "Excel - Microsoft Excel Course Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphics-design-videoediting-course/?couponCode=904EAEFB5B51D5CAD769",
+      "coupon_code": "904EAEFB5B51D5CAD769",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5148418_ff1f.jpg",
+      "title": "Essential Photoshop Course for Beginner To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-visualization-with-charts-graphs/?couponCode=0C9A691E01BEAEF2B1ED",
+      "coupon_code": "0C9A691E01BEAEF2B1ED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6638423_582f.jpg",
+      "title": "Microsoft Excel Data Visualization with Charts & Graphs"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-ufunc-machine-learning/?couponCode=2274AB5413050DD1A2A6",
+      "coupon_code": "2274AB5413050DD1A2A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004057_cb53.jpg",
+      "title": "Numpy, Scipy, Matplotlib, Pandas, Ufunc : Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-course-/?couponCode=50999E20BED395F50ACF",
+      "coupon_code": "50999E20BED395F50ACF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3378022_637b.jpg",
+      "title": "Python And Flask Framework Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-science-of-happiness-simple-secrets-to-a-joyful-life/?couponCode=86648F37227E9CE588BA",
+      "coupon_code": "86648F37227E9CE588BA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6503823_040a_3.jpg",
+      "title": "The Science of Happiness - Simple Secrets to a Joyful Life"
+    },
     {
       "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming-y-python/?couponCode=ABRILW126",
       "coupon_code": "ABRILW126",
@@ -13,12 +103,6 @@
       "coupon_code": "ABRILW126",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5599966_7a6c_4.jpg",
       "title": "Bases de Datos con MySQL + ChatGPT y MongoDB"
-    },
-    {
-      "url": "https://www.udemy.com/course/body-language-non-verbal-communication-for-leaders-y/?couponCode=E8603B2D94CDABDDB641",
-      "coupon_code": "E8603B2D94CDABDDB641",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6514103_9a53_2.jpg",
-      "title": "Body Language & Non-Verbal Communication for Leaders"
     },
     {
       "url": "https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=AB6166DACA9F5D420BB4",
@@ -85,12 +169,6 @@
       "coupon_code": "ABRILW126",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5179612_425a_2.jpg",
       "title": "Power BI: Dashboards y análisis de proyectos reales"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-science-of-happiness-simple-secrets-to-a-joyful-life/?couponCode=86648F37227E9CE588BA",
-      "coupon_code": "86648F37227E9CE588BA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6503823_040a_3.jpg",
-      "title": "The Science of Happiness - Simple Secrets to a Joyful Life"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-human-resources-claude-for-human-resources-teams-a-z/?couponCode=26E8F2B941A0212C0297",
