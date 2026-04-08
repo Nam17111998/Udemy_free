@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-08T11:07:21Z",
-  "count": 977,
+  "updated_at": "2026-04-08T13:51:08Z",
+  "count": 983,
   "courses": [
     {
       "url": "https://www.udemy.com/course/blender-essential-from-beginner-to-3d-masterclass/?couponCode=6FA3FF64D736BD7B227B",
@@ -9,16 +9,16 @@
       "title": "Blender Essential: From Beginner to 3D Masterclass"
     },
     {
+      "url": "https://www.udemy.com/course/c-bootcamp-job-ready-skills-for-net-development/?couponCode=D59F6F56A184AB54208F",
+      "coupon_code": "D59F6F56A184AB54208F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017275_67fd.jpg",
+      "title": "C# Bootcamp – Job Ready Skills for .NET Development"
+    },
+    {
       "url": "https://www.udemy.com/course/canva-for-social-media-graphic-design-and-video-editing/?couponCode=2DCB4EAB22306189AD02",
       "coupon_code": "2DCB4EAB22306189AD02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5896370_2474.jpg",
       "title": "Canva for Social Media Graphic Design and Video Editing"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-recruiting-course-human-resources-recruitment/?couponCode=72317E84AB59E5E42665",
-      "coupon_code": "72317E84AB59E5E42665",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3490454_4be8_2.jpg",
-      "title": "The Complete Recruiting Masterclass - HR Resources - Hiring"
     },
     {
       "url": "https://www.udemy.com/course/comprehensive-davinci-resolve-with-color-grading-masterclass/?couponCode=415C6DF559EAED1F71BB",
@@ -33,14 +33,76 @@
       "title": "Curso Completo de Typescript. Desde las Bases a la Práctica."
     },
     {
+      "url": "https://www.udemy.com/course/excel-data-analysis-data-management-for-business-careers/?couponCode=CE1235FF3DD8432ADA24",
+      "coupon_code": "CE1235FF3DD8432ADA24",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7042949_64d0_3.jpg",
+      "title": "Excel Data Analysis & Data Management for Business & Careers"
+    },
+    {
+      "url": "https://www.udemy.com/course/flutter-for-web-mobile-build-fast-flexible-applications/?couponCode=47A8EB9BC718916C54BD",
+      "coupon_code": "47A8EB9BC718916C54BD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7014837_4a7f.jpg",
+      "title": "Flutter for Web & Mobile: Build Fast, Flexible Applications"
+    },
+    {
       "url": "https://www.udemy.com/course/graphic-design-masterclass-adobe-photoshop-illustrator-indesign-canva/?couponCode=6AF4504ACE8918529EEC",
       "coupon_code": "6AF4504ACE8918529EEC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5803102_5223_3.jpg",
+      "title": "Learn Graphic Design with Photoshop Illustrator and InDesign"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-complete-course-and-flask-framework-html-2024-edition/?couponCode=1F75DA7647093C12ADBA",
+      "coupon_code": "1F75DA7647093C12ADBA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865880_9953.jpg",
+      "title": "Python Complete Course And Flask Framework, HTML Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-teams-course-master-microsoft-teams/?couponCode=ABDD06332334BBBF8C46",
+      "coupon_code": "ABDD06332334BBBF8C46",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3672040_7632.jpg",
+      "title": "The Complete Microsoft Teams Course - Master Microsoft Teams"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-photo-editing-masterclass-with-adobe-and-canva/?couponCode=DEA384F68DD38D4F668C",
+      "coupon_code": "DEA384F68DD38D4F668C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5938924_5d3f.jpg",
+      "title": "The Complete Photo Editing Masterclass With Adobe and Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-email-etiquette-course/?couponCode=5411EB423E91D9D22A2C",
+      "coupon_code": "5411EB423E91D9D22A2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3755472_d774.jpg",
+      "title": "The Email Etiquette Course - Business Writing With Class"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-phd-toolkit/?couponCode=55BC729C7DB46B86BCB0",
+      "coupon_code": "55BC729C7DB46B86BCB0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409565_5caf_3.jpg",
+      "title": "The PhD Toolkit: A Complete Masterclass For Ph.D. Students"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-filmora-video-editing-course-beginner-to-pro/?couponCode=BBBB59FF61BF885560A3",
+      "coupon_code": "BBBB59FF61BF885560A3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906506_1469.jpg",
+      "title": "The Ultimate Filmora Video Editing Course: Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/which-iso-certification-should-you-choose/?couponCode=E85ECBB2DEBB55C674CD",
+      "coupon_code": "E85ECBB2DEBB55C674CD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7092167_f877.jpg",
+      "title": "Which ISO Certification Should You Choose?"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-recruiting-course-human-resources-recruitment/?couponCode=72317E84AB59E5E42665",
+      "coupon_code": "72317E84AB59E5E42665",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3490454_4be8_2.jpg",
+      "title": "The Complete Recruiting Masterclass - HR Resources - Hiring"
     },
     {
       "url": "https://www.udemy.com/course/growth-hacking-scarcity-marketing-in-the-digital-age/?couponCode=F60CD9629D0A7481FE24",
       "coupon_code": "F60CD9629D0A7481FE24",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6930633_e549_3.jpg",
+      "title": "Growth Hacking: Scarcity Marketing in the Digital Age"
     },
     {
       "url": "https://www.udemy.com/course/osint-avancado-encontre-tudo-pesquise-e-investigue-pt/?couponCode=PAPAHR_APR_01",
@@ -67,32 +129,10 @@
       "title": "The Complete Guide to Instagram Marketing for Businesses"
     },
     {
-      "url": "https://www.udemy.com/course/the-complete-microsoft-teams-course-master-microsoft-teams/?couponCode=ABDD06332334BBBF8C46",
-      "coupon_code": "ABDD06332334BBBF8C46",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3672040_7632.jpg",
-      "title": "The Complete Microsoft Teams Course - Master Microsoft Teams"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-photo-editing-masterclass-with-adobe-and-canva/?couponCode=DEA384F68DD38D4F668C",
-      "coupon_code": "DEA384F68DD38D4F668C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5938924_5d3f.jpg",
-      "title": "The Complete Photo Editing Masterclass With Adobe and Canva"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-email-etiquette-course/?couponCode=5411EB423E91D9D22A2C",
-      "coupon_code": "5411EB423E91D9D22A2C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3755472_d774.jpg",
-      "title": "The Email Etiquette Course - Business Writing With Class"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-ultimate-filmora-video-editing-course-beginner-to-pro/?couponCode=BBBB59FF61BF885560A3",
-      "coupon_code": "BBBB59FF61BF885560A3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/ai-hr-agents-no-code-hr-automation-on-chatgpt-and-more-en/?couponCode=PAPAHR_APR_01",
       "coupon_code": "PAPAHR_APR_01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6795751_ecec_3.jpg",
+      "title": "AI HR Agents Pioneer: No-Code Automation on ChatGPT [EN]"
     },
     {
       "url": "https://www.udemy.com/course/capcut-for-cinematography-motion-graphics-and-social-media/?couponCode=CCD39D346F1D42ADFD61",
