@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-09T07:49:19Z",
-  "count": 957,
+  "updated_at": "2026-04-09T09:19:04Z",
+  "count": 971,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-graphic-designers-and-freelancers/?couponCode=A9C6E6D3627DF3258804",
+      "coupon_code": "A9C6E6D3627DF3258804",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7052675_5fc9.jpg",
+      "title": "Adobe Illustrator for Graphic Designers and Freelancers"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-accounting-finance-accounting-data-visualization/?couponCode=DB0971F8B81A5BCC5068",
+      "coupon_code": "DB0971F8B81A5BCC5068",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6842831_56e9.jpg",
+      "title": "AI For Accounting & Finance: Accounting Data Visualization"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-human-resources-claude-for-human-resources-teams-a-z/?couponCode=25C39A90299BE8C5E8D9",
+      "coupon_code": "25C39A90299BE8C5E8D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7041449_67ba_4.jpg",
+      "title": "AI For Human Resources: Claude For Human Resources Teams A-Z"
+    },
+    {
+      "url": "https://www.udemy.com/course/all-in-one-microsoft-office-course-excel-word-powerpoint/?couponCode=BBE40EDE61D1D7806756",
+      "coupon_code": "BBE40EDE61D1D7806756",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6848689_e68e.jpg",
+      "title": "All-in-One Microsoft Office Course: Excel, Word & PowerPoint"
+    },
+    {
+      "url": "https://www.udemy.com/course/become-a-certified-e-commerce-marketing-master/?couponCode=46EC3B8FA14C979F6D21",
+      "coupon_code": "46EC3B8FA14C979F6D21",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6200863_87f1_2.jpg",
+      "title": "Become a Certified E-Commerce Marketing Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-practice-learn-by-coding/?couponCode=28FBC10244FF71CD9FD5",
+      "coupon_code": "28FBC10244FF71CD9FD5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7027917_41c0_2.jpg",
+      "title": "Data Structures And Algorithms In Practice: Learn by Coding"
+    },
+    {
+      "url": "https://www.udemy.com/course/desarrolla-la-logica-de-programacion-con-pseint-y-algoritmos/?couponCode=6C999AD7F54D53FA5531",
+      "coupon_code": "6C999AD7F54D53FA5531",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873657_e742.jpg",
+      "title": "Desarrolla la Lógica de Programación con Pseint y algoritmos"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-amazon-affiliate-marketing-for-beginners/?couponCode=C5C7AD40FE1AF8784E87",
+      "coupon_code": "C5C7AD40FE1AF8784E87",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4382276_2209.jpg",
+      "title": "Essential Amazon Affiliate Marketing for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-hacking-privacidad-ciberseguridad-proteccion-datos/?couponCode=570238D03FCF0F65F1A3",
+      "coupon_code": "570238D03FCF0F65F1A3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3987160_b92b.jpg",
+      "title": "Google Hacking. Accede a toda la información en internet."
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-for-data-engineers-hands-on/?couponCode=EA8659A2BA26194A735C",
+      "coupon_code": "EA8659A2BA26194A735C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4368656_0f79_2.jpg",
+      "title": "Linux for Data Engineers (Hands On)"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-launching-a-successful-restaurant-business-plan/?couponCode=2E09EE8DBF527B6B9927",
+      "coupon_code": "2E09EE8DBF527B6B9927",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6411641_e900.jpg",
+      "title": "Mastering Launching a Successful Restaurant Business Plan"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2022-build-php-and-mysql-projects/?couponCode=PHPMYSQLPROJECTS71",
+      "coupon_code": "PHPMYSQLPROJECTS71",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4931232_fc3a.jpg",
+      "title": "PHP with MySQL: Build 8 PHP and MySQL Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-mongodb-build-scale-query-nosql-databases/?couponCode=D4A04BDB6AE7017A9DB5",
+      "coupon_code": "D4A04BDB6AE7017A9DB5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7027795_a966.jpg",
+      "title": "The Complete MongoDB: Build, Scale & Query NoSQL Databases"
+    },
+    {
+      "url": "https://www.udemy.com/course/write-article-content-for-seo-and-affiliate-marketing-course/?couponCode=9A12B99031A31F59FE36",
+      "coupon_code": "9A12B99031A31F59FE36",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4831684_ddc6.jpg",
+      "title": "Write Article Content for SEO and Affiliate Marketing Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/zoho-advanced-certificate-in-accounting-warehouse-management/?couponCode=267755EBB1859F4FB31F",
+      "coupon_code": "267755EBB1859F4FB31F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6159723_35f2_2.jpg",
+      "title": "Zoho Advanced Certificate in Accounting&Warehouse Management"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-cc-masterpiece-unleashing-creative-magic/?couponCode=22CF995D3F95E0E95E4D",
       "coupon_code": "22CF995D3F95E0E95E4D",
@@ -13,12 +103,6 @@
       "coupon_code": "F1C49045D95F7CDA9A12",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5575880_ef0e_2.jpg",
       "title": "Advanced MS Word Course from Beginner to Expert to Get Job"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-for-accounting-finance-accounting-data-visualization/?couponCode=DB0971F8B81A5BCC5068",
-      "coupon_code": "DB0971F8B81A5BCC5068",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6842831_56e9.jpg",
-      "title": "AI For Accounting & Finance: Accounting Data Visualization"
     },
     {
       "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=C0512506B008D832E6B6",
