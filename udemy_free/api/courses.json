@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-04-09T09:19:04Z",
-  "count": 971,
+  "updated_at": "2026-04-09T11:07:02Z",
+  "count": 976,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/adobe-illustrator-for-graphic-designers-and-freelancers/?couponCode=A9C6E6D3627DF3258804",
-      "coupon_code": "A9C6E6D3627DF3258804",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7052675_5fc9.jpg",
-      "title": "Adobe Illustrator for Graphic Designers and Freelancers"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-for-accounting-finance-accounting-data-visualization/?couponCode=DB0971F8B81A5BCC5068",
-      "coupon_code": "DB0971F8B81A5BCC5068",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6842831_56e9.jpg",
-      "title": "AI For Accounting & Finance: Accounting Data Visualization"
-    },
     {
       "url": "https://www.udemy.com/course/ai-for-human-resources-claude-for-human-resources-teams-a-z/?couponCode=25C39A90299BE8C5E8D9",
       "coupon_code": "25C39A90299BE8C5E8D9",
@@ -33,10 +21,22 @@
       "title": "Become a Certified E-Commerce Marketing Master"
     },
     {
-      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-practice-learn-by-coding/?couponCode=28FBC10244FF71CD9FD5",
-      "coupon_code": "28FBC10244FF71CD9FD5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7027917_41c0_2.jpg",
-      "title": "Data Structures And Algorithms In Practice: Learn by Coding"
+      "url": "https://www.udemy.com/course/cco-liderazgo-exito-y-experiencia-del-cliente-es/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6694005_94f6_4.jpg",
+      "title": "CCO Masterclass: Liderazgo Éxito & Experiencia Cliente [ES]"
+    },
+    {
+      "url": "https://www.udemy.com/course/ceos-hr-toolkit-2025-hiring-onboarding-and-strategy/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6697885_cba1_3.jpg",
+      "title": "HR for CEOs Academy: Build & Scale Your HR Function [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/consultor-de-rrhh-auditoria-y-mejora-de-sistemas-es/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689109_0fba_3.jpg",
+      "title": "Consultor de RRHH Acreditado: Auditoría & Optimización [ES]"
     },
     {
       "url": "https://www.udemy.com/course/desarrolla-la-logica-de-programacion-con-pseint-y-algoritmos/?couponCode=6C999AD7F54D53FA5531",
@@ -51,16 +51,16 @@
       "title": "Essential Amazon Affiliate Marketing for Beginners"
     },
     {
+      "url": "https://www.udemy.com/course/financial-literacy-for-business-efficiency-driven-strategy/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6729957_3a23_3.jpg",
+      "title": "Certified Business Finance Pro Efficiency & CIMA CertPM [EN]"
+    },
+    {
       "url": "https://www.udemy.com/course/google-hacking-privacidad-ciberseguridad-proteccion-datos/?couponCode=570238D03FCF0F65F1A3",
       "coupon_code": "570238D03FCF0F65F1A3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3987160_b92b.jpg",
       "title": "Google Hacking. Accede a toda la información en internet."
-    },
-    {
-      "url": "https://www.udemy.com/course/linux-for-data-engineers-hands-on/?couponCode=EA8659A2BA26194A735C",
-      "coupon_code": "EA8659A2BA26194A735C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4368656_0f79_2.jpg",
-      "title": "Linux for Data Engineers (Hands On)"
     },
     {
       "url": "https://www.udemy.com/course/mastering-launching-a-successful-restaurant-business-plan/?couponCode=2E09EE8DBF527B6B9927",
@@ -75,10 +75,10 @@
       "title": "PHP with MySQL: Build 8 PHP and MySQL Projects"
     },
     {
-      "url": "https://www.udemy.com/course/the-complete-mongodb-build-scale-query-nosql-databases/?couponCode=D4A04BDB6AE7017A9DB5",
-      "coupon_code": "D4A04BDB6AE7017A9DB5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7027795_a966.jpg",
-      "title": "The Complete MongoDB: Build, Scale & Query NoSQL Databases"
+      "url": "https://www.udemy.com/course/recrutamento-com-ia-automatize-e-otimize-contratacoes-pt/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689919_a958_3.jpg",
+      "title": "AI Recruitment Masterclass: Automatização & Otimização [PT]"
     },
     {
       "url": "https://www.udemy.com/course/write-article-content-for-seo-and-affiliate-marketing-course/?couponCode=9A12B99031A31F59FE36",
@@ -91,6 +91,36 @@
       "coupon_code": "267755EBB1859F4FB31F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6159723_35f2_2.jpg",
       "title": "Zoho Advanced Certificate in Accounting&Warehouse Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-graphic-designers-and-freelancers/?couponCode=A9C6E6D3627DF3258804",
+      "coupon_code": "A9C6E6D3627DF3258804",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7052675_5fc9.jpg",
+      "title": "Adobe Illustrator for Graphic Designers and Freelancers"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-accounting-finance-accounting-data-visualization/?couponCode=DB0971F8B81A5BCC5068",
+      "coupon_code": "DB0971F8B81A5BCC5068",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6842831_56e9.jpg",
+      "title": "AI For Accounting & Finance: Accounting Data Visualization"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-practice-learn-by-coding/?couponCode=28FBC10244FF71CD9FD5",
+      "coupon_code": "28FBC10244FF71CD9FD5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7027917_41c0_2.jpg",
+      "title": "Data Structures And Algorithms In Practice: Learn by Coding"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-for-data-engineers-hands-on/?couponCode=EA8659A2BA26194A735C",
+      "coupon_code": "EA8659A2BA26194A735C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4368656_0f79_2.jpg",
+      "title": "Linux for Data Engineers (Hands On)"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-mongodb-build-scale-query-nosql-databases/?couponCode=D4A04BDB6AE7017A9DB5",
+      "coupon_code": "D4A04BDB6AE7017A9DB5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7027795_a966.jpg",
+      "title": "The Complete MongoDB: Build, Scale & Query NoSQL Databases"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-cc-masterpiece-unleashing-creative-magic/?couponCode=22CF995D3F95E0E95E4D",
