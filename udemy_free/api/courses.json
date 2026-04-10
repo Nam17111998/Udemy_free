@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-10T11:54:08Z",
-  "count": 955,
+  "updated_at": "2026-04-10T13:40:02Z",
+  "count": 970,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6919079_3c72_2.jpg",
+      "title": "Engineering Artificial General Intelligence Systems"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_242",
+      "coupon_code": "AR_FREE_242",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
+      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-journey-beginner-to-pro/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6916045_bf00.jpg",
+      "title": "Artificial Intelligence Journey: Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/chief-ai-officer-caio-leading-enterprise-ai-transformation/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6914977_ecab.jpg",
+      "title": "Chief AI Officer (CAIO) Leading Enterprise AI Transformation"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-ai-guide-from-fundamentals-to-real-world-impact/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6909909_d5e4.jpg",
+      "title": "Essential AI Guide: From Fundamentals to Real-World Impact"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_239",
+      "coupon_code": "AR_FREE_239",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=AR_FREE_240",
+      "coupon_code": "AR_FREE_240",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6451939_b54f.jpg",
+      "title": "Essentials for PyQGIS: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-engineer-python-machine-learning-dl-generative-ai/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6905265_45bb_6.jpg",
+      "title": "Full-Stack AI Engineer 2026: ML, Deep Learning, GenerativeAI"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-engineering-with-openai-anthropic/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6901057_e04e.jpg",
+      "title": "Generative AI Engineering with OpenAI, Anthropic"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_241",
+      "coupon_code": "AR_FREE_241",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
+      "title": "Django Essentials: Build and Deploy Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_243",
+      "coupon_code": "AR_FREE_243",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
+      "title": "Programming for Scientific Research with Python and R"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-ai/?couponCode=AR_FREE_238",
+      "coupon_code": "AR_FREE_238",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6749075_4cc0.jpg",
+      "title": "Python for AI and Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-gis-automation/?couponCode=AR_FREE_237",
+      "coupon_code": "AR_FREE_237",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6762543_37bf.jpg",
+      "title": "Python for GIS Automation and Geospatial Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_244",
+      "coupon_code": "AR_FREE_244",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
+      "title": "Python for Scientific Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_245",
+      "coupon_code": "AR_FREE_245",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
+      "title": "R for Researchers: From Basics to Advanced Analysis"
+    },
     {
       "url": "https://www.udemy.com/course/beneficios-laborales-diseno-de-sistema-de-recompensas-es/?couponCode=PAPAHR_APR_01",
       "coupon_code": "PAPAHR_APR_01",
