@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-10T13:40:02Z",
-  "count": 970,
+  "updated_at": "2026-04-10T14:56:37Z",
+  "count": 985,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/100-ai-agents/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/745420_f146_5.jpg",
+      "title": "100 AI Agents in 100 Days 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/7-days-of-hands-on-ai-development-bootcamp/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241851_995e_9.jpg",
+      "title": "7 Days of Hands-On AI Development Bootcamp and Certification"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-all-r/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6227519_c828_2.jpg",
+      "title": "Agentic AI for Product Owners: Strategy & Solutions"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai_powered_microservices_with_vibe_coding/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1609282_cff9_2.jpg",
+      "title": "AI-Powered Microservices with Vibe Coding & Software 3.0"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584537_9e04_2.jpg",
+      "title": "[AR] دورة ماجستير في هندسة الذكاء الاصطناعي (AI)"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified_generative_ai_architect_with_knowledge_graphs/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1588650_bd0d_4.jpg",
+      "title": "Certified Generative AI Architect with Knowledge Graphs"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
+      "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-de-ingenieria-en-ia-de-cero-a-heroe-de-la-ia/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581483_07d8_2.jpg",
+      "title": "[ES] Masterclass IA: De Cero a Héroe de la IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-en-ingenierie-de-lia-de-zero-a-heros-de-lia/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584539_825f_2.jpg",
+      "title": "[FR] Masterclass IA : De zéro à héros de l'IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-ai-on-aws-training-aws-certified-ai-practitioner/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6222319_e987.jpg",
+      "title": "Mastering AI on AWS: Training AWS Certified AI-Practitioner"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-context-design-for-intelligent-ai-agents/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1630106_3469_5.jpg",
+      "title": "Mastering Context Design for Intelligent AI Agents"
+    },
+    {
+      "url": "https://www.udemy.com/course/ncp-aii-nvidia-certified-professional-ai-infrastructure/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583073_4e3b_4.jpg",
+      "title": "SoAI-Certified Professional: AI Infrastructure (NCP-AII)"
+    },
+    {
+      "url": "https://www.udemy.com/course/rust-programming-bootcamp/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6352791_0655.jpg",
+      "title": "Rust Programming Bootcamp - 100 Projects in 100 Days"
+    },
+    {
+      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
     {
       "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=APRFREE03",
       "coupon_code": "APRFREE03",
