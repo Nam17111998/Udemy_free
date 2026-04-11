@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-11T02:53:23Z",
-  "count": 922,
+  "updated_at": "2026-04-11T05:01:26Z",
+  "count": 929,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-masterclass-beginner-to-pro-photo-editor/?couponCode=CC5C321E5350FD60C179",
+      "coupon_code": "CC5C321E5350FD60C179",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863249_cfbd.jpg",
+      "title": "Adobe Photoshop Masterclass: Beginner to Pro Photo Editor"
+    },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=8THAPRIL",
       "coupon_code": "8THAPRIL",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
       "title": "Emotional Intelligence in Leadership"
-    },
-    {
-      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=8THAPRIL",
-      "coupon_code": "8THAPRIL",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
-      "title": "Empathy and Emotional Intelligence for Project Managers"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=8THAPRIL",
@@ -33,18 +33,6 @@
       "title": "Financial Services - Funds Flow Optimization Concepts"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=8THAPRIL",
-      "coupon_code": "8THAPRIL",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
-      "title": "Financial Services: Introduction to ETFs"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=8THAPRIL",
-      "coupon_code": "8THAPRIL",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
-      "title": "Financial Services - Overview of Central Banks"
-    },
-    {
       "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=8THAPRIL",
       "coupon_code": "8THAPRIL",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
@@ -63,6 +51,66 @@
       "title": "Financial Stewardship for Decision Makers and Leaders"
     },
     {
+      "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=404568CE487A21362EC4",
+      "coupon_code": "404568CE487A21362EC4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5977824_a024.jpg",
+      "title": "Master Business Analysis to become a Business Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-word-for-everyone-a-step-by-step-guide/?couponCode=6FA235B3ACD82B13CAED",
+      "coupon_code": "6FA235B3ACD82B13CAED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863661_782d_2.jpg",
+      "title": "Mastering Microsoft Word for Everyone: A Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-perplexity-ai-smarter-research-better-results/?couponCode=8C433251CD4CD234604A",
+      "coupon_code": "8C433251CD4CD234604A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891903_50c7_3.jpg",
+      "title": "Mastering Perplexity AI: Smarter Research, Better Results"
+    },
+    {
+      "url": "https://www.udemy.com/course/premiere-pro-masterclass-beginner-to-advanced-video-editing/?couponCode=16D2BB34DC6EA8C895F7",
+      "coupon_code": "16D2BB34DC6EA8C895F7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6879693_736f.jpg",
+      "title": "Premiere Pro Masterclass: Beginner to Advanced Video Editing"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=E7D3028D698D50222123",
+      "coupon_code": "E7D3028D698D50222123",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2861796_b954.jpg",
+      "title": "Python And Django Framework For Beginners Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-detailed-and-interactive-quran-arabic-reading-course/?couponCode=ACE3C14334D5D2340B90",
+      "coupon_code": "ACE3C14334D5D2340B90",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6632225_9e79_2.jpg",
+      "title": "The Detailed And Interactive Quran Arabic Reading Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=8THAPRIL",
+      "coupon_code": "8THAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
+      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=8THAPRIL",
+      "coupon_code": "8THAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6066391_85af_2.jpg",
+      "title": "Empathy and Emotional Intelligence for Project Managers"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=8THAPRIL",
+      "coupon_code": "8THAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188581_57c0_2.jpg",
+      "title": "Financial Services: Introduction to ETFs"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=8THAPRIL",
+      "coupon_code": "8THAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
+    },
+    {
       "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=8THAPRIL",
       "coupon_code": "8THAPRIL",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
@@ -79,12 +127,6 @@
       "coupon_code": "8THAPRIL",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
       "title": "Mental Health for the Workplace"
-    },
-    {
-      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=8THAPRIL",
-      "coupon_code": "8THAPRIL",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
-      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=8THAPRIL",
