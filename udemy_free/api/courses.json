@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-12T07:39:51Z",
-  "count": 917,
+  "updated_at": "2026-04-12T08:59:09Z",
+  "count": 926,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-cc-for-absolute-beginner-to-advanced/?couponCode=5E8C5D79A5C7F3A43AF7",
+      "coupon_code": "5E8C5D79A5C7F3A43AF7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4785608_3753.jpg",
+      "title": "Adobe Photoshop CC For Absolute Beginner to Advanced"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=200EB752F6C3F2938420",
       "coupon_code": "200EB752F6C3F2938420",
@@ -15,16 +21,82 @@
       "title": "Adobe Premiere Pro Made Easy: Step by Step Guide"
     },
     {
-      "url": "https://www.udemy.com/course/capcut-video-editing-bootcamp-for-social-media-and-creators/?couponCode=9520795F6238CB8CBD12",
-      "coupon_code": "9520795F6238CB8CBD12",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6773623_594b.jpg",
-      "title": "CapCut Video Editing Bootcamp for Social Media and Creators"
-    },
-    {
       "url": "https://www.udemy.com/course/complete-graphics-design-bootcamp-beginner-to-advanced/?couponCode=0ED8B09CDDF5ED112A59",
       "coupon_code": "0ED8B09CDDF5ED112A59",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5401764_4279_2.jpg",
       "title": "Complete Graphics Design Bootcamp Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-structures-python/?couponCode=29D5457D17B2DA3FB54E",
+      "coupon_code": "29D5457D17B2DA3FB54E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6775423_ee5f_3.jpg",
+      "title": "Master Data Structures with Hands-on Python"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=43410F3CAE6678899B88",
+      "coupon_code": "43410F3CAE6678899B88",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346438_96d4.jpg",
+      "title": "Essential Microsoft PowerPoint Course for Everyone"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-ads-for-small-business-from-very-basic-to-advance/?couponCode=EF00D85862C8CB46D623",
+      "coupon_code": "EF00D85862C8CB46D623",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4171726_1bde.jpg",
+      "title": "Facebook Ads For Small Business From Very Basic To Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/fiverr-freelancing-for-absolute-beginners-basic-to-advance/?couponCode=F0D790495427506E6296",
+      "coupon_code": "F0D790495427506E6296",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4171640_fe6a_2.jpg",
+      "title": "Fiverr Freelancing For Absolute Beginners: Basic to Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=2E8BECD41EA2FA2A261C",
+      "coupon_code": "2E8BECD41EA2FA2A261C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5381926_9f28.jpg",
+      "title": "Learn Blockchain and Cryptocurrency from Beginning"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/?couponCode=7B69848E569117B3DFB9",
+      "coupon_code": "7B69848E569117B3DFB9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380132_3dad.jpg",
+      "title": "Learn HTML and CSS from Beginning to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=E4236263606E6AD4FA9E",
+      "coupon_code": "E4236263606E6AD4FA9E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5381922_8c87.jpg",
+      "title": "Learn PHP and MySQL for Web Application and Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-t-shirt-design-with-adobe-photoshop-and-illustrator/?couponCode=6667CF877F4E846598BA",
+      "coupon_code": "6667CF877F4E846598BA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380122_bcb1.jpg",
+      "title": "Learn T-Shirt Design with Adobe Illustrator"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-powerpoint-course-present-with-confidence-creativity/?couponCode=115DF4298571369A24BF",
+      "coupon_code": "115DF4298571369A24BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863291_6cf7.jpg",
+      "title": "MS PowerPoint Course: Present with Confidence & Creativity"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-tours-and-travel-website/?couponCode=PHPTOURS62",
+      "coupon_code": "PHPTOURS62",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5213474_bf88.jpg",
+      "title": "PHP with MySQL: Build Complete Tours and Travel Website"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-canva-course-from-beginners-to-advanced/?couponCode=2F59DA7ADD04DF83CA3B",
+      "coupon_code": "2F59DA7ADD04DF83CA3B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6856323_3851_3.jpg",
+      "title": "The Complete Canva Course From Beginners to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-video-editing-bootcamp-for-social-media-and-creators/?couponCode=9520795F6238CB8CBD12",
+      "coupon_code": "9520795F6238CB8CBD12",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6773623_594b.jpg",
+      "title": "CapCut Video Editing Bootcamp for Social Media and Creators"
     },
     {
       "url": "https://www.udemy.com/course/complete-pcep-python-certification-course-beginner-friendly/?couponCode=7460C0DFF41D3AA71C26",
@@ -63,18 +135,6 @@
       "title": "Certified AI Recruiter: Automatisierung & Optimierung [DE]"
     },
     {
-      "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=2E8BECD41EA2FA2A261C",
-      "coupon_code": "2E8BECD41EA2FA2A261C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5381926_9f28.jpg",
-      "title": "Learn Blockchain and Cryptocurrency from Beginning"
-    },
-    {
-      "url": "https://www.udemy.com/course/ms-powerpoint-course-present-with-confidence-creativity/?couponCode=115DF4298571369A24BF",
-      "coupon_code": "115DF4298571369A24BF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6863291_6cf7.jpg",
-      "title": "MS PowerPoint Course: Present with Confidence & Creativity"
-    },
-    {
       "url": "https://www.udemy.com/course/perplexity-ai-masterclass-ai-search-and-research/?couponCode=AE6517A3EE5907945764",
       "coupon_code": "AE6517A3EE5907945764",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7012527_e10e.jpg",
@@ -85,12 +145,6 @@
       "coupon_code": "D0E3121CF5B98B7C12B9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6894225_32bd.jpg",
       "title": "Python Game Development and App Programming Masterclass"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-canva-course-from-beginners-to-advanced/?couponCode=2F59DA7ADD04DF83CA3B",
-      "coupon_code": "2F59DA7ADD04DF83CA3B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6856323_3851_3.jpg",
-      "title": "The Complete Canva Course From Beginners to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/ai-recruit-ar/?couponCode=PAPAHR_APR_01",
