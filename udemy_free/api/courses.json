@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-04-12T10:50:35Z",
-  "count": 938,
+  "updated_at": "2026-04-12T11:39:35Z",
+  "count": 947,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-everyone-design-like-a-pro/?couponCode=61BE3DA330A99D40E13B",
+      "coupon_code": "61BE3DA330A99D40E13B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-instagram-marketing-blueprint-complete-guide/?couponCode=1482DF89BDE4DB06A9BE",
+      "coupon_code": "1482DF89BDE4DB06A9BE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6463121_73a2.jpg",
+      "title": "Advanced Instagram Marketing Blueprint Complete Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-iniciarse-en-hacking-y-ciberseguridad-debes-saber-esto/?couponCode=50038C58DEDE263C9DBE",
+      "coupon_code": "50038C58DEDE263C9DBE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6259111_a374_4.jpg",
+      "title": "Cómo iniciarse en Hacking y Ciberseguridad."
+    },
+    {
+      "url": "https://www.udemy.com/course/crea-tus-aplicaciones-sin-codigo-no-code-con-flutterflow/?couponCode=E7AE35330DC9645BB6B0",
+      "coupon_code": "E7AE35330DC9645BB6B0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5753514_914f_3.jpg",
+      "title": "Crea tus Aplicaciones sin Código (No code) con FlutterFlow"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-after-effects-from-beginner-to-motion-master/?couponCode=E88B346D6CB6592452D4",
+      "coupon_code": "E88B346D6CB6592452D4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5803016_9a0a_2.jpg",
+      "title": "Essential After Effects: From Beginner to Motion Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-canva-for-graphics-design-to-boost-productivity/?couponCode=CA520B45978B785E6B2F",
+      "coupon_code": "CA520B45978B785E6B2F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5712636_b2e1_2.jpg",
+      "title": "Essential Canva for Graphics Design to Boost Productivity"
+    },
+    {
+      "url": "https://www.udemy.com/course/figma-essential-for-user-interface-and-user-experience-ui-ux/?couponCode=2EC4683164D4F88DC953",
+      "coupon_code": "2EC4683164D4F88DC953",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641704_bd3b.jpg",
+      "title": "Figma Essential for User Interface and User Experience UI UX"
+    },
+    {
+      "url": "https://www.udemy.com/course/figma-for-user-interface-and-user-experience-uiux-design/?couponCode=85282BACFA706DAB79DC",
+      "coupon_code": "85282BACFA706DAB79DC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5531368_3d58.jpg",
+      "title": "Figma for User Interface and User Experience UIUX Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-advanced-excel-formulas-functions-vba-macros/?couponCode=648A07822E1BE2F310AD",
+      "coupon_code": "648A07822E1BE2F310AD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641722_6dfe.jpg",
+      "title": "Learn Advanced Excel: Formulas, Functions, VBA Macros"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-canva-for-advance-graphics-design/?couponCode=215CA074B7B27300DBBE",
+      "coupon_code": "215CA074B7B27300DBBE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5780890_09a1.jpg",
+      "title": "Learn Canva for Advance Graphics Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-adobe-premiere-pro-cc-from-beginner-to-pro-editor/?couponCode=E5088E4BE462AFDC9DD8",
+      "coupon_code": "E5088E4BE462AFDC9DD8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5797752_cf8c_3.jpg",
+      "title": "Mastering Adobe Premiere Pro CC: From Beginner to Pro Editor"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-bootcamp-with-web-and-application-development/?couponCode=8A1386DA718CD8679578",
+      "coupon_code": "8A1386DA718CD8679578",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6508535_6aa1_4.jpg",
+      "title": "Programming Bootcamp with Python, JavaScript, C++, PHP MySql"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-django-full-stack-development-build-modern-web-app/?couponCode=9AF8D38A7A71D9FB3BF3",
+      "coupon_code": "9AF8D38A7A71D9FB3BF3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6576145_939d.jpg",
+      "title": "Python Django Full Stack Development: Build Modern Web App"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-bootcamp-photoshop-illustrator-canva/?couponCode=0EF17C2A1521015E20CA",
+      "coupon_code": "0EF17C2A1521015E20CA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5789946_1f41.jpg",
+      "title": "T-Shirt Design Bootcamp: Photoshop, Illustrator & Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-expert/?couponCode=5BF0090A29E93C8560BF",
+      "coupon_code": "5BF0090A29E93C8560BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6549357_4b96_2.jpg",
+      "title": "The Complete Microsoft Excel Course: Beginner to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-after-effect-with-motion-graphics-and-animation/?couponCode=398E222C42C8441A711E",
       "coupon_code": "398E222C42C8441A711E",
@@ -13,17 +102,6 @@
       "coupon_code": "0E47ED1F2F2C007B688E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5539844_139d.jpg",
       "title": "Adobe Illustrator CC for Learning Graphics Design"
-    },
-    {
-      "url": "https://www.udemy.com/course/advanced-instagram-marketing-blueprint-complete-guide/?couponCode=1482DF89BDE4DB06A9BE",
-      "coupon_code": "1482DF89BDE4DB06A9BE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/como-iniciarse-en-hacking-y-ciberseguridad-debes-saber-esto/?couponCode=50038C58DEDE263C9DBE",
-      "coupon_code": "50038C58DEDE263C9DBE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6259111_a374_4.jpg",
-      "title": "Cómo iniciarse en Hacking y Ciberseguridad."
     },
     {
       "url": "https://www.udemy.com/course/crea-aplicaciones-profesionales-con-flask-python-y-api-rest/?couponCode=000DD2F6408592D5DDEE",
@@ -44,12 +122,6 @@
       "title": "Facebook Ads For Small Business From Very Basic To Advance"
     },
     {
-      "url": "https://www.udemy.com/course/figma-for-user-interface-and-user-experience-uiux-design/?couponCode=85282BACFA706DAB79DC",
-      "coupon_code": "85282BACFA706DAB79DC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5531368_3d58.jpg",
-      "title": "Figma for User Interface and User Experience UIUX Design"
-    },
-    {
       "url": "https://www.udemy.com/course/fiverr-freelancing-for-absolute-beginners-basic-to-advance/?couponCode=F0D790495427506E6296",
       "coupon_code": "F0D790495427506E6296",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4171640_fe6a_2.jpg",
@@ -68,28 +140,10 @@
       "title": "Mastering Adobe Illustrator Projects: Build Your Portfolio"
     },
     {
-      "url": "https://www.udemy.com/course/programming-bootcamp-with-web-and-application-development/?couponCode=8A1386DA718CD8679578",
-      "coupon_code": "8A1386DA718CD8679578",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6508535_6aa1_4.jpg",
-      "title": "Programming Bootcamp with Python, JavaScript, C++, PHP MySql"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-django-full-stack-development-build-modern-web-app/?couponCode=9AF8D38A7A71D9FB3BF3",
-      "coupon_code": "9AF8D38A7A71D9FB3BF3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6576145_939d.jpg",
-      "title": "Python Django Full Stack Development: Build Modern Web App"
-    },
-    {
       "url": "https://www.udemy.com/course/recuperacion-y-prevencion-de-datos-perdidos-o-ransomware/?couponCode=51EDB4A069264DD8C6E5",
       "coupon_code": "51EDB4A069264DD8C6E5",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4298637_e64e_3.jpg",
       "title": "Recuperación y Prevención de datos perdidos o ransomware."
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-expert/?couponCode=5BF0090A29E93C8560BF",
-      "coupon_code": "5BF0090A29E93C8560BF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6549357_4b96_2.jpg",
-      "title": "The Complete Microsoft Excel Course: Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/?couponCode=7B69848E569117B3DFB9",
