@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-04-11T23:42:54Z",
-  "count": 979,
+  "updated_at": "2026-04-12T03:33:41Z",
+  "count": 994,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/14-days-to-building-ai-systems-agents/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/agenticops-designing-ai-native-autonomous-systems/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7031585_f024.jpg",
+      "title": "AgenticOps: Designing AI-Native Autonomous Systems"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-driven-cybersecurity-automation/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7047765_4cf6.jpg",
+      "title": "AI-Driven Cybersecurity Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-enginner-2026-complete-course-gen-ai-deep-machine-llm/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7019205_f248.jpg",
+      "title": "AI Engineer 2026 Complete Course, GEN AI, Deep, Machine, LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-security-governance-compliance/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7043981_a8fd.jpg",
+      "title": "AI Security, Governance & Compliance"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-real-world-applications-from-prompts-to-product/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7029869_5128.jpg",
+      "title": "ChatGPT for Real-World Applications: From Prompts to Product"
+    },
+    {
+      "url": "https://www.udemy.com/course/clawdbot-build-real-world-ai-agents-without-coding/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7042417_276f_4.jpg",
+      "title": "Clawdbot: Build Real-World AI Agents Without Coding"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analysis-ai-from-data-to-intelligent-decisions-2026/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7019441_01a2.jpg",
+      "title": "Data Analysis & AI: From Data to Intelligent Decisions 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/enterprise-ai-agents-with-open-claw/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7051741_7293.jpg",
+      "title": "Enterprise AI Agents with Open Claw"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-nlp-for-ai-engineers-data-scientists/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018971_c2c7.jpg",
+      "title": "Natural Language Processing, AI Engineers & Data Scientists"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/?couponCode=4D44D7C89A986C54F7C2",
+      "coupon_code": "4D44D7C89A986C54F7C2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663784_d3d0_2.jpg",
+      "title": "NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-management-for-ai-data-science/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7038235_1925.jpg",
+      "title": "Product Management for AI & Data Science"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-data-science-pro-the-complete-mastery-course/?couponCode=86819AAFDCBE053F2EE2",
+      "coupon_code": "86819AAFDCBE053F2EE2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6137323_e6a1_3.jpg",
+      "title": "Python for Data Science Pro: The Complete Mastery Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-thinkers-concepts-logic-and-real-world-apps/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7049033_f264.jpg",
+      "title": "Python for Thinkers – Concepts, Logic, and Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-mysql-bootcamp-go-from-beginner-to-expert/?couponCode=C81B064172AB6F813280",
+      "coupon_code": "C81B064172AB6F813280",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5658548_cef9_2.jpg",
+      "title": "The Complete MySQL Bootcamp: Go from Beginner to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/all-in-one-wp-migration-migra-tu-sitio-web-de-wordpress/?couponCode=ABRIL202602",
       "coupon_code": "ABRIL202602",
