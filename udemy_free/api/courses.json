@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-12T08:59:09Z",
-  "count": 926,
+  "updated_at": "2026-04-12T09:55:54Z",
+  "count": 934,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-after-effect-with-motion-graphics-and-animation/?couponCode=398E222C42C8441A711E",
+      "coupon_code": "398E222C42C8441A711E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5538222_b323.jpg",
+      "title": "Learn Adobe  After Effect with Motion Graphics and Animation"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-cc-for-learning-graphics-design/?couponCode=0E47ED1F2F2C007B688E",
+      "coupon_code": "0E47ED1F2F2C007B688E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5539844_139d.jpg",
+      "title": "Adobe Illustrator CC for Learning Graphics Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-iniciarse-en-hacking-y-ciberseguridad-debes-saber-esto/?couponCode=50038C58DEDE263C9DBE",
+      "coupon_code": "50038C58DEDE263C9DBE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6259111_a374_4.jpg",
+      "title": "Cómo iniciarse en Hacking y Ciberseguridad."
+    },
+    {
+      "url": "https://www.udemy.com/course/crea-aplicaciones-profesionales-con-flask-python-y-api-rest/?couponCode=000DD2F6408592D5DDEE",
+      "coupon_code": "000DD2F6408592D5DDEE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6247591_778c_3.jpg",
+      "title": "Crea aplicaciones Profesionales con Flask, Python y API REST"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=43410F3CAE6678899B88",
+      "coupon_code": "43410F3CAE6678899B88",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5346438_96d4.jpg",
+      "title": "Essential Microsoft PowerPoint Course for Everyone"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-ads-for-small-business-from-very-basic-to-advance/?couponCode=EF00D85862C8CB46D623",
+      "coupon_code": "EF00D85862C8CB46D623",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4171726_1bde.jpg",
+      "title": "Facebook Ads For Small Business From Very Basic To Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/fiverr-freelancing-for-absolute-beginners-basic-to-advance/?couponCode=F0D790495427506E6296",
+      "coupon_code": "F0D790495427506E6296",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4171640_fe6a_2.jpg",
+      "title": "Fiverr Freelancing For Absolute Beginners: Basic to Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-filmora-for-video-editing-masterclass-course/?couponCode=D96B9B3C2FFCF1DF0792",
+      "coupon_code": "D96B9B3C2FFCF1DF0792",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5547028_780b.jpg",
+      "title": "Learn Filmora for Video Editing Masterclass Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/?couponCode=7B69848E569117B3DFB9",
+      "coupon_code": "7B69848E569117B3DFB9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380132_3dad.jpg",
+      "title": "Learn HTML and CSS from Beginning to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=E4236263606E6AD4FA9E",
+      "coupon_code": "E4236263606E6AD4FA9E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5381922_8c87.jpg",
+      "title": "Learn PHP and MySQL for Web Application and Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-t-shirt-design-with-adobe-photoshop-and-illustrator/?couponCode=6667CF877F4E846598BA",
+      "coupon_code": "6667CF877F4E846598BA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380122_bcb1.jpg",
+      "title": "Learn T-Shirt Design with Adobe Illustrator"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-adobe-illustrator-projects-build-your-portfolio/?couponCode=578122D9AD818DA69888",
+      "coupon_code": "578122D9AD818DA69888",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5555880_c4cd_2.jpg",
+      "title": "Mastering Adobe Illustrator Projects: Build Your Portfolio"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-tours-and-travel-website/?couponCode=PHPTOURS62",
+      "coupon_code": "PHPTOURS62",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5213474_bf88.jpg",
+      "title": "PHP with MySQL: Build Complete Tours and Travel Website"
+    },
+    {
+      "url": "https://www.udemy.com/course/recuperacion-y-prevencion-de-datos-perdidos-o-ransomware/?couponCode=51EDB4A069264DD8C6E5",
+      "coupon_code": "51EDB4A069264DD8C6E5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4298637_e64e_3.jpg",
+      "title": "Recuperación y Prevención de datos perdidos o ransomware."
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-expert/?couponCode=5BF0090A29E93C8560BF",
+      "coupon_code": "5BF0090A29E93C8560BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6549357_4b96_2.jpg",
+      "title": "The Complete Microsoft Excel Course: Beginner to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-photoshop-cc-for-absolute-beginner-to-advanced/?couponCode=5E8C5D79A5C7F3A43AF7",
       "coupon_code": "5E8C5D79A5C7F3A43AF7",
@@ -33,58 +123,16 @@
       "title": "Master Data Structures with Hands-on Python"
     },
     {
-      "url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=43410F3CAE6678899B88",
-      "coupon_code": "43410F3CAE6678899B88",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5346438_96d4.jpg",
-      "title": "Essential Microsoft PowerPoint Course for Everyone"
-    },
-    {
-      "url": "https://www.udemy.com/course/facebook-ads-for-small-business-from-very-basic-to-advance/?couponCode=EF00D85862C8CB46D623",
-      "coupon_code": "EF00D85862C8CB46D623",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4171726_1bde.jpg",
-      "title": "Facebook Ads For Small Business From Very Basic To Advance"
-    },
-    {
-      "url": "https://www.udemy.com/course/fiverr-freelancing-for-absolute-beginners-basic-to-advance/?couponCode=F0D790495427506E6296",
-      "coupon_code": "F0D790495427506E6296",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4171640_fe6a_2.jpg",
-      "title": "Fiverr Freelancing For Absolute Beginners: Basic to Advance"
-    },
-    {
       "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=2E8BECD41EA2FA2A261C",
       "coupon_code": "2E8BECD41EA2FA2A261C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5381926_9f28.jpg",
       "title": "Learn Blockchain and Cryptocurrency from Beginning"
     },
     {
-      "url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/?couponCode=7B69848E569117B3DFB9",
-      "coupon_code": "7B69848E569117B3DFB9",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5380132_3dad.jpg",
-      "title": "Learn HTML and CSS from Beginning to Advanced"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=E4236263606E6AD4FA9E",
-      "coupon_code": "E4236263606E6AD4FA9E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5381922_8c87.jpg",
-      "title": "Learn PHP and MySQL for Web Application and Web Development"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-t-shirt-design-with-adobe-photoshop-and-illustrator/?couponCode=6667CF877F4E846598BA",
-      "coupon_code": "6667CF877F4E846598BA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5380122_bcb1.jpg",
-      "title": "Learn T-Shirt Design with Adobe Illustrator"
-    },
-    {
       "url": "https://www.udemy.com/course/ms-powerpoint-course-present-with-confidence-creativity/?couponCode=115DF4298571369A24BF",
       "coupon_code": "115DF4298571369A24BF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6863291_6cf7.jpg",
       "title": "MS PowerPoint Course: Present with Confidence & Creativity"
-    },
-    {
-      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-tours-and-travel-website/?couponCode=PHPTOURS62",
-      "coupon_code": "PHPTOURS62",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5213474_bf88.jpg",
-      "title": "PHP with MySQL: Build Complete Tours and Travel Website"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-canva-course-from-beginners-to-advanced/?couponCode=2F59DA7ADD04DF83CA3B",
