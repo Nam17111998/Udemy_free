@@ -1,11 +1,101 @@
 {
-  "updated_at": "2026-04-14T06:05:15Z",
-  "count": 971,
+  "updated_at": "2026-04-14T08:47:49Z",
+  "count": 986,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-cloud-infrastructure-automating-aws-with-stationops/?couponCode=08APRIL",
+      "coupon_code": "08APRIL",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-career-strategy-adaptation/?couponCode=603DF2BD558F9A84D76F",
+      "coupon_code": "603DF2BD558F9A84D76F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7031547_6d9a.jpg",
+      "title": "AI-Powered Career Strategy & Adaptation - Career Accelerator"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-seo-audit/?couponCode=08APRIL",
+      "coupon_code": "08APRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589891_0a19.jpg",
+      "title": "AI-Powered SEO Audit: Diagnose, Optimize and Rank Fast"
+    },
+    {
+      "url": "https://www.udemy.com/course/certificacion-microsoft-azure-fundamentals-az-900-chirou-coto/?couponCode=798A2C32800F3F619EA0",
+      "coupon_code": "798A2C32800F3F619EA0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3984982_fc41.jpg",
+      "title": "Certificación Microsoft Azure Fundamentals Exam AZ-900."
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-ads-for-beginners-start-advertising-in-ai/?couponCode=08APRIL",
+      "coupon_code": "08APRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7054311_ff71.jpg",
+      "title": "ChatGPT Ads for Beginners: Start Advertising in AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/classroom-management-teacher-training/?couponCode=A62EF703E8D50AAC9692",
+      "coupon_code": "A62EF703E8D50AAC9692",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4755744_e4d3_3.jpg",
+      "title": "Classroom Management For Effective Teaching & Education K-12"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-notion-ai-guide-productivity-prompts-templates/?couponCode=08APRIL",
+      "coupon_code": "08APRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7039995_ad7a_3.jpg",
+      "title": "Complete Notion AI Guide: Productivity, Prompts & Templates"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-completo-de-youtube/?couponCode=41CCE60204A364531B74",
+      "coupon_code": "41CCE60204A364531B74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5043260_e9b5.jpg",
+      "title": "Curso completo de Youtube. Crecimiento, monetización, SEO y+"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-in-customer-support/?couponCode=08APRIL",
+      "coupon_code": "08APRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802701_2139.jpg",
+      "title": "Generative AI in Customer Support"
+    },
+    {
+      "url": "https://www.udemy.com/course/geo-generating-engine-optimization-how-to-rank-in-chatgpt/?couponCode=08APRIL",
+      "coupon_code": "08APRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6700317_6016.jpg",
+      "title": "GEO: Generative Engine Optimization. How to rank in ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-training-complete-course-2022/?couponCode=4010FB173AF7426A32AF",
+      "coupon_code": "4010FB173AF7426A32AF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4970728_bae9.jpg",
+      "title": "Java Training Complete Course for Java Beginners All in One"
+    },
+    {
+      "url": "https://www.udemy.com/course/make-from-beginner-to-pro-ai-automations-and-ai-agents/?couponCode=08APRIL",
+      "coupon_code": "08APRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6899137_0a48.jpg",
+      "title": "Make from beginner to pro - AI Automations and AI agents"
+    },
+    {
+      "url": "https://www.udemy.com/course/marketing-and-sales-with-voice-ai/?couponCode=08APRIL",
+      "coupon_code": "08APRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7059761_21b6_3.jpg",
+      "title": "Marketing and Sales with Voice AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/seguridad-informatica-ingenieria-social-achirou-alvaro-chirou-hacking/?couponCode=313FB796864137960928",
+      "coupon_code": "313FB796864137960928",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2558094_43fe_3.jpg",
+      "title": "Seguridad Informática- Ingeniería social: El arte del engaño"
+    },
+    {
+      "url": "https://www.udemy.com/course/vibe-coding-for-developers-v0-ai-supabase-vercel-deploy/?couponCode=08APRIL",
+      "coupon_code": "08APRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7030555_3c2e.jpg",
+      "title": "Vibe Coding for Developers: v0 AI, Supabase, Vercel Deploy"
+    },
     {
       "url": "https://www.udemy.com/course/canva-rockstar-design-like-a-pro-for-social-media-success/?couponCode=075E7BE3D9F299DE7A3B",
       "coupon_code": "075E7BE3D9F299DE7A3B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6031266_690c_2.jpg",
+      "title": "Canva Rockstar: Design Like a Pro for Social Media Success"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-desde-cero-paso-a-paso/?couponCode=ABRIL202602",
