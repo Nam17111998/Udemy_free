@@ -1,16 +1,102 @@
 {
-  "updated_at": "2026-04-15T10:22:22Z",
-  "count": 960,
+  "updated_at": "2026-04-15T12:00:17Z",
+  "count": 970,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/adobe-photoshop-cc-for-absolute-beginner-to-advanced/?couponCode=8D00A381396D6F8C28A1",
-      "coupon_code": "8D00A381396D6F8C28A1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-101-learn-editing-effects-transitions/?couponCode=5110D34D8CE768CFD02C",
+      "coupon_code": "5110D34D8CE768CFD02C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6879857_bbd6.jpg",
+      "title": "Adobe Premiere Pro 101: Learn Editing, Effects & Transitions"
     },
     {
       "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=A3F8DB97841C497F2436",
       "coupon_code": "A3F8DB97841C497F2436",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5236430_f326_2.jpg",
+      "title": "Advanced Excel Course With Shortcuts Tips and Tricks for JOB"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-python-automation-for-excel-and-accounting/?couponCode=BEE1B240DBE988501782",
+      "coupon_code": "BEE1B240DBE988501782",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6614157_b5ee.jpg",
+      "title": "Advanced Python Automation for Excel and Accounting"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-artificial-intelligence-and-python-developer-course/?couponCode=F52375E3A1F8BA64639E",
+      "coupon_code": "F52375E3A1F8BA64639E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6914713_930c.jpg",
+      "title": "Complete Artificial Intelligence and Python Developer Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-vba-for-beginner-to-advanced/?couponCode=526036A927FD4E9CC1C8",
+      "coupon_code": "526036A927FD4E9CC1C8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5433348_2f69.jpg",
+      "title": "Excel VBA for Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/fiverr-freelancing-for-absolute-beginners-basic-to-advance/?couponCode=4A7BFCF1F757A682A6BF",
+      "coupon_code": "4A7BFCF1F757A682A6BF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4171640_fe6a_2.jpg",
+      "title": "Fiverr Freelancing For Absolute Beginners: Basic to Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-css-java-javascript-full-stack-programming-course/?couponCode=C2C7820C98B8A0BDDE09",
+      "coupon_code": "C2C7820C98B8A0BDDE09",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6150931_b49f.jpg",
+      "title": "HTML, CSS, Java, & JavaScript: Full Stack Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-full-stack-web-development-with-games-and-application/?couponCode=CA079F29ABCD1E067EA2",
+      "coupon_code": "CA079F29ABCD1E067EA2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6616915_f73a_2.jpg",
+      "title": "Master Full Stack Web Development With Games and Application"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-python-for-data-science-machine-learning-automation/?couponCode=8E9ADB135A102CB00453",
+      "coupon_code": "8E9ADB135A102CB00453",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6857715_6d33.jpg",
+      "title": "Master Python for Data Science, Machine Learning, Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-word-a-comprehensive-guide-to-boost-you/?couponCode=2F0D68CEB11FFDAB7783",
+      "coupon_code": "2F0D68CEB11FFDAB7783",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5229322_0aa4_2.jpg",
+      "title": "Mastering Microsoft Word: A Comprehensive Guide to Boost You"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-master-formulas-functions-and-data-tools/?couponCode=BC9B5BB222B2FEC2B185",
+      "coupon_code": "BC9B5BB222B2FEC2B185",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6867819_6d2d.jpg",
+      "title": "Microsoft Excel: Master Formulas, Functions, and Data Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-science-and-machine-learning-made-easy/?couponCode=C7EB35F461584860A5FF",
+      "coupon_code": "C7EB35F461584860A5FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004411_e752.jpg",
+      "title": "Python Data Science and Machine Learning Made Easy"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-data-science-pro-the-complete-mastery-course/?couponCode=017ABA4B7BBCABBF0409",
+      "coupon_code": "017ABA4B7BBCABBF0409",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6137323_e6a1_3.jpg",
+      "title": "Python for Data Science Pro: The Complete Mastery Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-oop-a-complete-course-in-object-oriented-programming/?couponCode=067C2FC73B3B36308BD5",
+      "coupon_code": "067C2FC73B3B36308BD5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6146277_cacb_2.jpg",
+      "title": "Python OOP: A Complete Course in Object Oriented Programming"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-for-pcep-beginner-to-certified/?couponCode=BF360387BFA43381652C",
+      "coupon_code": "BF360387BFA43381652C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935861_dff0.jpg",
+      "title": "Python Programming for PCEP Beginner to Certified"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-cc-for-absolute-beginner-to-advanced/?couponCode=8D00A381396D6F8C28A1",
+      "coupon_code": "8D00A381396D6F8C28A1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4785608_3753.jpg",
+      "title": "Adobe Photoshop CC For Absolute Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/apache-zeppelin-big-data-visualization-tool/?couponCode=1984964E4CAC9CD8AAE1",
@@ -43,22 +129,10 @@
       "title": "Essential Canva Course for Graphics Design Learn in 2 Hour"
     },
     {
-      "url": "https://www.udemy.com/course/excel-vba-for-beginner-to-advanced/?couponCode=526036A927FD4E9CC1C8",
-      "coupon_code": "526036A927FD4E9CC1C8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5433348_2f69.jpg",
-      "title": "Excel VBA for Beginner to Advanced"
-    },
-    {
       "url": "https://www.udemy.com/course/facebook-ads-for-small-business-from-very-basic-to-advance/?couponCode=F997327AB8D18002BCF3",
       "coupon_code": "F997327AB8D18002BCF3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4171726_1bde.jpg",
       "title": "Facebook Ads For Small Business From Very Basic To Advance"
-    },
-    {
-      "url": "https://www.udemy.com/course/fiverr-freelancing-for-absolute-beginners-basic-to-advance/?couponCode=4A7BFCF1F757A682A6BF",
-      "coupon_code": "4A7BFCF1F757A682A6BF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4171640_fe6a_2.jpg",
-      "title": "Fiverr Freelancing For Absolute Beginners: Basic to Advance"
     },
     {
       "url": "https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=14AD6280312C7A05F917",
@@ -77,18 +151,6 @@
       "coupon_code": "F3CEE9834168595B3547",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg",
       "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-microsoft-word-a-comprehensive-guide-to-boost-you/?couponCode=2F0D68CEB11FFDAB7783",
-      "coupon_code": "2F0D68CEB11FFDAB7783",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5229322_0aa4_2.jpg",
-      "title": "Mastering Microsoft Word: A Comprehensive Guide to Boost You"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-programming-for-pcep-beginner-to-certified/?couponCode=BF360387BFA43381652C",
-      "coupon_code": "BF360387BFA43381652C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6935861_dff0.jpg",
-      "title": "Python Programming for PCEP Beginner to Certified"
     },
     {
       "url": "https://www.udemy.com/course/ai-strategy-transformation-for-executive-leaders/?couponCode=FREE10APRIL",
