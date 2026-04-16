@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-04-16T03:35:39Z",
-  "count": 907,
+  "updated_at": "2026-04-16T06:08:04Z",
+  "count": 915,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-course-for-beginner/?couponCode=D563F89D1BA27D8D31FC",
+      "coupon_code": "D563F89D1BA27D8D31FC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5182936_0106_2.jpg",
+      "title": "Adobe Illustrator Course For Beginner"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-excel-course-for-job-and-real-world/?couponCode=8D215E14CAE38FA1FE7E",
+      "coupon_code": "8D215E14CAE38FA1FE7E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5175514_2c3e.jpg",
+      "title": "Advanced Excel Course for Job and Real World"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-powerpoint-course-for-professional-and-job-success/?couponCode=E336D5B7396F31D4D26F",
+      "coupon_code": "E336D5B7396F31D4D26F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5182934_d5cc.jpg",
+      "title": "Advanced PowerPoint Course For Professional and Job Success"
+    },
     {
       "url": "https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=APRFREE01",
       "coupon_code": "APRFREE01",
@@ -9,28 +27,10 @@
       "title": "Certified Chief Technology Officer(CTO) Mastery Program"
     },
     {
-      "url": "https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english/?couponCode=REALDISAPR26",
-      "coupon_code": "REALDISAPR26",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/2659420_4911_3.jpg",
-      "title": "American English Consonants for Chinese Professionals"
-    },
-    {
-      "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=2BB65E2149455F131B30",
-      "coupon_code": "2BB65E2149455F131B30",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg",
-      "title": "CSS, JavaScript And PHP Complete Course For Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/desarrollo-ia-y-python-megaclase-con-300-proyectos/?couponCode=APRFREE01",
-      "coupon_code": "APRFREE01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6608623_246f.jpg",
-      "title": "[ES] Desarrollo IA y Python: Megaclase con 300+ Proyectos"
-    },
-    {
-      "url": "https://www.udemy.com/course/dominio-de-python-100-dias-100-proyectos/?couponCode=APRFREE01",
-      "coupon_code": "APRFREE01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6597337_e3b2.jpg",
-      "title": "[ES] Dominio de Python: 100 Días, 100 Proyectos"
+      "url": "https://www.udemy.com/course/complete-css-web-design-course-front-end-web-development/?couponCode=ACC8FCE48D8A6368BB97",
+      "coupon_code": "ACC8FCE48D8A6368BB97",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000839_54b3.jpg",
+      "title": "Complete CSS Web Design Course: Front End Web Development"
     },
     {
       "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=APRFREE01",
@@ -63,6 +63,60 @@
       "title": "[FR] Cours de Certification Ingénieur Associé en IA"
     },
     {
+      "url": "https://www.udemy.com/course/graphics-design-and-video-editing-all-in-one-course/?couponCode=3CA1863480A5F6410369",
+      "coupon_code": "3CA1863480A5F6410369",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7052803_4cfa_2.jpg",
+      "title": "Graphics Design and Video Editing: All in One Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-masterclass-from-beginner-to-expert-i/?couponCode=A9394A7FE33F590E2075",
+      "coupon_code": "A9394A7FE33F590E2075",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7056365_3441.jpg",
+      "title": "Java Programming Masterclass: From Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=841F0075AADD91662458",
+      "coupon_code": "841F0075AADD91662458",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5198550_8207.jpg",
+      "title": "Learn Blockchain and Crypto from Beginning"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-kotlin-for-android-android-app-development-bootcamp/?couponCode=65055B2D7F1985F9F00C",
+      "coupon_code": "65055B2D7F1985F9F00C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000881_f64a.jpg",
+      "title": "Learn Kotlin for Android: Android App Development Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/rag-strategy-execution-build-enterprise-knowledge-systems/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619523_2f1d.jpg",
+      "title": "RAG Strategy & Execution: Build Enterprise Knowledge Systems"
+    },
+    {
+      "url": "https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english/?couponCode=REALDISAPR26",
+      "coupon_code": "REALDISAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2659420_4911_3.jpg",
+      "title": "American English Consonants for Chinese Professionals"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=2BB65E2149455F131B30",
+      "coupon_code": "2BB65E2149455F131B30",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg",
+      "title": "CSS, JavaScript And PHP Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/desarrollo-ia-y-python-megaclase-con-300-proyectos/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6608623_246f.jpg",
+      "title": "[ES] Desarrollo IA y Python: Megaclase con 300+ Proyectos"
+    },
+    {
+      "url": "https://www.udemy.com/course/dominio-de-python-100-dias-100-proyectos/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6597337_e3b2.jpg",
+      "title": "[ES] Dominio de Python: 100 Días, 100 Proyectos"
+    },
+    {
       "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=APRFREE02",
       "coupon_code": "APRFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
@@ -85,12 +139,6 @@
       "coupon_code": "APRFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
       "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
-    },
-    {
-      "url": "https://www.udemy.com/course/rag-strategy-execution-build-enterprise-knowledge-systems/?couponCode=APRFREE01",
-      "coupon_code": "APRFREE01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6619523_2f1d.jpg",
-      "title": "RAG Strategy & Execution: Build Enterprise Knowledge Systems"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=15THAPR26",
