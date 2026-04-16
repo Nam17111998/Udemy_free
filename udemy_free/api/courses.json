@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-16T08:50:17Z",
-  "count": 930,
+  "updated_at": "2026-04-16T10:22:18Z",
+  "count": 943,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=53929CBE25420DBF99E6",
+      "coupon_code": "53929CBE25420DBF99E6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3604676_63b5_4.jpg",
+      "title": "Adobe Premiere Pro CC Essential Video Editing Zero To Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-beginners-to-professional/?couponCode=41B5E37C3C5487F196FD",
+      "coupon_code": "41B5E37C3C5487F196FD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4060610_17f8.jpg",
+      "title": "Adobe Premiere Pro CC Video Editing Course Beginners To Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-masteclass-chatgpt-gemini-midjourney-stable-diffusion/?couponCode=DF05D40FF7333B5DF7F0",
+      "coupon_code": "DF05D40FF7333B5DF7F0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6077171_4afb_2.jpg",
+      "title": "AI Masteclass - ChatGPT Gemini Midjourney Stable Diffusion"
+    },
+    {
+      "url": "https://www.udemy.com/course/anonimato-privacidad-deepweb/?couponCode=9FC4C98F3733575D7866",
+      "coupon_code": "9FC4C98F3733575D7866",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4657276_8b85_2.jpg",
+      "title": "Curso completo sobre Anonimato, Privacidad y Deepweb"
+    },
+    {
+      "url": "https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=3AD00EC241256E565AD3",
+      "coupon_code": "3AD00EC241256E565AD3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3049106_004f_5.jpg",
+      "title": "Big Data Programming Languages & Big Data Vs Data Science"
+    },
+    {
+      "url": "https://www.udemy.com/course/different-technologies-in-big-data/?couponCode=EFFF50C808AE0304B2B5",
+      "coupon_code": "EFFF50C808AE0304B2B5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2565910_a62c_3.jpg",
+      "title": "Data Analytics,Storage,Mining & Visual Big Data Technologies"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=2C294E95543875390F52",
+      "coupon_code": "2C294E95543875390F52",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4205418_287e_2.jpg",
+      "title": "Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio"
+    },
+    {
+      "url": "https://www.udemy.com/course/instagram-marketing-bootcamp-from-zero-to-hero/?couponCode=9E2EFA098FA5E0FCF629",
+      "coupon_code": "9E2EFA098FA5E0FCF629",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6077101_a8d2.jpg",
+      "title": "Instagram Marketing Bootcamp: From Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-fundamentals-to-advanced-full-stack-development/?couponCode=74CC5530FC747B2C5DFB",
+      "coupon_code": "74CC5530FC747B2C5DFB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6122347_5db0_2.jpg",
+      "title": "JavaScript Fundamentals to Advanced: Full Stack Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-big-data-basics/?couponCode=FREEBIGDATA",
+      "coupon_code": "FREEBIGDATA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2544537_11ac_7.jpg",
+      "title": "Learn Big Data Basics"
+    },
+    {
+      "url": "https://www.udemy.com/course/logo-design-essentials-photoshop-illustrator/?couponCode=B3806EBED701830955EB",
+      "coupon_code": "B3806EBED701830955EB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6078811_1a06_5.jpg",
+      "title": "Logo Design Essentials: Photoshop & Illustrator"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/?couponCode=01B4EED5F60E17BE03B4",
+      "coupon_code": "01B4EED5F60E17BE03B4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6104625_e7a4_2.jpg",
+      "title": "Master of Essential C++ Programming Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/optimiza-tu-vida-50-tareas-que-chatgpt-hace-por-ti/?couponCode=354E07EB0E3CB267AAE8",
+      "coupon_code": "354E07EB0E3CB267AAE8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6655333_1515.jpg",
+      "title": "Optimiza tu vida con IA: 50 tareas que ChatGPT hace por ti."
+    },
+    {
+      "url": "https://www.udemy.com/course/product-owner-certification/?couponCode=160426_FREE",
+      "coupon_code": "160426_FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3662450_7745.jpg",
+      "title": "Product Management Certification+Agile Product Manager+Scrum"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/?couponCode=B4973155FD41650797D6",
+      "coupon_code": "B4973155FD41650797D6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3406388_848f_5.jpg",
+      "title": "Modern Graphic Design MasterClass with AI Driven Tools"
+    },
     {
       "url": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?couponCode=380CFD80A17B7F11ED40",
       "coupon_code": "380CFD80A17B7F11ED40",
@@ -55,18 +145,6 @@
       "coupon_code": "4305E1F94EF246945536",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6577113_15af.jpg",
       "title": "Mastering Video Editing with AI ChatGPT for Content Creators"
-    },
-    {
-      "url": "https://www.udemy.com/course/optimiza-tu-vida-50-tareas-que-chatgpt-hace-por-ti/?couponCode=354E07EB0E3CB267AAE8",
-      "coupon_code": "354E07EB0E3CB267AAE8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6655333_1515.jpg",
-      "title": "Optimiza tu vida con IA: 50 tareas que ChatGPT hace por ti."
-    },
-    {
-      "url": "https://www.udemy.com/course/product-owner-certification/?couponCode=160426_FREE",
-      "coupon_code": "160426_FREE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3662450_7745.jpg",
-      "title": "Product Management Certification+Agile Product Manager+Scrum"
     },
     {
       "url": "https://www.udemy.com/course/project-development-using-java-for-beginners-2020/?couponCode=AB9E689615E85FE1A1F1",
