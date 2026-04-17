@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-16T23:51:28Z",
-  "count": 969,
+  "updated_at": "2026-04-17T03:31:27Z",
+  "count": 978,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584537_9e04_2.jpg",
+      "title": "[AR] دورة ماجستير في هندسة الذكاء الاصطناعي (AI)"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=E18A594C68E6AD0502D3",
+      "coupon_code": "E18A594C68E6AD0502D3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4282170_1ea0.jpg",
+      "title": "CSS And JavaScript Complete Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/cssbootstrapjavascriptreact-overview-course-for-beginners/?couponCode=17E2C7258DF1ADD6947E",
+      "coupon_code": "17E2C7258DF1ADD6947E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5039564_6b62.jpg",
+      "title": "Foundations of Web Development: CSS, Bootstrap, JS, React"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
+      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602567_4008.jpg",
+      "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
+      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605733_721d.jpg",
+      "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605637_60b2.jpg",
+      "title": "[FR] IA Full-Stack avec Ollama : Llama, Deepseek, Mistral"
+    },
+    {
+      "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584541_734c_2.jpg",
+      "title": "[DE] KI-Masterclass: Vom Anfänger zum KI-Helden"
+    },
+    {
+      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
+      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584543_c6a8_2.jpg",
+      "title": "[PT] Masterclass de Engenharia de IA: Do Zero ao Herói da IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
+      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
+      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
+    },
+    {
+      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
     {
       "url": "https://www.udemy.com/course/ai-cybersecurity-learnit/?couponCode=APRILFREE22026",
       "coupon_code": "APRILFREE22026",
@@ -2215,24 +2305,6 @@
       "coupon_code": "PAPAHR_APR_01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6673353_0d59_3.jpg",
       "title": "Employee Appraisal Architect: All Evaluation Methods [EN]"
-    },
-    {
-      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
-      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
-    },
-    {
-      "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602567_4008.jpg",
-      "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
-    },
-    {
-      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
-      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
     },
     {
       "url": "https://www.udemy.com/course/mysql-database-management-create-manage-query-database/?couponCode=CC4A67AB3C4A065EE0C5",
@@ -5253,12 +5325,6 @@
       "title": "[ES] Dominio de Python: 100 Días, 100 Proyectos"
     },
     {
-      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
-      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
-    },
-    {
       "url": "https://www.udemy.com/course/mastering-google-advance-search-techniques/?couponCode=6670BBE6CFA693B6144B",
       "coupon_code": "6670BBE6CFA693B6144B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6809219_594a_3.jpg",
@@ -5287,12 +5353,6 @@
       "coupon_code": "20F10F765B105E730900",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7007365_4896.jpg",
       "title": "PowerShell for SQL Server DBA: Automation, Installation"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
-      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
     },
     {
       "url": "https://www.udemy.com/course/warehouse-management-wms/?couponCode=503CBB9A638BED8B7EFC",
@@ -5347,12 +5407,6 @@
       "coupon_code": "APRFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6595497_64d5.jpg",
       "title": "Generative AI for Business Leaders and Executives"
-    },
-    {
-      "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6584543_c6a8_2.jpg",
-      "title": "[PT] Masterclass de Engenharia de IA: Do Zero ao Herói da IA"
     },
     {
       "url": "https://www.udemy.com/course/certified-master-in-agentic-ai/?couponCode=APRFREE03",
