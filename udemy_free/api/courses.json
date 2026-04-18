@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-18T07:20:45Z",
-  "count": 937,
+  "updated_at": "2026-04-18T08:59:55Z",
+  "count": 948,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-capcut-masterclass-complete-video-editing-guide/?couponCode=57019D3087B9CAF7E856",
+      "coupon_code": "57019D3087B9CAF7E856",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6704797_be8f.jpg",
+      "title": "Advanced CapCut Masterclass: Complete Video Editing Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/brain-tumor-detection-using-yolov8-complete-project/?couponCode=01FCC67104A2DBFE6192",
+      "coupon_code": "01FCC67104A2DBFE6192",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5758966_083a_4.jpg",
+      "title": "Deep Learning Recognition Using YOLOv8 Complete Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-c-for-beginners-step-by-step-to-mastery/?couponCode=F8DE2A0FD5B2D95659F7",
+      "coupon_code": "F8DE2A0FD5B2D95659F7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017095_15f6.jpg",
+      "title": "C and C++ for Beginners: Step-by-Step to Mastery"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-social-media-video-editing-masterclass-edit-like-a-pro/?couponCode=45A34D1EF0C367B4361D",
+      "coupon_code": "45A34D1EF0C367B4361D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6703445_8247.jpg",
+      "title": "Canva Social Media Video Editing MasterClass Edit Like a Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-canva-masterclass-graphic-design-with-video-edit/?couponCode=14A244F7DFC79662DAAF",
+      "coupon_code": "14A244F7DFC79662DAAF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6704861_1997.jpg",
+      "title": "CapCut and Canva Masterclass Graphic Design With Video Edit"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-sql-crash-course-from-zero-to-hero/?couponCode=6249B21FA019EC4BFAF6",
+      "coupon_code": "6249B21FA019EC4BFAF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5802976_cfdc_2.jpg",
+      "title": "Oracle Sql 2025 : Beginner to Sql Database Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analytics-ui-ux-machine-learning-complete-course/?couponCode=2FE636531A9A3EED24A2",
+      "coupon_code": "2FE636531A9A3EED24A2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5782740_2e74.jpg",
+      "title": "Power BI , UI UX , Machine Learning : From Zero To Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotion-detection-using-yolov7-complete-project-course/?couponCode=841BED266A88BD06417C",
+      "coupon_code": "841BED266A88BD06417C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5758984_79c5_2.jpg",
+      "title": "Emotion Detection Machine Learning Project with YOLOv7 Model"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-filmora-video-editing-masterclass-from-beginner-to-pro/?couponCode=5239B165BE177A0BDB3F",
+      "coupon_code": "5239B165BE177A0BDB3F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5939154_0cfd_2.jpg",
+      "title": "Learn Filmora Video Editing Masterclass From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-codeigniter-4-for-2023-build-complete-job-portal/?couponCode=CIJOBPORTAL96",
+      "coupon_code": "CIJOBPORTAL96",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5554680_ce46.jpg",
+      "title": "PHP CodeIgniter 4: Build Complete Job Portal"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-amazing-streaming-service/?couponCode=PHPSTREAMING56",
+      "coupon_code": "PHPSTREAMING56",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5338380_fc35.jpg",
+      "title": "PHP with MySQL: Build Amazing Streaming Service"
+    },
+    {
+      "url": "https://www.udemy.com/course/real-world-5-deep-learning-projects-complete-course/?couponCode=A81659A6C5A64934D5A8",
+      "coupon_code": "A81659A6C5A64934D5A8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5759200_6a99_4.jpg",
+      "title": "Complete 5+ Deep Learning Projects: AI & ML Hands-On Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/tecnicas-de-practica-de-ingles-con-chatgpt-escrito-y-oral/?couponCode=3B81AB2FF7E5AAF06201",
+      "coupon_code": "3B81AB2FF7E5AAF06201",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6604001_92c6_2.jpg",
+      "title": "Técnicas de Práctica de Inglés con ChatGPT Escrito y Oral."
+    },
+    {
+      "url": "https://www.udemy.com/course/uiux-design-masterclass-with-adobe-xd-from-beginner-to-pro/?couponCode=6549179710BC6B15CB6D",
+      "coupon_code": "6549179710BC6B15CB6D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860254_4378.jpg",
+      "title": "UI/UX Design Masterclass with Adobe XD: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt/?couponCode=7936848A3172470CFF81",
+      "coupon_code": "7936848A3172470CFF81",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6051745_d095.jpg",
+      "title": "Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt"
+    },
     {
       "url": "https://www.udemy.com/course/art-gallery-management-mastery-course/?couponCode=244C286D17F5D4A23E1B",
       "coupon_code": "244C286D17F5D4A23E1B",
@@ -13,12 +103,6 @@
       "coupon_code": "16APRIL2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6426003_fbae_2.jpg",
       "title": "How to Build Accurate Go-to-Market Strategy Faster with AI"
-    },
-    {
-      "url": "https://www.udemy.com/course/c-and-c-for-beginners-step-by-step-to-mastery/?couponCode=F8DE2A0FD5B2D95659F7",
-      "coupon_code": "F8DE2A0FD5B2D95659F7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7017095_15f6.jpg",
-      "title": "C and C++ for Beginners: Step-by-Step to Mastery"
     },
     {
       "url": "https://www.udemy.com/course/capcut-video-editing-for-social-media-beginner-to-pro/?couponCode=80773C6D9A350A87DBAD",
@@ -57,12 +141,6 @@
       "title": "Certified Global People & Culture Strategist [EN]"
     },
     {
-      "url": "https://www.udemy.com/course/learn-filmora-video-editing-masterclass-from-beginner-to-pro/?couponCode=5239B165BE177A0BDB3F",
-      "coupon_code": "5239B165BE177A0BDB3F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5939154_0cfd_2.jpg",
-      "title": "Learn Filmora Video Editing Masterclass From Beginner to Pro"
-    },
-    {
       "url": "https://www.udemy.com/course/master-marketing-automation-with-microsoft-copilot/?couponCode=16APRIL2026",
       "coupon_code": "16APRIL2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6418419_3f69.jpg",
@@ -79,18 +157,6 @@
       "coupon_code": "EE6DE9E34F1280451762",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6589641_29f8_6.jpg",
       "title": "Mastering Tmux | Linux Terminal Productivity"
-    },
-    {
-      "url": "https://www.udemy.com/course/uiux-design-masterclass-with-adobe-xd-from-beginner-to-pro/?couponCode=6549179710BC6B15CB6D",
-      "coupon_code": "6549179710BC6B15CB6D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5860254_4378.jpg",
-      "title": "UI/UX Design Masterclass with Adobe XD: From Beginner to Pro"
-    },
-    {
-      "url": "https://www.udemy.com/course/ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt/?couponCode=7936848A3172470CFF81",
-      "coupon_code": "7936848A3172470CFF81",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6051745_d095.jpg",
-      "title": "Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-customer-success-learnit/?couponCode=APRILFREE22026",
