@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-04-18T21:43:37Z",
-  "count": 961,
+  "updated_at": "2026-04-18T22:44:03Z",
+  "count": 962,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ciberseguridad-protege-informacion-ataque-hackers-alvaro-chirou/?couponCode=7489E78A71AB72EEA9D1",
+      "coupon_code": "7489E78A71AB72EEA9D1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=APRFREE02",
       "coupon_code": "APRFREE02",
@@ -45,12 +50,6 @@
       "title": "[FR] IA Full-Stack avec Ollama : Llama, Deepseek, Mistral"
     },
     {
-      "url": "https://www.udemy.com/course/learn-filmora-video-editing-masterclass-from-beginner-to-pro/?couponCode=5239B165BE177A0BDB3F",
-      "coupon_code": "5239B165BE177A0BDB3F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5939154_0cfd_2.jpg",
-      "title": "Learn Filmora Video Editing Masterclass From Beginner to Pro"
-    },
-    {
       "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=APRFREE01",
       "coupon_code": "APRFREE01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
@@ -91,6 +90,12 @@
       "coupon_code": "7936848A3172470CFF81",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6051745_d095.jpg",
       "title": "Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-filmora-video-editing-masterclass-from-beginner-to-pro/?couponCode=5239B165BE177A0BDB3F",
+      "coupon_code": "5239B165BE177A0BDB3F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5939154_0cfd_2.jpg",
+      "title": "Learn Filmora Video Editing Masterclass From Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/advanced-capcut-masterclass-complete-video-editing-guide/?couponCode=57019D3087B9CAF7E856",
