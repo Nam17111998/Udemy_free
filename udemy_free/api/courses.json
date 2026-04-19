@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-04-19T11:41:25Z",
+  "updated_at": "2026-04-19T13:18:31Z",
   "count": 909,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/?couponCode=8268C8D9A65F3755B7BE",
+      "coupon_code": "8268C8D9A65F3755B7BE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5926794_6929.jpg",
+      "title": "Adobe Illustrator Essentials: Zero to Hero for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=08B7734B6EFB630F6CC8",
+      "coupon_code": "08B7734B6EFB630F6CC8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5895048_9832.jpg",
+      "title": "Advanced Adobe Premiere Pro Add Hollywood-level Effects"
+    },
     {
       "url": "https://www.udemy.com/course/basics_of_programming/?couponCode=7EB79201DCF920CB0FB3",
       "coupon_code": "7EB79201DCF920CB0FB3",
@@ -9,22 +21,10 @@
       "title": "Fundamentals of computer science | Short Term Course(Arabic)"
     },
     {
-      "url": "https://www.udemy.com/course/c-modern-c-programming-language-made-easy/?couponCode=EF4C44038F143843AD94",
-      "coupon_code": "EF4C44038F143843AD94",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7017085_0a76.jpg",
-      "title": "C++ - Modern C++ Programming Language Made Easy"
-    },
-    {
       "url": "https://www.udemy.com/course/changement-climatique/?couponCode=035EC16B2992B2172A26",
       "coupon_code": "035EC16B2992B2172A26",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6628521_45e4_3.jpg",
       "title": "Le Changement Climatique : Causes, Conséquences et Solutions"
-    },
-    {
-      "url": "https://www.udemy.com/course/generative-ai-mastery-chatgpt-gemini-deepseek-and-copilot/?couponCode=41378E020F099DF58188",
-      "coupon_code": "41378E020F099DF58188",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7012859_c736_2.jpg",
-      "title": "Generative AI Mastery: ChatGPT, Gemini, DeepSeek and Copilot"
     },
     {
       "url": "https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-development/?couponCode=996B7AA0D16C0A1177D1",
@@ -57,10 +57,10 @@
       "title": "IA Generativa Claude. La competencia de ChatGPT. ¿Es Mejor?"
     },
     {
-      "url": "https://www.udemy.com/course/microsoft-excel-the-complete-excel-data-analysis-course/?couponCode=8102952DC51945D55FD0",
-      "coupon_code": "8102952DC51945D55FD0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5988750_aa46_2.jpg",
-      "title": "Microsoft Excel - The Complete Excel Data Analysis Course"
+      "url": "https://www.udemy.com/course/la-ia-gratuita-para-hacer-todo-sin-instalar-nada-qwen/?couponCode=6D469929E29BE04DC1D5",
+      "coupon_code": "6D469929E29BE04DC1D5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6789753_d85b.jpg",
+      "title": "La IA GRATUITA para Hacer TODO sin Instalar Nada. QWEN"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=A783DE321AA4E91D3F25",
@@ -93,6 +93,24 @@
       "title": "Pro Photo Editing With Photoshop Illustrator Lightroom Canva"
     },
     {
+      "url": "https://www.udemy.com/course/c-modern-c-programming-language-made-easy/?couponCode=EF4C44038F143843AD94",
+      "coupon_code": "EF4C44038F143843AD94",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017085_0a76.jpg",
+      "title": "C++ - Modern C++ Programming Language Made Easy"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-mastery-chatgpt-gemini-deepseek-and-copilot/?couponCode=41378E020F099DF58188",
+      "coupon_code": "41378E020F099DF58188",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7012859_c736_2.jpg",
+      "title": "Generative AI Mastery: ChatGPT, Gemini, DeepSeek and Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-the-complete-excel-data-analysis-course/?couponCode=8102952DC51945D55FD0",
+      "coupon_code": "8102952DC51945D55FD0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5988750_aa46_2.jpg",
+      "title": "Microsoft Excel - The Complete Excel Data Analysis Course"
+    },
+    {
       "url": "https://www.udemy.com/course/adobe-after-effects-from-beginner-to-motion-master/?couponCode=003A27265D157577325D",
       "coupon_code": "003A27265D157577325D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5927302_12ae.jpg",
@@ -105,28 +123,10 @@
       "title": "Adobe Illustrator Essentials: Design Like a Pro in Days"
     },
     {
-      "url": "https://www.udemy.com/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/?couponCode=8268C8D9A65F3755B7BE",
-      "coupon_code": "8268C8D9A65F3755B7BE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5926794_6929.jpg",
-      "title": "Adobe Illustrator Essentials: Zero to Hero for Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=08B7734B6EFB630F6CC8",
-      "coupon_code": "08B7734B6EFB630F6CC8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5895048_9832.jpg",
-      "title": "Advanced Adobe Premiere Pro Add Hollywood-level Effects"
-    },
-    {
       "url": "https://www.udemy.com/course/complete-uiux-design-with-canva-design-smart-interface/?couponCode=9B9A1C0860CCB56F9E4D",
       "coupon_code": "9B9A1C0860CCB56F9E4D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6752731_bf9b_2.jpg",
       "title": "Complete UI/UX Design with Canva - Design Smart Interface"
-    },
-    {
-      "url": "https://www.udemy.com/course/la-ia-gratuita-para-hacer-todo-sin-instalar-nada-qwen/?couponCode=6D469929E29BE04DC1D5",
-      "coupon_code": "6D469929E29BE04DC1D5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6789753_d85b.jpg",
-      "title": "La IA GRATUITA para Hacer TODO sin Instalar Nada. QWEN"
     },
     {
       "url": "https://www.udemy.com/course/ultimate-youtube-blueprint-proven-tactics-channel-success/?couponCode=E2AE1D79D16E029D6CD2",
