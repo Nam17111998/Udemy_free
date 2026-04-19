@@ -1,10 +1,85 @@
 {
-  "updated_at": "2026-04-19T03:38:20Z",
-  "count": 965,
+  "updated_at": "2026-04-19T06:03:42Z",
+  "count": 976,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-graphics-design-video-editing/?couponCode=26B2D8755E02575915EB",
+      "coupon_code": "26B2D8755E02575915EB",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-powerpoint-masterclass-for-professionals/?couponCode=064A9D80EBC15A90C88E",
+      "coupon_code": "064A9D80EBC15A90C88E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6184319_e6d2.jpg",
+      "title": "Advanced PowerPoint Masterclass for Professionals"
+    },
+    {
+      "url": "https://www.udemy.com/course/angularjs-essentials-from-beginner-to-advanced-developer/?couponCode=D68A6CC424F9CB87BF19",
+      "coupon_code": "D68A6CC424F9CB87BF19",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6262525_eb9c_2.jpg",
+      "title": "AngularJS Essentials - From Beginner to Advanced Developer"
+    },
     {
       "url": "https://www.udemy.com/course/ciberseguridad-protege-informacion-ataque-hackers-alvaro-chirou/?couponCode=7489E78A71AB72EEA9D1",
       "coupon_code": "7489E78A71AB72EEA9D1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/conquer-pmp-success-essential-guide-for-project-management/?couponCode=6533382052CEBD3D073B",
+      "coupon_code": "6533382052CEBD3D073B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-excel-for-beginner-to-advanced/?couponCode=50D7AF79B0FC7608E82F",
+      "coupon_code": "50D7AF79B0FC7608E82F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-formulas-and-functions-tips-tricks-and-shortcuts/?couponCode=1997074F8AC43B36C035",
+      "coupon_code": "1997074F8AC43B36C035",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
+      "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605733_721d.jpg",
+      "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-perplexity-ai-smarter-research-better-results/?couponCode=C125B1F0FBED026606A5",
+      "coupon_code": "C125B1F0FBED026606A5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
+      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/pivot-tables-microsoft-excel-pivot-table-and-data-analysis/?couponCode=F352B7F8BFFB69AD11E7",
+      "coupon_code": "F352B7F8BFFB69AD11E7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-osint/?couponCode=9DB88ABF7F097BF361C7",
+      "coupon_code": "9DB88ABF7F097BF361C7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-app-development-masterclass-app-development-bootcamp/?couponCode=5A9A279BDF624A88EAD6",
+      "coupon_code": "5A9A279BDF624A88EAD6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-design-for-beginner-to-advanced/?couponCode=A2A21620687AFF3EDCF1",
+      "coupon_code": "A2A21620687AFF3EDCF1",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -41,18 +116,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
-      "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
-    },
-    {
-      "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
-      "coupon_code": "APRFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6605733_721d.jpg",
-      "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
-    },
-    {
       "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
       "coupon_code": "APRFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6605637_60b2.jpg",
@@ -75,12 +138,6 @@
       "coupon_code": "APRFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6584539_825f_2.jpg",
       "title": "[FR] Masterclass IA : De zéro à héros de l'IA"
-    },
-    {
-      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
-      "coupon_code": "APRFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
-      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
     },
     {
       "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=APRFREE02",
