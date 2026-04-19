@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-04-19T13:18:31Z",
-  "count": 909,
+  "updated_at": "2026-04-19T14:49:43Z",
+  "count": 913,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/?couponCode=8268C8D9A65F3755B7BE",
-      "coupon_code": "8268C8D9A65F3755B7BE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5926794_6929.jpg",
-      "title": "Adobe Illustrator Essentials: Zero to Hero for Beginners"
-    },
     {
       "url": "https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=08B7734B6EFB630F6CC8",
       "coupon_code": "08B7734B6EFB630F6CC8",
@@ -27,10 +21,10 @@
       "title": "Le Changement Climatique : Causes, Conséquences et Solutions"
     },
     {
-      "url": "https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-development/?couponCode=996B7AA0D16C0A1177D1",
-      "coupon_code": "996B7AA0D16C0A1177D1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7014617_9da3.jpg",
-      "title": "GO Programming: The Complete Guide to Golang Development"
+      "url": "https://www.udemy.com/course/global-economics/?couponCode=952BB2C2604EA2F1A234",
+      "coupon_code": "952BB2C2604EA2F1A234",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6065331_8421_2.jpg",
+      "title": "Global Economics: Trade & Business (Accredited Diploma)"
     },
     {
       "url": "https://www.udemy.com/course/google-sheets-the-complete-google-sheets-course/?couponCode=8DBD63D0871C9AC9E51B",
@@ -57,16 +51,10 @@
       "title": "IA Generativa Claude. La competencia de ChatGPT. ¿Es Mejor?"
     },
     {
-      "url": "https://www.udemy.com/course/la-ia-gratuita-para-hacer-todo-sin-instalar-nada-qwen/?couponCode=6D469929E29BE04DC1D5",
-      "coupon_code": "6D469929E29BE04DC1D5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6789753_d85b.jpg",
-      "title": "La IA GRATUITA para Hacer TODO sin Instalar Nada. QWEN"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=A783DE321AA4E91D3F25",
-      "coupon_code": "A783DE321AA4E91D3F25",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg",
-      "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro"
+      "url": "https://www.udemy.com/course/lpic-1-ultimate-prep/?couponCode=20EBAC355E2D3F9A495E",
+      "coupon_code": "20EBAC355E2D3F9A495E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6171551_01af_7.jpg",
+      "title": "Linux Mastery: LPIC-1 (101-500 and 102-500) Ultimate Prep"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-advanced-with-project/?couponCode=D3E970C8BCE84440C84C",
@@ -91,6 +79,42 @@
       "coupon_code": "EC6A9F6BD321759613FF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5886704_9b11.jpg",
       "title": "Pro Photo Editing With Photoshop Illustrator Lightroom Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/supporting-autism-dyslexia-in-early-childhood-education/?couponCode=983E2AB20A3060926DD3",
+      "coupon_code": "983E2AB20A3060926DD3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6697149_a02e.jpg",
+      "title": "Supporting Autism & Dyslexia in Early Childhood Education"
+    },
+    {
+      "url": "https://www.udemy.com/course/yaml-fundamentals-compete-course/?couponCode=6A13F450E5DA5798DAE7",
+      "coupon_code": "6A13F450E5DA5798DAE7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5001992_8f49_2.jpg",
+      "title": "YAML Fundamentals Compete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/?couponCode=8268C8D9A65F3755B7BE",
+      "coupon_code": "8268C8D9A65F3755B7BE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5926794_6929.jpg",
+      "title": "Adobe Illustrator Essentials: Zero to Hero for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-development/?couponCode=996B7AA0D16C0A1177D1",
+      "coupon_code": "996B7AA0D16C0A1177D1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7014617_9da3.jpg",
+      "title": "GO Programming: The Complete Guide to Golang Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/la-ia-gratuita-para-hacer-todo-sin-instalar-nada-qwen/?couponCode=6D469929E29BE04DC1D5",
+      "coupon_code": "6D469929E29BE04DC1D5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6789753_d85b.jpg",
+      "title": "La IA GRATUITA para Hacer TODO sin Instalar Nada. QWEN"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=A783DE321AA4E91D3F25",
+      "coupon_code": "A783DE321AA4E91D3F25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg",
+      "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro"
     },
     {
       "url": "https://www.udemy.com/course/c-modern-c-programming-language-made-easy/?couponCode=EF4C44038F143843AD94",
