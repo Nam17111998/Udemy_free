@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-20T18:02:44Z",
-  "count": 978,
+  "updated_at": "2026-04-20T20:02:29Z",
+  "count": 979,
   "courses": [
     {
       "url": "https://www.udemy.com/course/chatgpt-for-creative-writing-content-creation/?couponCode=5A31A9FB96BF3ABCBACE",
@@ -9,10 +9,16 @@
       "title": "AI Content Creation & AI Creative Writing Using ChatGPT A-Z"
     },
     {
-      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_249",
-      "coupon_code": "AR_FREE_249",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
-      "title": "Essentials for ArcPy: Python for Geospatial Automation"
+      "url": "https://www.udemy.com/course/excel-for-everyone-essential-skills-for-work-and-life/?couponCode=20529B6C0CF26D3DAD24",
+      "coupon_code": "20529B6C0CF26D3DAD24",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6043382_b2e6_2.jpg",
+      "title": "Excel for Everyone: Essential Skills for Work and Life"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-assistance-and-management/?couponCode=9D486326D680ABD1BEFE",
+      "coupon_code": "9D486326D680ABD1BEFE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241145_65cb_4.jpg",
+      "title": "Professional Diploma in Executive Assistance and Management"
     },
     {
       "url": "https://www.udemy.com/course/fire-fighting-101-fire-fighting-system-design-basics-course/?couponCode=889D71592C0D9D1A78E5",
@@ -39,34 +45,22 @@
       "title": "HR Career Architect: Path from HR to HR Director [EN]"
     },
     {
-      "url": "https://www.udemy.com/course/hr-soft-skills-mastery-communication-leadership-strategy/?couponCode=PAPAHR_APR_01",
-      "coupon_code": "PAPAHR_APR_01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6618297_3394_3.jpg",
-      "title": "Certified HR Soft Skills Professional: Boost Results [EN]"
-    },
-    {
       "url": "https://www.udemy.com/course/interior-design-for-living-room-simple-fast/?couponCode=0758D8AB4D8DBA20558C",
       "coupon_code": "0758D8AB4D8DBA20558C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6827313_3217.jpg",
       "title": "Interior Design 2.0: Interior Design Course For Living Rooms"
     },
     {
+      "url": "https://www.udemy.com/course/learn-figma-uiux-design-masterclass-from-beginner-to-pro/?couponCode=B533D65AF99B2B366A67",
+      "coupon_code": "B533D65AF99B2B366A67",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5854496_fe6b.jpg",
+      "title": "Learn Figma: UI/UX Design Masterclass From Beginner to Pro"
+    },
+    {
       "url": "https://www.udemy.com/course/learn-t-shirt-design-with-photoshop-illustrator-and-canva/?couponCode=68DF21EA033CC72CBEBF",
       "coupon_code": "68DF21EA033CC72CBEBF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5739938_09c2_5.jpg",
       "title": "Learn T-Shirt Design with Photoshop Illustrator and  Canva"
-    },
-    {
-      "url": "https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/?couponCode=46FB987F133A77C7477F",
-      "coupon_code": "46FB987F133A77C7477F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/2948290_00a8_3.jpg",
-      "title": "Python Complete Course: with 30+ Hands-on Tasks and Solution"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_251",
-      "coupon_code": "AR_FREE_251",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
-      "title": "Django Essentials: Build and Deploy Real-World Apps"
     },
     {
       "url": "https://www.udemy.com/course/media-training-for-financial-service-professionals/?couponCode=30634F4FC76D36474ABA",
@@ -91,6 +85,36 @@
       "coupon_code": "1EC571A10C339B9D6B46",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3603092_eb4c_3.jpg",
       "title": "T-Shirt Design Masterclass In Photoshop | Sell Your T-Shirt"
+    },
+    {
+      "url": "https://www.udemy.com/course/train-the-trainer-master-corporate-learning-facilitation/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6618375_4581_4.jpg",
+      "title": "Certified Corporate Trainer: Learning, Facilitation Pro [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_249",
+      "coupon_code": "AR_FREE_249",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-soft-skills-mastery-communication-leadership-strategy/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6618297_3394_3.jpg",
+      "title": "Certified HR Soft Skills Professional: Boost Results [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/?couponCode=46FB987F133A77C7477F",
+      "coupon_code": "46FB987F133A77C7477F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2948290_00a8_3.jpg",
+      "title": "Python Complete Course: with 30+ Hands-on Tasks and Solution"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_251",
+      "coupon_code": "AR_FREE_251",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
+      "title": "Django Essentials: Build and Deploy Real-World Apps"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_252",
@@ -153,12 +177,6 @@
       "title": "Python for Scientific Research"
     },
     {
-      "url": "https://www.udemy.com/course/excel-for-everyone-essential-skills-for-work-and-life/?couponCode=20529B6C0CF26D3DAD24",
-      "coupon_code": "20529B6C0CF26D3DAD24",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6043382_b2e6_2.jpg",
-      "title": "Excel for Everyone: Essential Skills for Work and Life"
-    },
-    {
       "url": "https://www.udemy.com/course/google-sheets-bootcamp-boost-productivity-and-efficiency/?couponCode=DFAE71230CEBFAD0289E",
       "coupon_code": "DFAE71230CEBFAD0289E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5815014_67b6_2.jpg",
@@ -177,12 +195,6 @@
       "title": "Presentation Skills Training: Great One on One Presentations"
     },
     {
-      "url": "https://www.udemy.com/course/learn-figma-uiux-design-masterclass-from-beginner-to-pro/?couponCode=B533D65AF99B2B366A67",
-      "coupon_code": "B533D65AF99B2B366A67",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5854496_fe6b.jpg",
-      "title": "Learn Figma: UI/UX Design Masterclass From Beginner to Pro"
-    },
-    {
       "url": "https://www.udemy.com/course/modern-microsoft-excel-masterclass-and-google-sheets-with-ai-chatgpt/?couponCode=837C1CFAEF8AA851B8BB",
       "coupon_code": "837C1CFAEF8AA851B8BB",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6945227_9cb0_4.jpg",
@@ -199,12 +211,6 @@
       "coupon_code": "A17B7508D8BF61082548",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5882370_eba5_2.jpg",
       "title": "Social Media Video Editing with Canva: From Beginner to Pro"
-    },
-    {
-      "url": "https://www.udemy.com/course/train-the-trainer-master-corporate-learning-facilitation/?couponCode=PAPAHR_APR_01",
-      "coupon_code": "PAPAHR_APR_01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6618375_4581_4.jpg",
-      "title": "Certified Corporate Trainer: Learning, Facilitation Pro [EN]"
     },
     {
       "url": "https://www.udemy.com/course/a-csm-advanced-certified-scrum-master/?couponCode=50B07E212A4ACB926BB4",
