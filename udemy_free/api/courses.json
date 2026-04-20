@@ -1,17 +1,24 @@
 {
-  "updated_at": "2026-04-20T03:39:48Z",
-  "count": 925,
+  "updated_at": "2026-04-20T06:22:46Z",
+  "count": 933,
   "courses": [
     {
-      "url": "https://www.udemy.com/course/be-professional-with-metasploit-framework-course-msf-a-to-z/?couponCode=DONT-FORGET-RATE",
-      "coupon_code": "DONT-FORGET-RATE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "url": "https://www.udemy.com/course/canva-for-social-media-graphic-design-and-video-editing/?couponCode=0A172B7D71C520C136B0",
+      "coupon_code": "0A172B7D71C520C136B0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5896370_2474.jpg",
+      "title": "Canva for Social Media Graphic Design and Video Editing"
     },
     {
-      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
-      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+      "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/?couponCode=9FF092E8E6385BCB16FD",
+      "coupon_code": "9FF092E8E6385BCB16FD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173757_cf20.jpg",
+      "title": "Complete JavaScript Programming: From Novice to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/comprehensive-davinci-resolve-with-color-grading-masterclass/?couponCode=FCA69B8BB2B068216527",
+      "coupon_code": "FCA69B8BB2B068216527",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5927452_cdfd.jpg",
+      "title": "Comprehensive DaVinci Resolve With Color Grading Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/deepseek-french/?couponCode=APRFREE03",
@@ -32,12 +39,6 @@
       "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
     },
     {
-      "url": "https://www.udemy.com/course/global-economics/?couponCode=952BB2C2604EA2F1A234",
-      "coupon_code": "952BB2C2604EA2F1A234",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6065331_8421_2.jpg",
-      "title": "Global Economics: Trade & Business (Accredited Diploma)"
-    },
-    {
       "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE03",
       "coupon_code": "APRFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6605637_60b2.jpg",
@@ -50,6 +51,66 @@
       "title": "Introduction to Drinking Water Supply & Treatment"
     },
     {
+      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
+      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-powerpoint-create-stunning-presentation/?couponCode=C78561725C7C3F036894",
+      "coupon_code": "C78561725C7C3F036894",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6100625_b9a9.jpg",
+      "title": "Mastering Microsoft PowerPoint: Create Stunning Presentation"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-the-pivot-table-masterclass/?couponCode=D29C8B92B87E1CF2F167",
+      "coupon_code": "D29C8B92B87E1CF2F167",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5990836_ab6f_3.jpg",
+      "title": "Microsoft Excel Pivot Tables: The Pivot Table Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/officeadministrationmanagement/?couponCode=DISCUDEMY.COM-",
+      "coupon_code": "DISCUDEMY.COM-",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6241035_25ed_3.jpg",
+      "title": "Professional Diploma in Office Administration Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-bootcamp-the-complete-programming-course-with-mysql/?couponCode=90F16A4ADA8C967FAD1B",
+      "coupon_code": "90F16A4ADA8C967FAD1B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173981_30e7_2.jpg",
+      "title": "PHP Bootcamp: The Complete Programming Course With MYSQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-capcut-premiere-pro/?couponCode=AA77CEF5CF18A831CED3",
+      "coupon_code": "AA77CEF5CF18A831CED3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6076619_c91f_2.jpg",
+      "title": "Social Media Video Editing with Canva, Capcut & Premiere Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-filmora-video-editing-course-beginner-to-pro/?couponCode=A23C4DAC456533B7C999",
+      "coupon_code": "A23C4DAC456533B7C999",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906506_1469.jpg",
+      "title": "The Ultimate Filmora Video Editing Course: Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/be-professional-with-metasploit-framework-course-msf-a-to-z/?couponCode=DONT-FORGET-RATE",
+      "coupon_code": "DONT-FORGET-RATE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4879418_46c7_5.jpg",
+      "title": "Be Professional With MetaSploit Framework Course MSF A To Z"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/global-economics/?couponCode=952BB2C2604EA2F1A234",
+      "coupon_code": "952BB2C2604EA2F1A234",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6065331_8421_2.jpg",
+      "title": "Global Economics: Trade & Business (Accredited Diploma)"
+    },
+    {
       "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=APRFREE03",
       "coupon_code": "APRFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6584541_734c_2.jpg",
@@ -60,18 +121,6 @@
       "coupon_code": "DONT-FORGET-RATE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4196114_b957_7.jpg",
       "title": "Complete Linux Training Course to Get Your Ideal IT Job"
-    },
-    {
-      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
-      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
-    },
-    {
-      "url": "https://www.udemy.com/course/officeadministrationmanagement/?couponCode=DISCUDEMY.COM-",
-      "coupon_code": "DISCUDEMY.COM-",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6241035_25ed_3.jpg",
-      "title": "Professional Diploma in Office Administration Management"
     },
     {
       "url": "https://www.udemy.com/course/procurementandscm/?couponCode=1930000514190808CC5F",
