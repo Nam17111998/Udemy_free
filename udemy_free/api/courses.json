@@ -1,18 +1,24 @@
 {
-  "updated_at": "2026-04-20T20:02:29Z",
-  "count": 979,
+  "updated_at": "2026-04-20T21:54:16Z",
+  "count": 980,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-animate-a-comprehensive-guide-for-beginners-to-pro/?couponCode=FFB7552269D7ECDB7201",
+      "coupon_code": "FFB7552269D7ECDB7201",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5823254_9e71_2.jpg",
+      "title": "Adobe Animate: A Comprehensive Guide for Beginners to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/blender-essential-from-beginner-to-3d-masterclass/?couponCode=0529032C984CD2B57AB6",
+      "coupon_code": "0529032C984CD2B57AB6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5950120_e1c7_3.jpg",
+      "title": "Blender Essential: From Beginner to 3D Masterclass"
+    },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-creative-writing-content-creation/?couponCode=5A31A9FB96BF3ABCBACE",
       "coupon_code": "5A31A9FB96BF3ABCBACE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5913750_892b_4.jpg",
       "title": "AI Content Creation & AI Creative Writing Using ChatGPT A-Z"
-    },
-    {
-      "url": "https://www.udemy.com/course/excel-for-everyone-essential-skills-for-work-and-life/?couponCode=20529B6C0CF26D3DAD24",
-      "coupon_code": "20529B6C0CF26D3DAD24",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6043382_b2e6_2.jpg",
-      "title": "Excel for Everyone: Essential Skills for Work and Life"
     },
     {
       "url": "https://www.udemy.com/course/executive-assistance-and-management/?couponCode=9D486326D680ABD1BEFE",
@@ -33,6 +39,12 @@
       "title": "Fire Safety 2.0: Fire Safety Training Complete Course A-Z"
     },
     {
+      "url": "https://www.udemy.com/course/google-sheets-bootcamp-boost-productivity-and-efficiency/?couponCode=DFAE71230CEBFAD0289E",
+      "coupon_code": "DFAE71230CEBFAD0289E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5815014_67b6_2.jpg",
+      "title": "Google Sheets Bootcamp Boost Productivity Expert in Cloud"
+    },
+    {
       "url": "https://www.udemy.com/course/how-to-give-a-retirement-speech/?couponCode=84B84EAA52E549A4C029",
       "coupon_code": "84B84EAA52E549A4C029",
       "image_url": "https://img-c.udemycdn.com/course/480x270/363396_087a_4.jpg",
@@ -51,12 +63,6 @@
       "title": "Interior Design 2.0: Interior Design Course For Living Rooms"
     },
     {
-      "url": "https://www.udemy.com/course/learn-figma-uiux-design-masterclass-from-beginner-to-pro/?couponCode=B533D65AF99B2B366A67",
-      "coupon_code": "B533D65AF99B2B366A67",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5854496_fe6b.jpg",
-      "title": "Learn Figma: UI/UX Design Masterclass From Beginner to Pro"
-    },
-    {
       "url": "https://www.udemy.com/course/learn-t-shirt-design-with-photoshop-illustrator-and-canva/?couponCode=68DF21EA033CC72CBEBF",
       "coupon_code": "68DF21EA033CC72CBEBF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5739938_09c2_5.jpg",
@@ -69,16 +75,10 @@
       "title": "Media Training for Financial Service Professionals"
     },
     {
-      "url": "https://www.udemy.com/course/online-safety-cybersecurity-health-scam-prevention/?couponCode=2B4C50E32361E5C3D171",
-      "coupon_code": "2B4C50E32361E5C3D171",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6819361_1993_2.jpg",
-      "title": "Online Safety: Cybersecurity, Health & Scam Prevention"
-    },
-    {
-      "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_255",
-      "coupon_code": "AR_FREE_255",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
-      "title": "R for Researchers: From Basics to Advanced Analysis"
+      "url": "https://www.udemy.com/course/problem-solving-with-c-programming-language/?couponCode=C635372C04C201D09013",
+      "coupon_code": "C635372C04C201D09013",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5702494_5641_7.jpg",
+      "title": "Problem Solving with C programming language"
     },
     {
       "url": "https://www.udemy.com/course/t-shirt-design-masterclass-in-photoshop-sell-your-t-shirt/?couponCode=1EC571A10C339B9D6B46",
@@ -91,6 +91,30 @@
       "coupon_code": "PAPAHR_APR_01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6618375_4581_4.jpg",
       "title": "Certified Corporate Trainer: Learning, Facilitation Pro [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-for-everyone-essential-skills-for-work-and-life/?couponCode=20529B6C0CF26D3DAD24",
+      "coupon_code": "20529B6C0CF26D3DAD24",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6043382_b2e6_2.jpg",
+      "title": "Excel for Everyone: Essential Skills for Work and Life"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-figma-uiux-design-masterclass-from-beginner-to-pro/?couponCode=B533D65AF99B2B366A67",
+      "coupon_code": "B533D65AF99B2B366A67",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5854496_fe6b.jpg",
+      "title": "Learn Figma: UI/UX Design Masterclass From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/online-safety-cybersecurity-health-scam-prevention/?couponCode=2B4C50E32361E5C3D171",
+      "coupon_code": "2B4C50E32361E5C3D171",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6819361_1993_2.jpg",
+      "title": "Online Safety: Cybersecurity, Health & Scam Prevention"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_255",
+      "coupon_code": "AR_FREE_255",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
+      "title": "R for Researchers: From Basics to Advanced Analysis"
     },
     {
       "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_249",
@@ -177,12 +201,6 @@
       "title": "Python for Scientific Research"
     },
     {
-      "url": "https://www.udemy.com/course/google-sheets-bootcamp-boost-productivity-and-efficiency/?couponCode=DFAE71230CEBFAD0289E",
-      "coupon_code": "DFAE71230CEBFAD0289E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5815014_67b6_2.jpg",
-      "title": "Google Sheets Bootcamp Boost Productivity Expert in Cloud"
-    },
-    {
       "url": "https://www.udemy.com/course/how-to-deliver-a-powerpoint-presentation/?couponCode=6936B9D894970B0E5D3D",
       "coupon_code": "6936B9D894970B0E5D3D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/363894_1689_4.jpg",
@@ -229,18 +247,6 @@
       "coupon_code": "8F3B894F0E04BD50C744",
       "image_url": "https://img-c.udemycdn.com/course/480x270/2379778_aba8_4.jpg",
       "title": "Active Directory:  Sites and Replication with a Lab"
-    },
-    {
-      "url": "https://www.udemy.com/course/adobe-animate-a-comprehensive-guide-for-beginners-to-pro/?couponCode=FFB7552269D7ECDB7201",
-      "coupon_code": "FFB7552269D7ECDB7201",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5823254_9e71_2.jpg",
-      "title": "Adobe Animate: A Comprehensive Guide for Beginners to Pro"
-    },
-    {
-      "url": "https://www.udemy.com/course/blender-essential-from-beginner-to-3d-masterclass/?couponCode=0529032C984CD2B57AB6",
-      "coupon_code": "0529032C984CD2B57AB6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5950120_e1c7_3.jpg",
-      "title": "Blender Essential: From Beginner to 3D Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/comprehensive-davinci-resolve-with-color-grading-masterclass/?couponCode=FCA69B8BB2B068216527",
