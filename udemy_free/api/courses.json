@@ -1,11 +1,102 @@
 {
-  "updated_at": "2026-04-20T11:24:25Z",
-  "count": 959,
+  "updated_at": "2026-04-20T14:02:12Z",
+  "count": 974,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=AR_FREE_252",
+      "coupon_code": "AR_FREE_252",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6063817_5805.jpg",
+      "title": "Harnessing AI and Machine Learning for Geospatial Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/basic-wordpress-web-development-course-for-beginner-zero-to-hero/?couponCode=011D93FDE4CEEDF11873",
+      "coupon_code": "011D93FDE4CEEDF11873",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4382174_4217.jpg",
+      "title": "Wordpress Web Development for Absolute Beginner Zero to Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_249",
+      "coupon_code": "AR_FREE_249",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/fire-fighting-101-fire-fighting-system-design-basics-course/?couponCode=889D71592C0D9D1A78E5",
+      "coupon_code": "889D71592C0D9D1A78E5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6745741_930e.jpg",
+      "title": "Fire Fighting 101: Fire Fighting System Design For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/fire-safety-training-fire-safety-training-complete-course-a-z/?couponCode=22786360A77AD91F6D0E",
+      "coupon_code": "22786360A77AD91F6D0E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6731231_cfc2.jpg",
+      "title": "Fire Safety 2.0: Fire Safety Training Complete Course A-Z"
+    },
+    {
+      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/?couponCode=AR_FREE_246",
+      "coupon_code": "AR_FREE_246",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6823217_2c07.jpg",
+      "title": "Geospatial AI: Deep Learning for Satellite Imagery"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphic-design-using-chatgpt-real-graphic-design-ai/?couponCode=F1698E0F23919A7B2149",
+      "coupon_code": "F1698E0F23919A7B2149",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6769621_6b39.jpg",
+      "title": "Graphic Design Using AI: COMPLETE Graphic Design Application"
+    },
+    {
+      "url": "https://www.udemy.com/course/interior-design-for-living-room-simple-fast/?couponCode=0758D8AB4D8DBA20558C",
+      "coupon_code": "0758D8AB4D8DBA20558C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6827313_3217.jpg",
+      "title": "Interior Design 2.0: Interior Design Course For Living Rooms"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=AR_FREE_251",
+      "coupon_code": "AR_FREE_251",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407031_b62b.jpg",
+      "title": "Django Essentials: Build and Deploy Real-World Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/online-safety-cybersecurity-health-scam-prevention/?couponCode=2B4C50E32361E5C3D171",
+      "coupon_code": "2B4C50E32361E5C3D171",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6819361_1993_2.jpg",
+      "title": "Online Safety: Cybersecurity, Health & Scam Prevention"
+    },
+    {
+      "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=AR_FREE_253",
+      "coupon_code": "AR_FREE_253",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg",
+      "title": "Programming for Scientific Research with Python and R"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-researchers/?couponCode=AR_FREE_254",
+      "coupon_code": "AR_FREE_254",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4646088_0b98_3.jpg",
+      "title": "Python for Scientific Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-for-research/?couponCode=AR_FREE_255",
+      "coupon_code": "AR_FREE_255",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4473072_036b_4.jpg",
+      "title": "R for Researchers: From Basics to Advanced Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-masterclass-in-photoshop-sell-your-t-shirt/?couponCode=1EC571A10C339B9D6B46",
+      "coupon_code": "1EC571A10C339B9D6B46",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3603092_eb4c_3.jpg",
+      "title": "T-Shirt Design Masterclass In Photoshop | Sell Your T-Shirt"
+    },
+    {
+      "url": "https://www.udemy.com/course/wordpress-elementor-course-develop-site-without-coding/?couponCode=13923A3276EC6DED1275",
+      "coupon_code": "13923A3276EC6DED1275",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4595742_4e09_2.jpg",
+      "title": "Wordpress Elementor Course: Develop Site Without Coding"
+    },
     {
       "url": "https://www.udemy.com/course/excel-for-everyone-essential-skills-for-work-and-life/?couponCode=20529B6C0CF26D3DAD24",
       "coupon_code": "20529B6C0CF26D3DAD24",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6043382_b2e6_2.jpg",
+      "title": "Excel for Everyone: Essential Skills for Work and Life"
     },
     {
       "url": "https://www.udemy.com/course/google-sheets-bootcamp-boost-productivity-and-efficiency/?couponCode=DFAE71230CEBFAD0289E",
