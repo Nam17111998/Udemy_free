@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-22T06:05:11Z",
-  "count": 974,
+  "updated_at": "2026-04-22T08:52:11Z",
+  "count": 989,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/complete-jquery-course-learn-from-beginner-to-advanced/?couponCode=CBEAEB745BC54A48973C",
+      "coupon_code": "CBEAEB745BC54A48973C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5816906_3215_3.jpg",
+      "title": "Complete jQuery Course: Learn From Beginner To Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analysis-and-data-visualization-with-microsoft-copilot/?couponCode=22APRIL2026",
+      "coupon_code": "22APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6723387_5ac5.jpg",
+      "title": "Data Analysis and Data Visualization with Microsoft Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-deep-dive-build-ship-and-run-containers/?couponCode=22APRIL2026",
+      "coupon_code": "22APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6707623_30dc.jpg",
+      "title": "Docker Deep Dive: Build, Ship, and Run Containers"
+    },
+    {
+      "url": "https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/?couponCode=22APRIL2026",
+      "coupon_code": "22APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691789_eafc_3.jpg",
+      "title": "GitHub Copilot for Beginners: AI Coding Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-gemini-for-project-management/?couponCode=22APRIL2026",
+      "coupon_code": "22APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6980469_8076.jpg",
+      "title": "Google Gemini for Project Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-be-a-government-spokesperson/?couponCode=FA83400A450C06B7AE25",
+      "coupon_code": "FA83400A450C06B7AE25",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/352234_4ba4_3.jpg",
+      "title": "Public Relations: How to Be a Government/PIO Spokesperson"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-be-a-talk-show-host/?couponCode=0E855AB7890827311202",
+      "coupon_code": "0E855AB7890827311202",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/363364_88eb_4.jpg",
+      "title": "Journalism: Be a Great Talk Show Host"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-conduct-interviews/?couponCode=1B9D44EA742826DEDA18",
+      "coupon_code": "1B9D44EA742826DEDA18",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/363378_e5fa_2.jpg",
+      "title": "Journalism: Conduct Great Media Interviews"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-introduce-yourself/?couponCode=73963FF3AD9487E66721",
+      "coupon_code": "73963FF3AD9487E66721",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/351142_c848_3.jpg",
+      "title": "Personal Communication-Introduce Yourself With Confidence"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-php-laravel-12-for-beginners-2026-build-cms-blog/?couponCode=LARAVELCOURSE32",
+      "coupon_code": "LARAVELCOURSE32",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6925871_b670_3.jpg",
+      "title": "Learn PHP Laravel 12 for Beginners 2026: Build CMS Blog"
+    },
+    {
+      "url": "https://www.udemy.com/course/leonardo-ai-bootcamp-explore-visual-storytelling-with-ai/?couponCode=22APRIL2026",
+      "coupon_code": "22APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6611185_7322.jpg",
+      "title": "Leonardo AI Bootcamp: Explore Visual Storytelling with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/llama-4-ai-mastering-prompt-engineering/?couponCode=22APRIL2026",
+      "coupon_code": "22APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685183_a0d4.jpg",
+      "title": "Llama 4: AI Mastering Prompt Engineering"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-c-c-plus-programming-from-fundamentals-to-advanced/?couponCode=575BB9DEC2DF599D2F18",
+      "coupon_code": "575BB9DEC2DF599D2F18",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5809104_b3c5.jpg",
+      "title": "Mastering C & C++ Programming: From Fundamentals to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/n8n-ai-agent-creation-guide/?couponCode=22APRIL2026",
+      "coupon_code": "22APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6692461_9104_3.jpg",
+      "title": "N8N: AI Agent Creation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-coffee-shop-management-system/?couponCode=LARAVECOFFEE68",
+      "coupon_code": "LARAVECOFFEE68",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5446348_11b7.jpg",
+      "title": "PHP Laravel: Build Coffee Shop Management System"
+    },
     {
       "url": "https://www.udemy.com/course/3d-printing-materials-science-explained/?couponCode=617A88C4E79C0C113903",
       "coupon_code": "617A88C4E79C0C113903",
