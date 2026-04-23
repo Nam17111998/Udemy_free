@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-23T03:34:08Z",
-  "count": 932,
+  "updated_at": "2026-04-23T06:11:34Z",
+  "count": 947,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=39AEC96AD948D793C54E",
+      "coupon_code": "39AEC96AD948D793C54E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5236430_f326_2.jpg",
+      "title": "Advanced Excel Course With Shortcuts Tips and Tricks for JOB"
+    },
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-python/?couponCode=ABRILW426",
+      "coupon_code": "ABRILW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4718522_81b0_2.jpg",
+      "title": "Python: Análisis avanzado para Data Science"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-complete-chatgpt-guide-for-beginners/?couponCode=1CA94485C93C93D604E1",
+      "coupon_code": "1CA94485C93C93D604E1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5114066_c56b_2.jpg",
+      "title": "ChatGPT: Complete ChatGPT Guide For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-dashboards-ejecutivos-en-tableau-paso-a-paso/?couponCode=ABRILW426",
+      "coupon_code": "ABRILW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6981259_6baf_2.jpg",
+      "title": "Curso: Dashboards Ejecutivos en Tableau Paso a Paso"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-dbt-modelado-y-pipelines-en-el-modern-data-stack/?couponCode=ABRILW426",
+      "coupon_code": "ABRILW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643369_2395.jpg",
+      "title": "Curso DBT: Modelado y Pipelines en el Modern Data Stack"
+    },
+    {
+      "url": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/?couponCode=ABRILW426",
+      "coupon_code": "ABRILW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5512766_9cd2_8.jpg",
+      "title": "Experto en Análisis y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/frameworks-indices-transacciones-y-mucho-mas-con-mongodb/?couponCode=ABRILW426",
+      "coupon_code": "ABRILW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5771254_1140.jpg",
+      "title": "Frameworks, Índices, Transacciones y mucho más con MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-machine-learning-course-with-python-ml/?couponCode=5DEF1A32FE47C8F11B8F",
+      "coupon_code": "5DEF1A32FE47C8F11B8F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5806954_502d_5.jpg",
+      "title": "Learn Machine Learning Course with Python A to Z"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-word-a-comprehensive-guide-to-boost-you/?couponCode=105FF6B497C36DC03FED",
+      "coupon_code": "105FF6B497C36DC03FED",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5229322_0aa4_2.jpg",
+      "title": "Mastering Microsoft Word: A Comprehensive Guide to Boost You"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-access-desde-cero/?couponCode=ABRILW426",
+      "coupon_code": "ABRILW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4914458_056a_2.jpg",
+      "title": "Microsoft Access: Desde cero para principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-desde-cero-y-analisis-de-datos/?couponCode=ABRILW426",
+      "coupon_code": "ABRILW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4848640_40a5_5.jpg",
+      "title": "Microsoft Excel: De Principiante a Avanzado"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=75C54C7EEE0A43A7D70F",
+      "coupon_code": "75C54C7EEE0A43A7D70F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4884028_004d_2.jpg",
+      "title": "Microsoft Excel - Excel Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-automation-mastery-automate-boring-tasks-like-a-pro/?couponCode=3D5315F45CC1951B952C",
+      "coupon_code": "3D5315F45CC1951B952C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818625_e99d_2.jpg",
+      "title": "Python Automation Mastery Automate Boring Tasks Like a Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/tableau-limpieza-transformacion-y-visualizacion-de-datos/?couponCode=ABRILW426",
+      "coupon_code": "ABRILW426",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6978771_cd83.jpg",
+      "title": "Tableau: Limpieza, Transformación y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/?couponCode=0E06503009A470579BCB",
+      "coupon_code": "0E06503009A470579BCB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5786672_2c3f.jpg",
+      "title": "The Complete C Programming Course for Basic to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/certificate-programacion-lpi-web-development-essentials/?couponCode=44AD4DE33EC8448FB5A5",
       "coupon_code": "44AD4DE33EC8448FB5A5",
