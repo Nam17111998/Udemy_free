@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-23T06:11:34Z",
-  "count": 947,
+  "updated_at": "2026-04-23T08:57:42Z",
+  "count": 962,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agentic-coding-full-stack-java-apps-with-cursor-and-copilot/?couponCode=23APRIL2026",
+      "coupon_code": "23APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6737505_4a6f.jpg",
+      "title": "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/figjam-mastery-from-visual-brainstorms-to-product-launches/?couponCode=23APRIL2026",
+      "coupon_code": "23APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791329_db46.jpg",
+      "title": "FigJam Mastery: From Visual Brainstorms to Product Launches"
+    },
+    {
+      "url": "https://www.udemy.com/course/gemini-ai-complete-guide-to-googles-powerful-ai/?couponCode=0D6D9D4965EEA6038270",
+      "coupon_code": "0D6D9D4965EEA6038270",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7012513_acdf.jpg",
+      "title": "Gemini AI: Complete Guide to Google’s Powerful AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-for-sales/?couponCode=23APRIL2026",
+      "coupon_code": "23APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6815341_3cfb_2.jpg",
+      "title": "Generative AI for Sales"
+    },
+    {
+      "url": "https://www.udemy.com/course/generative-ai-in-customer-support/?couponCode=23APRIL2026",
+      "coupon_code": "23APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802701_2139.jpg",
+      "title": "Generative AI in Customer Support"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-veo-ai-video-beginner-to-pro/?couponCode=23APRIL2026",
+      "coupon_code": "23APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6798273_1511_2.jpg",
+      "title": "Google Veo: AI Video — Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-copilot-and-microsoft-designer-the-complete-guide/?couponCode=23APRIL2026",
+      "coupon_code": "23APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6808087_fc4c.jpg",
+      "title": "Microsoft Copilot & Designer for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/nextjs-masterclass-learn-nextjs-by-building-modern-web-app/?couponCode=4AF5C524D549F2AD10CD",
+      "coupon_code": "4AF5C524D549F2AD10CD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7014433_b96e.jpg",
+      "title": "Next.JS Masterclass: Learn NextJS by Building Modern Web App"
+    },
+    {
+      "url": "https://www.udemy.com/course/nodejs-crash-course-build-a-rest-api-in-a-weekend/?couponCode=23APRIL2026",
+      "coupon_code": "23APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6807399_ab5a.jpg",
+      "title": "Node.js Crash Course: Build a REST API in a Weekend"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-travel-agency-management-system/?couponCode=LARAVELTRAVEL100",
+      "coupon_code": "LARAVELTRAVEL100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5481652_2d42.jpg",
+      "title": "PHP Laravel: Build Travel Agency Management System"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-symfony-7-build-a-complete-cms-blog-system-2025/?couponCode=SYMFONYBLOG39",
+      "coupon_code": "SYMFONYBLOG39",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6819661_86d6.jpg",
+      "title": "PHP Symfony 7: Build a Complete CMS Blog System 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/premiere-pro-cc-novice-to-expert-how-to-earn-money-by-video/?couponCode=659547805D993047C440",
+      "coupon_code": "659547805D993047C440",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1619752_ff0e.jpg",
+      "title": "Video Editing Course Premiere Pro:  18 Project In 1 Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/prompt-engineering-mastery-from-basics-to-advanced/?couponCode=23APRIL2026",
+      "coupon_code": "23APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6837091_3712.jpg",
+      "title": "Prompt Engineering Mastery: From Basics to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-analysis-matplotlib-seaborn-pandas-numpy/?couponCode=EE9715603F8172BC0928",
+      "coupon_code": "EE9715603F8172BC0928",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017173_7c3e.jpg",
+      "title": "Python Data Analysis - Matplotlib, Seaborn, Pandas & NumPy"
+    },
+    {
+      "url": "https://www.udemy.com/course/vibe-coding-for-coders-to-build-enterprise-solutions/?couponCode=23APRIL2026",
+      "coupon_code": "23APRIL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6980457_3730.jpg",
+      "title": "Vibe Coding for Coders to Build Enterprise Solutions"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=39AEC96AD948D793C54E",
       "coupon_code": "39AEC96AD948D793C54E",
