@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-22T23:54:50Z",
-  "count": 925,
+  "updated_at": "2026-04-23T03:34:08Z",
+  "count": 932,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/certificate-programacion-lpi-web-development-essentials/?couponCode=44AD4DE33EC8448FB5A5",
+      "coupon_code": "44AD4DE33EC8448FB5A5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5811488_b47c_2.jpg",
+      "title": "Certifícate en Programación. LPI Web Development Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/cours-de-certification-professionnelle-en-ingenierie-de-lia/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685749_cffe_2.jpg",
+      "title": "Cours de Certification Professionnelle en Ingénierie de l’IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/?couponCode=4B724701A9BF3B7B041F",
+      "coupon_code": "4B724701A9BF3B7B041F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4548492_0942.jpg",
+      "title": "CSS, Bootstrap ,JavaScript, Web Development Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
+      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
+      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
+      "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-cours-de-certification-ingenieur-associe-en-ia/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685687_8854.jpg",
+      "title": "[FR] Cours de Certification Ingénieur Associé en IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605637_60b2.jpg",
+      "title": "[FR] IA Full-Stack avec Ollama : Llama, Deepseek, Mistral"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-sap-successfactors-employee-central/?couponCode=4C9B578020F7CF817CA4",
+      "coupon_code": "4C9B578020F7CF817CA4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6801201_cda6.jpg",
+      "title": "Master SAP SuccessFactors Employee Central"
+    },
+    {
+      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
+      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/perplexity-desde-cero/?couponCode=39D00F077D1E2C3EE121",
+      "coupon_code": "39D00F077D1E2C3EE121",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6816953_a1e9.jpg",
+      "title": "Perplexity Desde Cero: La IA que Supera a Google y ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
+      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
+    },
+    {
+      "url": "https://www.udemy.com/course/salesforce-admin-training-from-basics-to-advanced-skills/?couponCode=42E96DF5CE3EC8AF9B83",
+      "coupon_code": "42E96DF5CE3EC8AF9B83",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6672613_07ad.jpg",
+      "title": "Salesforce Admin & Developer Skills from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-ui5-fiori-essentials-beginners-complete-walkthrough/?couponCode=66FD2A3CD731BF344494",
+      "coupon_code": "66FD2A3CD731BF344494",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6627955_1f42_3.jpg",
+      "title": "SAP UI5 & Fiori Essentials: Beginner's Complete Walkthrough"
+    },
+    {
+      "url": "https://www.udemy.com/course/warehousemanagement/?couponCode=10D12659071F124E3E8D",
+      "coupon_code": "10D12659071F124E3E8D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6180261_af84_2.jpg",
+      "title": "Professional Diploma in Warehouse Management"
+    },
     {
       "url": "https://www.udemy.com/course/ai-visual-design-with-adobe-firefly/?couponCode=22APRIL2026",
       "coupon_code": "22APRIL2026",
@@ -13,12 +103,6 @@
       "coupon_code": "6723E8B52D30DFF56F73",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5641684_642f.jpg",
       "title": "Beginner Guide to Learn T-Shirt Design With Photoshop"
-    },
-    {
-      "url": "https://www.udemy.com/course/certificate-programacion-lpi-web-development-essentials/?couponCode=44AD4DE33EC8448FB5A5",
-      "coupon_code": "44AD4DE33EC8448FB5A5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5811488_b47c_2.jpg",
-      "title": "Certifícate en Programación. LPI Web Development Essentials"
     },
     {
       "url": "https://www.udemy.com/course/crea-tus-aplicaciones-sin-codigo-no-code-con-flutterflow/?couponCode=04D4286A04867E095C9F",
@@ -69,12 +153,6 @@
       "title": "MS Word - Microsoft Word Course Beginner to Expert"
     },
     {
-      "url": "https://www.udemy.com/course/perplexity-desde-cero/?couponCode=39D00F077D1E2C3EE121",
-      "coupon_code": "39D00F077D1E2C3EE121",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6816953_a1e9.jpg",
-      "title": "Perplexity Desde Cero: La IA que Supera a Google y ChatGPT"
-    },
-    {
       "url": "https://www.udemy.com/course/php-laravel-2023-build-coffee-shop-management-system/?couponCode=LARAVECOFFEE68",
       "coupon_code": "LARAVECOFFEE68",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5446348_11b7.jpg",
@@ -85,12 +163,6 @@
       "coupon_code": "7DE260B3DD8351BF3B06",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5638110_36b8_3.jpg",
       "title": "T-Shirt Design in Adobe Illustrator Beginner Guide to Expert"
-    },
-    {
-      "url": "https://www.udemy.com/course/warehousemanagement/?couponCode=10D12659071F124E3E8D",
-      "coupon_code": "10D12659071F124E3E8D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6180261_af84_2.jpg",
-      "title": "Professional Diploma in Warehouse Management"
     },
     {
       "url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/?couponCode=138806E2D4C74885FC75",
@@ -895,12 +967,6 @@
       "coupon_code": "FFB7552269D7ECDB7201",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5823254_9e71_2.jpg",
       "title": "Adobe Animate: A Comprehensive Guide for Beginners to Pro"
-    },
-    {
-      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
-      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
     },
     {
       "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE01",
@@ -2169,12 +2235,6 @@
       "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
     },
     {
-      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
-      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
-    },
-    {
       "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE03",
       "coupon_code": "APRFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6605733_721d.jpg",
@@ -2185,18 +2245,6 @@
       "coupon_code": "APRFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6584543_c6a8_2.jpg",
       "title": "[PT] Masterclass de Engenharia de IA: Do Zero ao Herói da IA"
-    },
-    {
-      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
-      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
-      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
     },
     {
       "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=APRFREE03",
@@ -2575,12 +2623,6 @@
       "coupon_code": "APRFREE01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6682597_e2a3_2.jpg",
       "title": "[ES] Curso de Certificación Profesional en Ingeniería de IA"
-    },
-    {
-      "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=APRFREE02",
-      "coupon_code": "APRFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
-      "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
     },
     {
       "url": "https://www.udemy.com/course/fr-cours-de-certification-ingenieur-associe-en-ia/?couponCode=APRFREE02",
