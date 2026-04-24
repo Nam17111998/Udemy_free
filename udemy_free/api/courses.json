@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-24T11:13:15Z",
-  "count": 931,
+  "updated_at": "2026-04-24T13:55:59Z",
+  "count": 946,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/codeigniter-4-for-2023-build-real-estate-management-system/?couponCode=CIREALESTATE84",
+      "coupon_code": "CIREALESTATE84",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5574530_8c35.jpg",
+      "title": "CodeIgniter 4: Build Real Estate Management System"
+    },
+    {
+      "url": "https://www.udemy.com/course/compensation-and-benefits/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6394407_6236_5.jpg",
+      "title": "Certified Compensation & Benefits Professional: C&B Pro [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/competency-based-interviews/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409463_0e09_4.jpg",
+      "title": "Accredited Competency Interviewer: STAR PARLA & CARE [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/effective-delegation-new/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6384463_f746_6.jpg",
+      "title": "Certified Task Delegation Master [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/generalista-de-rh/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6407699_9564_4.jpg",
+      "title": "HR Generalist Masterclass: Gestão Completa de RH [PT]"
+    },
+    {
+      "url": "https://www.udemy.com/course/generalista-de-rrhh/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6369905_6bc2_4.jpg",
+      "title": "HR Generalist Pro: Gestión de Recursos Humanos Completa [ES]"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-generalist/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6368341_37d1_4.jpg",
+      "title": "Ultimate HR Generalist Bootcamp: Tools & Frameworks [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-manager/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6373367_7922_7.jpg",
+      "title": "HR Manager to Director Accelerator: Career Growth Path [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-specialist/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6374417_7517_5.jpg",
+      "title": "Certified HR Specialist: Complete Training & Practice [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/new-interview-mastery/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6380027_d04f_9.jpg",
+      "title": "Certified Interviewer: Effective Hiring for Managers [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/onboarding-new/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6413811_0fe6_8.jpg",
+      "title": "Employee Onboarding Strategist: 30-60-90 Day Plan [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-hotel-booking-management-system/?couponCode=LARAVELHOTEL101",
+      "coupon_code": "LARAVELHOTEL101",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5495274_fedc.jpg",
+      "title": "PHP Laravel: Build Hotel Booking Management System"
+    },
+    {
+      "url": "https://www.udemy.com/course/powermba/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6350863_0c52_4.jpg",
+      "title": "CIPD-Level HR MBA Academy: 500+ Tools & Frameworks [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/talent-acquisition-director/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409731_36dd_4.jpg",
+      "title": "Certified Talent Acquisition Director: Recruitment Mgmt [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/talent-sourcing/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6371523_0c74_7.jpg",
+      "title": "Sourcing Specialist: Boolean, X-Ray & LinkedIn Search [EN]"
+    },
     {
       "url": "https://www.udemy.com/course/account-based-marketing-increase-your-b2b-efficiency/?couponCode=608115A14AA3D53EB1DE",
       "coupon_code": "608115A14AA3D53EB1DE",
