@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-25T05:52:29Z",
-  "count": 957,
+  "updated_at": "2026-04-25T07:40:16Z",
+  "count": 960,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/canva-mastery-design-like-a-pro-in-just-days/?couponCode=83FD30FECDE1EAF39E1E",
+      "coupon_code": "83FD30FECDE1EAF39E1E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5942602_e525.jpg",
+      "title": "Canva Mastery: Design Like a Pro in Just Days"
+    },
     {
       "url": "https://www.udemy.com/course/generalista-de-rrhh/?couponCode=PAPAHR_APR_01",
       "coupon_code": "PAPAHR_APR_01",
@@ -27,12 +33,6 @@
       "title": "Ultimate HR Generalist Bootcamp: Tools & Frameworks [EN]"
     },
     {
-      "url": "https://www.udemy.com/course/hr-manager/?couponCode=PAPAHR_APR_01",
-      "coupon_code": "PAPAHR_APR_01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6373367_7922_7.jpg",
-      "title": "HR Manager to Director Accelerator: Career Growth Path [EN]"
-    },
-    {
       "url": "https://www.udemy.com/course/hr-specialist/?couponCode=PAPAHR_APR_01",
       "coupon_code": "PAPAHR_APR_01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6374417_7517_5.jpg",
@@ -45,12 +45,6 @@
       "title": "Jumpstart your Project Management career"
     },
     {
-      "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=ACDBC277E44D6161FD52",
-      "coupon_code": "ACDBC277E44D6161FD52",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
-      "title": "Master PHP Programming: From Beginner to Advanced Developer"
-    },
-    {
       "url": "https://www.udemy.com/course/new-interview-mastery/?couponCode=PAPAHR_APR_01",
       "coupon_code": "PAPAHR_APR_01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6380027_d04f_9.jpg",
@@ -61,6 +55,12 @@
       "coupon_code": "PAPAHR_APR_01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6350863_0c52_4.jpg",
       "title": "CIPD-Level HR MBA Academy: 500+ Tools & Frameworks [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-from-beginner-to-pro/?couponCode=0FE1B24F77243402E390",
+      "coupon_code": "0FE1B24F77243402E390",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5882370_eba5_2.jpg",
+      "title": "Social Media Video Editing with Canva: From Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/talent-acquisition-director/?couponCode=PAPAHR_APR_01",
@@ -81,10 +81,28 @@
       "title": "The 3C’s to Become an AI-Ready Project Manager"
     },
     {
+      "url": "https://www.udemy.com/course/the-beginners-guide-to-adobe-premiere-pro-edit-like-a-pro/?couponCode=BE290EEE259297C91BAD",
+      "coupon_code": "BE290EEE259297C91BAD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860314_8851.jpg",
+      "title": "The Beginner's Guide to Adobe Premiere Pro: Edit Like a Pro"
+    },
+    {
       "url": "https://www.udemy.com/course/the-complete-excel-pivot-table-data-analysis-and-reporting/?couponCode=3DD1A429CD78B7A7E79F",
       "coupon_code": "3DD1A429CD78B7A7E79F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6847537_f5cc_3.jpg",
       "title": "The Complete Excel Pivot Table: Data Analysis and Reporting"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-manager/?couponCode=PAPAHR_APR_01",
+      "coupon_code": "PAPAHR_APR_01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6373367_7922_7.jpg",
+      "title": "HR Manager to Director Accelerator: Career Growth Path [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=ACDBC277E44D6161FD52",
+      "coupon_code": "ACDBC277E44D6161FD52",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
+      "title": "Master PHP Programming: From Beginner to Advanced Developer"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-beginner-to-advanced/?couponCode=8D0388277EA52B0C53B9",
