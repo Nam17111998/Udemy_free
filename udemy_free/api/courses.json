@@ -1,24 +1,18 @@
 {
-  "updated_at": "2026-04-28T11:52:08Z",
-  "count": 938,
+  "updated_at": "2026-04-28T14:32:54Z",
+  "count": 941,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/ai-to-empower-your-marketing-team/?couponCode=7EC04FF8587694BC2F3C",
-      "coupon_code": "7EC04FF8587694BC2F3C",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6474137_a79b.jpg",
-      "title": "AI to Empower your Marketing Team"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-voice-creation-for-every-industry-with-elevenlabs/?couponCode=C10CF8C681B5AF78F066",
-      "coupon_code": "C10CF8C681B5AF78F066",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6580965_7f0a.jpg",
-      "title": "AI Voice Creation for Every Industry with ElevenLabs"
-    },
     {
       "url": "https://www.udemy.com/course/anti-corruption-and-anti-bribery/?couponCode=BFDB325747D6936992F2",
       "coupon_code": "BFDB325747D6936992F2",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6258401_4fe2.jpg",
       "title": "Anti-Corruption and Anti-Bribery Training for Professionals"
+    },
+    {
+      "url": "https://www.udemy.com/course/autocad-3d-modeling-essentials/?couponCode=3302026",
+      "coupon_code": "3302026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6924725_37a7_2.jpg",
+      "title": "AutoCAD 3D Modeling Essentials"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-for-product-management-genman/?couponCode=5831CF4BF0F054B5873A",
@@ -27,15 +21,22 @@
       "title": "ChatGPT for Product Management & Innovation"
     },
     {
-      "url": "https://www.udemy.com/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/?couponCode=24A0239856692A9F315A",
-      "coupon_code": "24A0239856692A9F315A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6610709_4ab8_2.jpg",
-      "title": "DeepSeek AI for Business: Build a Strategy with AI Insights"
+      "url": "https://www.udemy.com/course/cybersecurity-ai-safety-awareness/?couponCode=8FBEC31338BCE6D82857",
+      "coupon_code": "8FBEC31338BCE6D82857",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6969837_0e2a.jpg",
+      "title": "Cybersecurity & AI Safety Awareness for Employees"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-security-in-the-age-of-generative-ai/?couponCode=78CEFEAF08480FC2C47A",
+      "coupon_code": "78CEFEAF08480FC2C47A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6876481_ea6f_3.jpg",
+      "title": "Data Security in the age of Generative AI in the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/diversity-inclusion-unconscious-bias/?couponCode=9B5E5334DDA20519769F",
       "coupon_code": "9B5E5334DDA20519769F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5982022_edc2.jpg",
+      "title": "Diversity, Inclusion & Unconscious Bias in the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/gen-ai-for-hr/?couponCode=1E13FB7DFC30C5210800",
@@ -58,7 +59,8 @@
     {
       "url": "https://www.udemy.com/course/modern-posh/?couponCode=3C27B2C76F7D728AA571",
       "coupon_code": "3C27B2C76F7D728AA571",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6986823_9c1d_6.jpg",
+      "title": "Modern POSH: Prevent Digital & Workplace Sexual Harassment"
     },
     {
       "url": "https://www.udemy.com/course/perplexity-no-code-creez-une-app-full-stack/?couponCode=7D22D56BB9F99AC2A97F",
@@ -89,6 +91,24 @@
       "coupon_code": "56BED98A945762516613",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5761916_f2d4_2.jpg",
       "title": "Introduction to Scaled Agile Framework® (Latest SAFe® 6.0)"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-to-empower-your-marketing-team/?couponCode=7EC04FF8587694BC2F3C",
+      "coupon_code": "7EC04FF8587694BC2F3C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6474137_a79b.jpg",
+      "title": "AI to Empower your Marketing Team"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-voice-creation-for-every-industry-with-elevenlabs/?couponCode=C10CF8C681B5AF78F066",
+      "coupon_code": "C10CF8C681B5AF78F066",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6580965_7f0a.jpg",
+      "title": "AI Voice Creation for Every Industry with ElevenLabs"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/?couponCode=24A0239856692A9F315A",
+      "coupon_code": "24A0239856692A9F315A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6610709_4ab8_2.jpg",
+      "title": "DeepSeek AI for Business: Build a Strategy with AI Insights"
     },
     {
       "url": "https://www.udemy.com/course/from-prompt-engineering-to-agent-engineering/?couponCode=0F717874244DEBAC88F5",
