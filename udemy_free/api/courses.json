@@ -1,26 +1,120 @@
 {
-  "updated_at": "2026-04-29T09:18:36Z",
-  "count": 976,
+  "updated_at": "2026-04-29T11:45:37Z",
+  "count": 991,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/google-data-studio-complete-beginners-to-advanced-tutorial/?couponCode=047AF8195F74CAA39719&coupo",
+      "coupon_code": "047AF8195F74CAA39719",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3730378_8fca_3.jpg",
+      "title": "Looker Studio /Google Data Studio Complete Advanced Tutorial"
+    },
+    {
+      "url": "https://www.udemy.com/course/gratitude-w/?couponCode=29THAPR26",
+      "coupon_code": "29THAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4794422_c40e_5.jpg",
+      "title": "Gratitude"
+    },
+    {
+      "url": "https://www.udemy.com/course/investing-in-africa-key-factors-for-investors-to-consider/?couponCode=29THAPR26",
+      "coupon_code": "29THAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4822268_0c4d_2.jpg",
+      "title": "Investing in Africa - Key factors for Investors to consider"
+    },
+    {
+      "url": "https://www.udemy.com/course/leadership-through-tough-times/?couponCode=29THAPR26",
+      "coupon_code": "29THAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4866888_ebad_2.jpg",
+      "title": "Leadership Through Tough Times"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-business-analysis/?couponCode=FD6D164ADEFEFF4913A2",
+      "coupon_code": "FD6D164ADEFEFF4913A2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5977824_a024.jpg",
+      "title": "Master Business Analysis to become a Business Analyst"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-game-theory/?couponCode=08162F56E7F7CACC41E6",
+      "coupon_code": "08162F56E7F7CACC41E6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6031262_db9e_4.jpg",
+      "title": "Master in Game Theory"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-systems-thinking/?couponCode=893E004CFED5DC3A15FD",
+      "coupon_code": "893E004CFED5DC3A15FD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5940178_c358.jpg",
+      "title": "Master in Systems Thinking"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=3B7CB2252C9093055DA8&coupo",
+      "coupon_code": "3B7CB2252C9093055DA8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3818074_c21b_2.jpg",
+      "title": "Microsoft Clarity for Web Analytics :  A-Z Complete Tutorial"
+    },
+    {
+      "url": "https://www.udemy.com/course/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/?couponCode=6EF0AF7C018B1A7510DC&coupo",
+      "coupon_code": "6EF0AF7C018B1A7510DC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4429048_7e67_2.jpg",
+      "title": "No-Code Machine Learning Using Amazon AWS SageMaker Canvas"
+    },
+    {
+      "url": "https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=29THAPR26",
+      "coupon_code": "29THAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4762718_0127_2.jpg",
+      "title": "Self Discipline will Change Your life for GOOD"
+    },
+    {
+      "url": "https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=29THAPR26",
+      "coupon_code": "29THAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4785722_1b39_5.jpg",
+      "title": "Strategic Partnerships and Collaborations"
+    },
+    {
+      "url": "https://www.udemy.com/course/tibco-spotfire-development-beginners-to-advanced-course/?couponCode=1F7EF6DECFFB1FC2B08D&coupo",
+      "coupon_code": "1F7EF6DECFFB1FC2B08D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3989930_92f5.jpg",
+      "title": "TIBCO Spotfire Development : Beginners To Advanced Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/time-management-productivity-decision-making-tools-aids/?couponCode=29THAPR26",
+      "coupon_code": "29THAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4821416_6f9d_2.jpg",
+      "title": "Time Management, Productivity, Decision Making Tools &  Aids"
+    },
+    {
+      "url": "https://www.udemy.com/course/vigilant-leadership/?couponCode=29THAPR26",
+      "coupon_code": "29THAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4866882_461e_4.jpg",
+      "title": "Vigilant Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/your-words-powerful-tools/?couponCode=29THAPR26",
+      "coupon_code": "29THAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4789658_5ffd_5.jpg",
+      "title": "Your WORDS, Powerful Tools"
+    },
     {
       "url": "https://www.udemy.com/course/c-c-php-java-complete-guide-to-modern-programming/?couponCode=A0DF3817AE7D4F40889D",
       "coupon_code": "A0DF3817AE7D4F40889D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6132141_520f_2.jpg",
+      "title": "C, C++, PHP & Java: Complete Guide to Modern Programming"
     },
     {
       "url": "https://www.udemy.com/course/college-admissions-interview-confidently-talk-about-yourself/?couponCode=9377684F6CA03DA7E6C9",
       "coupon_code": "9377684F6CA03DA7E6C9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/337742_7d03_4.jpg",
+      "title": "College Admissions Interview-Confidently Talk About Yourself"
     },
     {
       "url": "https://www.udemy.com/course/emergency-media-training-facing-a-reporter-within-2-hours/?couponCode=8411B3AE7ADD70FD1CE8",
       "coupon_code": "8411B3AE7ADD70FD1CE8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/306398_d820_3.jpg",
+      "title": "Emergency Media Training: You Can Face a Reporter In 2 Hours"
     },
     {
       "url": "https://www.udemy.com/course/excel-formulas-functions-basic-to-advanced/?couponCode=14514C80897AB41EB146",
       "coupon_code": "14514C80897AB41EB146",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5689692_54e8_3.jpg",
+      "title": "Excel Formulas & Functions Basic to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/excel-learn-excel-course-from-beginners-to-advanced/?couponCode=E80569393CBAF574E87E",
