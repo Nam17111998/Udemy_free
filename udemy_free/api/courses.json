@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-04-29T00:00:12Z",
-  "count": 944,
+  "updated_at": "2026-04-29T03:58:02Z",
+  "count": 959,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/clojures-core-syntax/?couponCode=B95DC7391AD68464B48E",
+      "coupon_code": "B95DC7391AD68464B48E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3307992_db17.jpg",
+      "title": "Clojure Coding Basics"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6291287_08c1.jpg",
+      "title": "Emotional Intelligence in Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
+      "title": "Financial Services - Basics of Business & Corporate Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6611461_d0c7_3.jpg",
+      "title": "Financial Services - Basics of Regulation & Compliance"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6560763_3fe2.jpg",
+      "title": "Financial Services - Funds Flow Optimization Concepts"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
+      "title": "Financial Services - Overview of Retail Banking"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6652543_33ef_4.jpg",
+      "title": "Financial Stewardship for Decision Makers and Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/haskell-tutorial/?couponCode=B2C5CF2726567B3BF2EB",
+      "coupon_code": "B2C5CF2726567B3BF2EB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3308060_4a1d_2.jpg",
+      "title": "Haskell Coding Basics"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=4DC1A3D84B5039A44538",
+      "coupon_code": "4DC1A3D84B5039A44538",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5000842_fcec_3.jpg",
+      "title": "Learn Salesforce (Admin + Developer) with LWC Live Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6210279_19fd.jpg",
+      "title": "Managing Social Anxiety in the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
+    },
+    {
+      "url": "https://www.udemy.com/course/salesforce-lwc-lightning-web-component-with-live-project/?couponCode=38B18854767896BD98D3",
+      "coupon_code": "38B18854767896BD98D3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5629280_1f9c.jpg",
+      "title": "Salesforce LWC (Lightning Web Component) with Live Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
+      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242471_19f3.jpg",
+      "title": "Workplace Productivity - Supporting Others Through Change"
+    },
     {
       "url": "https://www.udemy.com/course/anti-corruption-and-anti-bribery/?couponCode=BFDB325747D6936992F2",
       "coupon_code": "BFDB325747D6936992F2",
