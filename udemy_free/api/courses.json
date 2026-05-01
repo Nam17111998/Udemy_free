@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-01T00:00:19Z",
-  "count": 968,
+  "updated_at": "2026-05-01T04:11:21Z",
+  "count": 979,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/cours-de-certification-professionnelle-en-ingenierie-de-lia/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685749_cffe_2.jpg",
+      "title": "Cours de Certification Professionnelle en Ingénierie de l’IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=APRFREE01",
+      "coupon_code": "APRFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
+      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
+    },
+    {
+      "url": "https://www.udemy.com/course/django-masterclass-get-started-with-django-web-development/?couponCode=7DCDC784AF6F4C64D9E6",
+      "coupon_code": "7DCDC784AF6F4C64D9E6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886376_a387_2.jpg",
+      "title": "Django Masterclass: Get Started With Django Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
+      "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-cours-de-certification-ingenieur-associe-en-ia/?couponCode=APRFREE03",
+      "coupon_code": "APRFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685687_8854.jpg",
+      "title": "[FR] Cours de Certification Ingénieur Associé en IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/gemini-masterclass-boost-creativity-innovate-with-ai/?couponCode=C33E2FD8AC89074EEAE5",
+      "coupon_code": "C33E2FD8AC89074EEAE5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891887_c348_2.jpg",
+      "title": "Gemini Masterclass: Boost Creativity & Innovate with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-cloud-productivity-docs-forms-sheets-and-slides/?couponCode=269AE6850EA7BDA9058C",
+      "coupon_code": "269AE6850EA7BDA9058C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6183277_79af_2.jpg",
+      "title": "Google Cloud Productivity: Docs, Forms, Sheets and Slides"
+    },
+    {
+      "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605637_60b2.jpg",
+      "title": "[FR] IA Full-Stack avec Ollama : Llama, Deepseek, Mistral"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-go-golang-build-scalable-web-applications/?couponCode=11740559DECB2E8B2421",
+      "coupon_code": "11740559DECB2E8B2421",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709183_81e6_2.jpg",
+      "title": "Master Go (Golang): Build Scalable Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/?couponCode=C21BA49EA78A096AC898",
+      "coupon_code": "C21BA49EA78A096AC898",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173817_8c19_2.jpg",
+      "title": "Master Java, Python, C & C++: All-in-One Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-microsoft-powerpoint-create-stunning-presentation/?couponCode=E9B94EE204D9E5F91210",
+      "coupon_code": "E9B94EE204D9E5F91210",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6100625_b9a9.jpg",
+      "title": "Mastering Microsoft PowerPoint: Create Stunning Presentation"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-basic-to-advanced-a-complete-learning-path/?couponCode=1A65338DF2325226A889",
+      "coupon_code": "1A65338DF2325226A889",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6186053_f756_2.jpg",
+      "title": "Microsoft Excel Basic to Advanced: A Complete Learning Path"
+    },
+    {
+      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
+      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-a-step-by-step-programming-course/?couponCode=05DFB21D783805CF700B",
+      "coupon_code": "05DFB21D783805CF700B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6173779_c69c.jpg",
+      "title": "Python Programming: A Step-by-Step Programming Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels/?couponCode=D8283C9F567B71FA9879",
+      "coupon_code": "D8283C9F567B71FA9879",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6866521_1fb1.jpg",
+      "title": "The Complete Microsoft Excel Course: Master All Levels"
+    },
     {
       "url": "https://www.udemy.com/course/account-based/?couponCode=F70CD22E94EBEBD79AB5",
       "coupon_code": "F70CD22E94EBEBD79AB5",
@@ -11,7 +101,8 @@
     {
       "url": "https://www.udemy.com/course/aprende-wpf-desde-cero-usando-csharp-y-dotnet/?couponCode=ABRIL_2026",
       "coupon_code": "ABRIL_2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4815218_f794_6.jpg",
+      "title": "Aprende WPF y MAUI desde CERO usando C#"
     },
     {
       "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=22NDAPRIL&ra",
@@ -2198,12 +2289,6 @@
       "title": "AI-Powered Social Media Marketing: ChatGPT and 100 AI Tools"
     },
     {
-      "url": "https://www.udemy.com/course/cours-de-certification-professionnelle-en-ingenierie-de-lia/?couponCode=APRFREE01",
-      "coupon_code": "APRFREE01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6685749_cffe_2.jpg",
-      "title": "Cours de Certification Professionnelle en Ingénierie de l’IA"
-    },
-    {
       "url": "https://www.udemy.com/course/excel-data-management-and-analysis-for-basic-to-expert-level/?couponCode=101C92A7A17A1B315B87",
       "coupon_code": "101C92A7A17A1B315B87",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6636437_6c62.jpg",
@@ -2214,12 +2299,6 @@
       "coupon_code": "E1AC9F318112B5B5013E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5346796_e9fe.jpg",
       "title": "Excel ile Korelasyon ve Regresyon Analizi"
-    },
-    {
-      "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=APRFREE03",
-      "coupon_code": "APRFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
-      "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
     },
     {
       "url": "https://www.udemy.com/course/freepik-pro-from-assets-to-ai-creation/?couponCode=23APRIL2026",
@@ -4292,12 +4371,6 @@
       "title": "Mastering Perplexity AI: Smarter Research, Better Results"
     },
     {
-      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
-      "coupon_code": "APRFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
-      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
-    },
-    {
       "url": "https://www.udemy.com/course/pivot-tables-microsoft-excel-pivot-table-and-data-analysis/?couponCode=F352B7F8BFFB69AD11E7",
       "coupon_code": "F352B7F8BFFB69AD11E7",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6893679_41d3_2.jpg",
@@ -4344,12 +4417,6 @@
       "coupon_code": "3CB4BFA3877C06DC4127",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6572565_b1bf.jpg",
       "title": "Designing Building, Interiors and Furniture with SketchUp"
-    },
-    {
-      "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
-      "coupon_code": "APRFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6605637_60b2.jpg",
-      "title": "[FR] IA Full-Stack avec Ollama : Llama, Deepseek, Mistral"
     },
     {
       "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=APRFREE01",
