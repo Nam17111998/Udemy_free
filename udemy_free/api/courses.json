@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T13:44:17Z",
-  "count": 996,
+  "updated_at": "2026-05-01T15:03:24Z",
+  "count": 997,
   "courses": [
     {
       "url": "https://www.udemy.com/course/basic-numerology-success-program/?couponCode=MAY2026",
@@ -15,6 +15,12 @@
       "title": "Cours de Certification Professionnelle en Ingénierie de l’IA"
     },
     {
+      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=APRFREE02",
+      "coupon_code": "APRFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+    },
+    {
       "url": "https://www.udemy.com/course/deepseek-french/?couponCode=APRFREE01",
       "coupon_code": "APRFREE01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
@@ -27,16 +33,22 @@
       "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
     },
     {
-      "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=F7618282E3184BA5223B",
-      "coupon_code": "F7618282E3184BA5223B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5565704_3b4c_6.jpg",
-      "title": "Ethically Hack the Planet Part 3"
+      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
     },
     {
       "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=APRFREE03",
       "coupon_code": "APRFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
       "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=29THAPR26",
+      "coupon_code": "29THAPR26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4925880_ceba.jpg",
+      "title": "Fundamentals of  Successful Leadership - Leading with Impact"
     },
     {
       "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=APRFREE02",
@@ -51,22 +63,10 @@
       "title": "[DE] KI-Masterclass: Vom Anfänger zum KI-Helden"
     },
     {
-      "url": "https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/?couponCode=PHPCOURSE129",
-      "coupon_code": "PHPCOURSE129",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3755422_4493_3.jpg",
-      "title": "PHP for Beginners: PHP Crash Course"
-    },
-    {
       "url": "https://www.udemy.com/course/media-training-how-to-speak-to-the-news-media-effectively/?couponCode=C50EA73A9BFBC97E8B31",
       "coupon_code": "C50EA73A9BFBC97E8B31",
       "image_url": "https://img-c.udemycdn.com/course/480x270/142350_46b0_9.jpg",
       "title": "Media Training: Look Your Best-Get the Exact Quotes You Want"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-basic-to-advanced-ultimate-excel-mastery/?couponCode=26FF0F029C0F96FFE479",
-      "coupon_code": "26FF0F029C0F96FFE479",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6743735_9585_2.jpg",
-      "title": "Microsoft Excel Basic to Advanced: Ultimate Excel Mastery"
     },
     {
       "url": "https://www.udemy.com/course/name-numerology-course/?couponCode=MAY2026",
@@ -85,6 +85,30 @@
       "coupon_code": "APRFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
       "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=22NDAPRIL",
+      "coupon_code": "22NDAPRIL",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
+      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=F7618282E3184BA5223B",
+      "coupon_code": "F7618282E3184BA5223B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5565704_3b4c_6.jpg",
+      "title": "Ethically Hack the Planet Part 3"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/?couponCode=PHPCOURSE129",
+      "coupon_code": "PHPCOURSE129",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3755422_4493_3.jpg",
+      "title": "PHP for Beginners: PHP Crash Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-basic-to-advanced-ultimate-excel-mastery/?couponCode=26FF0F029C0F96FFE479",
+      "coupon_code": "26FF0F029C0F96FFE479",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6743735_9585_2.jpg",
+      "title": "Microsoft Excel Basic to Advanced: Ultimate Excel Mastery"
     },
     {
       "url": "https://www.udemy.com/course/postgresql-database-administration-complete-course/?couponCode=DCA3ACCC737F9169A095",
@@ -121,12 +145,6 @@
       "coupon_code": "97FB8A9398CF01DE41E0",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7042937_4753_4.jpg",
       "title": "Excel Data Analysis for Professionals and Analysts"
-    },
-    {
-      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=APRFREE02",
-      "coupon_code": "APRFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
-      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
     },
     {
       "url": "https://www.udemy.com/course/how-to-create-a-digital-tv-network/?couponCode=BBE6F9DBF69E76460E13",
@@ -879,12 +897,6 @@
       "title": "Financial Services - Funds Flow Optimization Concepts"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=22NDAPRIL",
-      "coupon_code": "22NDAPRIL",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
-      "title": "Financial Services - Overview of Central Banks"
-    },
-    {
       "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=22NDAPRIL",
       "coupon_code": "22NDAPRIL",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
@@ -925,12 +937,6 @@
       "coupon_code": "38B18854767896BD98D3",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5629280_1f9c.jpg",
       "title": "Salesforce LWC (Lightning Web Component) with Live Project"
-    },
-    {
-      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=22NDAPRIL",
-      "coupon_code": "22NDAPRIL",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
-      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=22NDAPRIL",
