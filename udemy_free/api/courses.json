@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-05-02T08:24:49Z",
-  "count": 960,
+  "updated_at": "2026-05-02T10:04:01Z",
+  "count": 963,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-capcut-tutorial-for-social-media-video-editing/?couponCode=0B2F7D4A91D879B12655",
+      "coupon_code": "0B2F7D4A91D879B12655",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6258769_6151_2.jpg",
+      "title": "Advanced Capcut Tutorial for Social Media Video Editing"
+    },
     {
       "url": "https://www.udemy.com/course/basics_of_programming/?couponCode=A3FEF8B08AA3582743FE",
       "coupon_code": "A3FEF8B08AA3582743FE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3068120_a921_11.jpg",
+      "title": "Fundamentals of computer science | Short Term Course(Arabic)"
     },
     {
       "url": "https://www.udemy.com/course/c-plus-plus-programming-language/?couponCode=66022B0F1D19A73A495E",
@@ -26,22 +33,10 @@
       "title": "Complete Artificial Intelligence and Python Developer Course"
     },
     {
-      "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=439040D7AA8CC3875D4F",
-      "coupon_code": "439040D7AA8CC3875D4F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6285311_bd70_2.jpg",
-      "title": "Flutter Masterclass - Your Complete Guide to App Development"
-    },
-    {
-      "url": "https://www.udemy.com/course/hands-on-python-data-science-data-science-bootcamp/?couponCode=DCC316FEA39C1582E012",
-      "coupon_code": "DCC316FEA39C1582E012",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6186047_4713.jpg",
-      "title": "Hands On Python Data Science - Data Science Bootcamp"
-    },
-    {
-      "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=7D969C75EEC03AC6AC9D",
-      "coupon_code": "7D969C75EEC03AC6AC9D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6189863_aae8.jpg",
-      "title": "Hands-On Python Machine Learning with Real World Projects"
+      "url": "https://www.udemy.com/course/complete-microsoft-office-masterclass-word-excel-powerpoint/?couponCode=D227EF5FB74AA01A2908",
+      "coupon_code": "D227EF5FB74AA01A2908",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6455813_08e2.jpg",
+      "title": "Complete Microsoft Office Masterclass Word Excel PowerPoint"
     },
     {
       "url": "https://www.udemy.com/course/how_to_become_a_programmer/?couponCode=3E01937A51BDB662AE3E",
@@ -90,6 +85,30 @@
       "coupon_code": "A23E21377CAD31FE5B61",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3239115_fd2a_5.jpg",
       "title": "Python Programming Language | Master Python Course (Arabic)"
+    },
+    {
+      "url": "https://www.udemy.com/course/thinking-deciding-and-leading-with-ai-as-cognitive-partner/?couponCode=39B10244C2E22D4E8198",
+      "coupon_code": "39B10244C2E22D4E8198",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995691_421b.jpg",
+      "title": "Make Better Decisions Faster Using AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=439040D7AA8CC3875D4F",
+      "coupon_code": "439040D7AA8CC3875D4F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285311_bd70_2.jpg",
+      "title": "Flutter Masterclass - Your Complete Guide to App Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-python-data-science-data-science-bootcamp/?couponCode=DCC316FEA39C1582E012",
+      "coupon_code": "DCC316FEA39C1582E012",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6186047_4713.jpg",
+      "title": "Hands On Python Data Science - Data Science Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=7D969C75EEC03AC6AC9D",
+      "coupon_code": "7D969C75EEC03AC6AC9D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6189863_aae8.jpg",
+      "title": "Hands-On Python Machine Learning with Real World Projects"
     },
     {
       "url": "https://www.udemy.com/course/ai-and-increasing-productivity-at-work-level-2/?couponCode=DF07FDC25BC55E919C39",
