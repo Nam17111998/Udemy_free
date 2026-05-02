@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-05-02T16:59:33Z",
+  "updated_at": "2026-05-02T17:57:11Z",
   "count": 994,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-python-automation-for-excel-and-accounting/?couponCode=8775CFE48BC78AA117EE",
+      "coupon_code": "8775CFE48BC78AA117EE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6614157_b5ee.jpg",
+      "title": "Advanced Python Automation for Excel and Accounting"
+    },
     {
       "url": "https://www.udemy.com/course/c-programming-masterclass-build-your-programming-foundation/?couponCode=0B97181C6598A9540136",
       "coupon_code": "0B97181C6598A9540136",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6849391_3cee_2.jpg",
       "title": "C Programming Masterclass: Build Your Programming Foundation"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-python-automation-bootcamp-automation-masterclass/?couponCode=ACDA54BDCF1D35AB9594",
+      "coupon_code": "ACDA54BDCF1D35AB9594",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6612567_fa03.jpg",
+      "title": "Complete Python Automation Bootcamp - Automation MasterClass"
     },
     {
       "url": "https://www.udemy.com/course/essential-adobe-photoshop-free-photoshop-crash-course/?couponCode=52AC85E4EC7A283873DD",
@@ -21,28 +33,10 @@
       "title": "Google Ads Mastery: From Beginner to Advanced 2026"
     },
     {
-      "url": "https://www.udemy.com/course/hands-on-excel-vba-macros-automate-daily-tasks-in-minutes/?couponCode=E879216F2103402C86E3",
-      "coupon_code": "E879216F2103402C86E3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6848943_65c3.jpg",
-      "title": "Hands On Excel VBA Macros: Automate Daily Tasks in Minutes"
-    },
-    {
-      "url": "https://www.udemy.com/course/html5-masterclass-build-modern-and-mobile-friendly-websites/?couponCode=ED81B595548811523BB0",
-      "coupon_code": "ED81B595548811523BB0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6849593_2e49_2.jpg",
-      "title": "HTML5 Masterclass: Build Modern and Mobile Friendly Websites"
-    },
-    {
       "url": "https://www.udemy.com/course/logisticsmanagement/?couponCode=4931D5731DD190E1AEE9",
       "coupon_code": "4931D5731DD190E1AEE9",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6180277_4027_2.jpg",
       "title": "Professional Diploma in Logistics Management"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-servicenow-human-resources-service-delivery-hrsd/?couponCode=MAYMON2026",
-      "coupon_code": "MAYMON2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6767691_64f3_4.jpg",
-      "title": "Mastering Servicenow Human Resources Service Delivery 2026"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-project-f/?couponCode=E85E479DF4685321C6BD",
@@ -57,10 +51,16 @@
       "title": "Project Cost Management-Estimating"
     },
     {
-      "url": "https://www.udemy.com/course/reactjs-complete-guide-build-interactive-web-applications/?couponCode=23AB0214C0A7F84A62F5",
-      "coupon_code": "23AB0214C0A7F84A62F5",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6849329_133a.jpg",
-      "title": "React.js Complete Guide: Build Interactive Web Applications"
+      "url": "https://www.udemy.com/course/python-automation-mastery-automate-boring-tasks-like-a-pro/?couponCode=288DC291DB2F6DE9B3F8",
+      "coupon_code": "288DC291DB2F6DE9B3F8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818625_e99d_2.jpg",
+      "title": "Python Automation Mastery Automate Boring Tasks Like a Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-for-pcep-beginner-to-certified/?couponCode=3BF17C7963672CB5338A",
+      "coupon_code": "3BF17C7963672CB5338A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935861_dff0.jpg",
+      "title": "Python Programming for PCEP Beginner to Certified"
     },
     {
       "url": "https://www.udemy.com/course/responsive-design-with-css3-create-mobile-friendly-webpages/?couponCode=F0DF3BABE0385EFB23F2",
@@ -79,6 +79,42 @@
       "coupon_code": "MAYMON2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6147907_fa48_2.jpg",
       "title": "Servicenow Mock Interviews, 500 Interview Questions 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-mysql-course-ru/?couponCode=D16557B05472A19D4274",
+      "coupon_code": "D16557B05472A19D4274",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5943252_d80f_3.jpg",
+      "title": "SQL практикум на базе MySQL (полный курс)"
+    },
+    {
+      "url": "https://www.udemy.com/course/thinking-deciding-and-leading-with-ai-as-cognitive-partner/?couponCode=39B10244C2E22D4E8198",
+      "coupon_code": "39B10244C2E22D4E8198",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995691_421b.jpg",
+      "title": "Make Better Decisions Faster Using AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-excel-vba-macros-automate-daily-tasks-in-minutes/?couponCode=E879216F2103402C86E3",
+      "coupon_code": "E879216F2103402C86E3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6848943_65c3.jpg",
+      "title": "Hands On Excel VBA Macros: Automate Daily Tasks in Minutes"
+    },
+    {
+      "url": "https://www.udemy.com/course/html5-masterclass-build-modern-and-mobile-friendly-websites/?couponCode=ED81B595548811523BB0",
+      "coupon_code": "ED81B595548811523BB0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849593_2e49_2.jpg",
+      "title": "HTML5 Masterclass: Build Modern and Mobile Friendly Websites"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-servicenow-human-resources-service-delivery-hrsd/?couponCode=MAYMON2026",
+      "coupon_code": "MAYMON2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767691_64f3_4.jpg",
+      "title": "Mastering Servicenow Human Resources Service Delivery 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-complete-guide-build-interactive-web-applications/?couponCode=23AB0214C0A7F84A62F5",
+      "coupon_code": "23AB0214C0A7F84A62F5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849329_133a.jpg",
+      "title": "React.js Complete Guide: Build Interactive Web Applications"
     },
     {
       "url": "https://www.udemy.com/course/servicenow-scripting-mastery-advanced-development/?couponCode=MAYMON2026",
@@ -129,22 +165,10 @@
       "title": "Mastering the Complete Servicenow Administration Course 2026"
     },
     {
-      "url": "https://www.udemy.com/course/advanced-python-automation-for-excel-and-accounting/?couponCode=8775CFE48BC78AA117EE",
-      "coupon_code": "8775CFE48BC78AA117EE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6614157_b5ee.jpg",
-      "title": "Advanced Python Automation for Excel and Accounting"
-    },
-    {
       "url": "https://www.udemy.com/course/c-programming-made-easy-from-basics-to-advanced-concepts/?couponCode=C05737EE9CC6C45393DF",
       "coupon_code": "C05737EE9CC6C45393DF",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6849531_3ff3_2.jpg",
       "title": "C++ Programming Made Easy: From Basics to Advanced Concepts"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-python-automation-bootcamp-automation-masterclass/?couponCode=ACDA54BDCF1D35AB9594",
-      "coupon_code": "ACDA54BDCF1D35AB9594",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6612567_fa03.jpg",
-      "title": "Complete Python Automation Bootcamp - Automation MasterClass"
     },
     {
       "url": "https://www.udemy.com/course/master-data-analysis-with-python-from-beginner-to-pro/?couponCode=315BE7627997EE274EBF",
@@ -163,18 +187,6 @@
       "coupon_code": "53E9B3557568BE599AF1",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6964669_44c5.jpg",
       "title": "Redash Masterclass: Dashboards, SQL & On-Prem Deployment"
-    },
-    {
-      "url": "https://www.udemy.com/course/sql-mysql-course-ru/?couponCode=D16557B05472A19D4274",
-      "coupon_code": "D16557B05472A19D4274",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5943252_d80f_3.jpg",
-      "title": "SQL практикум на базе MySQL (полный курс)"
-    },
-    {
-      "url": "https://www.udemy.com/course/thinking-deciding-and-leading-with-ai-as-cognitive-partner/?couponCode=39B10244C2E22D4E8198",
-      "coupon_code": "39B10244C2E22D4E8198",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6995691_421b.jpg",
-      "title": "Make Better Decisions Faster Using AI"
     },
     {
       "url": "https://www.udemy.com/course/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/?couponCode=3C609E7F0221D4544EE9",
@@ -225,22 +237,10 @@
       "title": "Problem Solving with C programming language"
     },
     {
-      "url": "https://www.udemy.com/course/python-automation-mastery-automate-boring-tasks-like-a-pro/?couponCode=288DC291DB2F6DE9B3F8",
-      "coupon_code": "288DC291DB2F6DE9B3F8",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6818625_e99d_2.jpg",
-      "title": "Python Automation Mastery Automate Boring Tasks Like a Pro"
-    },
-    {
       "url": "https://www.udemy.com/course/python-clothes-application/?couponCode=D43EC5590C9263AFEF5A",
       "coupon_code": "D43EC5590C9263AFEF5A",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3457696_4fde_11.jpg",
       "title": "Python Programming Language (Practice Projects)"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-programming-for-pcep-beginner-to-certified/?couponCode=3BF17C7963672CB5338A",
-      "coupon_code": "3BF17C7963672CB5338A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6935861_dff0.jpg",
-      "title": "Python Programming for PCEP Beginner to Certified"
     },
     {
       "url": "https://www.udemy.com/course/python_tutorials/?couponCode=A23E21377CAD31FE5B61",
