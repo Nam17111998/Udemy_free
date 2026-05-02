@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-05-02T06:15:26Z",
-  "count": 945,
+  "updated_at": "2026-05-02T08:24:49Z",
+  "count": 960,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/basics_of_programming/?couponCode=A3FEF8B08AA3582743FE",
+      "coupon_code": "A3FEF8B08AA3582743FE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-plus-plus-programming-language/?couponCode=66022B0F1D19A73A495E",
+      "coupon_code": "66022B0F1D19A73A495E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5710478_6976_4.jpg",
+      "title": "Problem Solving with C++ programming language"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-programming-language-from-a-to-z/?couponCode=C18799738FD9006B3475",
+      "coupon_code": "C18799738FD9006B3475",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5491538_ed62_8.jpg",
+      "title": "C programming language | The Complete C Course (Arabic)"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-artificial-intelligence-and-python-developer-course/?couponCode=6C126406C91C30C4FDBF",
+      "coupon_code": "6C126406C91C30C4FDBF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6914713_930c.jpg",
+      "title": "Complete Artificial Intelligence and Python Developer Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=439040D7AA8CC3875D4F",
+      "coupon_code": "439040D7AA8CC3875D4F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285311_bd70_2.jpg",
+      "title": "Flutter Masterclass - Your Complete Guide to App Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-python-data-science-data-science-bootcamp/?couponCode=DCC316FEA39C1582E012",
+      "coupon_code": "DCC316FEA39C1582E012",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6186047_4713.jpg",
+      "title": "Hands On Python Data Science - Data Science Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=7D969C75EEC03AC6AC9D",
+      "coupon_code": "7D969C75EEC03AC6AC9D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6189863_aae8.jpg",
+      "title": "Hands-On Python Machine Learning with Real World Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/how_to_become_a_programmer/?couponCode=3E01937A51BDB662AE3E",
+      "coupon_code": "3E01937A51BDB662AE3E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3067204_0789_5.jpg",
+      "title": "How to be a programmer | Full guide to start (Arabic)"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-python-for-data-science-machine-learning-automation/?couponCode=424E3C520B73DEF3EE0D",
+      "coupon_code": "424E3C520B73DEF3EE0D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6857715_6d33.jpg",
+      "title": "Master Python for Data Science, Machine Learning, Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/?couponCode=544260B5A0850105CD18",
+      "coupon_code": "544260B5A0850105CD18",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6185785_a817_3.jpg",
+      "title": "MS Excel Masterclass for Job Seekers Accounting Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/problem-solving-with-c-programming-language/?couponCode=FA8CB032E39C466E0AAD",
+      "coupon_code": "FA8CB032E39C466E0AAD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5702494_5641_7.jpg",
+      "title": "Problem Solving with C programming language"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-automation-mastery-automate-boring-tasks-like-a-pro/?couponCode=288DC291DB2F6DE9B3F8",
+      "coupon_code": "288DC291DB2F6DE9B3F8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6818625_e99d_2.jpg",
+      "title": "Python Automation Mastery Automate Boring Tasks Like a Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-clothes-application/?couponCode=D43EC5590C9263AFEF5A",
+      "coupon_code": "D43EC5590C9263AFEF5A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3457696_4fde_11.jpg",
+      "title": "Python Programming Language (Practice Projects)"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-for-pcep-beginner-to-certified/?couponCode=3BF17C7963672CB5338A",
+      "coupon_code": "3BF17C7963672CB5338A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935861_dff0.jpg",
+      "title": "Python Programming for PCEP Beginner to Certified"
+    },
+    {
+      "url": "https://www.udemy.com/course/python_tutorials/?couponCode=A23E21377CAD31FE5B61",
+      "coupon_code": "A23E21377CAD31FE5B61",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3239115_fd2a_5.jpg",
+      "title": "Python Programming Language | Master Python Course (Arabic)"
+    },
     {
       "url": "https://www.udemy.com/course/ai-and-increasing-productivity-at-work-level-2/?couponCode=DF07FDC25BC55E919C39",
       "coupon_code": "DF07FDC25BC55E919C39",
