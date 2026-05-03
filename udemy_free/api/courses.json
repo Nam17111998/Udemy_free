@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-05-03T14:56:09Z",
-  "count": 970,
+  "updated_at": "2026-05-03T15:55:40Z",
+  "count": 976,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=5A0E933DC7D9627606B3",
+      "coupon_code": "5A0E933DC7D9627606B3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5150328_6242_9.jpg",
+      "title": "Generative AI : Create an impressive AI Art"
+    },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-hr-hrm-excellence/?couponCode=843D384694061BF13B47",
       "coupon_code": "843D384694061BF13B47",
@@ -21,16 +27,10 @@
       "title": "AI for Customer Success: Transforming Customer Relationships"
     },
     {
-      "url": "https://www.udemy.com/course/ai-for-program-managers-learnit/?couponCode=MAYFREE2026",
-      "coupon_code": "MAYFREE2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6946213_6d79.jpg",
-      "title": "AI for Program Managers: Practical Skills and Automation"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-security-learnit/?couponCode=MAYFREE2026",
-      "coupon_code": "MAYFREE2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6927317_a7a8_3.jpg",
-      "title": "AI Security Fundamentals: Risks, Frameworks & Tools"
+      "url": "https://www.udemy.com/course/building-ai-android-applications/?couponCode=34E812DD03907CF245BC",
+      "coupon_code": "34E812DD03907CF245BC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4727364_66c8_3.jpg",
+      "title": "Android apps with artificial Intelligence"
     },
     {
       "url": "https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=CD1FF829C5C4A6A48D1E",
@@ -39,10 +39,10 @@
       "title": "ChatGPT: Make Money with ChatGPT as a New Freelancer"
     },
     {
-      "url": "https://www.udemy.com/course/code-reviews-learnit/?couponCode=MAYFREE2026",
-      "coupon_code": "MAYFREE2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5865706_cb98_2.jpg",
-      "title": "Code Reviews for Secure, Clean, and Scalable Code"
+      "url": "https://www.udemy.com/course/create-udemy-courses-fast-with-manus-ai-unofficial/?couponCode=B0C007B93CC4A92E7A34",
+      "coupon_code": "B0C007B93CC4A92E7A34",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6527619_b5da_2.jpg",
+      "title": "Create And Sell  Courses Fast with AI Agent Unofficial"
     },
     {
       "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=4556FB36F0913160FC4C",
@@ -51,22 +51,22 @@
       "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course"
     },
     {
-      "url": "https://www.udemy.com/course/java-best-practices-learnit/?couponCode=MAYFREE2026",
-      "coupon_code": "MAYFREE2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5853316_3240_4.jpg",
-      "title": "Java Best Practices for Efficient, Scalable, and Secure Code"
+      "url": "https://www.udemy.com/course/deep-reinforcement-learning-using-python/?couponCode=E0E91E304A3C3D801F89",
+      "coupon_code": "E0E91E304A3C3D801F89",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4884246_63da.jpg",
+      "title": "Deep Reinforcement Learning using python"
+    },
+    {
+      "url": "https://www.udemy.com/course/feature-engineering-for-machine-learning-101/?couponCode=2550ADF7281CCE62C148",
+      "coupon_code": "2550ADF7281CCE62C148",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6141171_c75f_3.jpg",
+      "title": "Feature Engineering  For Machine Learning 101"
     },
     {
       "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=MAYFREE2026",
       "coupon_code": "MAYFREE2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6949313_7782_4.jpg",
       "title": "Language Learning with AI: Practical Skills Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/owasp-learnit/?couponCode=MAYFREE2026",
-      "coupon_code": "MAYFREE2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4748828_fc3e_2.jpg",
-      "title": "OWASP API Security Top 10 2021/2023/2025 with Java Examples"
     },
     {
       "url": "https://www.udemy.com/course/practical-approach-to-investing-personal-finances/?couponCode=D1B1E5F7597458865B45",
@@ -85,6 +85,42 @@
       "coupon_code": "MAYFREE2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6705809_864e.jpg",
       "title": "Secure Code in Java and Spring Boot: Build Resilient Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/spacy-with-nlp/?couponCode=09521E8B5AAAFA4FEC7E",
+      "coupon_code": "09521E8B5AAAFA4FEC7E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5559560_88b1_6.jpg",
+      "title": "Natural Language Preprocessing Using spaCy"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-program-managers-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6946213_6d79.jpg",
+      "title": "AI for Program Managers: Practical Skills and Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-security-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927317_a7a8_3.jpg",
+      "title": "AI Security Fundamentals: Risks, Frameworks & Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/code-reviews-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865706_cb98_2.jpg",
+      "title": "Code Reviews for Secure, Clean, and Scalable Code"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-best-practices-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5853316_3240_4.jpg",
+      "title": "Java Best Practices for Efficient, Scalable, and Secure Code"
+    },
+    {
+      "url": "https://www.udemy.com/course/owasp-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4748828_fc3e_2.jpg",
+      "title": "OWASP API Security Top 10 2021/2023/2025 with Java Examples"
     },
     {
       "url": "https://www.udemy.com/course/secure-your-wordpress-website-for-beginners/?couponCode=A16010BCFEF2B0FF775F",
