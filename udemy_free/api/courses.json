@@ -1,11 +1,23 @@
 {
-  "updated_at": "2026-05-03T17:00:28Z",
-  "count": 988,
+  "updated_at": "2026-05-03T19:10:29Z",
+  "count": 990,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=5A0E933DC7D9627606B3",
+      "coupon_code": "5A0E933DC7D9627606B3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5150328_6242_9.jpg",
+      "title": "Generative AI : Create an impressive AI Art"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-tools-for-non-tech-creators/?couponCode=C93B5EB1DAC8845238E6",
+      "coupon_code": "C93B5EB1DAC8845238E6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/be-professional-with-metasploit-framework-course-msf-a-to-z/?couponCode=DONT-FORGET-RATE2026",
       "coupon_code": "DONT-FORGET-RATE2026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4879418_46c7_5.jpg",
+      "title": "Be Professional With MetaSploit Framework Course MSF A To Z"
     },
     {
       "url": "https://www.udemy.com/course/bestseller-udemy-course-creation-masterclass-unofficial/?couponCode=2D1FCACF8532490F752E",
@@ -30,24 +42,6 @@
       "coupon_code": "D5CE1ABB3A4A5C4F2579",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6859743_82aa_2.jpg",
       "title": "Digital Marketing Foundations for Beginners"
-    },
-    {
-      "url": "https://www.udemy.com/course/digital-marketing-mastery-20/?couponCode=22AE5E422666580F7CFD",
-      "coupon_code": "22AE5E422666580F7CFD",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6927127_699b.jpg",
-      "title": "Digital Marketing Mastery 2.0"
-    },
-    {
-      "url": "https://www.udemy.com/course/feature-engineering-for-machine-learning-101/?couponCode=2550ADF7281CCE62C148",
-      "coupon_code": "2550ADF7281CCE62C148",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6141171_c75f_3.jpg",
-      "title": "Feature Engineering  For Machine Learning 101"
-    },
-    {
-      "url": "https://www.udemy.com/course/google-analytics-4-fundamentals/?couponCode=EF4AACB3A58810CC2F66",
-      "coupon_code": "EF4AACB3A58810CC2F66",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6753179_4928.jpg",
-      "title": "Google Analytics 4 Fundamentals"
     },
     {
       "url": "https://www.udemy.com/course/interface-windows-user-commands-from-the-beginning-to-master/?couponCode=DONT-FORGET-RATE2026",
@@ -86,16 +80,34 @@
       "title": "Nmap Advanced Techniques Course A To Z On Network Scan 2026"
     },
     {
+      "url": "https://www.udemy.com/course/pgd-in-scom/?couponCode=D1053D1BAA627A019EF6",
+      "coupon_code": "D1053D1BAA627A019EF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6609829_4ec7_2.jpg",
+      "title": "Postgraduate Diploma in Supply Chain & Operations Management"
+    },
+    {
       "url": "https://www.udemy.com/course/spacy-with-nlp/?couponCode=09521E8B5AAAFA4FEC7E",
       "coupon_code": "09521E8B5AAAFA4FEC7E",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5559560_88b1_6.jpg",
       "title": "Natural Language Preprocessing Using spaCy"
     },
     {
-      "url": "https://www.udemy.com/course/ai-art-generation/?couponCode=5A0E933DC7D9627606B3",
-      "coupon_code": "5A0E933DC7D9627606B3",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5150328_6242_9.jpg",
-      "title": "Generative AI : Create an impressive AI Art"
+      "url": "https://www.udemy.com/course/digital-marketing-mastery-20/?couponCode=22AE5E422666580F7CFD",
+      "coupon_code": "22AE5E422666580F7CFD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927127_699b.jpg",
+      "title": "Digital Marketing Mastery 2.0"
+    },
+    {
+      "url": "https://www.udemy.com/course/feature-engineering-for-machine-learning-101/?couponCode=2550ADF7281CCE62C148",
+      "coupon_code": "2550ADF7281CCE62C148",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6141171_c75f_3.jpg",
+      "title": "Feature Engineering  For Machine Learning 101"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-analytics-4-fundamentals/?couponCode=EF4AACB3A58810CC2F66",
+      "coupon_code": "EF4AACB3A58810CC2F66",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753179_4928.jpg",
+      "title": "Google Analytics 4 Fundamentals"
     },
     {
       "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-hr-hrm-excellence/?couponCode=843D384694061BF13B47",
