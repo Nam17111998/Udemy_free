@@ -1,21 +1,114 @@
 {
-  "updated_at": "2026-05-03T10:12:02Z",
-  "count": 948,
+  "updated_at": "2026-05-03T11:51:35Z",
+  "count": 963,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-cybersecurity-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6757241_d334_3.jpg",
+      "title": "AI Cybersecurity Solutions: Overview of Applied AI Security"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-customer-experience-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6948107_06a6.jpg",
+      "title": "AI for Customer Experience: CX Automation and Analytics"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-customer-success-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967413_c230.jpg",
+      "title": "AI for Customer Success: Transforming Customer Relationships"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-program-managers-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6946213_6d79.jpg",
+      "title": "AI for Program Managers: Practical Skills and Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-security-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927317_a7a8_3.jpg",
+      "title": "AI Security Fundamentals: Risks, Frameworks & Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/code-reviews-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865706_cb98_2.jpg",
+      "title": "Code Reviews for Secure, Clean, and Scalable Code"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-best-practices-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5853316_3240_4.jpg",
+      "title": "Java Best Practices for Efficient, Scalable, and Secure Code"
+    },
+    {
+      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6949313_7782_4.jpg",
+      "title": "Language Learning with AI: Practical Skills Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/oracle-java-17-ocp-certification-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6757341_3e92.jpg",
+      "title": "Oracle Java SE 17 Developer Professional: 1Z0-829 Exam"
+    },
+    {
+      "url": "https://www.udemy.com/course/owasp-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4748828_fc3e_2.jpg",
+      "title": "OWASP API Security Top 10 2021/2023/2025 with Java Examples"
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-approach-to-investing-personal-finances/?couponCode=D1B1E5F7597458865B45",
+      "coupon_code": "D1B1E5F7597458865B45",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5000836_1354_6.jpg",
+      "title": "Personal Finance Course : Planning, Investing & Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/qa-qc-metrics-kpis-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643217_e2ee.jpg",
+      "title": "Data-Driven Quality Assurance & Quality Control: Metrics/KPI"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-code-java-spring-boot-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6705809_864e.jpg",
+      "title": "Secure Code in Java and Spring Boot: Build Resilient Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6478831_313a.jpg",
+      "title": "Secure Coding: Security Best Practices in Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/securing-ai-applications-learnit/?couponCode=MAYFREE2026",
+      "coupon_code": "MAYFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6927315_4792_3.jpg",
+      "title": "Securing AI Applications: From Threats to Controls"
+    },
     {
       "url": "https://www.udemy.com/course/ai-driven-digital-transformation-leadership/?couponCode=MAYFREEE",
       "coupon_code": "MAYFREEE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967313_1551_3.jpg",
+      "title": "AI-Driven Digital Transformation Leadership"
     },
     {
       "url": "https://www.udemy.com/course/ai-strategy-transformation-for-executive-leaders/?couponCode=FREEMAY",
       "coupon_code": "FREEMAY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6937799_4972_3.jpg",
+      "title": "AI Strategy & Transformation for Executive Leaders"
     },
     {
       "url": "https://www.udemy.com/course/build-8-python-apps-games-and-web-application-python-master/?couponCode=5D609C0203A08DDF45FC",
       "coupon_code": "5D609C0203A08DDF45FC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6395467_02fd.jpg",
+      "title": "Build 8 Python Apps Games and Web Application Python Master"
     },
     {
       "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=F543BE1A8FF86B38ABCD",
