@@ -1,7 +1,94 @@
 {
-  "updated_at": "2026-05-03T08:52:15Z",
-  "count": 933,
+  "updated_at": "2026-05-03T10:12:02Z",
+  "count": 948,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-driven-digital-transformation-leadership/?couponCode=MAYFREEE",
+      "coupon_code": "MAYFREEE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-strategy-transformation-for-executive-leaders/?couponCode=FREEMAY",
+      "coupon_code": "FREEMAY",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-8-python-apps-games-and-web-application-python-master/?couponCode=5D609C0203A08DDF45FC",
+      "coupon_code": "5D609C0203A08DDF45FC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=F543BE1A8FF86B38ABCD",
+      "coupon_code": "F543BE1A8FF86B38ABCD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5112922_e7f7_9.jpg",
+      "title": "Learn React by Building the Simplest App from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-multiple-income-streams-to-10000-usd-per-month/?couponCode=MAYFREE",
+      "coupon_code": "MAYFREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6947807_49ff_3.jpg",
+      "title": "Learn How to Build Multiple Income Streams"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-your-knowledge-business-6-figure-launch-plan/?couponCode=FREEMAY",
+      "coupon_code": "FREEMAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6947811_5388_4.jpg",
+      "title": "Build Your Knowledge Business: 6-Figure Launch Plan"
+    },
+    {
+      "url": "https://www.udemy.com/course/chief-digital-officer-2026-mastering-enterprise-leadership/?couponCode=FREEMAY",
+      "coupon_code": "FREEMAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967309_a40f_3.jpg",
+      "title": "Chief Digital Officer 2026: Mastering Enterprise Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/comment-avoir-une-belle-vie/?couponCode=9FA4D8A1F224FBD0D664",
+      "coupon_code": "9FA4D8A1F224FBD0D664",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6753061_5882.jpg",
+      "title": "Comment Avoir Une Belle Vie"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analysis-bootcamp-master-data-science-skills/?couponCode=9E88A0ECAE290BB0CFBB",
+      "coupon_code": "9E88A0ECAE290BB0CFBB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285337_5c3f_3.jpg",
+      "title": "Data Analysis Bootcamp: Master Data Science Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/devenir-un-superhumain/?couponCode=19815ECFCD01A7959965",
+      "coupon_code": "19815ECFCD01A7959965",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6712869_0b21_3.jpg",
+      "title": "Superhumain – Investir en soi en apprenant en continu"
+    },
+    {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=3F04A498F18FF20DDFC8",
+      "coupon_code": "3F04A498F18FF20DDFC8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29_2.jpg",
+      "title": "Motivation et Équilibre Émotionnel : Crée ta Journée Parfait"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-cert-emerging-tech-leadership-strategic-growth/?couponCode=FREEMAY",
+      "coupon_code": "FREEMAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6937801_94a8_5.jpg",
+      "title": "Executive Cert: Emerging Tech Leadership & Strategic Growth"
+    },
+    {
+      "url": "https://www.udemy.com/course/immersion/?couponCode=936EB75C67FFA5755B82",
+      "coupon_code": "936EB75C67FFA5755B82",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6719285_f66a_4.jpg",
+      "title": "Reprendre le Contrôle du Temps Par L'Immersion Totale"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-master-course-from-beginner-to-expert-developer/?couponCode=8912C1A2BCE7BA9EF941",
+      "coupon_code": "8912C1A2BCE7BA9EF941",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6395555_6dfe_2.jpg",
+      "title": "JavaScript Master Course From Beginner to Expert Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/low-code-no-code-mastery/?couponCode=FREEMAY",
+      "coupon_code": "FREEMAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967317_850e_4.jpg",
+      "title": "Low-Code & No-Code Mastery"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-beginners-to-professional/?couponCode=9BFB04A572B877F039FA",
       "coupon_code": "9BFB04A572B877F039FA",
