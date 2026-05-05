@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-05T07:21:34Z",
-  "count": 963,
+  "updated_at": "2026-05-05T10:08:46Z",
+  "count": 978,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/?couponCode=34D063721577CC267FC8",
+      "coupon_code": "34D063721577CC267FC8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5926794_6929.jpg",
+      "title": "Adobe Illustrator Essentials: Zero to Hero for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=BD49FDE371B0BC18D395",
+      "coupon_code": "BD49FDE371B0BC18D395",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5895048_9832.jpg",
+      "title": "Advanced Adobe Premiere Pro Add Hollywood-level Effects"
+    },
+    {
+      "url": "https://www.udemy.com/course/blender-essential-from-beginner-to-3d-masterclass/?couponCode=5E3374E1ADE4A1C71E83",
+      "coupon_code": "5E3374E1ADE4A1C71E83",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5950120_e1c7_3.jpg",
+      "title": "Blender Essential: From Beginner to 3D Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-social-media-video-editing-masterclass-edit-like-a-pro/?couponCode=83E7D96F131F86BF0DAF",
+      "coupon_code": "83E7D96F131F86BF0DAF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6703445_8247.jpg",
+      "title": "Canva Social Media Video Editing MasterClass Edit Like a Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-canva-masterclass-graphic-design-with-video-edit/?couponCode=17D6EAEB323FF70DCAC3",
+      "coupon_code": "17D6EAEB323FF70DCAC3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6704861_1997.jpg",
+      "title": "CapCut and Canva Masterclass Graphic Design With Video Edit"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-hr-analytics-unlock-data-driven-workforce-strategies/?couponCode=PAPAHR_MAY_097781",
+      "coupon_code": "PAPAHR_MAY_097781",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6346503_e339_4.jpg",
+      "title": "HR Analytics Architect: Data-Driven HR & Forecasting [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-performance-reviews-evaluate-and-empower-teams/?couponCode=PAPAHR_MAY_111337",
+      "coupon_code": "PAPAHR_MAY_111337",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6348287_04a2_6.jpg",
+      "title": "Employee Performance Review, Appraisal and Evaluation [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-word-for-novice/?couponCode=3287F8ED9595593AD875",
+      "coupon_code": "3287F8ED9595593AD875",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1590338_8206_6.jpg",
+      "title": "MS Word - Microsoft Word Course Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/premiere-pro-cc-novice-to-expert-how-to-earn-money-by-video/?couponCode=086E80D48B0FB9422F26",
+      "coupon_code": "086E80D48B0FB9422F26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1619752_ff0e.jpg",
+      "title": "Video Editing Course Premiere Pro:  18 Project In 1 Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/pro-photo-editing-with-photoshop-illustrator-lightroom-canva/?couponCode=5CB23537D296EF287663",
+      "coupon_code": "5CB23537D296EF287663",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5886704_9b11.jpg",
+      "title": "Pro Photo Editing With Photoshop Illustrator Lightroom Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=AFD0E44C482E2C5C5F1E",
+      "coupon_code": "AFD0E44C482E2C5C5F1E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3213441_6289_4.jpg",
+      "title": "Professional Adobe Photoshop CC Course With Advance Training"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-video-editing-premiere-pro-after-effect-canva/?couponCode=CD2619B479094A1C916D",
+      "coupon_code": "CD2619B479094A1C916D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6041354_8cf9.jpg",
+      "title": "Social Media Video Editing: Premiere Pro After Effect Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-guide-to-instagram-marketing-for-businesses/?couponCode=A7221B3A614EE20AC10E",
+      "coupon_code": "A7221B3A614EE20AC10E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5992018_0d73.jpg",
+      "title": "The Complete Guide to Instagram Marketing for Businesses"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-t-shirt-design-toolkit-ps-ai-canva/?couponCode=92A262FB64E9B9C4DB4C",
+      "coupon_code": "92A262FB64E9B9C4DB4C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5972478_958a_2.jpg",
+      "title": "The Complete T-Shirt Design Toolkit: PS, AI & Canva"
+    },
+    {
+      "url": "https://www.udemy.com/course/video-editing-with-chatgpt-adobe-premiere-pro-canva-capcut/?couponCode=05896171C68B05917A66",
+      "coupon_code": "05896171C68B05917A66",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713845_7001.jpg",
+      "title": "Video Editing with ChatGPT Adobe Premiere Pro Canva CapCut"
+    },
     {
       "url": "https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=9FD43107D16213453FBB",
       "coupon_code": "9FD43107D16213453FBB",
