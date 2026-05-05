@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-05T04:19:46Z",
-  "count": 948,
+  "updated_at": "2026-05-05T07:21:34Z",
+  "count": 963,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=9FD43107D16213453FBB",
+      "coupon_code": "9FD43107D16213453FBB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5313330_d78b_2.jpg",
+      "title": "Advance MS Excel VBA for Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-for-social-media-video-editing-beginner-to-pro/?couponCode=200FAA208C4D667AD39D",
+      "coupon_code": "200FAA208C4D667AD39D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6070501_477e_2.jpg",
+      "title": "Capcut for Social Media Video Editing | Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/capcut-mastery-from-beginner-to-pro/?couponCode=25DCAF0ED5075424EA1A",
+      "coupon_code": "25DCAF0ED5075424EA1A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6212797_8091.jpg",
+      "title": "CapCut Mastery: From Beginner to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-css-web-design-course-front-end-web-development/?couponCode=DB5D9E1F03BCCD140A63",
+      "coupon_code": "DB5D9E1F03BCCD140A63",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000839_54b3.jpg",
+      "title": "Complete CSS Web Design Course: Front End Web Development"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-ms-office-and-web-design-development-course/?couponCode=F6B06D20DE56885EE63C",
+      "coupon_code": "F6B06D20DE56885EE63C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5315174_1660.jpg",
+      "title": "Complete MS Office and Web Design Development Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-excel-with-tips-trick-shortcuts-and-job-success/?couponCode=02D390F9F618F2532F57",
+      "coupon_code": "02D390F9F618F2532F57",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5313324_8cc2.jpg",
+      "title": "Essential Excel With Tips Trick Shortcuts and Job Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-analysis-and-pivot-table-build-smart-dashboards/?couponCode=332A3AE450C9EE8A6DCB",
+      "coupon_code": "332A3AE450C9EE8A6DCB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7047247_3a6f.jpg",
+      "title": "Excel Data Analysis and Pivot Table: Build Smart Dashboards"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-analysis-from-beginner-to-advanced-techniques/?couponCode=B1D0C91DF17D33555FFD",
+      "coupon_code": "B1D0C91DF17D33555FFD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7043097_1281_3.jpg",
+      "title": "Excel Data Analysis: From Beginner to Advanced Techniques"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/?couponCode=D98F72CB995C1E247E55",
+      "coupon_code": "D98F72CB995C1E247E55",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg",
+      "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-logo-design-with-photoshop-illustrator-zero-to-pro/?couponCode=28305DFE5CBED2154FB7",
+      "coupon_code": "28305DFE5CBED2154FB7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6078937_4e36_3.jpg",
+      "title": "Master Logo Design with Photoshop Illustrator Zero to Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-master-formulas-functions-and-data-tools/?couponCode=302C36A93B34D459F77D",
+      "coupon_code": "302C36A93B34D459F77D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6867819_6d2d.jpg",
+      "title": "Microsoft Excel: Master Formulas, Functions, and Data Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-course-for-app-developers-build-your-first-app/?couponCode=828A1210FE31AA24FA2C",
+      "coupon_code": "828A1210FE31AA24FA2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6104657_1cc1_3.jpg",
+      "title": "Python Course for App Developers: Build Your First App"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-automation-automate-tasks-excel-web-and-files/?couponCode=2383193316B9EEC70BA9",
+      "coupon_code": "2383193316B9EEC70BA9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6897205_937d.jpg",
+      "title": "Python for Automation: Automate Tasks, Excel, Web and Files"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-for-beginners-learn-python-from-scratch/?couponCode=A092CA214EF51C129CB2",
+      "coupon_code": "A092CA214EF51C129CB2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6053693_14e0_2.jpg",
+      "title": "Python Programming for Beginners: Learn Python from Scratch"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-mastery-illustrator-photoshop-and-canva/?couponCode=8B2322E54DAAD41C1EB1",
+      "coupon_code": "8B2322E54DAAD41C1EB1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6038346_b339_4.jpg",
+      "title": "T-Shirt Design Mastery: Illustrator, Photoshop and Canva"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-after-effects-from-beginner-to-motion-master/?couponCode=20892B801B74A75E4DE6",
       "coupon_code": "20892B801B74A75E4DE6",
