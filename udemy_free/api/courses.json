@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T16:49:04Z",
-  "count": 997,
+  "updated_at": "2026-05-06T18:24:33Z",
+  "count": 998,
   "courses": [
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=MAYFREE02",
@@ -31,6 +31,12 @@
       "coupon_code": "MAYFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
       "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals-of-low-power-vlsi-design/?couponCode=A34B23AEF157AB522A0E",
+      "coupon_code": "A34B23AEF157AB522A0E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6928879_0b90_2.jpg",
+      "title": "Fundamentals of Low-Power VLSI Design"
     },
     {
       "url": "https://www.udemy.com/course/generative-ai-for-business-leaders-and-executives/?couponCode=MAYFREE02",
@@ -81,16 +87,16 @@
       "title": "SoAI-Certified Professional: AI Infrastructure (NCP-AII)"
     },
     {
-      "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=MAYFREE02",
-      "coupon_code": "MAYFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6533119_fd9a_5.jpg",
-      "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing"
-    },
-    {
       "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=MAYFREE02",
       "coupon_code": "MAYFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
       "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=MAYFREE02",
+      "coupon_code": "MAYFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6533119_fd9a_5.jpg",
+      "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing"
     },
     {
       "url": "https://www.udemy.com/course/ai-recruitment-automatisering-optimering-af-hr-da/?couponCode=PAPAHR_MAY_202118",
