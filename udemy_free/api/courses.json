@@ -1,11 +1,102 @@
 {
-  "updated_at": "2026-05-06T06:37:40Z",
-  "count": 950,
+  "updated_at": "2026-05-06T09:31:34Z",
+  "count": 965,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-artificial-intelligence-for-project-planning-excellence/?couponCode=6662267BBC3D282DB806",
+      "coupon_code": "6662267BBC3D282DB806",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695941_7bc5.jpg",
+      "title": "AI (Artificial Intelligence) for Project Planning Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-data-driven-management-excellence/?couponCode=8B39B71B65826E153CA3",
+      "coupon_code": "8B39B71B65826E153CA3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6713235_10ea.jpg",
+      "title": "AI for Data Driven Management Excellence"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-mastering-complexity/?couponCode=1C22A56071BC2BA2DCF8",
+      "coupon_code": "1C22A56071BC2BA2DCF8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6922499_0e6a.jpg",
+      "title": "AI for Mastering Complexity"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-time-management-excellence/?couponCode=2025C92BE8E9917CF6C1",
+      "coupon_code": "2025C92BE8E9917CF6C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6845821_c8a2_2.jpg",
+      "title": "AI Time Management for High Performance at Work"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-for-social-media-graphic-design-and-video-editing/?couponCode=59F7A8DF6CE80699E997",
+      "coupon_code": "59F7A8DF6CE80699E997",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5896370_2474.jpg",
+      "title": "Canva for Social Media Graphic Design and Video Editing"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-after-effects-from-beginner-to-motion-master/?couponCode=EC3CD82C0E01C8019F41",
+      "coupon_code": "EC3CD82C0E01C8019F41",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5803016_9a0a_2.jpg",
+      "title": "Essential After Effects: From Beginner to Motion Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-crisis-management-bcp/?couponCode=B82D97F63AC50286ED6C",
+      "coupon_code": "B82D97F63AC50286ED6C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6488113_e061_2.jpg",
+      "title": "Crisis Management & Business Continuity for Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals1/?couponCode=3353F8CB3202CC10980F",
+      "coupon_code": "3353F8CB3202CC10980F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6870005_3ae1_2.jpg",
+      "title": "Fundamentals of Marketing and Brand Management Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphic-design-masterclass-adobe-photoshop-illustrator-indesign-canva/?couponCode=A50CB190F606DAC82ED7",
+      "coupon_code": "A50CB190F606DAC82ED7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5803102_5223_3.jpg",
+      "title": "Learn Graphic Design with Photoshop Illustrator and InDesign"
+    },
+    {
+      "url": "https://www.udemy.com/course/linux-for-data-engineers-hands-on/?couponCode=5B1C6E39047848226D22",
+      "coupon_code": "5B1C6E39047848226D22",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4368656_0f79_2.jpg",
+      "title": "Linux for Data Engineers (Hands On)"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-business-analytics/?couponCode=E24F576C08D626E23EE0",
+      "coupon_code": "E24F576C08D626E23EE0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6323705_6a4b.jpg",
+      "title": "Master in Business Analytics for Business Analysts"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-in-construction-management/?couponCode=61D43F032EB69171A81E",
+      "coupon_code": "61D43F032EB69171A81E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6409223_c765.jpg",
+      "title": "Master Construction Project Management: Planning & Execution"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-adobe-premiere-pro-cc-from-beginner-to-pro-editor/?couponCode=D5ECAFAF7AECA4656635",
+      "coupon_code": "D5ECAFAF7AECA4656635",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5797752_cf8c_3.jpg",
+      "title": "Mastering Adobe Premiere Pro CC: From Beginner to Pro Editor"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-receptionist-training-legal-record-call-skills/?couponCode=59B83033D0D065E939DD",
+      "coupon_code": "59B83033D0D065E939DD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7087219_747f.jpg",
+      "title": "Medical Receptionist Training: Legal, Record & Call Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/safeguarding-adults-vulnerable-people-expert-training/?couponCode=D7F09A8D8614D3AF9FC8",
+      "coupon_code": "D7F09A8D8614D3AF9FC8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7000705_0806_2.jpg",
+      "title": "Safeguarding Adults & Vulnerable People Masterclass"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=E9B53E599BDF618B8CED",
       "coupon_code": "E9B53E599BDF618B8CED",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5278956_79a9_3.jpg",
+      "title": "Adobe Premiere Pro CC For Video Editing - Novice to Expert"
     },
     {
       "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=90CD3E25029697E17E72",
