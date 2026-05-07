@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-07T18:52:51Z",
-  "count": 973,
+  "updated_at": "2026-05-07T20:20:32Z",
+  "count": 988,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming-y-python/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5511332_f43e_2.jpg",
+      "title": "Análisis de datos con R Programming y Python"
+    },
+    {
+      "url": "https://www.udemy.com/course/bases-de-datos-con-mysql-y-mongodb/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599966_7a6c_4.jpg",
+      "title": "Bases de Datos con MySQL + ChatGPT y MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootstrap-5-creer-et-lancer-des-sites-web-reactifs-debutants/?couponCode=THYMEFLIES",
+      "coupon_code": "THYMEFLIES",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4742876_e54b_4.jpg",
+      "title": "Bootstrap 5: Créer et Lancer des Sites Web Réactifs"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-dbt-modelado-y-pipelines-en-el-modern-data-stack/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6643369_2395.jpg",
+      "title": "Curso DBT: Modelado y Pipelines en el Modern Data Stack"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-prompt-engineering-con-chatgpt/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5658340_ffde_7.jpg",
+      "title": "Curso IA Generativa + Prompt Engineering con ChatGPT-4"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-tableau-analisis-y-visualizacion-de-datos/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5730136_07d7.jpg",
+      "title": "Curso de Tableau: Análisis y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-snowflake-analisis-y-visualizacion-de-datos/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6484341_9e78.jpg",
+      "title": "Curso Snowflake: Análisis y Visualización de Datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/el-proceso-administrativo-para-triunfar-y-ser-feliz/?couponCode=339B56A672058C376BFD",
+      "coupon_code": "339B56A672058C376BFD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6533565_9ca0_15.jpg",
+      "title": "Vive sin estrés. Aprende administrar tu día, tiempo y vida"
+    },
+    {
+      "url": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5512766_9cd2_9.jpg",
+      "title": "Experto en Análisis y Visualización de Datos + IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/finanzas-personales-exito-financiero/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5537998_aa00.jpg",
+      "title": "Finanzas Personales: Éxito financiero a tu alcance"
+    },
+    {
+      "url": "https://www.udemy.com/course/frameworks-indices-transacciones-y-mucho-mas-con-mongodb/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5771254_1140.jpg",
+      "title": "Frameworks, Índices, Transacciones y mucho más con MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/funciones-tablas-dinamicas-chatgpt-y-mas-con-google-sheets/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5642840_9cc8.jpg",
+      "title": "Funciones, Tablas dinámicas, ChatGPT y más con Google Sheets"
+    },
+    {
+      "url": "https://www.udemy.com/course/operaciones-crud-modelado-y-consultas-avanzadas-con-mongodb/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599936_df64.jpg",
+      "title": "Operaciones CRUD, Modelado y Consultas Avanzadas con MongoDB"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-per-lapprendimento-profondo-costruire-reti-neurali/?couponCode=POLLENPARTY",
+      "coupon_code": "POLLENPARTY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5458126_99ad_2.jpg",
+      "title": "Python per l'apprendimento profondo: Costruire reti neurali"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-pour-la-data-science-et-le-machine-learning-a-z/?couponCode=MOSSYROCK",
+      "coupon_code": "MOSSYROCK",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5012842_9ccb_2.jpg",
+      "title": "Python pour la Data Science et le Machine Learning: A à Z"
+    },
     {
       "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/?couponCode=MAYOW126",
       "coupon_code": "MAYOW126",
