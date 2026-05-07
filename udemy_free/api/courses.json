@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-07T16:58:25Z",
-  "count": 958,
+  "updated_at": "2026-05-07T18:52:51Z",
+  "count": 973,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5043548_094c_2.jpg",
+      "title": "Análisis de datos con Microsoft Excel y Power BI"
+    },
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4778796_c70e_2.jpg",
+      "title": "Microsoft Excel: Análisis de datos"
+    },
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-python/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4718522_81b0_2.jpg",
+      "title": "Python: Análisis avanzado para Data Science"
+    },
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4840036_d757_2.jpg",
+      "title": "R Programming: Análisis avanzado para Data Science"
+    },
+    {
+      "url": "https://www.udemy.com/course/examen-mo-200-microsoft-excel-office-2019/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5345672_ea3e_3.jpg",
+      "title": "Examen MO-200 Microsoft Excel (Office 2019)"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentos-de-programacion-r/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4586338_dee3_2.jpg",
+      "title": "Fundamentos de Programación: Aprende a programar desde cero"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-data-studio-desde-cero-para-principiantes/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4555396_1c59_7.jpg",
+      "title": "Análisis de datos con Google Sheets y Looker Studio"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-access-desde-cero/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4914458_056a_2.jpg",
+      "title": "Microsoft Access: Desde cero para principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-desde-cero-y-analisis-de-datos/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4848640_40a5_5.jpg",
+      "title": "Microsoft Excel: De Principiante a Avanzado"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-desde-cero/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4679860_0ca2_6.jpg",
+      "title": "Fórmulas, Gráficas, Tablas Dinámicas con Microsoft Excel"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-desde-cero/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4960314_4ed6_3.jpg",
+      "title": "Microsoft PowerPoint: Crea presentaciones profesionales"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-aprende-los-fundamentos-de-las-bases-de-datos-nosql/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5107788_2735_2.jpg",
+      "title": "MongoDB: Aprende los fundamentos de las bases de datos NoSQL"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-analisis-de-proyectos-reales/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5179612_425a_2.jpg",
+      "title": "Power BI: Dashboards y análisis de proyectos reales"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-desde-cero-analisis-de-datos/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4868138_e827_3.jpg",
+      "title": "R Programming: De Principiante a Avanzado"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-desde-cero-para-principiantes/?couponCode=MAYOW126",
+      "coupon_code": "MAYOW126",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4778792_180f_2.jpg",
+      "title": "SQL: Desde cero para principiantes (Linux)"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-masterclass-for-video-editing/?couponCode=16BEF6235B74D6D71419",
       "coupon_code": "16BEF6235B74D6D71419",
