@@ -1,18 +1,12 @@
 {
-  "updated_at": "2026-05-07T14:35:30Z",
-  "count": 957,
+  "updated_at": "2026-05-07T16:58:25Z",
+  "count": 958,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-masterclass-for-video-editing/?couponCode=16BEF6235B74D6D71419",
       "coupon_code": "16BEF6235B74D6D71419",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5555872_e793_2.jpg",
       "title": "Adobe Premiere Pro CC Masterclass for Video Editing"
-    },
-    {
-      "url": "https://www.udemy.com/course/c-programming-made-easy-from-basics-to-advanced-concepts/?couponCode=B3B82A16432B0115E2E4",
-      "coupon_code": "B3B82A16432B0115E2E4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6849531_3ff3_2.jpg",
-      "title": "C++ Programming Made Easy: From Basics to Advanced Concepts"
     },
     {
       "url": "https://www.udemy.com/course/canva-for-graphics-design-and-video-editing-masterclass/?couponCode=803B0015397ADCFC5310",
@@ -27,10 +21,10 @@
       "title": "Ciberseguridad. Protege tu información de Cibercriminales."
     },
     {
-      "url": "https://www.udemy.com/course/excel-data-mastery-formulas-functions-charts-and-graphs/?couponCode=8CDD305B4298943FC92A",
-      "coupon_code": "8CDD305B4298943FC92A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6737369_0724.jpg",
-      "title": "Excel Data Mastery: Formulas, Functions, Charts, and Graphs"
+      "url": "https://www.udemy.com/course/construccion-de-aplicaciones-web-con-python-flask-y-sqlite/?couponCode=CD67127C759448BA610D",
+      "coupon_code": "CD67127C759448BA610D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6657107_58cd_5.jpg",
+      "title": "Construcción de Aplicaciones Web con Python (Flask) y SQLite"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=7THMAY",
@@ -49,6 +43,12 @@
       "coupon_code": "7THMAY",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6560763_3fe2.jpg",
       "title": "Financial Services - Funds Flow Optimization Concepts"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=7THMAY",
+      "coupon_code": "7THMAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
+      "title": "Financial Services - Overview of Retail Banking"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=7THMAY",
@@ -75,12 +75,6 @@
       "title": "Mastering Adobe Illustrator Projects: Build Your Portfolio"
     },
     {
-      "url": "https://www.udemy.com/course/responsive-design-with-css3-create-mobile-friendly-webpages/?couponCode=29E0F98480194FBC9B3F",
-      "coupon_code": "29E0F98480194FBC9B3F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6849563_f60c_2.jpg",
-      "title": "Responsive Design with CSS3: Create Mobile Friendly Webpages"
-    },
-    {
       "url": "https://www.udemy.com/course/retail-management-101/?couponCode=C1BEF5783B08392D6C31",
       "coupon_code": "C1BEF5783B08392D6C31",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6418275_d930_6.jpg",
@@ -91,6 +85,30 @@
       "coupon_code": "31BDD582475D745D9213",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6848589_c224_2.jpg",
       "title": "The Complete Excel Data Analysis Course: Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=7THMAY",
+      "coupon_code": "7THMAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
+      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-programming-made-easy-from-basics-to-advanced-concepts/?couponCode=B3B82A16432B0115E2E4",
+      "coupon_code": "B3B82A16432B0115E2E4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849531_3ff3_2.jpg",
+      "title": "C++ Programming Made Easy: From Basics to Advanced Concepts"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-mastery-formulas-functions-charts-and-graphs/?couponCode=8CDD305B4298943FC92A",
+      "coupon_code": "8CDD305B4298943FC92A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6737369_0724.jpg",
+      "title": "Excel Data Mastery: Formulas, Functions, Charts, and Graphs"
+    },
+    {
+      "url": "https://www.udemy.com/course/responsive-design-with-css3-create-mobile-friendly-webpages/?couponCode=29E0F98480194FBC9B3F",
+      "coupon_code": "29E0F98480194FBC9B3F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6849563_f60c_2.jpg",
+      "title": "Responsive Design with CSS3: Create Mobile Friendly Webpages"
     },
     {
       "url": "https://www.udemy.com/course/complete-nodejs-bootcamp-from-basics-to-advanced/?couponCode=4FE71CACC22185F21953",
@@ -147,12 +165,6 @@
       "title": "Financial Services - Overview of Central Banks"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=7THMAY",
-      "coupon_code": "7THMAY",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6404137_5601.jpg",
-      "title": "Financial Services - Overview of Retail Banking"
-    },
-    {
       "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=7THMAY",
       "coupon_code": "7THMAY",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6116575_dc01_4.jpg",
@@ -175,12 +187,6 @@
       "coupon_code": "7THMAY",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
       "title": "Mental Health for the Workplace"
-    },
-    {
-      "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=7THMAY",
-      "coupon_code": "7THMAY",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6534785_138d_3.jpg",
-      "title": "Workplace Productivity-Coping with the Anxiety of Leadership"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=7THMAY",
