@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-08T16:23:30Z",
-  "count": 969,
+  "updated_at": "2026-05-08T18:15:43Z",
+  "count": 984,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-agents-for-everyone-and-artificial-intelligence-bootcamp/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6413173_84ff.jpg",
+      "title": "AI Agents for Everyone & AI Bootcamp with 100 Hands-on Labs"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6496525_b818_3.jpg",
+      "title": "AI & Python Development Megaclass - 300+ Hands-on Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/?couponCode=MAYFREE03",
+      "coupon_code": "MAYFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6492625_085b.jpg",
+      "title": "AI & Quantum Computing Mastery: From Zero to Expert Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=MAYFREE03",
+      "coupon_code": "MAYFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584537_9e04_2.jpg",
+      "title": "[AR] دورة ماجستير في هندسة الذكاء الاصطناعي (AI)"
+    },
+    {
+      "url": "https://www.udemy.com/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6380935_ddd8.jpg",
+      "title": "Create, Publish & Monetize GPTs on ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=MAYFREE03",
+      "coupon_code": "MAYFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6465823_9d68_2.jpg",
+      "title": "Full-Stack AI with Ollama: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/llm-engineer/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561937_c4ca_4.jpg",
+      "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-ai-agents-bootcamp-build-smart-chatbots-tools/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6487855_4b85.jpg",
+      "title": "Mastering AI Agents Bootcamp: Build Smart Chatbots & Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/?couponCode=MAYFREE03",
+      "coupon_code": "MAYFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6464197_01e8_3.jpg",
+      "title": "Mastering DeepScaleR: Build & Deploy AI Models with Ollama"
+    },
+    {
+      "url": "https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6459811_f9be.jpg",
+      "title": "Mistral AI Development: AI with Mistral, LangChain & Ollama"
+    },
+    {
+      "url": "https://www.udemy.com/course/ncp-aii-nvidia-certified-professional-ai-infrastructure/?couponCode=MAYFREE03",
+      "coupon_code": "MAYFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583073_4e3b_4.jpg",
+      "title": "SoAI-Certified Professional: AI Infrastructure (NCP-AII)"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-mastery-100-days-100-projects/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6372561_b824_3.jpg",
+      "title": "Python Mastery: 100 Days, 100 Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=MAYFREE03",
+      "coupon_code": "MAYFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6533119_fd9a_5.jpg",
+      "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing"
+    },
+    {
+      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=MAYFREE03",
+      "coupon_code": "MAYFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
     {
       "url": "https://www.udemy.com/course/amazon-afiliados-como-crear-una-pagina-web-de-nicho/?couponCode=MAYO0126",
       "coupon_code": "MAYO0126",
