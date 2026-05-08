@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-08T08:25:36Z",
-  "count": 923,
+  "updated_at": "2026-05-08T10:44:20Z",
+  "count": 938,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agentic-coding-full-stack-java-apps-with-cursor-and-copilot/?couponCode=1BD6417D30448D7987FA",
+      "coupon_code": "1BD6417D30448D7987FA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6737505_4a6f.jpg",
+      "title": "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-driven-market-analysis-prediction-av/?couponCode=63B80CA39552F40354AF",
+      "coupon_code": "63B80CA39552F40354AF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6277077_0f7f_3.jpg",
+      "title": "AI-Driven Market Analysis & Prediction"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-governance-build-a-managed-ai-system/?couponCode=B7E7213A9E9478289A75",
+      "coupon_code": "B7E7213A9E9478289A75",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7055613_4ccb.jpg",
+      "title": "AI Governance: Build a Managed AI System"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-image-generation-for-business-marketing/?couponCode=541121303000167E1D9A",
+      "coupon_code": "541121303000167E1D9A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6926943_56d7_2.jpg",
+      "title": "AI Image Generation for Business & Marketing"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-design/?couponCode=EA94B2DF60B0FD0D2F08",
+      "coupon_code": "EA94B2DF60B0FD0D2F08",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6840805_aeb4.jpg",
+      "title": "AI-Powered Design"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-project-management-lead-smarter/?couponCode=4F122689DA8BCB0E41EB",
+      "coupon_code": "4F122689DA8BCB0E41EB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6870549_09f0_2.jpg",
+      "title": "AI-Powered Project Management: Lead Smarter"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-project-management-with-clickup/?couponCode=59F41E6D6E58EDD11EB9",
+      "coupon_code": "59F41E6D6E58EDD11EB9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6733491_e42d.jpg",
+      "title": "AI-Powered Project Management with ClickUp"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-seo-audit/?couponCode=FBAD82351BACD61018C4",
+      "coupon_code": "FBAD82351BACD61018C4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6589891_0a19.jpg",
+      "title": "AI-Powered SEO Audit: Diagnose, Optimize and Rank Fast"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-to-empower-your-marketing-team/?couponCode=25B27C90039739398261",
+      "coupon_code": "25B27C90039739398261",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6474137_a79b.jpg",
+      "title": "AI to Empower your Marketing Team"
+    },
+    {
+      "url": "https://www.udemy.com/course/amazon-fba-guide/?couponCode=AA26373A6F895508A573",
+      "coupon_code": "AA26373A6F895508A573",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5936954_f996.jpg",
+      "title": "Amazon FBA Guide: From Zero to Seller"
+    },
+    {
+      "url": "https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=F683CCB698D34EF7FE6E",
+      "coupon_code": "F683CCB698D34EF7FE6E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4154164_c02e_5.jpg",
+      "title": "AI-Powered Content Marketing: Master ChatGPT, SEO & Strategy"
+    },
+    {
+      "url": "https://www.udemy.com/course/mspowerpoint/?couponCode=5C1A738C9CD664C2815D",
+      "coupon_code": "5C1A738C9CD664C2815D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5946072_0be4.jpg",
+      "title": "Complete Microsoft PowerPoint 365 Course with Copilot Intro"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=7382942474F1538FD6F0",
+      "coupon_code": "7382942474F1538FD6F0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3967614_a9a9_8.jpg",
+      "title": "AI-Powered Social Media Marketing: ChatGPT and 100 AI Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-business-process-reengineering-master-class/?couponCode=A0CAFDF57993F1B7224F",
+      "coupon_code": "A0CAFDF57993F1B7224F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4327934_3408_3.jpg",
+      "title": "The Complete Business Process Reengineering Master Class BPR"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ultimate-gamma-guide-master-ai-presentation-creation/?couponCode=064BBDCC6AF9540EB50A",
+      "coupon_code": "064BBDCC6AF9540EB50A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6591001_e849.jpg",
+      "title": "AI Presentation Creation with Gamma for Beginners"
+    },
     {
       "url": "https://www.udemy.com/course/ai-risk-in-banking/?couponCode=8F2990A5E8EC1B230D65",
       "coupon_code": "8F2990A5E8EC1B230D65",
