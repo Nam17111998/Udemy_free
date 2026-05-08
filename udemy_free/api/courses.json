@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-05-08T18:15:43Z",
-  "count": 984,
+  "updated_at": "2026-05-08T20:10:23Z",
+  "count": 988,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/ai-agents-for-everyone-and-artificial-intelligence-bootcamp/?couponCode=MAYFREE01",
-      "coupon_code": "MAYFREE01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6413173_84ff.jpg",
-      "title": "AI Agents for Everyone & AI Bootcamp with 100 Hands-on Labs"
-    },
     {
       "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=MAYFREE01",
       "coupon_code": "MAYFREE01",
@@ -27,16 +21,16 @@
       "title": "[AR] دورة ماجستير في هندسة الذكاء الاصطناعي (AI)"
     },
     {
-      "url": "https://www.udemy.com/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/?couponCode=MAYFREE01",
-      "coupon_code": "MAYFREE01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6380935_ddd8.jpg",
-      "title": "Create, Publish & Monetize GPTs on ChatGPT"
-    },
-    {
       "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=MAYFREE03",
       "coupon_code": "MAYFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
       "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
+    },
+    {
+      "url": "https://www.udemy.com/course/el-proceso-administrativo-para-triunfar-y-ser-feliz/?couponCode=CFE77FA3E187F6ED7090",
+      "coupon_code": "CFE77FA3E187F6ED7090",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6533565_9ca0_15.jpg",
+      "title": "Vive sin estrés. Aprende administrar tu día, tiempo y vida"
     },
     {
       "url": "https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/?couponCode=MAYFREE01",
@@ -51,6 +45,12 @@
       "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects"
     },
     {
+      "url": "https://www.udemy.com/course/love-after-baby/?couponCode=964BB2F9A4D3968B1E10",
+      "coupon_code": "964BB2F9A4D3968B1E10",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6675457_e6eb_2.jpg",
+      "title": "Love After Baby: Reconnecting as a Couple Post-Parenthood"
+    },
+    {
       "url": "https://www.udemy.com/course/mastering-ai-agents-bootcamp-build-smart-chatbots-tools/?couponCode=MAYFREE01",
       "coupon_code": "MAYFREE01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6487855_4b85.jpg",
@@ -63,22 +63,16 @@
       "title": "Mastering DeepScaleR: Build & Deploy AI Models with Ollama"
     },
     {
-      "url": "https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/?couponCode=MAYFREE01",
-      "coupon_code": "MAYFREE01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6459811_f9be.jpg",
-      "title": "Mistral AI Development: AI with Mistral, LangChain & Ollama"
-    },
-    {
       "url": "https://www.udemy.com/course/ncp-aii-nvidia-certified-professional-ai-infrastructure/?couponCode=MAYFREE03",
       "coupon_code": "MAYFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6583073_4e3b_4.jpg",
       "title": "SoAI-Certified Professional: AI Infrastructure (NCP-AII)"
     },
     {
-      "url": "https://www.udemy.com/course/python-mastery-100-days-100-projects/?couponCode=MAYFREE01",
-      "coupon_code": "MAYFREE01",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6372561_b824_3.jpg",
-      "title": "Python Mastery: 100 Days, 100 Projects"
+      "url": "https://www.udemy.com/course/pgdincapitalmarket/?couponCode=61BC808F22E16D35BB7C",
+      "coupon_code": "61BC808F22E16D35BB7C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6647621_9e8b_2.jpg",
+      "title": "Postgraduate Diploma in Capital Market (PGDCM)"
     },
     {
       "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=MAYFREE03",
@@ -87,10 +81,40 @@
       "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing"
     },
     {
+      "url": "https://www.udemy.com/course/recuperacion-y-prevencion-de-datos-perdidos-o-ransomware/?couponCode=DA42F6CBF4F4838BAF1B",
+      "coupon_code": "DA42F6CBF4F4838BAF1B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4298637_e64e_3.jpg",
+      "title": "Recuperación y Prevención de datos perdidos o ransomware."
+    },
+    {
       "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=MAYFREE03",
       "coupon_code": "MAYFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
       "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-agents-for-everyone-and-artificial-intelligence-bootcamp/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6413173_84ff.jpg",
+      "title": "AI Agents for Everyone & AI Bootcamp with 100 Hands-on Labs"
+    },
+    {
+      "url": "https://www.udemy.com/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6380935_ddd8.jpg",
+      "title": "Create, Publish & Monetize GPTs on ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6459811_f9be.jpg",
+      "title": "Mistral AI Development: AI with Mistral, LangChain & Ollama"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-mastery-100-days-100-projects/?couponCode=MAYFREE01",
+      "coupon_code": "MAYFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6372561_b824_3.jpg",
+      "title": "Python Mastery: 100 Days, 100 Projects"
     },
     {
       "url": "https://www.udemy.com/course/amazon-afiliados-como-crear-una-pagina-web-de-nicho/?couponCode=MAYO0126",
