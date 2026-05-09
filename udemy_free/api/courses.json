@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-09T09:25:56Z",
-  "count": 922,
+  "updated_at": "2026-05-09T11:03:08Z",
+  "count": 937,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-cc-for-absolute-beginner-to-advanced/?couponCode=B905685598DAA34F5A5A",
+      "coupon_code": "B905685598DAA34F5A5A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4785608_3753.jpg",
+      "title": "Adobe Photoshop CC For Absolute Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/anesthesia-billing/?couponCode=RCM0000001016",
+      "coupon_code": "RCM0000001016",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6894941_04fa.jpg",
+      "title": "Anesthesia Medical Billing and Revenue Cycle Management"
+    },
+    {
+      "url": "https://www.udemy.com/course/automated-code-refactoring-with-openrewrite/?couponCode=CEFB45035554797F2C59",
+      "coupon_code": "CEFB45035554797F2C59",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6287815_fbb0_2.jpg",
+      "title": "Mastering Automated Code Refactoring with OpenRewrite"
+    },
+    {
+      "url": "https://www.udemy.com/course/claim-scrubbing/?couponCode=RCM0000001014",
+      "coupon_code": "RCM0000001014",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6895107_5371.jpg",
+      "title": "Claim Scrubbing & Rule Engine Mastery in Medical Billing RCM"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-for-net-and-angular-developers/?couponCode=D0E08D02E5BAF203A048",
+      "coupon_code": "D0E08D02E5BAF203A048",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3431326_9f61_2.jpg",
+      "title": "Docker & Kubernetes for .Net and Angular Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-ads-for-small-business-from-very-basic-to-advance/?couponCode=19518708B9778E13360F",
+      "coupon_code": "19518708B9778E13360F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4171726_1bde.jpg",
+      "title": "Facebook Ads For Small Business From Very Basic To Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/facebook-ads-masterclass-2023-all-campaigns-features/?couponCode=EC1A88307649C844BAB8",
+      "coupon_code": "EC1A88307649C844BAB8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5668040_4de0.jpg",
+      "title": "Facebook Ads MasterClass 2026- All Latest Campaign Creations"
+    },
+    {
+      "url": "https://www.udemy.com/course/fiverr-success-secrets-blueprint-from-beginner-to-top-seller/?couponCode=A30D6DEFA44DDD341585",
+      "coupon_code": "A30D6DEFA44DDD341585",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6224457_8a19_2.jpg",
+      "title": "Fiverr Success Secrets Blueprint From Beginner to Top Seller"
+    },
+    {
+      "url": "https://www.udemy.com/course/iso-42001/?couponCode=RCM0000001012",
+      "coupon_code": "RCM0000001012",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6941107_0db5.jpg",
+      "title": "ISO/IEC 42001: AI Management System for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-coding-cpt/?couponCode=RCM0000001037",
+      "coupon_code": "RCM0000001037",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691409_abf6.jpg",
+      "title": "Medical Coding Part 2: CPT Coding & Medical Billing Basics"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-coding-icd-10/?couponCode=RCM0000001036",
+      "coupon_code": "RCM0000001036",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691411_d98e.jpg",
+      "title": "Medical Coding Part 1: ICD 10 and 11 Coding for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-terminology-basics/?couponCode=RCM0000001035",
+      "coupon_code": "RCM0000001035",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6691433_27ed.jpg",
+      "title": "Medical Terminology for Medical Coding, Billing & Healthcare"
+    },
+    {
+      "url": "https://www.udemy.com/course/payment-posting/?couponCode=RCM0000001015",
+      "coupon_code": "RCM0000001015",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6895085_8806.jpg",
+      "title": "Payment Posting Mastery In Medical Billing and RCM"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-linux-and-devops-engineers/?couponCode=52FF832D2F39E80A2007",
+      "coupon_code": "52FF832D2F39E80A2007",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6306995_4c48_4.jpg",
+      "title": "Python for Linux Admins: Automate & Script Tasks"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-teach-yourself-drummers-guide/?couponCode=START-4-FREE-TODAY",
+      "coupon_code": "START-4-FREE-TODAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5374932_e219_2.jpg",
+      "title": "The Complete Teach-Yourself Drummer's Guide"
+    },
     {
       "url": "https://www.udemy.com/course/beginner-to-pro-sketchup-modelling/?couponCode=4FAB00298FD30AEB3C50",
       "coupon_code": "4FAB00298FD30AEB3C50",
