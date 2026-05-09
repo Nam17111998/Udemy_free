@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-09T04:28:22Z",
-  "count": 904,
+  "updated_at": "2026-05-09T07:13:06Z",
+  "count": 919,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/cipd-level-3-complete-preparation-for-hr-certification-en/?couponCode=PAPAHR_MAY_595343",
+      "coupon_code": "PAPAHR_MAY_595343",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6956429_2ec2_2.jpg",
+      "title": "CIPD Level 3 Exam Prep: HR Certification & Practice [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/competency-and-skill-model-development-approach-and-library/?couponCode=PAPAHR_MAY_583229",
+      "coupon_code": "PAPAHR_MAY_583229",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6680287_ce16_3.jpg",
+      "title": "Competency Framework Designer: Model & Skill Library [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/contratacion-de-desarrolladores-reclutamiento-it-2025-es/?couponCode=PAPAHR_MAY_578139",
+      "coupon_code": "PAPAHR_MAY_578139",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6680065_aa1c_4.jpg",
+      "title": "IT Recruiter Pro Contratación de Desarrolladores & Tech [ES]"
+    },
+    {
+      "url": "https://www.udemy.com/course/critical-thinking-skills-and-decision-making/?couponCode=CTMAY26",
+      "coupon_code": "CTMAY26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6110745_90c8_3.jpg",
+      "title": "Master Course on Critical Thinking Skills & Decision Making"
+    },
+    {
+      "url": "https://www.udemy.com/course/future-of-hr-master-2025-2030-trends-and-strategies/?couponCode=PAPAHR_MAY_590443",
+      "coupon_code": "PAPAHR_MAY_590443",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6346421_7af3_4.jpg",
+      "title": "HR Trends 2026: AI, Digital HR & Future of Work Course [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/gen-z-hr-mastery-hire-engage-retain-zoomers-generation/?couponCode=PAPAHR_MAY_572312",
+      "coupon_code": "PAPAHR_MAY_572312",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6599125_1170_3.jpg",
+      "title": "Certified Gen Z & Alpha Workplace Strategist [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/holistic-approach-to-health-and-wellness-course/?couponCode=3HEWBMAY26",
+      "coupon_code": "3HEWBMAY26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3476704_cd62_3.jpg",
+      "title": "Holistic Health, Happiness & Emotional Well-Being Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/hr-soft-skills-mastery-communication-leadership-strategy/?couponCode=PAPAHR_MAY_561030",
+      "coupon_code": "PAPAHR_MAY_561030",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6618297_3394_3.jpg",
+      "title": "Certified HR Soft Skills Professional: Boost Results [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-graphic-design-using-ai-canva-gemini-and-grok-imagine/?couponCode=FFF07B24EF80DFF1D936",
+      "coupon_code": "FFF07B24EF80DFF1D936",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6884715_005e.jpg",
+      "title": "Learn Graphic Design Using AI Canva Gemini and Grok Imagine"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-talent-management-strategy-for-your-organization/?couponCode=PAPAHR_MAY_599615",
+      "coupon_code": "PAPAHR_MAY_599615",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6571241_1cc9_5.jpg",
+      "title": "Talent Management: Attract, Grow & Retain Top Talent [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-microsoft-excel-masterclass-and-google-sheets-with-ai-chatgpt/?couponCode=2D9E42906A4DD406F023",
+      "coupon_code": "2D9E42906A4DD406F023",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6945227_9cb0_4.jpg",
+      "title": "Modern Excel MasterClass and Google Sheets with AI ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-office-with-ai-masterclass-microsoft-google-chatgpt/?couponCode=54E2A317392FBCDFBBE3",
+      "coupon_code": "54E2A317392FBCDFBBE3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7044457_9b28_2.jpg",
+      "title": "MS Office With AI Masterclass  Microsoft, Google ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=35AEC36DB1D47C816417",
+      "coupon_code": "35AEC36DB1D47C816417",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6022786_dbe8_2.jpg",
+      "title": "ÉVITER L'ÉCHEC : Le système qui maximalise la réussite"
+    },
+    {
+      "url": "https://www.udemy.com/course/story_telling/?couponCode=STMAY26",
+      "coupon_code": "STMAY26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4001740_1b18_5.jpg",
+      "title": "Storytelling Masterclass - Business Storytelling for Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/train-the-trainer-master-corporate-learning-facilitation/?couponCode=PAPAHR_MAY_598243",
+      "coupon_code": "PAPAHR_MAY_598243",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6618375_4581_4.jpg",
+      "title": "Certified Corporate Trainer: Learning, Facilitation Pro [EN]"
+    },
     {
       "url": "https://www.udemy.com/course/all-about-horse/?couponCode=CC97ABC75D91AD43B5AE",
       "coupon_code": "CC97ABC75D91AD43B5AE",
