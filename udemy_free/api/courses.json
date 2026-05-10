@@ -1,66 +1,102 @@
 {
-  "updated_at": "2026-05-10T17:03:19Z",
-  "count": 944,
+  "updated_at": "2026-05-10T19:15:09Z",
+  "count": 947,
   "courses": [
     {
       "url": "https://www.udemy.com/course/2023-machine-learning-a-to-z-5-machine-learning-projects/?couponCode=MAY-FREE",
       "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5008760_66b1_6.jpg",
+      "title": "Building AI Projects Master Machine Learning & Deep Learning"
     },
     {
       "url": "https://www.udemy.com/course/advanced-statistical-modeling-for-deep-learning-practitioner/?couponCode=MAY-FREE",
       "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5562936_a291_4.jpg",
+      "title": "Advanced Statistical Modeling for Deep Learning and AI"
     },
     {
       "url": "https://www.udemy.com/course/applied-statistics-real-world-problem-solving/?couponCode=MAY-FREE",
       "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-road-map-for-ml-with-practical-real-world-projects/?couponCode=MAY-FREE",
-      "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6109245_6def_3.jpg",
+      "title": "Applied Statistics Real World Problem Solving"
     },
     {
       "url": "https://www.udemy.com/course/curso-completo-de-oracle-con-practica/?couponCode=BD2BDFCA825531B573AF",
       "coupon_code": "BD2BDFCA825531B573AF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5878750_9b6a.jpg",
+      "title": "Curso completo de Oracle SQL. Todo lo que necesitas Saber."
     },
     {
       "url": "https://www.udemy.com/course/enhancing-productivity-through-google-bard-and-chatgpt-ai/?couponCode=MAY-FREE",
       "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5496868_e2de_5.jpg",
+      "title": "Boosting Business Productivity with ChatGPT & Google Bard AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/essentials-for-arcpy/?couponCode=AR_FREE_269",
+      "coupon_code": "AR_FREE_269",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg",
+      "title": "Essentials for ArcPy: Python for Geospatial Automation"
     },
     {
       "url": "https://www.udemy.com/course/github-copilot-ai-powered-code-generation/?couponCode=MAY-FREE",
       "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380256_86b6_7.jpg",
+      "title": "Mastering GitHub Copilot Boost Your Coding with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduction-to-docker-containerization-microservices-t/?couponCode=A069F9CDEC26C41D2EF0",
+      "coupon_code": "A069F9CDEC26C41D2EF0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6309065_cf7c_7.jpg",
+      "title": "Docker for Beginners: Build & Deploy Real Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-bi-ssis-ssrs-ssas-mdx-zero-to-hero-2024/?couponCode=760C92718B4177957A67",
+      "coupon_code": "760C92718B4177957A67",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5832936_6acf_2.jpg",
+      "title": "Master BI, SSIS, SSRS, SSAS & MDX - Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/master-en-comercio-electronico-con-wordpress/?couponCode=MAYO0126",
       "coupon_code": "MAYO0126",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5641460_7247.jpg",
+      "title": "Máster en Comercio Electrónico con WordPress 2026"
     },
     {
       "url": "https://www.udemy.com/course/master-the-machine-muse-build-generative-ai-with-ml/?couponCode=MAY-FREE",
       "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6085251_5113_6.jpg",
+      "title": "Master the Machine Muse Build Generative AI with ML"
     },
     {
       "url": "https://www.udemy.com/course/mastering-deep-learning-for-generative-ai/?couponCode=MAY-FREE",
       "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6085269_ee3f_4.jpg",
+      "title": "Mastering Deep Learning for Generative AI"
     },
     {
       "url": "https://www.udemy.com/course/mastering-google-bard-advanced-techniques-for-productivity/?couponCode=MAY-FREE",
       "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380362_f234_4.jpg",
+      "title": "Mastering Google BARD Boost Productivity with Advanced AI"
     },
     {
       "url": "https://www.udemy.com/course/mastering-time-series-analysis-and-forecasting-with-python/?couponCode=MAY-FREE",
       "coupon_code": "MAY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6100745_5211_3.jpg",
+      "title": "Mastering Time Series Analysis and Forecasting with Python"
+    },
+    {
+      "url": "https://www.udemy.com/course/unlock-your-potential-exploring-the-power-of-chat-gpt/?couponCode=MAY-FREE",
+      "coupon_code": "MAY-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5386786_d904_4.jpg",
+      "title": "Unlock Your Potential: Exploring the Power of Chat GPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-road-map-for-ml-with-practical-real-world-projects/?couponCode=MAY-FREE",
+      "coupon_code": "MAY-FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4883440_2a82_8.jpg",
+      "title": "Complete Machine Learning With Real-World Deployment"
     },
     {
       "url": "https://www.udemy.com/course/python-for-absolute-beginners-learn-programming-from-scratch/?couponCode=MAY-FREE",
@@ -73,12 +109,6 @@
       "coupon_code": "MAY-FREE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6072269_0dc2_5.jpg",
       "title": "Python Powerhouse Gen AI From Basics to Advanced Programming"
-    },
-    {
-      "url": "https://www.udemy.com/course/unlock-your-potential-exploring-the-power-of-chat-gpt/?couponCode=MAY-FREE",
-      "coupon_code": "MAY-FREE",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5386786_d904_4.jpg",
-      "title": "Unlock Your Potential: Exploring the Power of Chat GPT"
     },
     {
       "url": "https://www.udemy.com/course/advanced-instagram-marketing-blueprint-complete-guide/?couponCode=AA40EE2C9BA59CAD1E6F",
