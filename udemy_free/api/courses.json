@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-05-09T23:56:26Z",
-  "count": 968,
+  "updated_at": "2026-05-10T04:04:18Z",
+  "count": 983,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/?couponCode=4DC72D7C89E80119BA0D",
+      "coupon_code": "4DC72D7C89E80119BA0D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-for-social-media-zero-to-hero-graphic-design-in-canva/?couponCode=FADE63B878734670CEFC",
+      "coupon_code": "FADE63B878734670CEFC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/joint-production-co-products-by-product/?couponCode=1A06A3EE0D5C5A5E1CF6",
+      "coupon_code": "1A06A3EE0D5C5A5E1CF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5894788_3442_5.jpg",
+      "title": "04-SAP-CO : Joint Production (Co-Products & By-Product)"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-training-master-excel-powerpoint-word/?couponCode=F9EDAD92FDF81F29BBB4",
+      "coupon_code": "F9EDAD92FDF81F29BBB4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6014740_0383_5.jpg",
+      "title": "Microsoft Office Training : Master Excel, PowerPoint & Word"
+    },
+    {
+      "url": "https://www.udemy.com/course/mysql-database-management-create-manage-query-database/?couponCode=9301EC2A4ACF8C7F5E03",
+      "coupon_code": "9301EC2A4ACF8C7F5E03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018087_924e.jpg",
+      "title": "MySQL & Database Management: Create, Manage & Query Database"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-pandas-python/?couponCode=556A36BA26085353D5B6",
+      "coupon_code": "556A36BA26085353D5B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4478554_d14d_8.jpg",
+      "title": "Python for Data Science: Numpy and Pandas Libraries for Data"
+    },
+    {
+      "url": "https://www.udemy.com/course/perplexity-ai-masterclass-ai-search-and-research/?couponCode=56BF226E643A7AE9C0A8",
+      "coupon_code": "56BF226E643A7AE9C0A8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7012527_e10e.jpg",
+      "title": "Perplexity AI Masterclass: AI Search and Research"
+    },
+    {
+      "url": "https://www.udemy.com/course/product-costing-by-period-product-cost-collector/?couponCode=48D2C419492194216D2C",
+      "coupon_code": "48D2C419492194216D2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5899150_ea9b_5.jpg",
+      "title": "12-SAP-CO-Product Costing By Period - Product Cost Collector"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-data-analysis-time-series-hands-on-projects-advanced-techniques/?couponCode=77A3DB201B0B63148F4C",
+      "coupon_code": "77A3DB201B0B63148F4C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4533422_7e00_2.jpg",
+      "title": "Time Series Analysis:Hands-On Projects & Advanced Techniques"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-data-science-the-complete-data-science-bootcamp/?couponCode=7E3BDF76B317B44C77AE",
+      "coupon_code": "7E3BDF76B317B44C77AE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7018297_47f6.jpg",
+      "title": "Python for Data Science: The Complete Data Science Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-pandas-data-crash-course/?couponCode=4F7ED7658E7872415047",
+      "coupon_code": "4F7ED7658E7872415047",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4242880_8446_3.jpg",
+      "title": "Python Pandas Data Crash Course 2025 Learn by Doing."
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-co-distribution-usage-variance-material-activities/?couponCode=B58A4F53339AF3F000C3",
+      "coupon_code": "B58A4F53339AF3F000C3",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5972648_04c1.jpg",
+      "title": "14-SAP-CO-Distribution Usage Variance-Material & Activities"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-co-product-cost-by-co-production-order-wo-qty-str/?couponCode=8AD1BFACFC698684B87E",
+      "coupon_code": "8AD1BFACFC698684B87E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5947880_af87_7.jpg",
+      "title": "13-SAP-CO-Product Cost By CO Production Order | W/o Qty Str"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-co-product-costing-by-engineer-to-order-in-sap-s4hana/?couponCode=C5997FA88476C5194E0B",
+      "coupon_code": "C5997FA88476C5194E0B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5941858_cbd7_3.jpg",
+      "title": "16-SAP-CO-Product Costing By Engineer To Order in SAP S4HANA"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-microsoft-excel-with-data-analysis-vba-macros/?couponCode=FCBDB3479F6FBF11D3DC",
+      "coupon_code": "FCBDB3479F6FBF11D3DC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6070613_12d8_5.jpg",
+      "title": "Ultimate Microsoft Excel With Data Analysis & VBA Macros"
+    },
     {
       "url": "https://www.udemy.com/course/abc-of-ear-nose-and-throat-ent-disorders/?couponCode=31E36171769E25DCB859",
       "coupon_code": "31E36171769E25DCB859",
