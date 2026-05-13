@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-05-13T13:21:43Z",
-  "count": 909,
+  "updated_at": "2026-05-13T16:26:41Z",
+  "count": 924,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-primer-for-all-employees-in-30-minutes-ai-fast-track/?couponCode=0BE4E3F1E019E69DCD55",
+      "coupon_code": "0BE4E3F1E019E69DCD55",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-creative-writing-content-creation/?couponCode=2F2FAD9C8F56978F8837",
+      "coupon_code": "2F2FAD9C8F56978F8837",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5913750_892b_4.jpg",
+      "title": "AI Content Creation & AI Creative Writing Using ChatGPT A-Z"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-portfolio-website-using-html-css-netlify-project/?couponCode=A536C4711158BE6C6930",
+      "coupon_code": "A536C4711158BE6C6930",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6064327_f790.jpg",
+      "title": "Responsive Portfolio Website With HTML CSS NETLIFY Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/crea-y-lanza-tu-podcast-en-1-dia-sin-invertir-en-equipos/?couponCode=FBB8C48AC2FC37E2C1A9",
+      "coupon_code": "FBB8C48AC2FC37E2C1A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3692136_b4c9_7.jpg",
+      "title": "PODCAST Crea tu Podcast y llega a miles Actualizado"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-automation-with-python-from-basics-to-advanced-tasks/?couponCode=A1A53A740320D6E49515",
+      "coupon_code": "A1A53A740320D6E49515",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6865603_46df.jpg",
+      "title": "Excel Automation with Python From Basics to Advanced Tasks"
+    },
+    {
+      "url": "https://www.udemy.com/course/hvac-design-engineering-mastery-triple-hvac-certification/?couponCode=B0D528F9B2A65E723522",
+      "coupon_code": "B0D528F9B2A65E723522",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6112631_e452_3.jpg",
+      "title": "HVAC Design For Beginners - From HVAC Beginner to HVAC Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/interior-design-for-home-decoration-from-dull-to-stunning/?couponCode=D75481485EEBA57FB7A6",
+      "coupon_code": "D75481485EEBA57FB7A6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6816833_e2cb.jpg",
+      "title": "Interior Design For Home Decoration: From Dull To Stunning"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-servicenow-administration-from-basics-to-expert/?couponCode=MAYMO12026",
+      "coupon_code": "MAYMO12026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6244441_bcb0_5.jpg",
+      "title": "Mastering the Complete Servicenow Administration Course 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-and-google-workspace-masterclass/?couponCode=2AAAC98F3E67B5181B1C",
+      "coupon_code": "2AAAC98F3E67B5181B1C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6815607_d6ed_2.jpg",
+      "title": "Microsoft Office and Google Workspace Masterclass"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-word-for-novice/?couponCode=6DBA420D06DC24F17354",
+      "coupon_code": "6DBA420D06DC24F17354",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1590338_8206_6.jpg",
+      "title": "MS Word - Microsoft Word Course Beginner to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/premiere-pro-cc-novice-to-expert-how-to-earn-money-by-video/?couponCode=55A366A96687CE83FEF2",
+      "coupon_code": "55A366A96687CE83FEF2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1619752_ff0e.jpg",
+      "title": "Video Editing Course Premiere Pro:  18 Project In 1 Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=64491D8BF176BB3CF7FF",
+      "coupon_code": "64491D8BF176BB3CF7FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3213441_6289_4.jpg",
+      "title": "Professional Adobe Photoshop CC Course With Advance Training"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-catalog-item-and-record-producer-workflow-flows/?couponCode=MAYMO12026",
+      "coupon_code": "MAYMO12026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6266673_9642.jpg",
+      "title": "Catalog Items, Workflow, and Flows in the Servicenow 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-integrations-explained-in-detail/?couponCode=MAYMO12026",
+      "coupon_code": "MAYMO12026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6210889_6e74_4.jpg",
+      "title": "Integrations for the Servicenow Professionals 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/servicenow-scripting-mastery-advanced-development/?couponCode=MAYMO12026",
+      "coupon_code": "MAYMO12026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6256005_475f_3.jpg",
+      "title": "Scripting and Advanced Development in the Servicenow 2026"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=49B79A92D6AA508BF810",
       "coupon_code": "49B79A92D6AA508BF810",
