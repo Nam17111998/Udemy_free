@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-15T11:25:19Z",
-  "count": 944,
+  "updated_at": "2026-05-15T14:25:07Z",
+  "count": 959,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/chat-gpt-for-content-creation/?couponCode=278F8BEC10DE8C64D7C9",
+      "coupon_code": "278F8BEC10DE8C64D7C9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5672298_c693_3.jpg",
+      "title": "OpenAI Tools for Beginners: Everything You Need to Know"
+    },
+    {
+      "url": "https://www.udemy.com/course/ethical-supply-chain-ai-governance-risk-responsible/?couponCode=B047E7F2A1BD7459E69B",
+      "coupon_code": "B047E7F2A1BD7459E69B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7051605_9b53.jpg",
+      "title": "Ethical Supply Chain & AI: Governance, Risk & Responsible"
+    },
+    {
+      "url": "https://www.udemy.com/course/mobile-app-design-in-figma-from-concept-to-prototype/?couponCode=9378CB0BF50784A506B6",
+      "coupon_code": "9378CB0BF50784A506B6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5974670_355b.jpg",
+      "title": "Mobile App Design in Figma: From Concept to Prototype"
+    },
+    {
+      "url": "https://www.udemy.com/course/n8n-ai-agent-creation-guide/?couponCode=40E45F90B4602B1219CD",
+      "coupon_code": "40E45F90B4602B1219CD",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6692461_9104_3.jpg",
+      "title": "N8N: AI Agent Creation Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/next-level-ai-skills-with-google-gemini-25/?couponCode=51609462B07F82DF7839",
+      "coupon_code": "51609462B07F82DF7839",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6784937_0fb6.jpg",
+      "title": "Next Level AI Skills with Google Gemini 2.5"
+    },
+    {
+      "url": "https://www.udemy.com/course/nextjs-build-scalable-react-apps-with-page-app-routers/?couponCode=A079ED94A2EF8E277725",
+      "coupon_code": "A079ED94A2EF8E277725",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860605_1684_2.jpg",
+      "title": "Next.js: Build Scalable React Apps with Page & App Routers"
+    },
+    {
+      "url": "https://www.udemy.com/course/no-low-code-marketing-automation/?couponCode=4E3373C6AB85BC1F5376",
+      "coupon_code": "4E3373C6AB85BC1F5376",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6474141_3fbc.jpg",
+      "title": "No & Low Code AI Marketing Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/nodejs-crash-course-build-a-rest-api-in-a-weekend/?couponCode=1B3251EB5A3FE7618A1C",
+      "coupon_code": "1B3251EB5A3FE7618A1C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6807399_ab5a.jpg",
+      "title": "Node.js Crash Course: Build a REST API in a Weekend"
+    },
+    {
+      "url": "https://www.udemy.com/course/online-course-creation-10-key-steps-from-idea-to-launch/?couponCode=6DE095BA8837714420BA",
+      "coupon_code": "6DE095BA8837714420BA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5896636_100c.jpg",
+      "title": "Online Course Creation: 10 Key Steps from Idea to Launch"
+    },
+    {
+      "url": "https://www.udemy.com/course/pdp-master-70-20-10-employee-development-plan-en/?couponCode=DD86CCDD9801F274AF51",
+      "coupon_code": "DD86CCDD9801F274AF51",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7160495_182f.jpg",
+      "title": "PDP Master: 70-20-10 Employee Development Plan [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/perplexity-ai-for-marketing-business-automation/?couponCode=2630FABDCEA4D42C4327",
+      "coupon_code": "2630FABDCEA4D42C4327",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6563485_8d03_2.jpg",
+      "title": "Perplexity AI for Marketing & Business Automation"
+    },
+    {
+      "url": "https://www.udemy.com/course/perplexity-no-code-creez-une-app-full-stack/?couponCode=4C6B7E904B6B8919B2A0",
+      "coupon_code": "4C6B7E904B6B8919B2A0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6354033_cac7_2.jpg",
+      "title": "Perplexity & No-Code : Créez une app Full Stack 100%"
+    },
+    {
+      "url": "https://www.udemy.com/course/pmp-knowledge-boost-stay-on-track-with-pmi-standards/?couponCode=4CE4AC8CDDC8ECFE3B87",
+      "coupon_code": "4CE4AC8CDDC8ECFE3B87",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6904487_02ee_2.jpg",
+      "title": "PMP Knowledge Boost: Stay on Track with PMI Standards"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-choosing-implementing-the-right-tools/?couponCode=1F09AE84C69FACEC502F",
+      "coupon_code": "1F09AE84C69FACEC502F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6637889_9859_2.jpg",
+      "title": "Project Management: Choosing & Implementing the Right Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-fundamentals-guide/?couponCode=F671BA5A018972192B20",
+      "coupon_code": "F671BA5A018972192B20",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5289624_fdf4.jpg",
+      "title": "Project Management Fundamentals: A Beginner's Guide"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=9263A96D3612E04197DB",
       "coupon_code": "9263A96D3612E04197DB",
