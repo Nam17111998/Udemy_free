@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-05-16T08:52:23Z",
-  "count": 991,
+  "updated_at": "2026-05-16T10:21:45Z",
+  "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/?couponCode=3319D90ECC2F259CE640",
+      "coupon_code": "3319D90ECC2F259CE640",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5860312_861b.jpg",
+      "title": "Adobe Illustrator for T-Shirt Design: From Sketch to Print"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-capcut-masterclass-complete-video-editing-guide/?couponCode=EB6E70A993CA307A8080",
       "coupon_code": "EB6E70A993CA307A8080",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6704797_be8f.jpg",
+      "title": "Advanced CapCut Masterclass: Complete Video Editing Guide"
     },
     {
       "url": "https://www.udemy.com/course/capcut-for-social-media-video-editing-beginner-to-pro/?couponCode=7694EAC5DAABAFA65507",
@@ -20,10 +27,10 @@
       "title": "Complete Microsoft Office Word Excel PowerPoint Google Sheet"
     },
     {
-      "url": "https://www.udemy.com/course/complete-photography-course/?couponCode=PHOTO9MAY26",
-      "coupon_code": "PHOTO9MAY26",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/1325502_3ec6.jpg",
-      "title": "Practical Photography for Absolute Beginners: 9 Courses in 1"
+      "url": "https://www.udemy.com/course/complete-mysql-bootcamp-learn-sql-step-by-step/?couponCode=1641490832FD707E79EC",
+      "coupon_code": "1641490832FD707E79EC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6707335_cf68_2.jpg",
+      "title": "Complete MySQL Bootcamp: Learn SQL Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/complete-social-media-video-editing-masterclass-zero-to-hero/?couponCode=F15B7C2FED595485DC60",
@@ -36,6 +43,60 @@
       "coupon_code": "B90804BED0C80AA19878",
       "image_url": "https://img-c.udemycdn.com/course/480x270/2354532_1cdb_2.jpg",
       "title": "Learn Apache Spark to Generate Weblog Reports for Websites"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-go-golang-build-scalable-web-applications/?couponCode=09354D735537A5D03DC0",
+      "coupon_code": "09354D735537A5D03DC0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709183_81e6_2.jpg",
+      "title": "Master Go (Golang): Build Scalable Web Applications"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=0E3D6D064A1B04D1A308",
+      "coupon_code": "0E3D6D064A1B04D1A308",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6014988_095c_3.jpg",
+      "title": "Microsoft Excel : Mastering Data Analysis with Pivot Table"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-word-mastery-essential-skill-for-job-and-business/?couponCode=C4259B128105916D62D6",
+      "coupon_code": "C4259B128105916D62D6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6043410_7f4a.jpg",
+      "title": "Microsoft Word Mastery: Essential Skill for Job and Business"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-for-beginners-2023-build-complete-ecommerce-store/?couponCode=PHPECOMMERCE70",
+      "coupon_code": "PHPECOMMERCE70",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4994068_1041_4.jpg",
+      "title": "PHP for Beginners: Build Complete Ecommerce Store"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-101-complete-python-programming-step-by-step-guide/?couponCode=ED26AEE1875E515F5600",
+      "coupon_code": "ED26AEE1875E515F5600",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709303_f812_2.jpg",
+      "title": "Python 101: Complete Python Programming Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/responsive-web-design-with-css-a-complete-css-guide/?couponCode=387C3AEF1E24353776EC",
+      "coupon_code": "387C3AEF1E24353776EC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6709411_19ad_2.jpg",
+      "title": "Responsive Web Design with CSS: A Complete CSS Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-a-step-by-step-approach/?couponCode=UPSKILL2026",
+      "coupon_code": "UPSKILL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6201007_b527_22.jpg",
+      "title": "SQL Bootcamp 2026: Learn SQL from Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-guide-to-creating-presentations-with-powerpoint/?couponCode=E1676347035D3C9812D7",
+      "coupon_code": "E1676347035D3C9812D7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917504_85fe.jpg",
+      "title": "Ultimate Guide to Creating Presentations with PowerPoint"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-photography-course/?couponCode=PHOTO9MAY26",
+      "coupon_code": "PHOTO9MAY26",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/1325502_3ec6.jpg",
+      "title": "Practical Photography for Absolute Beginners: 9 Courses in 1"
     },
     {
       "url": "https://www.udemy.com/course/excel-learn-excel-course-from-beginners-to-advanced/?couponCode=23C6E0CEA27DBBD7F69F",
@@ -72,24 +133,6 @@
       "coupon_code": "953512EFBB732FD688B8",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5992188_a650_2.jpg",
       "title": "Microsoft Excel: Formulas & Functions with Charts & Graphs"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=0E3D6D064A1B04D1A308",
-      "coupon_code": "0E3D6D064A1B04D1A308",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6014988_095c_3.jpg",
-      "title": "Microsoft Excel : Mastering Data Analysis with Pivot Table"
-    },
-    {
-      "url": "https://www.udemy.com/course/php-for-beginners-2023-build-complete-ecommerce-store/?couponCode=PHPECOMMERCE70",
-      "coupon_code": "PHPECOMMERCE70",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4994068_1041_4.jpg",
-      "title": "PHP for Beginners: Build Complete Ecommerce Store"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-a-step-by-step-approach/?couponCode=UPSKILL2026",
-      "coupon_code": "UPSKILL2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6201007_b527_22.jpg",
-      "title": "SQL Bootcamp 2026: Learn SQL from Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=14THMAY26",
