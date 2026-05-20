@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-05-20T21:03:14Z",
-  "count": 935,
+  "updated_at": "2026-05-20T23:19:18Z",
+  "count": 950,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/bases-de-datos-con-mysql-y-mongodb/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-prompt-engineering-con-chatgpt/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-tableau-analisis-y-visualizacion-de-datos/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/examen-mo-200-microsoft-excel-office-2019/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/finanzas-personales-exito-financiero/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/frameworks-indices-transacciones-y-mucho-mas-con-mongodb/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/funciones-tablas-dinamicas-chatgpt-y-mas-con-google-sheets/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-access-desde-cero/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-desde-cero-y-analisis-de-datos/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-desde-cero/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-aprende-los-fundamentos-de-las-bases-de-datos-nosql/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/operaciones-crud-modelado-y-consultas-avanzadas-con-mongodb/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-analisis-de-proyectos-reales/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-desde-cero-analisis-de-datos/?couponCode=MAYOW226",
+      "coupon_code": "MAYOW226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/15-effective-steps-for-growing-business-in-social-media/?couponCode=A36A7D6B8E01CB9D0135",
       "coupon_code": "A36A7D6B8E01CB9D0135",
@@ -346,52 +421,62 @@
     {
       "url": "https://www.udemy.com/course/como-hacer-anuncios-efectivos-en-tiktok-ads/?couponCode=MAYO0226",
       "coupon_code": "MAYO0226",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6345823_0598_5.jpg",
+      "title": "Cómo Hacer Anuncios Efectivos en TikTok Ads 2026"
     },
     {
       "url": "https://www.udemy.com/course/ecommerce-and-amazon-crash-course/?couponCode=BA3110C9EDE82A8AE05A",
       "coupon_code": "BA3110C9EDE82A8AE05A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4879914_d1c0.jpg",
+      "title": "E-commerce and Amazon Crash Course"
     },
     {
       "url": "https://www.udemy.com/course/elementor-ecommerce-hosting-crea-una-tienda-online-con-wordpress/?couponCode=MAYO0226",
       "coupon_code": "MAYO0226",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6210445_7e35_2.jpg",
+      "title": "Elementor Hosting 2026: Crea una Tienda Online con WordPress"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-campana-de-email-marketing-efectiva/?couponCode=MAYO0226",
       "coupon_code": "MAYO0226",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6061825_c865.jpg",
+      "title": "Cómo Crear una Campaña de Email Marketing Efectiva 2026"
     },
     {
       "url": "https://www.udemy.com/course/crea-un-marketplace-multi-vendedor-con-wordpress-y-dokan/?couponCode=MAYO0226",
       "coupon_code": "MAYO0226",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6157569_6969_3.jpg",
+      "title": "Crea un MarketPlace Multi Vendedor con WordPress y Dokan"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-cloudways/?couponCode=MAYO0226",
       "coupon_code": "MAYO0226",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6481001_3a01_2.jpg",
+      "title": "Cómo Crear una Página Web con WordPress y Cloudways 2026"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-en-wordpress-con-ia/?couponCode=MAYO0226",
       "coupon_code": "MAYO0226",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6669235_9f16_3.jpg",
+      "title": "Cómo Crear una Página Web en WordPress con IA 2026"
     },
     {
       "url": "https://www.udemy.com/course/como-personalizar-productos-en-woocommerce-con-wowaddons/?couponCode=MAYO0226",
       "coupon_code": "MAYO0226",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6760951_91a4.jpg",
+      "title": "Cómo Personalizar Productos en WooCommerce con WowAddons"
     },
     {
       "url": "https://www.udemy.com/course/crea-una-calculadora-de-precios-con-pasarela-de-pagos/?couponCode=MAYO0226",
       "coupon_code": "MAYO0226",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6735109_6110.jpg",
+      "title": "Crea una Calculadora de Precios con Pasarela de Pagos 2026"
     },
     {
       "url": "https://www.udemy.com/course/plugins-de-wordpress-para-siteground/?couponCode=MAYO0226",
       "coupon_code": "MAYO0226",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6076289_555e_3.jpg",
+      "title": "Plugins de WordPress Para SiteGround 2026"
     },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/?couponCode=01A124D876D88BF00E4E",
