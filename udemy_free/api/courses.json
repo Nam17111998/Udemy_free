@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-05-22T17:14:25Z",
-  "count": 942,
+  "updated_at": "2026-05-22T19:58:54Z",
+  "count": 943,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advertising-strategy-fundamentals-upskill-to-drive-growth/?couponCode=750BF0F0A69F14CB0FD7",
+      "coupon_code": "750BF0F0A69F14CB0FD7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/etsy-promotion/?couponCode=EEC8140ABC75D77E0BAA",
       "coupon_code": "EEC8140ABC75D77E0BAA",
@@ -59,12 +64,6 @@
       "title": "Freepik Pro: From Assets to AI Creation"
     },
     {
-      "url": "https://www.udemy.com/course/how-to-give-a-one-on-one-presentation/?couponCode=371C435FC227CB1543AC",
-      "coupon_code": "371C435FC227CB1543AC",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/363958_e3fa_4.jpg",
-      "title": "Presentation Skills Training: Great One on One Presentations"
-    },
-    {
       "url": "https://www.udemy.com/course/html5-masterclass-build-modern-and-mobile-friendly-websites/?couponCode=BD90E31B5DE07042B518",
       "coupon_code": "BD90E31B5DE07042B518",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -83,6 +82,12 @@
       "url": "https://www.udemy.com/course/the-complete-bootstrap-5-course-modern-layouts-made-easy/?couponCode=7D7E6568A8A76D38CC60",
       "coupon_code": "7D7E6568A8A76D38CC60",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-give-a-one-on-one-presentation/?couponCode=371C435FC227CB1543AC",
+      "coupon_code": "371C435FC227CB1543AC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/363958_e3fa_4.jpg",
+      "title": "Presentation Skills Training: Great One on One Presentations"
     },
     {
       "url": "https://www.udemy.com/course/human-resource/?couponCode=E9733D5A26D8E9F32537",
@@ -169,17 +174,20 @@
     {
       "url": "https://www.udemy.com/course/excel-charts-graphs-master-class-excel-charts-graphs/?couponCode=6E7C4EC1D5899D97863A",
       "coupon_code": "6E7C4EC1D5899D97863A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5982646_3a79_2.jpg",
+      "title": "Excel Charts & Graphs: Master Class Excel Charts & Graphs"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=21STMAY",
       "coupon_code": "21STMAY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6555007_bbdc_2.jpg",
+      "title": "Financial Services - Basics of Business & Corporate Banking"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=21STMAY",
       "coupon_code": "21STMAY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6188591_93b6.jpg",
+      "title": "Financial Services - Overview of Central Banks"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=21STMAY",
@@ -190,17 +198,20 @@
     {
       "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=21STMAY",
       "coupon_code": "21STMAY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6210279_19fd.jpg",
+      "title": "Managing Social Anxiety in the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/mastering-excel-formulas-functions-beginner-to-advanced/?couponCode=78DF951E2B51A24EEF3F",
       "coupon_code": "78DF951E2B51A24EEF3F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5777014_3cd8.jpg",
+      "title": "Mastering Excel Formulas & Functions: Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=21STMAY",
       "coupon_code": "21STMAY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242493_275e.jpg",
+      "title": "Mental Health for the Workplace"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=21STMAY",
