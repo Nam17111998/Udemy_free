@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-05-23T09:06:59Z",
-  "count": 961,
+  "updated_at": "2026-05-23T11:18:38Z",
+  "count": 975,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/architecting-software-modeling-viewpoints-c4/?couponCode=MAY_2026_FREE",
+      "coupon_code": "MAY_2026_FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-for-graphic-design-social-media-marketing/?couponCode=A0779B2F8BB23E0EDAD6",
+      "coupon_code": "A0779B2F8BB23E0EDAD6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analytics-visualization-acquire-demanded-tech-skills/?couponCode=06AF5A43AE41E7D3440F",
+      "coupon_code": "06AF5A43AE41E7D3440F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=21STMAY",
+      "coupon_code": "21STMAY",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6656207_ffa4.jpg",
+      "title": "Financial Services - Understanding Interest Rates"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphics-design-and-video-edting-canva/?couponCode=1991D8668C5D51B23767",
+      "coupon_code": "1991D8668C5D51B23767",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/interactive-html-course/?couponCode=HTML5MAY26",
+      "coupon_code": "HTML5MAY26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-kotlin-for-android-android-app-development-bootcamp/?couponCode=33BC22B0DFD10B60706D",
+      "coupon_code": "33BC22B0DFD10B60706D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-social-media-marketing-brand-building-growth/?couponCode=5B765701E09504BE9C5D",
+      "coupon_code": "5B765701E09504BE9C5D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-office-microsoft-excel/?couponCode=179E7FE9C018C00B298B",
+      "coupon_code": "179E7FE9C018C00B298B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/powerpoint-microsoft-powerpoint-from-basic-to-advanced/?couponCode=0FD98DF7DFDCA29632B7",
+      "coupon_code": "0FD98DF7DFDCA29632B7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=D746261D6AFBEC94D8F4",
+      "coupon_code": "D746261D6AFBEC94D8F4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-capcut-premiere-pro/?couponCode=D766D5B34EC5CD771D28",
+      "coupon_code": "D766D5B34EC5CD771D28",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/statistics-and-hypothesis-testing-for-data-science/?couponCode=A6ED2EFB52C3AC9EBB8C",
+      "coupon_code": "A6ED2EFB52C3AC9EBB8C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-mastery-illustrator-photoshop-and-canva/?couponCode=551BA483BDD72B1963B0",
+      "coupon_code": "551BA483BDD72B1963B0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ultimate-microsoft-excel-with-data-analysis-vba-macros/?couponCode=3371EFB37488E130A687",
+      "coupon_code": "3371EFB37488E130A687",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-models-mastery-chatgpt-gemini-and-deepseek/?couponCode=64A4F361CCBE02D75B88",
       "coupon_code": "64A4F361CCBE02D75B88",
@@ -31,12 +107,6 @@
       "url": "https://www.udemy.com/course/excel-data-analysis-data-management-for-business-careers/?couponCode=C2AA388D986F9452DB3F",
       "coupon_code": "C2AA388D986F9452DB3F",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=21STMAY",
-      "coupon_code": "21STMAY",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6656207_ffa4.jpg",
-      "title": "Financial Services - Understanding Interest Rates"
     },
     {
       "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=21STMAY",
