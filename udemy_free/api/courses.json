@@ -1,21 +1,30 @@
 {
-  "updated_at": "2026-05-30T12:07:16Z",
+  "updated_at": "2026-05-30T14:43:30Z",
   "count": 989,
   "courses": [
     {
+      "url": "https://www.udemy.com/course/api-spec-q1-fundamentals-for-oil-and-gas/?couponCode=CAFED5FF03651E1FD20E",
+      "coupon_code": "CAFED5FF03651E1FD20E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7041211_5528.jpg",
+      "title": "API Spec Q1 (10th Edition) Fundamentals for Oil and Gas"
+    },
+    {
+      "url": "https://www.udemy.com/course/aprende-wpf-desde-cero-usando-csharp-y-dotnet/?couponCode=MAYO_2026",
+      "coupon_code": "MAYO_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4815218_f794_6.jpg",
+      "title": "Aprende WPF y MAUI desde CERO usando C#"
+    },
+    {
       "url": "https://www.udemy.com/course/css-the-complete-guide-to-css-zero-to-hero/?couponCode=C5002F8D2A6292E6EC7B",
       "coupon_code": "C5002F8D2A6292E6EC7B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636428_79ca_2.jpg",
+      "title": "CSS - The Complete Guide to CSS for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/how-to-add-value-in-the-project-management-role/?couponCode=SUMMER26",
       "coupon_code": "SUMMER26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/html-the-complete-guide-to-html-zero-to-hero/?couponCode=FFEE7648135148A8A611",
-      "coupon_code": "FFEE7648135148A8A611",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5194730_960b_3.jpg",
+      "title": "How to Add Value in the Project Management Role"
     },
     {
       "url": "https://www.udemy.com/course/hybrid-working-policies-technology-management-communication/?couponCode=2905262142",
@@ -24,54 +33,58 @@
       "title": "Hybrid Work: Policies, Technology, Management, Communication"
     },
     {
+      "url": "https://www.udemy.com/course/iso-28000-sems-lead-auditor-course-clause-by-clause/?couponCode=E2B6D008F16A5DE81EF6",
+      "coupon_code": "E2B6D008F16A5DE81EF6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7010535_4966_3.jpg",
+      "title": "ISO 28000:2022 (SeMS) Lead Auditor Course (Clause by Clause)"
+    },
+    {
       "url": "https://www.udemy.com/course/jumpstart-your-project-management-career/?couponCode=SUMMER26",
       "coupon_code": "SUMMER26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4715406_9426.jpg",
+      "title": "Jumpstart your Project Management career"
     },
     {
       "url": "https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=104CA7E8EF9982ACA63D",
       "coupon_code": "104CA7E8EF9982ACA63D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3727022_0856_6.jpg",
+      "title": "Management Consulting Skills for Managers & Leaders 2026"
     },
     {
       "url": "https://www.udemy.com/course/management-consulting-presentation-mckinsey/?couponCode=6DAAE114E56E2A95A6D3",
       "coupon_code": "6DAAE114E56E2A95A6D3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=FF1A7434125ECDF03585",
-      "coupon_code": "FF1A7434125ECDF03585",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3970622_e2ea_5.jpg",
+      "title": "Management Consulting Presentation Essential Training 2026"
     },
     {
       "url": "https://www.udemy.com/course/php-codeigniter-4-for-beginners-2023-build-full-blog-system/?couponCode=CIBLOG82",
       "coupon_code": "CIBLOG82",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5525478_8e01_4.jpg",
+      "title": "PHP CodeIgniter 4 for Beginners: Build Full Blog System"
     },
     {
       "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=FBBF612414AA7EFE1689",
       "coupon_code": "FBBF612414AA7EFE1689",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636472_7921.jpg",
+      "title": "PHP Master Class - The Complete PHP Developer Course"
     },
     {
       "url": "https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=416E7A69F5A277BF4DCD",
       "coupon_code": "416E7A69F5A277BF4DCD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3852530_370a_6.jpg",
+      "title": "The Complete SAP Analytics Cloud Course 2026"
     },
     {
       "url": "https://www.udemy.com/course/sap-ariba-sourcing/?couponCode=B07B6485C7183253A256",
       "coupon_code": "B07B6485C7183253A256",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/sap-bi-bo/?couponCode=61AFD1AA29AE22D44B0A",
-      "coupon_code": "61AFD1AA29AE22D44B0A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6168823_aff6_2.jpg",
+      "title": "The Complete SAP Ariba Sourcing Masterclass (2026 Edition)"
     },
     {
       "url": "https://www.udemy.com/course/sap-s4hana-cloud-s4-erp/?couponCode=7B65770E4DB5654E59B9",
       "coupon_code": "7B65770E4DB5654E59B9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6494157_edc8_3.jpg",
+      "title": "SAP S/4HANA Cloud Public Edition for Absolute Beginners 2026"
     },
     {
       "url": "https://www.udemy.com/course/workplace-mental-health-your-rights-relaxation-tips/?couponCode=2905262142",
@@ -80,69 +93,100 @@
       "title": "Workplace Wellbeing: Stress Management/Mental Health Course"
     },
     {
+      "url": "https://www.udemy.com/course/html-the-complete-guide-to-html-zero-to-hero/?couponCode=FFEE7648135148A8A611",
+      "coupon_code": "FFEE7648135148A8A611",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636404_8f50_2.jpg",
+      "title": "HTML -  The Complete Guide to HTML for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=FF1A7434125ECDF03585",
+      "coupon_code": "FF1A7434125ECDF03585",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3726964_07e4_3.jpg",
+      "title": "Management Consulting Essential Training 2026 + AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/sap-bi-bo/?couponCode=61AFD1AA29AE22D44B0A",
+      "coupon_code": "61AFD1AA29AE22D44B0A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3743036_a561_5.jpg",
+      "title": "SAP BusinessObjects Essential Training 2026"
+    },
+    {
       "url": "https://www.udemy.com/course/c-modern-c-programming-language-made-easy/?couponCode=9E5A9348B7503473F5B4",
       "coupon_code": "9E5A9348B7503473F5B4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017085_0a76.jpg",
+      "title": "C++ - Modern C++ Programming Language Made Easy"
     },
     {
       "url": "https://www.udemy.com/course/c-programming-language-mastery-learn-c-from-scratch/?couponCode=985EBA0AA1C8B701CB24",
       "coupon_code": "985EBA0AA1C8B701CB24",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7017067_b660.jpg",
+      "title": "C Programming Language Mastery: Learn C from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/excel-data-insights-power-query-pivot-analysis-and-visuals/?couponCode=4B29089D84E8355C804D",
       "coupon_code": "4B29089D84E8355C804D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790885_6fd8_2.jpg",
+      "title": "Excel Data Insights: Power Query Pivot Analysis and Visuals"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?couponCode=F23440A4AAEF4E860E28",
       "coupon_code": "F23440A4AAEF4E860E28",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5840638_98b7_13.jpg",
+      "title": "AZ-900: Microsoft Azure Fundamentals Full Course & Exam 2026"
     },
     {
       "url": "https://www.udemy.com/course/jquery-complete-jquery-course-from-beginner-to-advanced/?couponCode=DE2CCE503D0913E33DC1",
       "coupon_code": "DE2CCE503D0913E33DC1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636534_c4c8_5.jpg",
+      "title": "jQuery - Complete jQuery Course From Beginner To Advanced"
     },
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-excel-data-analysis-with-functions/?couponCode=D68D6FDFE93F986DAB94",
       "coupon_code": "D68D6FDFE93F986DAB94",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6737247_57ee.jpg",
+      "title": "Mastering Microsoft Excel Data Analysis with Functions"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-data-visualization-with-charts-graphs/?couponCode=58C3472D357F30CC2652",
       "coupon_code": "58C3472D357F30CC2652",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6638423_582f.jpg",
+      "title": "Microsoft Excel Data Visualization with Charts & Graphs"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-presentation-pro/?couponCode=00751C7CAFEE74D9544F",
       "coupon_code": "00751C7CAFEE74D9544F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6790825_22c9_2.jpg",
+      "title": "Microsoft PowerPoint: From Beginner to Presentation Pro"
     },
     {
       "url": "https://www.udemy.com/course/the-3cs-to-become-an-ai-ready-project-manager/?couponCode=SUMMER26",
       "coupon_code": "SUMMER26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6132275_9c0e_2.jpg",
+      "title": "The 3C’s to Become an AI-Ready Project Manager"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?couponCode=3BB9302293CA52DA2622",
       "coupon_code": "3BB9302293CA52DA2622",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5634496_f8b0_4.jpg",
+      "title": "The Ultimate SQL Bootcamp : Go From Zero to Hero"
     },
     {
       "url": "https://www.udemy.com/course/vuejs-masterclass-build-interactive-web-apps-quickly/?couponCode=3CD7B937FC86F369C515",
       "coupon_code": "3CD7B937FC86F369C515",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7014853_69e1.jpg",
+      "title": "Vue.js Masterclass: Build Interactive Web Apps Quickly"
     },
     {
       "url": "https://www.udemy.com/course/mastering-excel-data-analysis-techniques-unlock-insights/?couponCode=CF97708F80076DC4EA72",
       "coupon_code": "CF97708F80076DC4EA72",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6767733_8430.jpg",
+      "title": "Mastering Excel Data Analysis Techniques: Unlock Insights"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-excel-101-excel-from-beginners-to-advanced/?couponCode=A83297C65DA35B85EEB3",
       "coupon_code": "A83297C65DA35B85EEB3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6766177_ba31_3.jpg",
+      "title": "Microsoft Excel 101- Excel From Beginners to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-customer-experience-learnit/?couponCode=MAYFREE32026",
@@ -163,28 +207,10 @@
       "title": "AI Security Fundamentals: Risks, Frameworks & Tools"
     },
     {
-      "url": "https://www.udemy.com/course/api-spec-q1-fundamentals-for-oil-and-gas/?couponCode=CAFED5FF03651E1FD20E",
-      "coupon_code": "CAFED5FF03651E1FD20E",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7041211_5528.jpg",
-      "title": "API Spec Q1 (10th Edition) Fundamentals for Oil and Gas"
-    },
-    {
-      "url": "https://www.udemy.com/course/aprende-wpf-desde-cero-usando-csharp-y-dotnet/?couponCode=MAYO_2026",
-      "coupon_code": "MAYO_2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4815218_f794_6.jpg",
-      "title": "Aprende WPF y MAUI desde CERO usando C#"
-    },
-    {
       "url": "https://www.udemy.com/course/code-reviews-learnit/?couponCode=MAYFREE32026",
       "coupon_code": "MAYFREE32026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5865706_cb98_2.jpg",
       "title": "Code Reviews for Secure, Clean, and Scalable Code"
-    },
-    {
-      "url": "https://www.udemy.com/course/iso-28000-sems-lead-auditor-course-clause-by-clause/?couponCode=E2B6D008F16A5DE81EF6",
-      "coupon_code": "E2B6D008F16A5DE81EF6",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7010535_4966_3.jpg",
-      "title": "ISO 28000:2022 (SeMS) Lead Auditor Course (Clause by Clause)"
     },
     {
       "url": "https://www.udemy.com/course/java-best-practices-learnit/?couponCode=MAYFREE32026",
