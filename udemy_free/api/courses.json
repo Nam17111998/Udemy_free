@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-06-06T12:10:38Z",
-  "count": 993,
+  "updated_at": "2026-06-06T14:48:21Z",
+  "count": 995,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-coach-certification/?couponCode=2CF9451C982BBA75B521",
+      "coupon_code": "2CF9451C982BBA75B521",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/agile-trainer-certification/?couponCode=90AE5330CA1E6221F723",
+      "coupon_code": "90AE5330CA1E6221F723",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-ethicsresponsible-use/?couponCode=09083830D95BE6D3118D",
       "coupon_code": "09083830D95BE6D3118D",
@@ -13,28 +23,23 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/applied-business-analytics/?couponCode=DATAANALYTICS",
+      "coupon_code": "DATAANALYTICS",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/ecommerce-weblog-report-generation-project-in-apache-spark/?couponCode=BEDB77582F2BEB3FB9CC",
       "coupon_code": "BEDB77582F2BEB3FB9CC",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/excel-for-everyone-essential-skills-for-work-and-life/?couponCode=335526C31708DC7E25EA",
-      "coupon_code": "335526C31708DC7E25EA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/excel-learn-excel-course-from-beginners-to-advanced/?couponCode=A32BC851DE15A357A533",
-      "coupon_code": "A32BC851DE15A357A533",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/excellence-in-digital-marketing/?couponCode=DDB8CC92D1AE5DA16C61",
-      "coupon_code": "DDB8CC92D1AE5DA16C61",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/lean-made-simple-master-efficiency-in-manufacturing/?couponCode=82284392EF395567CD99",
       "coupon_code": "82284392EF395567CD99",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-self-talk-transformation-personal-development/?couponCode=SELFTALKJUNE2026",
+      "coupon_code": "SELFTALKJUNE2026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -53,11 +58,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/office-password-cracking/?couponCode=588E65F7B2C55A5A9DA3",
-      "coupon_code": "588E65F7B2C55A5A9DA3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/powerpoint-microsoft-powerpoint-from-basic-to-advanced/?couponCode=34674C4B546CF4DBB5DA",
       "coupon_code": "34674C4B546CF4DBB5DA",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -68,8 +68,33 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/product-management-using-chatgpt/?couponCode=0CF33220EA9718853B08",
+      "coupon_code": "0CF33220EA9718853B08",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/reskilling-your-organization-step-by-step/?couponCode=40A6C1A8218270764850",
       "coupon_code": "40A6C1A8218270764850",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-for-everyone-essential-skills-for-work-and-life/?couponCode=335526C31708DC7E25EA",
+      "coupon_code": "335526C31708DC7E25EA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-learn-excel-course-from-beginners-to-advanced/?couponCode=A32BC851DE15A357A533",
+      "coupon_code": "A32BC851DE15A357A533",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excellence-in-digital-marketing/?couponCode=DDB8CC92D1AE5DA16C61",
+      "coupon_code": "DDB8CC92D1AE5DA16C61",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/office-password-cracking/?couponCode=588E65F7B2C55A5A9DA3",
+      "coupon_code": "588E65F7B2C55A5A9DA3",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -105,21 +130,6 @@
     {
       "url": "https://www.udemy.com/course/php-with-mysql-2022-build-php-and-mysql-projects/?couponCode=PHPMYSQLPROJECTS73",
       "coupon_code": "PHPMYSQLPROJECTS73",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/agile-coach-certification/?couponCode=2CF9451C982BBA75B521",
-      "coupon_code": "2CF9451C982BBA75B521",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/agile-trainer-certification/?couponCode=90AE5330CA1E6221F723",
-      "coupon_code": "90AE5330CA1E6221F723",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/product-management-using-chatgpt/?couponCode=0CF33220EA9718853B08",
-      "coupon_code": "0CF33220EA9718853B08",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
