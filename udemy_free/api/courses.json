@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-06-07T00:11:59Z",
-  "count": 928,
+  "updated_at": "2026-06-07T05:44:20Z",
+  "count": 943,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/chro-werden-sie-strategischer-personalvorstand-de/?couponCode=PAPAHR_JUN_163365",
+      "coupon_code": "PAPAHR_JUN_163365",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/coo-operasyon-direktoru-ve-operasyonlar-direktoru-tr/?couponCode=PAPAHR_JUN_409479",
+      "coupon_code": "PAPAHR_JUN_409479",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cpo-chief-product-officer-from-manager-to-c-level-en/?couponCode=PAPAHR_JUN_913943",
+      "coupon_code": "PAPAHR_JUN_913943",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/critical-thinking-how-to-make-decisions-in-the-ai-era-en/?couponCode=PAPAHR_JUN_459479",
+      "coupon_code": "PAPAHR_JUN_459479",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/einstellung-von-entwicklern-it-recruiting-in-tech-de/?couponCode=PAPAHR_JUN_311577",
+      "coupon_code": "PAPAHR_JUN_311577",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/headhunting-und-executive-search-fur-personalvermittler-de/?couponCode=PAPAHR_JUN_730615",
+      "coupon_code": "PAPAHR_JUN_730615",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/linkedin-recruiter-talentakquise-und-kandidatensuche-de/?couponCode=PAPAHR_JUN_571952",
+      "coupon_code": "PAPAHR_JUN_571952",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/linkedin-recruiter-yetenek-kaynaklar-ve-aday-arama-tr/?couponCode=PAPAHR_JUN_310986",
+      "coupon_code": "PAPAHR_JUN_310986",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/nodejs-build-fast-and-scalable-backend-applications/?couponCode=A236FBB25AF69DBE17A8",
+      "coupon_code": "A236FBB25AF69DBE17A8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/osint-her-seyi-bulun-cevrimici-arayn-ve-arastrn-tr/?couponCode=PAPAHR_JUN_536078",
+      "coupon_code": "PAPAHR_JUN_536078",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/personalplanung-optimierung-und-bedarfsprognose-de/?couponCode=PAPAHR_JUN_880605",
+      "coupon_code": "PAPAHR_JUN_880605",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/prompt-engineering-ai-from-scratch-chatgpt/?couponCode=A884B02DD3CCDF103626",
+      "coupon_code": "A884B02DD3CCDF103626",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-with-machine-learning-start-building-ai-models-today/?couponCode=254E614473B5F1A65C21",
+      "coupon_code": "254E614473B5F1A65C21",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/stellenbewertung-grading-fur-faire-gehaltsstrukturen-de/?couponCode=PAPAHR_JUN_208548",
+      "coupon_code": "PAPAHR_JUN_208548",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/werde-ein-kompetenter-vertrauensmentor-de/?couponCode=PAPAHR_JUN_130519",
+      "coupon_code": "PAPAHR_JUN_130519",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-strategy-transformation-for-executive-leaders/?couponCode=FREEJUNE26",
       "coupon_code": "FREEJUNE26",
@@ -35,7 +110,8 @@
     {
       "url": "https://www.udemy.com/course/cursor-ai-build-apps/?couponCode=54F5117BB53E838DFB1D",
       "coupon_code": "54F5117BB53E838DFB1D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6512287_1625_8.jpg",
+      "title": "Cursor Vibe Coding Pro: Build Any App from Scratch with AI"
     },
     {
       "url": "https://www.udemy.com/course/environnement-interieur-succes-et-reussite/?couponCode=4F8845EF8F63EEC6D395",
@@ -86,7 +162,8 @@
     {
       "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JUNFREE02",
       "coupon_code": "JUNFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
+      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
     },
     {
       "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=JUNFREE02",
@@ -163,12 +240,14 @@
     {
       "url": "https://www.udemy.com/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert/?couponCode=JUNFREE02",
       "coupon_code": "JUNFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602695_401e_2.jpg",
+      "title": "AI Hero: A 12-Month Journey Taking You from Zero to Expert"
     },
     {
       "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=JUNFREE02",
       "coupon_code": "JUNFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584541_734c_2.jpg",
+      "title": "[DE] KI-Masterclass: Vom Anfänger zum KI-Helden"
     },
     {
       "url": "https://www.udemy.com/course/masterclass-en-ingenierie-de-lia-de-zero-a-heros-de-lia/?couponCode=JUNFREE02",
@@ -188,7 +267,8 @@
     {
       "url": "https://www.udemy.com/course/ai-ethicsresponsible-use/?couponCode=09083830D95BE6D3118D",
       "coupon_code": "09083830D95BE6D3118D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6936915_998a.jpg",
+      "title": "AI Ethics/Responsible Use"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-product-management-innovation/?couponCode=1D9924A6E102798C3BDD",
