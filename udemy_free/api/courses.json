@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-06-08T19:26:53Z",
-  "count": 938,
+  "updated_at": "2026-06-08T21:56:15Z",
+  "count": 953,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-mindset-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/customer-service-with-chatgpt-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/databases-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/everything-you-need-to-know-about-ai/?couponCode=FREE_PROMO",
+      "coupon_code": "FREE_PROMO",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/functional-programming-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-collections-framework-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/pgdinscem/?couponCode=75DA3481DCC0AC47939B",
+      "coupon_code": "75DA3481DCC0AC47939B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/qa-metrics-kpis-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/resilience-patterns-microservice-architecture-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-coding-spring-boot-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/sleep-management/?couponCode=C36B929A939469B3710D",
+      "coupon_code": "C36B929A939469B3710D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/test-metrics-kpis-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/testing-for-developers/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/uml-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-adobe-after-effects-become-vfx-motion-expert/?couponCode=54400919D85E74126028",
       "coupon_code": "54400919D85E74126028",
@@ -135,22 +210,26 @@
     {
       "url": "https://www.udemy.com/course/ultimate-youtube-blueprint-proven-tactics-channel-success/?couponCode=004D3594457747017B05",
       "coupon_code": "004D3594457747017B05",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5931688_08e1.jpg",
+      "title": "Ultimate YouTube Blueprint: Proven Tactics Channel Success"
     },
     {
       "url": "https://www.udemy.com/course/autocad-2020-for-designers-a-problem-solving-approach/?couponCode=ACAD_EXP",
       "coupon_code": "ACAD_EXP",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2563480_04e4_5.jpg",
+      "title": "Complete course in AutoCAD : 2D and 3D"
     },
     {
       "url": "https://www.udemy.com/course/autocad-electrical-2026-tutorials-exercises-and-projects/?couponCode=ELEC_CTRL_26",
       "coupon_code": "ELEC_CTRL_26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6832673_f4c7.jpg",
+      "title": "AutoCAD Electrical 2026: Tutorials, Exercises, and Projects"
     },
     {
       "url": "https://www.udemy.com/course/autodesk-inventor-a-complete-step-by-step-tutorial-guide/?couponCode=INV_TUT",
       "coupon_code": "INV_TUT",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6154201_48b0.jpg",
+      "title": "Autodesk Inventor: A Complete Step-by-Step Tutorial Guide"
     },
     {
       "url": "https://www.udemy.com/course/python-app-development-masterclass-app-development-bootcamp/?couponCode=06DA4899CE219DDCAFAE",
@@ -263,17 +342,20 @@
     {
       "url": "https://www.udemy.com/course/diploma-in-office-management/?couponCode=A00216F6A2F8F0665CBD",
       "coupon_code": "A00216F6A2F8F0665CBD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6716205_4e39_2.jpg",
+      "title": "Professional Diploma in Office Management (PDOM)"
     },
     {
       "url": "https://www.udemy.com/course/intelligence-analysis-fundamentals/?couponCode=97854F17E4BDB857669D",
       "coupon_code": "97854F17E4BDB857669D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7048649_46c4_2.jpg",
+      "title": "Intelligence Analysis Fundamentals"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-risk-management-in-financial-services/?couponCode=7THJUNE",
       "coupon_code": "7THJUNE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865790_c7f6_3.jpg",
+      "title": "Introduction to Risk Management in Financial Services"
     },
     {
       "url": "https://www.udemy.com/course/prioritization-techniques-for-decision-makers-and-leaders/?couponCode=7THJUNE",
@@ -290,7 +372,8 @@
     {
       "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=7THJUNE",
       "coupon_code": "7THJUNE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5297378_1508_2.jpg",
+      "title": "Authentic Leadership"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=7THJUNE",
