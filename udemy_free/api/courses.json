@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-06-08T23:18:03Z",
-  "count": 953,
+  "updated_at": "2026-06-09T04:13:17Z",
+  "count": 955,
   "courses": [
     {
       "url": "https://www.udemy.com/course/agile-mindset-learnit/?couponCode=JUNEFREE2026",
       "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/apache-pig-interview-questions-and-answers/?couponCode=4737E9149BD2C7208343",
+      "coupon_code": "4737E9149BD2C7208343",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -18,11 +23,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/everything-you-need-to-know-about-ai/?couponCode=FREE_PROMO",
-      "coupon_code": "FREE_PROMO",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/functional-programming-learnit/?couponCode=JUNEFREE2026",
       "coupon_code": "JUNEFREE2026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -33,8 +33,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/java-collections-framework-learnit/?couponCode=JUNEFREE2026",
-      "coupon_code": "JUNEFREE2026",
+      "url": "https://www.udemy.com/course/mental-pour-reussir/?couponCode=5D9673431A3959787CCC",
+      "coupon_code": "5D9673431A3959787CCC",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -78,6 +78,16 @@
       "coupon_code": "JUNEFREE2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5603270_a39a.jpg",
       "title": "UML: The Most Complete Guide with Real-Life Examples"
+    },
+    {
+      "url": "https://www.udemy.com/course/everything-you-need-to-know-about-ai/?couponCode=FREE_PROMO",
+      "coupon_code": "FREE_PROMO",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-collections-framework-learnit/?couponCode=JUNEFREE2026",
+      "coupon_code": "JUNEFREE2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/advanced-adobe-after-effects-become-vfx-motion-expert/?couponCode=54400919D85E74126028",
