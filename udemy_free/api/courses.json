@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-06-12T13:33:12Z",
-  "count": 989,
+  "updated_at": "2026-06-12T16:49:59Z",
+  "count": 990,
   "courses": [
     {
       "url": "https://www.udemy.com/course/become-an-expert-in-excel-google-sheet-formula-functions/?couponCode=D5491FE48C889F797988",
       "coupon_code": "D5491FE48C889F797988",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/becoming-a-chief-information-security-officer-ciso/?couponCode=6A450F60CA7514E0FB4F",
+      "coupon_code": "6A450F60CA7514E0FB4F",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -28,13 +33,13 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/introduction-to-docker-containerization-microservices-t/?couponCode=C55640308D1192B0577B",
-      "coupon_code": "C55640308D1192B0577B",
+      "url": "https://www.udemy.com/course/leadership-excellence-upskilling-high-potential-managers/?couponCode=PAPAHR_JUN_199976",
+      "coupon_code": "PAPAHR_JUN_199976",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/leadership-excellence-upskilling-high-potential-managers/?couponCode=PAPAHR_JUN_199976",
-      "coupon_code": "PAPAHR_JUN_199976",
+      "url": "https://www.udemy.com/course/mastering-international-recruitment/?couponCode=PAPAHR_JUN_180956",
+      "coupon_code": "PAPAHR_JUN_180956",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -50,11 +55,6 @@
     {
       "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-with-formulas-and-vba/?couponCode=ED22C58C1A1420BB61D0",
       "coupon_code": "ED22C58C1A1420BB61D0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=95915823498E3AC2F708",
-      "coupon_code": "95915823498E3AC2F708",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -78,6 +78,16 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/introduction-to-docker-containerization-microservices-t/?couponCode=C55640308D1192B0577B",
+      "coupon_code": "C55640308D1192B0577B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/?couponCode=95915823498E3AC2F708",
+      "coupon_code": "95915823498E3AC2F708",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/advanced-business-analysis/?couponCode=JUNE_FREE",
       "coupon_code": "JUNE_FREE",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -90,11 +100,6 @@
     {
       "url": "https://www.udemy.com/course/how-to-do-well-in-your-interviews/?couponCode=7703BED72A7B5349A2BD",
       "coupon_code": "7703BED72A7B5349A2BD",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-international-recruitment/?couponCode=PAPAHR_JUN_180956",
-      "coupon_code": "PAPAHR_JUN_180956",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -250,57 +255,68 @@
     {
       "url": "https://www.udemy.com/course/performance-management-in-organization-strategy-execution/?couponCode=D0FFC062A8D7D7913E47",
       "coupon_code": "D0FFC062A8D7D7913E47",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6586139_6ca5.jpg",
+      "title": "Performance Management in Organization: Strategy & Execution"
     },
     {
       "url": "https://www.udemy.com/course/product-costing-by-period-product-cost-collector/?couponCode=4ECA73EF168C7F10E12A",
       "coupon_code": "4ECA73EF168C7F10E12A",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5899150_ea9b_5.jpg",
+      "title": "12-SAP-CO-Product Costing By Period - Product Cost Collector"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-activity-based-costing-in-sap-s4hana/?couponCode=A6990C887386A9910A05",
       "coupon_code": "A6990C887386A9910A05",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5947488_46f8_7.jpg",
+      "title": "17-SAP-CO : Activity Based Costing in SAP S/4HANA"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-distribution-assessment-universal-allocation/?couponCode=9C6D7D7CDCAC266B4503",
       "coupon_code": "9C6D7D7CDCAC266B4503",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5980598_7b8f_2.jpg",
+      "title": "07-SAP-CO : Distribution, Assessment & Universal Allocation"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-distribution-usage-variance-material-activities/?couponCode=0FD0AA8758CAEB6C40E4",
       "coupon_code": "0FD0AA8758CAEB6C40E4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5972648_04c1.jpg",
+      "title": "14-SAP-CO-Distribution Usage Variance-Material & Activities"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-product-cost-by-co-production-order-wo-qty-str/?couponCode=A3F713B47279760C329C",
       "coupon_code": "A3F713B47279760C329C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5947880_af87_7.jpg",
+      "title": "13-SAP-CO-Product Cost By CO Production Order | W/o Qty Str"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-product-costing-by-engineer-to-order-in-sap-s4hana/?couponCode=9587BF58A9BFE75A48A8",
       "coupon_code": "9587BF58A9BFE75A48A8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5941858_cbd7_3.jpg",
+      "title": "16-SAP-CO-Product Costing By Engineer To Order in SAP S4HANA"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-product-costing-by-sales-order-in-sap-s4hana/?couponCode=D759615010FC2D1283AB",
       "coupon_code": "D759615010FC2D1283AB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5947884_c7ad_2.jpg",
+      "title": "05-SAP-CO-Product Costing By Sales Order in SAP S/4HANA"
     },
     {
       "url": "https://www.udemy.com/course/sub-contracting-external-service-process-in-sapcontrolling/?couponCode=5F4E221B3D5DE0F7257F",
       "coupon_code": "5F4E221B3D5DE0F7257F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5826190_5ab6_3.jpg",
+      "title": "03-SAP-CO : Sub Contracting & External Manufacturing Service"
     },
     {
       "url": "https://www.udemy.com/course/fundamentals-of-energy-management/?couponCode=4152B339BB873292ACE2",
       "coupon_code": "4152B339BB873292ACE2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6428257_62cd.jpg",
+      "title": "Industrial Energy Management : Efficiency & Sustainability"
     },
     {
       "url": "https://www.udemy.com/course/python-for-mlops/?couponCode=67A3081E49A1D5AC14EC",
       "coupon_code": "67A3081E49A1D5AC14EC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6711069_b42c.jpg",
+      "title": "Python for MLOPS"
     },
     {
       "url": "https://www.udemy.com/course/agile-project-management-for-hr-strategy-speed-results/?couponCode=PAPAHR_JUN_874731",
