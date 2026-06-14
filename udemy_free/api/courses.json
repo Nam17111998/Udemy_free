@@ -1,11 +1,101 @@
 {
-  "updated_at": "2026-06-14T05:57:21Z",
-  "count": 958,
+  "updated_at": "2026-06-14T09:51:50Z",
+  "count": 973,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-photoshop-masterclass-beginner-to-pro-photo-editor/?couponCode=0CB160D76023DF9F6101",
+      "coupon_code": "0CB160D76023DF9F6101",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=D9514717CDCD8A755BA4",
+      "coupon_code": "D9514717CDCD8A755BA4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5313330_d78b_2.jpg",
+      "title": "Advance MS Excel VBA for Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/canva-for-social-media-graphic-design-and-video-editing/?couponCode=A426B5F3C3CB23B9FC73",
+      "coupon_code": "A426B5F3C3CB23B9FC73",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5896370_2474.jpg",
+      "title": "Canva for Social Media Graphic Design and Video Editing"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphic-design-masterclass-master-illustrator-photoshop/?couponCode=2210D66A61040EA5761F",
+      "coupon_code": "2210D66A61040EA5761F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5832228_0be6.jpg",
+      "title": "Graphic Design Masterclass: Master Illustrator & Photoshop"
+    },
+    {
+      "url": "https://www.udemy.com/course/html-and-css-for-beginners-from-basic-to-advance/?couponCode=920429A384CF23B3D216",
+      "coupon_code": "920429A384CF23B3D216",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4815794_822f_3.jpg",
+      "title": "HTML and CSS for Beginners From Basic to Advance"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/?couponCode=B5A5C7811076C9899456",
+      "coupon_code": "B5A5C7811076C9899456",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg",
+      "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-perplexity-ai-smarter-research-better-results/?couponCode=33AAA99923500EE3A062",
+      "coupon_code": "33AAA99923500EE3A062",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6891903_50c7_3.jpg",
+      "title": "Mastering Perplexity AI: Smarter Research, Better Results"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-microsoft-excel-masterclass-and-google-sheets-with-ai-chatgpt/?couponCode=CFA98FEF6D5C8819AF2E",
+      "coupon_code": "CFA98FEF6D5C8819AF2E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6945227_9cb0_4.jpg",
+      "title": "Modern Excel MasterClass and Google Sheets with AI ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-office-automation-masterclass-word-excel-powerpoint/?couponCode=1952A86E1E9B50924393",
+      "coupon_code": "1952A86E1E9B50924393",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6997639_b1e3.jpg",
+      "title": "MS Office Automation MasterClass Word Excel PowerPoint"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-office-with-ai-masterclass-microsoft-google-chatgpt/?couponCode=C37094BB5E562C7FF4C8",
+      "coupon_code": "C37094BB5E562C7FF4C8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7044457_9b28_2.jpg",
+      "title": "MS Office With AI Masterclass  Microsoft, Google ChatGPT"
+    },
+    {
+      "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-ufunc-machine-learning/?couponCode=4AB714E079FC584C0B8E",
+      "coupon_code": "4AB714E079FC584C0B8E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004057_cb53.jpg",
+      "title": "Numpy, Scipy, Matplotlib, Pandas, Ufunc : Machine Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-7-php-and-mysql-projects/?couponCode=PHP7PROJECTS74",
+      "coupon_code": "PHP7PROJECTS74",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5010434_6d6a_3.jpg",
+      "title": "PHP with MySQL: Build 7 PHP and MySQL Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels/?couponCode=D4E5EC6F08F7F1AD13AA",
+      "coupon_code": "D4E5EC6F08F7F1AD13AA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6866521_1fb1.jpg",
+      "title": "The Complete Microsoft Excel Course: Master All Levels"
+    },
+    {
+      "url": "https://www.udemy.com/course/web-development-beginners-to-advanced/?couponCode=BE8E25B2CE8DF0DA5516",
+      "coupon_code": "BE8E25B2CE8DF0DA5516",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5018456_9e40_2.jpg",
+      "title": "Web Design Course for Beginners to Intermediate"
+    },
+    {
+      "url": "https://www.udemy.com/course/write-article-content-for-seo-and-affiliate-marketing-course/?couponCode=0453663CEDF11C1F63D9",
+      "coupon_code": "0453663CEDF11C1F63D9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4831684_ddc6.jpg",
+      "title": "Write Article Content for SEO and Affiliate Marketing Course"
+    },
     {
       "url": "https://www.udemy.com/course/ai-content-generation-audio-video-image-text-with-google-adobe-chatgpt/?couponCode=5120D6F585B0986D5688",
       "coupon_code": "5120D6F585B0986D5688",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6871029_0c3e.jpg",
+      "title": "Full-Stack AI Creator: Audio, Video, Image w/ Google & Adobe"
     },
     {
       "url": "https://www.udemy.com/course/ai-in-60-minutes/?couponCode=JUNFREE01",
@@ -16,7 +106,8 @@
     {
       "url": "https://www.udemy.com/course/complete-graphics-design-course-for-beginner-to-advanced/?couponCode=FFFBFBD80F05BB50FEBE",
       "coupon_code": "FFFBFBD80F05BB50FEBE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5315180_3f5b_2.jpg",
+      "title": "Complete Graphics Design Course for Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/cours-de-certification-professionnelle-en-ingenierie-de-lia/?couponCode=JUNFREE02",
@@ -87,7 +178,8 @@
     {
       "url": "https://www.udemy.com/course/practical-osint/?couponCode=E2C08278664640F8219E",
       "coupon_code": "E2C08278664640F8219E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5045846_fc5f_3.jpg",
+      "title": "Practical OSINT: The Complete Course for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/brain-computer-interfaces-neurotechnology/?couponCode=JUNFREE01",
@@ -98,7 +190,8 @@
     {
       "url": "https://www.udemy.com/course/opencv-beginner-to-advanced/?couponCode=EFECAB1D6D17E2D9EB51",
       "coupon_code": "EFECAB1D6D17E2D9EB51",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6186379_c875_8.jpg",
+      "title": "Computer Vision with OpenCV and Python: Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/rag-strategy-execution-build-enterprise-knowledge-systems/?couponCode=JUNFREE01",
