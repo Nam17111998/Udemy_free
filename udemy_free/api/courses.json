@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-06-15T05:12:14Z",
-  "count": 938,
+  "updated_at": "2026-06-15T12:33:48Z",
+  "count": 953,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ab-100-microsoft-certified-agentic-ai-business-solutions-h/?couponCode=D68CE2D60E31AB4CF770",
+      "coupon_code": "D68CE2D60E31AB4CF770",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7104805_9aee.jpg",
+      "title": "AB-100: Microsoft Certified: Agentic AI Business Solutions"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-creative-leaders-d/?couponCode=8C6859DBAD3DFB911D2C",
+      "coupon_code": "8C6859DBAD3DFB911D2C",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7173218_9573_2.jpg",
+      "title": "AI for Creative Leaders"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-customer-experience/?couponCode=90BD283B2948F5525DD4",
+      "coupon_code": "90BD283B2948F5525DD4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6841771_218e.jpg",
+      "title": "AI for Customer Experience"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-powered-admin-microsoft-copilot-for-sysadmins/?couponCode=17EE1644918CE405F0C9",
+      "coupon_code": "17EE1644918CE405F0C9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7120969_d91d.jpg",
+      "title": "AI-Powered Admin: Microsoft Copilot for SysAdmins"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-guide-to-python-data-structures-and-algorithms-cour/?couponCode=9C402EDC2B8B9226BFEF",
+      "coupon_code": "9C402EDC2B8B9226BFEF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004151_5be6.jpg",
+      "title": "Complete Guide to Python Data Structures & Algorithms Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/digistore24/?couponCode=BA0BCFBF0589109D5A2F",
+      "coupon_code": "BA0BCFBF0589109D5A2F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4138884_70fe_2.jpg",
+      "title": "Digitale Produkte erfolgreich verkaufen mit Digistore 24"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-vba-advanced-weniger-fehler-durch-schlaue-events/?couponCode=4A4D656A5F64044986B0",
+      "coupon_code": "4A4D656A5F64044986B0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4015764_ff8e_4.jpg",
+      "title": "Excel VBA Advanced 2 - Weniger Fehler durch schlaue Abläufe"
+    },
+    {
+      "url": "https://www.udemy.com/course/graphics-design-and-video-edting-canva/?couponCode=4314C81AEE6533ECB31D",
+      "coupon_code": "4314C81AEE6533ECB31D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7008005_cb24_8.jpg",
+      "title": "Graphics Design: Canva Photoshop, Illustrator & Premier Pro"
+    },
+    {
+      "url": "https://www.udemy.com/course/grok-mastery-programming-ai-and-problem-solving-skills/?couponCode=8BA088883FF019C995C5",
+      "coupon_code": "8BA088883FF019C995C5",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6880527_5513.jpg",
+      "title": "Grok Mastery: Programming, AI and Problem Solving Skills"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-master-formulas-functions-and-data-tools/?couponCode=E4D5E7F63A03F2A2D3C1",
+      "coupon_code": "E4D5E7F63A03F2A2D3C1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6867819_6d2d.jpg",
+      "title": "Microsoft Excel: Master Formulas, Functions, and Data Tools"
+    },
+    {
+      "url": "https://www.udemy.com/course/standard-customer-support-responses-course/?couponCode=6A01D15877D32F75D099",
+      "coupon_code": "6A01D15877D32F75D099",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7172806_01f9.jpg",
+      "title": "Standard Customer Support Responses Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-for-beginner-to-expert-with-photoshop/?couponCode=3FEFA397593E6061B275",
+      "coupon_code": "3FEFA397593E6061B275",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5658744_33bc_2.jpg",
+      "title": "T-Shirt Design for Beginner to Expert With Photoshop"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-in-adobe-illustrator-for-beginner-to-advanced/?couponCode=772EBF79E1D745DA68EC",
+      "coupon_code": "772EBF79E1D745DA68EC",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638356_014e.jpg",
+      "title": "T-Shirt Design In Adobe Illustrator for Beginner to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-ai-for-creative-leaders-guide/?couponCode=25AF7E3F638DC2269ABB",
+      "coupon_code": "25AF7E3F638DC2269ABB",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6982511_2e7b_2.jpg",
+      "title": "The Complete AI for Creative Leaders Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-video-editing-bootcamp-from-beginning-to-expert/?couponCode=D0857E85F23C1E74CF5E",
+      "coupon_code": "D0857E85F23C1E74CF5E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5662243_d84b_2.jpg",
+      "title": "The Complete Video Editing Bootcamp from Beginning to Expert"
+    },
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=14THJUNE26",
       "coupon_code": "14THJUNE26",
