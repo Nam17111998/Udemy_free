@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-06-16T17:11:02Z",
-  "count": 915,
+  "updated_at": "2026-06-16T21:12:26Z",
+  "count": 917,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
+      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602567_4008.jpg",
+      "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
+      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
+      "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-cours-de-certification-ingenieur-associe-en-ia/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685687_8854.jpg",
+      "title": "[FR] Cours de Certification Ingénieur Associé en IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
+      "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605733_721d.jpg",
+      "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584541_734c_2.jpg",
+      "title": "[DE] KI-Masterclass: Vom Anfänger zum KI-Helden"
+    },
+    {
+      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
+      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584543_c6a8_2.jpg",
+      "title": "[PT] Masterclass de Engenharia de IA: Do Zero ao Herói da IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-en-ingenierie-de-lia-de-zero-a-heros-de-lia/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584539_825f_2.jpg",
+      "title": "[FR] Masterclass IA : De zéro à héros de l'IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
+      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=JUNFREE02",
+      "coupon_code": "JUNFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
+      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-cc-masterpiece-unleashing-creative-magic/?couponCode=F6B2A0760EEBAB3BEE8F",
       "coupon_code": "F6B2A0760EEBAB3BEE8F",
@@ -997,18 +1085,6 @@
       "title": "[ES] Curso de Certificación Profesional en Ingeniería de IA"
     },
     {
-      "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
-      "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
-    },
-    {
-      "url": "https://www.udemy.com/course/fr-cours-de-certification-ingenieur-associe-en-ia/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6685687_8854.jpg",
-      "title": "[FR] Cours de Certification Ingénieur Associé en IA"
-    },
-    {
       "url": "https://www.udemy.com/course/guia-de-ingresos-pasivos-con-ia-y-automatizacion/?couponCode=JUNFREE01",
       "coupon_code": "JUNFREE01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6948095_ec67.jpg",
@@ -1057,28 +1133,10 @@
       "title": "RAG Strategy & Execution: Build Enterprise Knowledge Systems"
     },
     {
-      "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
-      "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
-    },
-    {
       "url": "https://www.udemy.com/course/ciberseguridad-101-fundamentos-para-principiantes-absolutos/?couponCode=JUNFREE01",
       "coupon_code": "JUNFREE01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6613559_62db.jpg",
       "title": "[ES] Ciberseguridad 101: Fundamentos para Principiantes"
-    },
-    {
-      "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6605733_721d.jpg",
-      "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
-    },
-    {
-      "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
-      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
     },
     {
       "url": "https://www.udemy.com/course/agile-hr-implementation/?couponCode=FD92C3F3E7BFB1CC225A",
@@ -3625,24 +3683,6 @@
       "title": "Chief Digital Officer 2026: Mastering Enterprise Leadership"
     },
     {
-      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
-      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
-    },
-    {
-      "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602567_4008.jpg",
-      "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
-    },
-    {
-      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
-      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
-    },
-    {
       "url": "https://www.udemy.com/course/ia-full-stack-con-ollama-llama-deepseek-mistral-qwq/?couponCode=JUNFREE01",
       "coupon_code": "JUNFREE01",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6605609_456b_2.jpg",
@@ -3665,12 +3705,6 @@
       "coupon_code": "JUNFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6600653_cf7b_3.jpg",
       "title": "NCA‑AIIO SoAI‑Certified Associate: AI Infrastructure & Ops"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
-      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
     },
     {
       "url": "https://www.udemy.com/course/bootcamp-de-agentes-de-ia-crea-chatbots-inteligentes/?couponCode=JUNFREE01",
@@ -3703,34 +3737,10 @@
       "title": "Introduction to Generative AI with Amazon Bedrock"
     },
     {
-      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
-      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
-    },
-    {
-      "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6584543_c6a8_2.jpg",
-      "title": "[PT] Masterclass de Engenharia de IA: Do Zero ao Herói da IA"
-    },
-    {
       "url": "https://www.udemy.com/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert/?couponCode=JUNFREE02",
       "coupon_code": "JUNFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6602695_401e_2.jpg",
       "title": "AI Hero: A 12-Month Journey Taking You from Zero to Expert"
-    },
-    {
-      "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6584541_734c_2.jpg",
-      "title": "[DE] KI-Masterclass: Vom Anfänger zum KI-Helden"
-    },
-    {
-      "url": "https://www.udemy.com/course/masterclass-en-ingenierie-de-lia-de-zero-a-heros-de-lia/?couponCode=JUNFREE02",
-      "coupon_code": "JUNFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6584539_825f_2.jpg",
-      "title": "[FR] Masterclass IA : De zéro à héros de l'IA"
     },
     {
       "url": "https://www.udemy.com/course/agile-coach-certification/?couponCode=2CF9451C982BBA75B521",
