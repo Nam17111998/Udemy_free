@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-06-22T12:19:16Z",
-  "count": 903,
+  "updated_at": "2026-06-22T17:44:14Z",
+  "count": 917,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/b2bnegotiation/?couponCode=99826752744A8AE096DA",
+      "coupon_code": "99826752744A8AE096DA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-product-management/?couponCode=1BA0F47F83F90341D507",
+      "coupon_code": "1BA0F47F83F90341D507",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-and-javascript-crash-course/?couponCode=F6F57C4A1DBF039268C8",
+      "coupon_code": "F6F57C4A1DBF039268C8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/digmarkpsy/?couponCode=515E77A086EAF2F0E083",
+      "coupon_code": "515E77A086EAF2F0E083",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/digrepman/?couponCode=BCE2662C36661E51AC60",
+      "coupon_code": "BCE2662C36661E51AC60",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=21STJUNE",
+      "coupon_code": "21STJUNE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/fundamentals1/?couponCode=0FF4690BE9BAD53EEB5F",
+      "coupon_code": "0FF4690BE9BAD53EEB5F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hvac-engineering-core-concepts-practices/?couponCode=94D53AA4E5512B3E3F38",
+      "coupon_code": "94D53AA4E5512B3E3F38",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hvac-engineering-duct-design/?couponCode=83ACBF042CC97221D1A2",
+      "coupon_code": "83ACBF042CC97221D1A2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/iot-security-beginners/?couponCode=439E863E0658431F6EB3",
+      "coupon_code": "439E863E0658431F6EB3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/markstategy/?couponCode=3E878E354B15E5CC2A71",
+      "coupon_code": "3E878E354B15E5CC2A71",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-ethics-for-medical-students-health-care-professional/?couponCode=FF0F5524354906EB1E5C",
+      "coupon_code": "FF0F5524354906EB1E5C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-diploma-in-agile-and-scrum/?couponCode=CC207EF2690173FAAAC1",
+      "coupon_code": "CC207EF2690173FAAAC1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-management-concepts/?couponCode=79064220B6A58A5B52C4",
+      "coupon_code": "79064220B6A58A5B52C4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/safe-general-overview-course/?couponCode=E3B36B8FD6A8D7E4CC24",
+      "coupon_code": "E3B36B8FD6A8D7E4CC24",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/chatgpt-earning-money-with-chatgpt-easy-way-for-beginners/?couponCode=04453B5A166C9B788AE8",
       "coupon_code": "04453B5A166C9B788AE8",
@@ -20,7 +95,8 @@
     {
       "url": "https://www.udemy.com/course/excel-for-hr-operations-professionals/?couponCode=JUNESALE",
       "coupon_code": "JUNESALE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6721530_e808.jpg",
+      "title": "Excel for HR & Operations Professionals"
     },
     {
       "url": "https://www.udemy.com/course/histology-step-by-step/?couponCode=C32DB04F9B82428FD4C9",
@@ -40,11 +116,6 @@
     {
       "url": "https://www.udemy.com/course/mastering-excel-data-visualization-with-design-chart-graph/?couponCode=9CEF084E5B4A017D29E0",
       "coupon_code": "9CEF084E5B4A017D29E0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/medical-ethics-for-medical-students-health-care-professional/?couponCode=FF0F5524354906EB1E5C",
-      "coupon_code": "FF0F5524354906EB1E5C",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
