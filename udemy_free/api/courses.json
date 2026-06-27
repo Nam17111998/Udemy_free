@@ -1,20 +1,15 @@
 {
-  "updated_at": "2026-06-27T12:12:10Z",
-  "count": 946,
+  "updated_at": "2026-06-27T14:48:34Z",
+  "count": 950,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-after-effects-cc-master-course-vfx-motion-graphics/?couponCode=8C9DC1627643MUS",
+      "coupon_code": "8C9DC1627643MUS",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-for-graphic-designers-and-freelancers/?couponCode=CA0B4236A641627DA9B1",
       "coupon_code": "CA0B4236A641627DA9B1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-for-problem-solving-excellence/?couponCode=9FAA0998EFC0BB9CF94C",
-      "coupon_code": "9FAA0998EFC0BB9CF94C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-red-teaming/?couponCode=A3544ABD5E707F411F23",
-      "coupon_code": "A3544ABD5E707F411F23",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -48,11 +43,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/learn-kotlin-for-android-android-app-development-bootcamp/?couponCode=D1CB739FD5F9F686E1D0",
-      "coupon_code": "D1CB739FD5F9F686E1D0",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=3D914399195D6F1F2D7B",
       "coupon_code": "3D914399195D6F1F2D7B",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -70,6 +60,36 @@
     {
       "url": "https://www.udemy.com/course/the-3cs-to-become-an-ai-ready-project-manager/?couponCode=MONSOONSHOWERS26",
       "coupon_code": "MONSOONSHOWERS26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-adobe-illustrator-cc-mega-mastery-course/?couponCode=78D9F10A1B983OLA",
+      "coupon_code": "78D9F10A1B983OLA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-adobe-photoshop-cc-maga-mastery-class-basic-to-pro-ai/?couponCode=2AFE18636132OLA",
+      "coupon_code": "2AFE18636132OLA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-logo-design-mastery-course-in-adobe-illustrator-cc/?couponCode=B31E9744C62E8OLA",
+      "coupon_code": "B31E9744C62E8OLA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-problem-solving-excellence/?couponCode=9FAA0998EFC0BB9CF94C",
+      "coupon_code": "9FAA0998EFC0BB9CF94C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-red-teaming/?couponCode=A3544ABD5E707F411F23",
+      "coupon_code": "A3544ABD5E707F411F23",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-kotlin-for-android-android-app-development-bootcamp/?couponCode=D1CB739FD5F9F686E1D0",
+      "coupon_code": "D1CB739FD5F9F686E1D0",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -328,7 +348,8 @@
     {
       "url": "https://www.udemy.com/course/resilience-patterns-microservice-architecture-learnit/?couponCode=JUNEFREE32026",
       "coupon_code": "JUNEFREE32026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6748697_de0c.jpg",
+      "title": "Resilience Patterns in Microservice Architecture: Hands-On"
     },
     {
       "url": "https://www.udemy.com/course/securing-ai-applications-learnit/?couponCode=JUNEFREE32026",
