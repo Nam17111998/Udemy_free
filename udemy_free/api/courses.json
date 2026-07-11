@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-07-11T11:57:24Z",
-  "count": 999,
+  "updated_at": "2026-07-11T13:45:26Z",
+  "count": 1000,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/bootcamp-ai-901-microsoft-azure-ai-fundamentals-course/?couponCode=A3BC80BDA57ABAA26288",
+      "coupon_code": "A3BC80BDA57ABAA26288",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/climate-change-explained-causes-consequences-and-solutions/?couponCode=125F71615B1320EAD495",
       "coupon_code": "125F71615B1320EAD495",
@@ -29,12 +34,6 @@
       "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=CF8867024147A0C307CA",
       "coupon_code": "CF8867024147A0C307CA",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/crea-una-calculadora-de-precios-con-pasarela-de-pagos/?couponCode=JULIO0702",
-      "coupon_code": "JULIO0702",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6735109_6110.jpg",
-      "title": "Crea una Calculadora de Precios con Pasarela de Pagos 2026"
     },
     {
       "url": "https://www.udemy.com/course/devenir-freelance-nomade/?couponCode=89D545867862D2634FA9",
@@ -82,6 +81,12 @@
       "coupon_code": "1DDF35E88CC72635CF5D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6921271_c7e3_2.jpg",
       "title": "Stablecoins, CBDCs & Commercial Bank Money Tokens Explained"
+    },
+    {
+      "url": "https://www.udemy.com/course/crea-una-calculadora-de-precios-con-pasarela-de-pagos/?couponCode=JULIO0702",
+      "coupon_code": "JULIO0702",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6735109_6110.jpg",
+      "title": "Crea una Calculadora de Precios con Pasarela de Pagos 2026"
     },
     {
       "url": "https://www.udemy.com/course/como-personalizar-productos-en-woocommerce-con-wowaddons/?couponCode=JULIO0702",
