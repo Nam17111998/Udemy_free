@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T23:04:24Z",
+  "updated_at": "2026-07-11T03:26:39Z",
   "count": 983,
   "courses": [
     {
@@ -58,7 +58,22 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=88D37D32340EA0DBF937",
+      "coupon_code": "88D37D32340EA0DBF937",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/fastpixel-mejora-la-velocidad-de-carga-en-wordpress/?couponCode=JULIO0702",
+      "coupon_code": "JULIO0702",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-django/?couponCode=12D0926A6CF76D28A4E9",
+      "coupon_code": "12D0926A6CF76D28A4E9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/send-crea-campanas-de-correo-electronico-desde-wordpress/?couponCode=JULIO0702",
       "coupon_code": "JULIO0702",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
@@ -73,18 +88,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/send-crea-campanas-de-correo-electronico-desde-wordpress/?couponCode=JULIO0702",
-      "coupon_code": "JULIO0702",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=3CA99E592DACEB392BB3",
       "coupon_code": "3CA99E592DACEB392BB3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/essentials-pyqgis/?couponCode=88D37D32340EA0DBF937",
-      "coupon_code": "88D37D32340EA0DBF937",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -98,14 +103,10 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/mastering-django/?couponCode=12D0926A6CF76D28A4E9",
-      "coupon_code": "12D0926A6CF76D28A4E9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/office-password-cracking/?couponCode=6B1DF11248A40C64B1F1",
       "coupon_code": "6B1DF11248A40C64B1F1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4847822_81cd.jpg",
+      "title": "Cracking Microsoft Office files Passwords | Ethical Hacking"
     },
     {
       "url": "https://www.udemy.com/course/programming-for-scientific-research/?couponCode=CCFE8F7A9D6127633948",
@@ -260,17 +261,20 @@
     {
       "url": "https://www.udemy.com/course/blender-essential-from-beginner-to-3d-masterclass/?couponCode=20544E2522D8BED5B67C",
       "coupon_code": "20544E2522D8BED5B67C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5950120_e1c7_3.jpg",
+      "title": "Blender Essential: From Beginner to 3D Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=DF0B3747C17178796B02",
       "coupon_code": "DF0B3747C17178796B02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5112922_e7f7_9.jpg",
+      "title": "Learn React by Building the Simplest App from Scratch"
     },
     {
       "url": "https://www.udemy.com/course/build-your-knowledge-business-6-figure-launch-plan/?couponCode=FREEJULY26",
       "coupon_code": "FREEJULY26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6947811_5388_4.jpg",
+      "title": "Build Your Knowledge Business: 6-Figure Launch Plan"
     },
     {
       "url": "https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=F2EA68054FFEBF602706",
@@ -293,52 +297,62 @@
     {
       "url": "https://www.udemy.com/course/the-complete-photo-editing-masterclass-with-adobe-and-canva/?couponCode=E7B4F63B953A9652E807",
       "coupon_code": "E7B4F63B953A9652E807",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5938924_5d3f.jpg",
+      "title": "The Complete Photo Editing Masterclass With Adobe and Canva"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-t-shirt-design-toolkit-ps-ai-canva/?couponCode=E9C0D8C97BB98CD5D17F",
       "coupon_code": "E9C0D8C97BB98CD5D17F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5972478_958a_2.jpg",
+      "title": "The Complete T-Shirt Design Toolkit: PS, AI & Canva"
     },
     {
       "url": "https://www.udemy.com/course/agentic-product-management/?couponCode=FREEJULY26",
       "coupon_code": "FREEJULY26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967325_2708_3.jpg",
+      "title": "Agentic Product Management"
     },
     {
       "url": "https://www.udemy.com/course/ai-driven-digital-transformation-leadership/?couponCode=FREEJULY26",
       "coupon_code": "FREEJULY26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967313_1551_3.jpg",
+      "title": "AI-Driven Digital Transformation Leadership"
     },
     {
       "url": "https://www.udemy.com/course/ai-risk-governance-security-for-executives/?couponCode=FREEJULY26",
       "coupon_code": "FREEJULY26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7040435_af3f_2.jpg",
+      "title": "AI Risk, Governance & Security for Executives"
     },
     {
       "url": "https://www.udemy.com/course/build-multiple-income-streams-to-10000-usd-per-month/?couponCode=FREEJULY26",
       "coupon_code": "FREEJULY26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6947807_49ff_3.jpg",
+      "title": "Learn How to Build Multiple Income Streams"
     },
     {
       "url": "https://www.udemy.com/course/comprehensive-davinci-resolve-with-color-grading-masterclass/?couponCode=7B36089B5BC55F7B54FE",
       "coupon_code": "7B36089B5BC55F7B54FE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5927452_cdfd.jpg",
+      "title": "Comprehensive DaVinci Resolve With Color Grading Masterclass"
     },
     {
       "url": "https://www.udemy.com/course/executive-self-talk-for-high-achievers-overcome-imposter-syndrome/?couponCode=09855AF43BB9F00AAC8B",
       "coupon_code": "09855AF43BB9F00AAC8B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6310353_2b13_3.jpg",
+      "title": "Self-Talk Mastery: Stop Negative Thoughts & Build Confidence"
     },
     {
       "url": "https://www.udemy.com/course/ai-product-management-build-what-actually-works/?couponCode=FREEJULY26",
       "coupon_code": "FREEJULY26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967323_21e7_2.jpg",
+      "title": "AI Product Management: Build What Actually Works"
     },
     {
       "url": "https://www.udemy.com/course/low-code-no-code-mastery/?couponCode=FREEJULY26",
       "coupon_code": "FREEJULY26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6967317_850e_4.jpg",
+      "title": "Low-Code & No-Code Mastery"
     },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-cc-masterpiece-unleashing-creative-magic/?couponCode=1D17694937AD561DE7CD",
