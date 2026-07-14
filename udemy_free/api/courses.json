@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-07-14T18:09:38Z",
-  "count": 922,
+  "updated_at": "2026-07-14T20:18:14Z",
+  "count": 936,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/bash-fundamentals-for-linux-users/?couponCode=95666A2FE8CA6A34D588",
+      "coupon_code": "95666A2FE8CA6A34D588",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootcamp-ai-901-microsoft-azure-ai-fundamentals-course/?couponCode=A3BC86BDA57ABAA26288",
+      "coupon_code": "A3BC86BDA57ABAA26288",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-crash-course/?couponCode=A7C4B1B0B828EB9F2CBE",
+      "coupon_code": "A7C4B1B0B828EB9F2CBE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/executive-assistance-and-management/?couponCode=B216A7781CBBFC4F0299",
+      "coupon_code": "B216A7781CBBFC4F0299",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/git-vsc-essentials/?couponCode=A80A24CE7509F8B169F7",
+      "coupon_code": "A80A24CE7509F8B169F7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/gnu-make-crash-course/?couponCode=469E95324FB1FE689EE8",
+      "coupon_code": "469E95324FB1FE689EE8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-make-passive-income-on-amazon-kdp-with-zero-dollars/?couponCode=D1613667AF8223DFB040",
+      "coupon_code": "D1613667AF8223DFB040",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-gnu-nano/?couponCode=B9054E906C4095E3CF14",
+      "coupon_code": "B9054E906C4095E3CF14",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-grep-sed-and-awk/?couponCode=066C18936AC17E0F33E6",
+      "coupon_code": "066C18936AC17E0F33E6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/pgdinscem/?couponCode=9379592E49E48C950077",
+      "coupon_code": "9379592E49E48C950077",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/prisma-orm-fundamentals/?couponCode=4998FCD5D69B5D9B770A",
+      "coupon_code": "4998FCD5D69B5D9B770A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6802763_eaad.jpg",
+      "title": "Prisma ORM Crash Course for Web Developers"
+    },
+    {
+      "url": "https://www.udemy.com/course/sell-kid-coloring-books-on-amazon-kdp-using-canva-for-free/?couponCode=70D093FEDBC5F89C5131",
+      "coupon_code": "70D093FEDBC5F89C5131",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/signals-in-angular-v19/?couponCode=5B30AB5D66798AA37180",
+      "coupon_code": "5B30AB5D66798AA37180",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/tmux-fundamentals/?couponCode=D2A9FDD275E3FD2B2247",
+      "coupon_code": "D2A9FDD275E3FD2B2247",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/vim-fundamentals/?couponCode=96DF5FF668442CFBD412",
+      "coupon_code": "96DF5FF668442CFBD412",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/attacking-and-defending-active-directory/?couponCode=6A4CC5D8112D99641807",
       "coupon_code": "6A4CC5D8112D99641807",
@@ -10,11 +86,6 @@
     {
       "url": "https://www.udemy.com/course/beginner-guide-to-learn-t-shirt-design-with-photoshop/?couponCode=27A1741A07F7063FF3AA",
       "coupon_code": "27A1741A07F7063FF3AA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/bootcamp-ai-901-microsoft-azure-ai-fundamentals-course/?couponCode=A3BC86BDA57ABAA26288",
-      "coupon_code": "A3BC86BDA57ABAA26288",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -95,7 +166,8 @@
     {
       "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=13THJULY26",
       "coupon_code": "13THJULY26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6611461_d0c7_3.jpg",
+      "title": "Financial Services - Basics of Regulation & Compliance"
     },
     {
       "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=13THJULY26",
@@ -145,7 +217,8 @@
     {
       "url": "https://www.udemy.com/course/excel-word-powerpoint-in-one-course-become-office-ready/?couponCode=BD47A288442DE7EBD3FA",
       "coupon_code": "BD47A288442DE7EBD3FA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7044763_ef4b.jpg",
+      "title": "Excel, Word & PowerPoint in One Course: Become Office Ready"
     },
     {
       "url": "https://www.udemy.com/course/php-with-mysql-2023-build-real-estate-management-system/?couponCode=PHPREALESTATE69",
