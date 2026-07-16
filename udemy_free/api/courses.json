@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-07-16T06:25:28Z",
-  "count": 918,
+  "updated_at": "2026-07-16T09:20:15Z",
+  "count": 933,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/accounting-to-valuation-real-world-financial-modeling/?couponCode=JULY-FREE",
+      "coupon_code": "JULY-FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=21DACD773662B50026F1",
+      "coupon_code": "21DACD773662B50026F1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/build-13-projects-with-php-mysql-bootstrap-and-pdo/?couponCode=13PROJECTS60",
+      "coupon_code": "13PROJECTS60",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/capital-market-immersion/?couponCode=JULY-FREE",
+      "coupon_code": "JULY-FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-pipelines-retrieval-augmented-generation/?couponCode=JULY-FREE",
+      "coupon_code": "JULY-FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/genai-foundations-tools-concepts-use-cases/?couponCode=JULY-FREE",
+      "coupon_code": "JULY-FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/?couponCode=0C73D20C433D2693D107",
+      "coupon_code": "0C73D20C433D2693D107",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-vba-excel-automation-reports-dashboards-and-task/?couponCode=CCDEF5E1B4688161D889",
+      "coupon_code": "CCDEF5E1B4688161D889",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-cloud-security-devsecops/?couponCode=JULY-FREE",
+      "coupon_code": "JULY-FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-excel-automation-master-data-processing-reporting/?couponCode=A2BAE7771FB581D0A9F3",
+      "coupon_code": "A2BAE7771FB581D0A9F3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=47794017942E2F3F6C58",
+      "coupon_code": "47794017942E2F3F6C58",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-the-complete-reactjs-course-for-beginners/?couponCode=4F8C0AA2D8CCA6F2321B",
+      "coupon_code": "4F8C0AA2D8CCA6F2321B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5679234_657a.jpg",
+      "title": "ReactJs - The Complete ReactJs Course For Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/sales-and-relationship-management/?couponCode=JULY-FREE",
+      "coupon_code": "JULY-FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/salesforce-fundamentals-a-complete-guide-for-beginners/?couponCode=93BE959B5FCA3EFB713E",
+      "coupon_code": "93BE959B5FCA3EFB713E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels-j/?couponCode=5D2B9335B510249461A7",
+      "coupon_code": "5D2B9335B510249461A7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/a-practical-guide-to-cybersecurity-operations-foundations/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
@@ -10,12 +86,14 @@
     {
       "url": "https://www.udemy.com/course/blockchain-essentials-for-finance-professionals/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6660787_caf0_6.jpg",
+      "title": "Blockchain for Finance: Smart Contracts & DeFi"
     },
     {
       "url": "https://www.udemy.com/course/commercial-credit-analysis/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/179446_0fdb_9.jpg",
+      "title": "The Complete Commercial Credit and Risk Analysis Course 2026"
     },
     {
       "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JULFREE03",
@@ -26,7 +104,8 @@
     {
       "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=JULFREE01",
       "coupon_code": "JULFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602567_4008.jpg",
+      "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
     },
     {
       "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=JULFREE03",
@@ -37,32 +116,38 @@
     {
       "url": "https://www.udemy.com/course/equity-products/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/179824_7d69_12.jpg",
+      "title": "Stock Market Trading and Equity Markets Professional Course"
     },
     {
       "url": "https://www.udemy.com/course/ia-full-stack-con-ollama-llama-deepseek-mistral-qwq/?couponCode=JULFREE01",
       "coupon_code": "JULFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605609_456b_2.jpg",
+      "title": "[ES] IA Full-Stack con Ollama: Llama, Deepseek, Mistral, QwQ"
     },
     {
       "url": "https://www.udemy.com/course/interest-rate-swaps/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/179500_d47e_9.jpg",
+      "title": "Interest Rate Swaps: Pricing, Risk & Hedging Made Simple"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-futures-options/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/179820_5477_12.jpg",
+      "title": "Professional Futures & Options Guide for Investors 2026"
     },
     {
       "url": "https://www.udemy.com/course/mastering-nist-and-iso-cybersecurity-governance-in-16-steps/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6828653_cd9e_3.jpg",
+      "title": "NIST & ISO Cybersecurity Governance: Complete Guide"
     },
     {
       "url": "https://www.udemy.com/course/mastering-offensive-cyber-operations/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6813615_757b_3.jpg",
+      "title": "Mastering Offensive Cyber Operations"
     },
     {
       "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=JULFREE03",
@@ -73,77 +158,92 @@
     {
       "url": "https://www.udemy.com/course/the-securities-trade-lifecycle/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/180362_b126_14.jpg",
+      "title": "The Securities Trade Lifecycle: Front, Middle & Back-Office"
     },
     {
       "url": "https://www.udemy.com/course/yield-curve-dynamics/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/180384_fddc_15.jpg",
+      "title": "The Complete Yield Curve & Bond Markets Course 2026"
     },
     {
       "url": "https://www.udemy.com/course/american-english-consonants-for-all/?couponCode=REALDSCNTJUL26",
       "coupon_code": "REALDSCNTJUL26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4555410_63f0_5.jpg",
+      "title": "American English Consonants for All"
     },
     {
       "url": "https://www.udemy.com/course/clojures-core-syntax/?couponCode=CLOJURE-FREE-JUN26",
       "coupon_code": "CLOJURE-FREE-JUN26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3307992_db17.jpg",
+      "title": "Clojure From Scratch: Code and Concepts Woven Together"
     },
     {
       "url": "https://www.udemy.com/course/costing-process-production-cycle-sales-cycle/?couponCode=AAE4EC9E258281CC9038",
       "coupon_code": "AAE4EC9E258281CC9038",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5775338_fc7f.jpg",
+      "title": "01-SAP-CO-Costing Process with Production & Sales Cycle"
     },
     {
       "url": "https://www.udemy.com/course/joint-production-co-products-by-product/?couponCode=5326A9028F1AE9C23366",
       "coupon_code": "5326A9028F1AE9C23366",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5894788_3442_5.jpg",
+      "title": "04-SAP-CO : Joint Production (Co-Products & By-Product)"
     },
     {
       "url": "https://www.udemy.com/course/mix-costing_split-valuation_procurement_manufacturing/?couponCode=AEF86A295E80F1ED9300",
       "coupon_code": "AEF86A295E80F1ED9300",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5845460_c9f6_3.jpg",
+      "title": "06-Mix Costing & Split Valuation-Procurement & Manufacturing"
     },
     {
       "url": "https://www.udemy.com/course/pgdincapitalmarket/?couponCode=9C3B9C20459530C4E825",
       "coupon_code": "9C3B9C20459530C4E825",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6647621_9e8b_2.jpg",
+      "title": "Postgraduate Diploma in Capital Market (PGDCM)"
     },
     {
       "url": "https://www.udemy.com/course/product-costing-by-period-product-cost-collector/?couponCode=807E375244C401DB2A85",
       "coupon_code": "807E375244C401DB2A85",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5899150_ea9b_5.jpg",
+      "title": "12-SAP-CO-Product Costing By Period - Product Cost Collector"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-activity-based-costing-in-sap-s4hana/?couponCode=06A4926BE8F14A92FEAF",
       "coupon_code": "06A4926BE8F14A92FEAF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5947488_46f8_7.jpg",
+      "title": "17-SAP-CO : Activity Based Costing in SAP S/4HANA"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-distribution-assessment-universal-allocation/?couponCode=096258BF4492B9CA42A8",
       "coupon_code": "096258BF4492B9CA42A8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5980598_7b8f_2.jpg",
+      "title": "07-SAP-CO : Distribution, Assessment & Universal Allocation"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-distribution-usage-variance-material-activities/?couponCode=A519373856101046B760",
       "coupon_code": "A519373856101046B760",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5972648_04c1.jpg",
+      "title": "14-SAP-CO-Distribution Usage Variance-Material & Activities"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-moving-average-multi-level-production-cycle/?couponCode=B5120911C52F8DD5A17E",
       "coupon_code": "B5120911C52F8DD5A17E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5939480_6f78_3.jpg",
+      "title": "02-SAP-CO : Moving Average & Multi Level Production Cycle"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-product-cost-by-co-production-order-wo-qty-str/?couponCode=9654F5D337AF535F135D",
       "coupon_code": "9654F5D337AF535F135D",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5947880_af87_7.jpg",
+      "title": "13-SAP-CO-Product Cost By CO Production Order | W/o Qty Str"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-product-costing-by-engineer-to-order-in-sap-s4hana/?couponCode=3F4F4A21B45DBBE619A6",
       "coupon_code": "3F4F4A21B45DBBE619A6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5941858_cbd7_3.jpg",
+      "title": "16-SAP-CO-Product Costing By Engineer To Order in SAP S4HANA"
     },
     {
       "url": "https://www.udemy.com/course/sap-co-product-costing-by-sales-order-in-sap-s4hana/?couponCode=A94E25C3483AC2EDF396",
