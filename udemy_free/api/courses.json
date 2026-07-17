@@ -1,22 +1,12 @@
 {
-  "updated_at": "2026-07-17T00:03:39Z",
-  "count": 954,
+  "updated_at": "2026-07-17T04:13:13Z",
+  "count": 956,
   "courses": [
     {
       "url": "https://www.udemy.com/course/blockchain-essentials-for-finance-professionals/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6660787_caf0_6.jpg",
       "title": "Blockchain for Finance: Smart Contracts & DeFi"
-    },
-    {
-      "url": "https://www.udemy.com/course/capital-market-road-map/?couponCode=JULY-FREE",
-      "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/database-design-development/?couponCode=AIDBJULY26",
-      "coupon_code": "AIDBJULY26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JULFREE03",
@@ -81,10 +71,30 @@
       "title": "The Securities Trade Lifecycle: Front, Middle & Back-Office"
     },
     {
+      "url": "https://www.udemy.com/course/un-viaje-al-interior/?couponCode=JULIO2026",
+      "coupon_code": "JULIO2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/userstory/?couponCode=170726_FREE",
+      "coupon_code": "170726_FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/yield-curve-dynamics/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
       "image_url": "https://img-c.udemycdn.com/course/480x270/180384_fddc_15.jpg",
       "title": "The Complete Yield Curve & Bond Markets Course 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/capital-market-road-map/?couponCode=JULY-FREE",
+      "coupon_code": "JULY-FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/database-design-development/?couponCode=AIDBJULY26",
+      "coupon_code": "AIDBJULY26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/a-practical-guide-to-cybersecurity-operations-foundations/?couponCode=JULY-FREE",
@@ -192,52 +202,62 @@
     {
       "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=2C4307764A8058132F9E",
       "coupon_code": "2C4307764A8058132F9E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6285311_bd70_2.jpg",
+      "title": "Flutter Masterclass - Your Complete Guide to App Development"
     },
     {
       "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=252A359C35E5F0E64409",
       "coupon_code": "252A359C35E5F0E64409",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6189863_aae8.jpg",
+      "title": "Hands-On Python Machine Learning with Real World Projects"
     },
     {
       "url": "https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/?couponCode=6FDD0E7F79367BCBF0E9",
       "coupon_code": "6FDD0E7F79367BCBF0E9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6104625_e7a4_2.jpg",
+      "title": "Master of Essential C++ Programming Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/python-for-excel-automation-master-data-processing-reporting/?couponCode=A2BAE7771FB581D0A9F3",
       "coupon_code": "A2BAE7771FB581D0A9F3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6917735_1eb6_3.jpg",
+      "title": "Python for Excel Automation Master Data Processing Reporting"
     },
     {
       "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/?couponCode=47794017942E2F3F6C58",
       "coupon_code": "47794017942E2F3F6C58",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119559_527e.jpg",
+      "title": "Python & Java: Master Backend & Frontend Web Developments"
     },
     {
       "url": "https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=C09BA3170ACB75E199BB",
       "coupon_code": "C09BA3170ACB75E199BB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6372991_8faf_2.jpg",
+      "title": "Red Team Mastery: Advanced Offensive Security"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels-j/?couponCode=5D2B9335B510249461A7",
       "coupon_code": "5D2B9335B510249461A7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6868297_b130.jpg",
+      "title": "The Complete Microsoft Excel Course: Master All Levels"
     },
     {
       "url": "https://www.udemy.com/course/accounting-to-valuation-real-world-financial-modeling/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7110771_6287.jpg",
+      "title": "Accounting to Valuation: Real-World Financial Modeling"
     },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=21DACD773662B50026F1",
       "coupon_code": "21DACD773662B50026F1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5278956_79a9_3.jpg",
+      "title": "Adobe Premiere Pro CC For Video Editing - Novice to Expert"
     },
     {
       "url": "https://www.udemy.com/course/data-pipelines-retrieval-augmented-generation/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6744047_7a6a_3.jpg",
+      "title": "Master Retrieval Augmented Generation & Data Pipelines"
     },
     {
       "url": "https://www.udemy.com/course/genai-foundations-tools-concepts-use-cases/?couponCode=JULY-FREE",
@@ -248,12 +268,14 @@
     {
       "url": "https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/?couponCode=0C73D20C433D2693D107",
       "coupon_code": "0C73D20C433D2693D107",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5308278_4bce.jpg",
+      "title": "Learn ChatGPT, Midjourney, AI and Use it For Passive Income"
     },
     {
       "url": "https://www.udemy.com/course/modern-cloud-security-devsecops/?couponCode=JULY-FREE",
       "coupon_code": "JULY-FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7130007_23c8_2.jpg",
+      "title": "Modern Cloud Security & DevSecOps"
     },
     {
       "url": "https://www.udemy.com/course/equity-products/?couponCode=JULY-FREE",
