@@ -1,12 +1,87 @@
 {
-  "updated_at": "2026-07-19T03:34:26Z",
-  "count": 922,
+  "updated_at": "2026-07-19T06:36:56Z",
+  "count": 931,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=5CC21F8FAAE791936176",
+      "coupon_code": "5CC21F8FAAE791936176",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootcamp-ai-901-microsoft-azure-ai-fundamentals-course/?couponCode=A4BC86BDA57ABAA26788",
+      "coupon_code": "A4BC86BDA57ABAA26788",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=9A01D6B0BFCE8D35C616",
       "coupon_code": "9A01D6B0BFCE8D35C616",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7126561_0c10_10.jpg",
       "title": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-complete-chatgpt-guide-for-beginners/?couponCode=95FE0DE37BE6E77F378E",
+      "coupon_code": "95FE0DE37BE6E77F378E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=C61B72F369F217C8D921",
+      "coupon_code": "C61B72F369F217C8D921",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4202336_b8f3_5.jpg",
+      "title": "Object Oriented Programming in C++"
+    },
+    {
+      "url": "https://www.udemy.com/course/crea-una-pagina-web-con-elementor-pro-y-el-tema-hello/?couponCode=JULIO0702",
+      "coupon_code": "JULIO0702",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5640810_d3f4.jpg",
+      "title": "Crea una Página Web con Elementor Pro y el Tema Hello 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/elementor-kits-crea-una-pagina-web-con-elementor-pro/?couponCode=JULIO0702",
+      "coupon_code": "JULIO0702",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5834556_a532_2.jpg",
+      "title": "Elementor Kits: Crea una Página Web con Elementor Pro 2026"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=21D553E047AB9F854B77",
+      "coupon_code": "21D553E047AB9F854B77",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/inteligencia-artificial-y-herramientas-tic-para-docentes/?couponCode=686769624FCB0704736B",
+      "coupon_code": "686769624FCB0704736B",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6886927_1aea_2.jpg",
+      "title": "Inteligencia Artificial y Herramientas TIC para Docentes"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/?couponCode=AF5C62CBC0110E40C885",
+      "coupon_code": "AF5C62CBC0110E40C885",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=EB3F32811B9E6523D091",
+      "coupon_code": "EB3F32811B9E6523D091",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/?couponCode=C8CA4F96EACC4A8C52C5",
+      "coupon_code": "C8CA4F96EACC4A8C52C5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-the-complete-mongodb-developers-course/?couponCode=7A6D8A23D7EE61B5350E",
+      "coupon_code": "7A6D8A23D7EE61B5350E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/professional-presentation/?couponCode=JUL2026",
+      "coupon_code": "JUL2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4799624_dcd7_4.jpg",
+      "title": "Professional Presentation design - صمم عرض تقديمي احترافي"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-your-wordpress-website-for-beginners/?couponCode=BDAB5595D5B85BF8AB7D",
+      "coupon_code": "BDAB5595D5B85BF8AB7D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-un-blog-con-inteligencia-artificial/?couponCode=JULIO0702",
@@ -45,46 +120,16 @@
       "title": "Cómo Crear una Tienda Online con Inteligencia Artificial"
     },
     {
-      "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=C61B72F369F217C8D921",
-      "coupon_code": "C61B72F369F217C8D921",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4202336_b8f3_5.jpg",
-      "title": "Object Oriented Programming in C++"
-    },
-    {
-      "url": "https://www.udemy.com/course/crea-una-pagina-web-con-elementor-pro-y-el-tema-hello/?couponCode=JULIO0702",
-      "coupon_code": "JULIO0702",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5640810_d3f4.jpg",
-      "title": "Crea una Página Web con Elementor Pro y el Tema Hello 2026"
-    },
-    {
       "url": "https://www.udemy.com/course/elementor-ia-crea-una-web-con-wordpress-y-elementor/?couponCode=JULIO0702",
       "coupon_code": "JULIO0702",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5839962_c614.jpg",
       "title": "Elementor IA: Crea una Web con WordPress y Elementor 2026"
     },
     {
-      "url": "https://www.udemy.com/course/elementor-kits-crea-una-pagina-web-con-elementor-pro/?couponCode=JULIO0702",
-      "coupon_code": "JULIO0702",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5834556_a532_2.jpg",
-      "title": "Elementor Kits: Crea una Página Web con Elementor Pro 2026"
-    },
-    {
-      "url": "https://www.udemy.com/course/inteligencia-artificial-y-herramientas-tic-para-docentes/?couponCode=686769624FCB0704736B",
-      "coupon_code": "686769624FCB0704736B",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6886927_1aea_2.jpg",
-      "title": "Inteligencia Artificial y Herramientas TIC para Docentes"
-    },
-    {
       "url": "https://www.udemy.com/course/master-en-diseno-web-con-inteligencia-artificial/?couponCode=JULIO0702",
       "coupon_code": "JULIO0702",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5644230_d322.jpg",
       "title": "Máster en Diseño Web con Inteligencia Artificial 2026"
-    },
-    {
-      "url": "https://www.udemy.com/course/professional-presentation/?couponCode=JUL2026",
-      "coupon_code": "JUL2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4799624_dcd7_4.jpg",
-      "title": "Professional Presentation design - صمم عرض تقديمي احترافي"
     },
     {
       "url": "https://www.udemy.com/course/supplychain-procurement-logistics/?couponCode=8ADC5C5A871DF680238F",
