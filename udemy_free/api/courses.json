@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-07-20T16:37:29Z",
-  "count": 921,
+  "updated_at": "2026-07-20T18:58:12Z",
+  "count": 924,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/30-days-of-angular/?couponCode=DBFDF4465EE45BF04934",
+      "coupon_code": "DBFDF4465EE45BF04934",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-excel-t/?couponCode=JULE2026",
       "coupon_code": "JULE2026",
@@ -13,6 +18,11 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=9BP1D6B0BFCE8D35C616",
+      "coupon_code": "9BP1D6B0BFCE8D35C616",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/complete-guide-in-html-css-build-responsive-website/?couponCode=25DC05567EF40B6D31D3",
       "coupon_code": "25DC05567EF40B6D31D3",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -20,11 +30,6 @@
     {
       "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=E3F0583C3AF641D06AB5",
       "coupon_code": "E3F0583C3AF641D06AB5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=20THJULY",
-      "coupon_code": "20THJULY",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -48,11 +53,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=20THJULY",
-      "coupon_code": "20THJULY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/financial-services-overview-of-commodities/?couponCode=20THJULY",
       "coupon_code": "20THJULY",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -68,12 +68,27 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=20THJULY",
-      "coupon_code": "20THJULY",
+      "url": "https://www.udemy.com/course/microsoft-office-word-excel-powerpoint-v/?couponCode=JULY2026",
+      "coupon_code": "JULY2026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=20THJULY",
+      "coupon_code": "20THJULY",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=20THJULY",
+      "coupon_code": "20THJULY",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=20THJULY",
+      "coupon_code": "20THJULY",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=20THJULY",
       "coupon_code": "20THJULY",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
