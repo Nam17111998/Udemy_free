@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-07-21T00:02:42Z",
-  "count": 927,
+  "updated_at": "2026-07-21T04:19:53Z",
+  "count": 933,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ceo-masterclass/?couponCode=JULFREE01",
+      "coupon_code": "JULFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ciberseguridad-101-fundamentos-para-principiantes-absolutos/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6613559_62db.jpg",
+      "title": "[ES] Ciberseguridad 101: Fundamentos para Principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/cours-de-certification-professionnelle-en-ingenierie-de-lia/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
+      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602567_4008.jpg",
+      "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
+      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681103_07e8_3.jpg",
+      "title": "[ES] Certificado de Explorador en Ingeniería de IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-curso-de-certificacion-profesional-en-ingenieria-de-ia/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-cours-de-certification-ingenieur-associe-en-ia/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605733_721d.jpg",
+      "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
+    },
+    {
+      "url": "https://www.udemy.com/course/guia-de-ingresos-pasivos-con-ia-y-automatizacion/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6948095_ec67.jpg",
+      "title": "Guía de Ingresos Pasivos con IA y Automatización"
+    },
+    {
+      "url": "https://www.udemy.com/course/ia-full-stack-con-ollama-llama-deepseek-mistral-qwq/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
+      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
+      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-excel-t/?couponCode=JULE2026",
       "coupon_code": "JULE2026",
@@ -2266,30 +2350,6 @@
       "title": "[ES] Bootcamp de IA Práctica y Certificación en 7 Días"
     },
     {
-      "url": "https://www.udemy.com/course/ciberseguridad-101-fundamentos-para-principiantes-absolutos/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6613559_62db.jpg",
-      "title": "[ES] Ciberseguridad 101: Fundamentos para Principiantes"
-    },
-    {
-      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
-      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
-    },
-    {
-      "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602567_4008.jpg",
-      "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
-    },
-    {
-      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
-      "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
-    },
-    {
       "url": "https://www.udemy.com/course/desarrollo-ia-y-python-megaclase-con-300-proyectos/?couponCode=JULFREE02",
       "coupon_code": "JULFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6608623_246f.jpg",
@@ -2302,40 +2362,16 @@
       "title": "[ES] Dominio de Python: 100 Días, 100 Proyectos"
     },
     {
-      "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6681103_07e8_3.jpg",
-      "title": "[ES] Certificado de Explorador en Ingeniería de IA"
-    },
-    {
       "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=JULFREE02",
       "coupon_code": "JULFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
       "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
     },
     {
-      "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6605733_721d.jpg",
-      "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
-    },
-    {
-      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
-      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
-    },
-    {
       "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=JULFREE02",
       "coupon_code": "JULFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6584543_c6a8_2.jpg",
       "title": "[PT] Masterclass de Engenharia de IA: Do Zero ao Herói da IA"
-    },
-    {
-      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
-      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
     },
     {
       "url": "https://www.udemy.com/course/quantum-computing-for-decision-makers-executive-essentials/?couponCode=JULFREE02",
@@ -4676,12 +4712,6 @@
       "coupon_code": "JULFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7003779_32cc.jpg",
       "title": "Full-Stack AI Engineer 2026–Machine Learning Foundations - I"
-    },
-    {
-      "url": "https://www.udemy.com/course/guia-de-ingresos-pasivos-con-ia-y-automatizacion/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6948095_ec67.jpg",
-      "title": "Guía de Ingresos Pasivos con IA y Automatización"
     },
     {
       "url": "https://www.udemy.com/course/modern-nlp-for-ai-engineers-data-scientists/?couponCode=JULFREE02",
