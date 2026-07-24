@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T14:00:14Z",
-  "count": 957,
+  "updated_at": "2026-07-24T15:39:24Z",
+  "count": 959,
   "courses": [
     {
       "url": "https://www.udemy.com/course/codeigniter-4-for-2023-build-real-estate-management-system/?couponCode=CIREALESTATE86",
@@ -33,6 +33,11 @@
       "title": "GoF Design Patterns - Complete Course with Java Examples"
     },
     {
+      "url": "https://www.udemy.com/course/humanresourceshrm/?couponCode=CF8649D8A69D3AE49922",
+      "coupon_code": "CF8649D8A69D3AE49922",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/information-security-learnit/?couponCode=JULYFREE22026",
       "coupon_code": "JULYFREE22026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6289239_190f.jpg",
@@ -43,6 +48,11 @@
       "coupon_code": "JULYFREE22026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3619180_1265_2.jpg",
       "title": "Java Collections Framework + Generics, Lambdas & Stream API"
+    },
+    {
+      "url": "https://www.udemy.com/course/leadershipdiploma/?couponCode=05B4F20EED6093DAA721",
+      "coupon_code": "05B4F20EED6093DAA721",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/master-any-language-with-chatgpt-boost-your-language-skills/?couponCode=JULYFREE22026",
@@ -69,18 +79,6 @@
       "title": "Secure Coding in Spring Boot: Real-World Coding Guide"
     },
     {
-      "url": "https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=JULYFREE22026",
-      "coupon_code": "JULYFREE22026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3905344_d222_2.jpg",
-      "title": "Selenium in C# - Setup Simple Test Automation Framework"
-    },
-    {
-      "url": "https://www.udemy.com/course/software-architecture-it-bulls/?couponCode=JULYFREE22026",
-      "coupon_code": "JULYFREE22026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4327046_7782_2.jpg",
-      "title": "Software architecture"
-    },
-    {
       "url": "https://www.udemy.com/course/solid-works-in-hindi-basic-to-industrial-level/?couponCode=5RATINGHELPUS",
       "coupon_code": "5RATINGHELPUS",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4473962_52e4_3.jpg",
@@ -91,6 +89,18 @@
       "coupon_code": "JULYFREE22026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6522469_877f.jpg",
       "title": "TDD, CI/CD, Pair Programming & Other XP Practices for Devs"
+    },
+    {
+      "url": "https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=JULYFREE22026",
+      "coupon_code": "JULYFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3905344_d222_2.jpg",
+      "title": "Selenium in C# - Setup Simple Test Automation Framework"
+    },
+    {
+      "url": "https://www.udemy.com/course/software-architecture-it-bulls/?couponCode=JULYFREE22026",
+      "coupon_code": "JULYFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4327046_7782_2.jpg",
+      "title": "Software architecture"
     },
     {
       "url": "https://www.udemy.com/course/apache-zeppelin-big-data-visualization-tool/?couponCode=EE06C95282381BDB0FFF",
