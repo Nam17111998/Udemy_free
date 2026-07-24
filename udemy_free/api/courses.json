@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-24T06:33:09Z",
-  "count": 954,
+  "updated_at": "2026-07-24T09:25:57Z",
+  "count": 957,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/apache-zeppelin-big-data-visualization-tool/?couponCode=EE06C95282381BDB0FFF",
+      "coupon_code": "EE06C95282381BDB0FFF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/c-modern-c-programming-language-made-easy/?couponCode=518F1C1082A97845DAC3",
       "coupon_code": "518F1C1082A97845DAC3",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/complete-excel-course/?couponCode=E5C066A2BA78717C2E86",
-      "coupon_code": "E5C066A2BA78717C2E86",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=2C9C2A751DF795EA3500",
-      "coupon_code": "2C9C2A751DF795EA3500",
+      "url": "https://www.udemy.com/course/codeigniter-4-for-2023-build-real-estate-management-system/?couponCode=CIREALESTATE86",
+      "coupon_code": "CIREALESTATE86",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -23,8 +23,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/disease-prediction-2-mini-projects-in-apache-sparkml/?couponCode=97C3941C23919061B1B5",
-      "coupon_code": "97C3941C23919061B1B5",
+      "url": "https://www.udemy.com/course/customer-success-with-chatgpt-learnit/?couponCode=JULYFREE22026",
+      "coupon_code": "JULYFREE22026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -49,8 +49,13 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/postgresql-database-administration-complete-course/?couponCode=F808E763FBCE24161F64",
-      "coupon_code": "F808E763FBCE24161F64",
+      "url": "https://www.udemy.com/course/mastering-idioms/?couponCode=JULYFREE22026",
+      "coupon_code": "JULYFREE22026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-travel-agency-management-system/?couponCode=LARAVELTRAVEL103",
+      "coupon_code": "LARAVELTRAVEL103",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -69,18 +74,33 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/the-complete-full-stack-web-development-masterclass-2026/?couponCode=2CBDF64AF18951773B39",
-      "coupon_code": "2CBDF64AF18951773B39",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/xp-techniques-learnit/?couponCode=JULYFREE22026",
       "coupon_code": "JULYFREE22026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/customer-success-with-chatgpt-learnit/?couponCode=JULYFREE22026",
-      "coupon_code": "JULYFREE22026",
+      "url": "https://www.udemy.com/course/complete-excel-course/?couponCode=E5C066A2BA78717C2E86",
+      "coupon_code": "E5C066A2BA78717C2E86",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=2C9C2A751DF795EA3500",
+      "coupon_code": "2C9C2A751DF795EA3500",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/disease-prediction-2-mini-projects-in-apache-sparkml/?couponCode=97C3941C23919061B1B5",
+      "coupon_code": "97C3941C23919061B1B5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/postgresql-database-administration-complete-course/?couponCode=F808E763FBCE24161F64",
+      "coupon_code": "F808E763FBCE24161F64",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-full-stack-web-development-masterclass-2026/?couponCode=2CBDF64AF18951773B39",
+      "coupon_code": "2CBDF64AF18951773B39",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -90,11 +110,6 @@
     },
     {
       "url": "https://www.udemy.com/course/master-any-language-with-chatgpt-boost-your-language-skills/?couponCode=JULYFREE22026",
-      "coupon_code": "JULYFREE22026",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-idioms/?couponCode=JULYFREE22026",
       "coupon_code": "JULYFREE22026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
