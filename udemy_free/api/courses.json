@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-07-25T06:24:43Z",
-  "count": 972,
+  "updated_at": "2026-07-25T09:04:54Z",
+  "count": 977,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/bootcamp-ai-901-microsoft-azure-ai-fundamentals-course/?couponCode=A4BC86BDA57AAAA26288",
+      "coupon_code": "A4BC86BDA57AAAA26288",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7225413_083b_4.jpg",
+      "title": "Bootcamp AI-901: Microsoft Azure AI Fundamentals Course"
+    },
     {
       "url": "https://www.udemy.com/course/codeigniter-4-for-2023-build-real-estate-management-system/?couponCode=CIREALESTATE86",
       "coupon_code": "CIREALESTATE86",
@@ -15,26 +21,10 @@
       "title": "Object Oriented Programming in C++"
     },
     {
-      "url": "https://www.udemy.com/course/customer-service-with-chatgpt-learnit/?couponCode=JULYFREE22026",
-      "coupon_code": "JULYFREE22026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5985862_7482_3.jpg",
-      "title": "Customer Service with ChatGPT: AI-Driven Customer Care"
-    },
-    {
       "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=JULFREE03",
       "coupon_code": "JULFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/excel-data-analysis-build-professional-dashboards-reports/?couponCode=A0B41460CAC5B08005FA",
-      "coupon_code": "A0B41460CAC5B08005FA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/functional-programming-learnit/?couponCode=JULYFREE22026",
-      "coupon_code": "JULYFREE22026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3686036_3cfd_2.jpg",
-      "title": "Functional Programming + Lambdas, Method References, Streams"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
     },
     {
       "url": "https://www.udemy.com/course/germanclearandheartfull/?couponCode=F79B5DCB665C8DE4C745",
@@ -43,20 +33,34 @@
       "title": "Deutsch - Klare Kommunikation  A2-C1"
     },
     {
-      "url": "https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=JULYFREE22026",
-      "coupon_code": "JULYFREE22026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4107958_3268.jpg",
-      "title": "GoF Design Patterns - Complete Course with Java Examples"
-    },
-    {
       "url": "https://www.udemy.com/course/how-to-jumpstart-your-project-management-career-in-hindi/?couponCode=GREATSTUFF",
       "coupon_code": "GREATSTUFF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5406276_f2bb_2.jpg",
+      "title": "How to Jumpstart your Project Management career (Hindi)"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-masterclass-beginner-to-master/?couponCode=35DD5283B0D1D385CC56",
+      "coupon_code": "35DD5283B0D1D385CC56",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638204_76bd.jpg",
+      "title": "Java Programming Masterclass - Beginner to Master"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/?couponCode=F505B67F2F374768661D",
+      "coupon_code": "F505B67F2F374768661D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg",
+      "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-word-for-everyone-a-step-by-step-guide/?couponCode=D95D223946225D7A7939",
       "coupon_code": "D95D223946225D7A7939",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6863661_782d_2.jpg",
+      "title": "Mastering Microsoft Word for Everyone: A Step by Step Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-laravel-2023-build-amazing-restaurant-management-system/?couponCode=LARAVELRESTAURANT70",
+      "coupon_code": "LARAVELRESTAURANT70",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5436836_736b_3.jpg",
+      "title": "PHP Laravel: Build Amazing Restaurant Management System"
     },
     {
       "url": "https://www.udemy.com/course/qa-metrics-kpis-learnit/?couponCode=JULYFREE22026",
@@ -67,7 +71,8 @@
     {
       "url": "https://www.udemy.com/course/quick-start-to-ai-and-agentic-ai-real-world-apps-using-n8n/?couponCode=F567B6B65A9EC039F75F",
       "coupon_code": "F567B6B65A9EC039F75F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7065103_36a8.jpg",
+      "title": "Quick Start to AI and Agentic AI : Real World Apps using n8n"
     },
     {
       "url": "https://www.udemy.com/course/secure-coding-spring-boot-learnit/?couponCode=JULYFREE22026",
@@ -78,12 +83,44 @@
     {
       "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=JULFREE03",
       "coupon_code": "JULFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-python-bootcamp-from-zero-to-expert/?couponCode=6AAE9850999EE9E51570",
+      "coupon_code": "6AAE9850999EE9E51570",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5663772_24d8_5.jpg",
+      "title": "The Complete Python Bootcamp from Zero to Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/customer-service-with-chatgpt-learnit/?couponCode=JULYFREE22026",
+      "coupon_code": "JULYFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5985862_7482_3.jpg",
+      "title": "Customer Service with ChatGPT: AI-Driven Customer Care"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-analysis-build-professional-dashboards-reports/?couponCode=A0B41460CAC5B08005FA",
+      "coupon_code": "A0B41460CAC5B08005FA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6866317_f7c6.jpg",
+      "title": "Excel Data Analysis: Build Professional Dashboards & Reports"
+    },
+    {
+      "url": "https://www.udemy.com/course/functional-programming-learnit/?couponCode=JULYFREE22026",
+      "coupon_code": "JULYFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3686036_3cfd_2.jpg",
+      "title": "Functional Programming + Lambdas, Method References, Streams"
+    },
+    {
+      "url": "https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=JULYFREE22026",
+      "coupon_code": "JULYFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4107958_3268.jpg",
+      "title": "GoF Design Patterns - Complete Course with Java Examples"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels/?couponCode=8FA5526889003A7D9B36",
       "coupon_code": "8FA5526889003A7D9B36",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6866521_1fb1.jpg",
+      "title": "The Complete Microsoft Excel Course: Master All Levels"
     },
     {
       "url": "https://www.udemy.com/course/customer-success-with-chatgpt-learnit/?couponCode=JULYFREE22026",
