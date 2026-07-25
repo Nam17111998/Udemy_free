@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-07-25T17:08:05Z",
+  "updated_at": "2026-07-25T19:18:34Z",
   "count": 998,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/active-directory-knowledge-check-practice-questions-bundle/?couponCode=CFC58FF73199BAB9640A",
+      "coupon_code": "CFC58FF73199BAB9640A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/agile-coach-certification-aec/?couponCode=E6A2DD0581EB9562F64D",
       "coupon_code": "E6A2DD0581EB9562F64D",
@@ -23,16 +28,16 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/interview-cv-mastery-from-cv-to-job-offer/?couponCode=E328AAC8DD8432C4A945",
-      "coupon_code": "E328AAC8DD8432C4A945",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6742531_14be.jpg",
-      "title": "Interview & CV Mastery: From CV to Job Offer"
-    },
-    {
       "url": "https://www.udemy.com/course/interview-resume-mastery-from-resume-to-job-offer/?couponCode=E05DF07C9942D487241B",
       "coupon_code": "E05DF07C9942D487241B",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6817911_c1e1.jpg",
       "title": "Interview & Resume Mastery: From Resume to Job Offer"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/?couponCode=F505B67F2F374768661D",
+      "coupon_code": "F505B67F2F374768661D",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg",
+      "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/master-agile-scrum-basics/?couponCode=05E435185C0BF9DB11D5",
@@ -72,13 +77,19 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/the-complete-cv-writing-tailoring-masterclass/?couponCode=171FF31B5A97F6555CE4",
-      "coupon_code": "171FF31B5A97F6555CE4",
+      "url": "https://www.udemy.com/course/write-every-day-building-a-consistent-writing-habit/?couponCode=BE70AB0A1DF2BE3A7525",
+      "coupon_code": "BE70AB0A1DF2BE3A7525",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/write-every-day-building-a-consistent-writing-habit/?couponCode=BE70AB0A1DF2BE3A7525",
-      "coupon_code": "BE70AB0A1DF2BE3A7525",
+      "url": "https://www.udemy.com/course/interview-cv-mastery-from-cv-to-job-offer/?couponCode=E328AAC8DD8432C4A945",
+      "coupon_code": "E328AAC8DD8432C4A945",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742531_14be.jpg",
+      "title": "Interview & CV Mastery: From CV to Job Offer"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-cv-writing-tailoring-masterclass/?couponCode=171FF31B5A97F6555CE4",
+      "coupon_code": "171FF31B5A97F6555CE4",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -94,11 +105,6 @@
     {
       "url": "https://www.udemy.com/course/professional-certificate-in-agile-and-scrum/?couponCode=C6F61DBA4870E5E6971E",
       "coupon_code": "C6F61DBA4870E5E6971E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/active-directory-knowledge-check-practice-questions-bundle/?couponCode=CFC58FF73199BAB9640A",
-      "coupon_code": "CFC58FF73199BAB9640A",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -136,12 +142,6 @@
       "coupon_code": "JULYFREE22026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4107958_3268.jpg",
       "title": "GoF Design Patterns - Complete Course with Java Examples"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/?couponCode=F505B67F2F374768661D",
-      "coupon_code": "F505B67F2F374768661D",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg",
-      "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/master-go-golang-build-scalable-web-applications/?couponCode=A035C16BF1C52654E979",
