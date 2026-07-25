@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-07-25T09:04:54Z",
-  "count": 977,
+  "updated_at": "2026-07-25T11:17:52Z",
+  "count": 981,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/active-directory-knowledge-check-practice-questions-bundle/?couponCode=CFC58FF73199BAB9640A",
+      "coupon_code": "CFC58FF73199BAB9640A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/bootcamp-ai-901-microsoft-azure-ai-fundamentals-course/?couponCode=A4BC86BDA57AAAA26288",
       "coupon_code": "A4BC86BDA57AAAA26288",
@@ -33,22 +38,21 @@
       "title": "Deutsch - Klare Kommunikation  A2-C1"
     },
     {
-      "url": "https://www.udemy.com/course/how-to-jumpstart-your-project-management-career-in-hindi/?couponCode=GREATSTUFF",
-      "coupon_code": "GREATSTUFF",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5406276_f2bb_2.jpg",
-      "title": "How to Jumpstart your Project Management career (Hindi)"
-    },
-    {
-      "url": "https://www.udemy.com/course/java-programming-masterclass-beginner-to-master/?couponCode=35DD5283B0D1D385CC56",
-      "coupon_code": "35DD5283B0D1D385CC56",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5638204_76bd.jpg",
-      "title": "Java Programming Masterclass - Beginner to Master"
+      "url": "https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=JULYFREE22026",
+      "coupon_code": "JULYFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4107958_3268.jpg",
+      "title": "GoF Design Patterns - Complete Course with Java Examples"
     },
     {
       "url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/?couponCode=F505B67F2F374768661D",
       "coupon_code": "F505B67F2F374768661D",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg",
       "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-go-golang-build-scalable-web-applications/?couponCode=A035C16BF1C52654E979",
+      "coupon_code": "A035C16BF1C52654E979",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/mastering-microsoft-word-for-everyone-a-step-by-step-guide/?couponCode=D95D223946225D7A7939",
@@ -63,6 +67,40 @@
       "title": "PHP Laravel: Build Amazing Restaurant Management System"
     },
     {
+      "url": "https://www.udemy.com/course/responsive-web-design-with-css-a-complete-css-guide/?couponCode=93D4E3C6DA70C2DECFC2",
+      "coupon_code": "93D4E3C6DA70C2DECFC2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-coding-spring-boot-learnit/?couponCode=JULYFREE22026",
+      "coupon_code": "JULYFREE22026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6748711_2333.jpg",
+      "title": "Secure Coding in Spring Boot: Real-World Coding Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-graphics-design-masterclass-with-adobe-canva/?couponCode=5267372EF80A5071CB95",
+      "coupon_code": "5267372EF80A5071CB95",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=JULFREE03",
+      "coupon_code": "JULFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-jumpstart-your-project-management-career-in-hindi/?couponCode=GREATSTUFF",
+      "coupon_code": "GREATSTUFF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5406276_f2bb_2.jpg",
+      "title": "How to Jumpstart your Project Management career (Hindi)"
+    },
+    {
+      "url": "https://www.udemy.com/course/java-programming-masterclass-beginner-to-master/?couponCode=35DD5283B0D1D385CC56",
+      "coupon_code": "35DD5283B0D1D385CC56",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5638204_76bd.jpg",
+      "title": "Java Programming Masterclass - Beginner to Master"
+    },
+    {
       "url": "https://www.udemy.com/course/qa-metrics-kpis-learnit/?couponCode=JULYFREE22026",
       "coupon_code": "JULYFREE22026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6643199_eee7.jpg",
@@ -73,18 +111,6 @@
       "coupon_code": "F567B6B65A9EC039F75F",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7065103_36a8.jpg",
       "title": "Quick Start to AI and Agentic AI : Real World Apps using n8n"
-    },
-    {
-      "url": "https://www.udemy.com/course/secure-coding-spring-boot-learnit/?couponCode=JULYFREE22026",
-      "coupon_code": "JULYFREE22026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6748711_2333.jpg",
-      "title": "Secure Coding in Spring Boot: Real-World Coding Guide"
-    },
-    {
-      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=JULFREE03",
-      "coupon_code": "JULFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
-      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-python-bootcamp-from-zero-to-expert/?couponCode=6AAE9850999EE9E51570",
@@ -109,12 +135,6 @@
       "coupon_code": "JULYFREE22026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/3686036_3cfd_2.jpg",
       "title": "Functional Programming + Lambdas, Method References, Streams"
-    },
-    {
-      "url": "https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=JULYFREE22026",
-      "coupon_code": "JULYFREE22026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4107958_3268.jpg",
-      "title": "GoF Design Patterns - Complete Course with Java Examples"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels/?couponCode=8FA5526889003A7D9B36",
