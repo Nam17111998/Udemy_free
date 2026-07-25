@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-07-25T15:10:14Z",
-  "count": 997,
+  "updated_at": "2026-07-25T17:08:05Z",
+  "count": 998,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/?couponCode=7FC9B8DDA7DCD249C6C6",
-      "coupon_code": "7FC9B8DDA7DCD249C6C6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/agile-coach-certification-aec/?couponCode=E6A2DD0581EB9562F64D",
       "coupon_code": "E6A2DD0581EB9562F64D",
@@ -18,8 +13,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/ai-for-business-analysts/?couponCode=D0F8BCCDE443C3EE12A2",
-      "coupon_code": "D0F8BCCDE443C3EE12A2",
+      "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=9B01D6BBBFCE8D35C616",
+      "coupon_code": "9B01D6BBBFCE8D35C616",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -30,22 +25,26 @@
     {
       "url": "https://www.udemy.com/course/interview-cv-mastery-from-cv-to-job-offer/?couponCode=E328AAC8DD8432C4A945",
       "coupon_code": "E328AAC8DD8432C4A945",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6742531_14be.jpg",
+      "title": "Interview & CV Mastery: From CV to Job Offer"
     },
     {
       "url": "https://www.udemy.com/course/interview-resume-mastery-from-resume-to-job-offer/?couponCode=E05DF07C9942D487241B",
       "coupon_code": "E05DF07C9942D487241B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6817911_c1e1.jpg",
+      "title": "Interview & Resume Mastery: From Resume to Job Offer"
     },
     {
       "url": "https://www.udemy.com/course/master-agile-scrum-basics/?couponCode=05E435185C0BF9DB11D5",
       "coupon_code": "05E435185C0BF9DB11D5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5628029_6ac3_6.jpg",
+      "title": "Master Agile & Scrum Basics"
     },
     {
       "url": "https://www.udemy.com/course/master-scrum-basics/?couponCode=9A6B45364F68A6C0A56B",
       "coupon_code": "9A6B45364F68A6C0A56B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5724176_74b0_3.jpg",
+      "title": "Master Scrum Basics"
     },
     {
       "url": "https://www.udemy.com/course/mastering-story-structure-ai/?couponCode=6D72ED0D29AB2B3DD0CD",
@@ -63,6 +62,11 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/responsive-web-design-with-css-a-complete-css-guide/?couponCode=93D4E3C6DA70C2DECFC2",
+      "coupon_code": "93D4E3C6DA70C2DECFC2",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/scrum-master-certification-aecl/?couponCode=63B06F1C49C5BE8AA292",
       "coupon_code": "63B06F1C49C5BE8AA292",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -75,6 +79,16 @@
     {
       "url": "https://www.udemy.com/course/write-every-day-building-a-consistent-writing-habit/?couponCode=BE70AB0A1DF2BE3A7525",
       "coupon_code": "BE70AB0A1DF2BE3A7525",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/?couponCode=7FC9B8DDA7DCD249C6C6",
+      "coupon_code": "7FC9B8DDA7DCD249C6C6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-business-analysts/?couponCode=D0F8BCCDE443C3EE12A2",
+      "coupon_code": "D0F8BCCDE443C3EE12A2",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -145,11 +159,6 @@
       "coupon_code": "LARAVELRESTAURANT70",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5436836_736b_3.jpg",
       "title": "PHP Laravel: Build Amazing Restaurant Management System"
-    },
-    {
-      "url": "https://www.udemy.com/course/responsive-web-design-with-css-a-complete-css-guide/?couponCode=93D4E3C6DA70C2DECFC2",
-      "coupon_code": "93D4E3C6DA70C2DECFC2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/secure-coding-spring-boot-learnit/?couponCode=JULYFREE22026",
