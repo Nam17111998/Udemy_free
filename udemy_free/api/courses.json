@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-07-29T17:21:52Z",
-  "count": 915,
+  "updated_at": "2026-07-29T19:33:48Z",
+  "count": 925,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/?couponCode=JUL22-B043548",
+      "coupon_code": "JUL22-B043548",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-ads-for-beginners-start-advertising-in-ai/?couponCode=6AEDA99867E31155E84D",
+      "coupon_code": "6AEDA99867E31155E84D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/?couponCode=4685160D574F6A2DD01A",
+      "coupon_code": "4685160D574F6A2DD01A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-age-gender-detection-using-dnn-opencv-project/?couponCode=7AB6F9D9B472BA930C7F",
+      "coupon_code": "7AB6F9D9B472BA930C7F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6138057_06d3.jpg",
+      "title": "Mastery Age & Gender Detection Using DNN & OPENCV Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-goat-detection-and-counting-using-yolov11/?couponCode=9E0E78DDED00E5F8C6B1",
+      "coupon_code": "9E0E78DDED00E5F8C6B1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6289103_b3c5_2.jpg",
+      "title": "Object Detection And Tracking Using Yolov11 : Deep Learning"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-portfolio-website-using-html-css-netlify-project/?couponCode=6EC6BAE34030E7149E2A",
+      "coupon_code": "6EC6BAE34030E7149E2A",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6064327_f790.jpg",
+      "title": "Responsive Portfolio Website With HTML CSS NETLIFY Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-data-studio-desde-cero-para-principiantes/?couponCode=JUL22-B555396",
+      "coupon_code": "JUL22-B555396",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hate-speech-detection-using-machine-learning-project/?couponCode=B4F50B9374DB50037602",
+      "coupon_code": "B4F50B9374DB50037602",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5908352_576a.jpg",
+      "title": "Hate Speech Detection Using Machine Learning Project"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-aprende-desde-cero/?couponCode=JUL22-B110700",
+      "coupon_code": "JUL22-B110700",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-analisis-de-casos-reales-y-funciones-dax/?couponCode=JUL22-B521568",
+      "coupon_code": "JUL22-B521568",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-bootcamp-de-cero-a-avanzado-3-cursos-en-1/?couponCode=JUL22-B555388",
+      "coupon_code": "JUL22-B555388",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4555388_de73_5.jpg",
+      "title": "Curso Power BI: De Principiante a Avanzado"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-desde-cero/?couponCode=JUL22-B944270",
+      "coupon_code": "JUL22-B944270",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-introduccion/?couponCode=JUL22-B445640",
+      "coupon_code": "JUL22-B445640",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/practical-malware-analysis-for-beginners/?couponCode=8DB98C52BE569B4BF7A7",
+      "coupon_code": "8DB98C52BE569B4BF7A7",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5410060_1c96.jpg",
+      "title": "Practical Malware Analysis for Beginners"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-3-curso-completo-de-cero-a-experto/?couponCode=JUL22-B586896",
+      "coupon_code": "JUL22-B586896",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-foundation-introduction-to-mcp/?couponCode=PROMOJULY2026",
       "coupon_code": "PROMOJULY2026",
@@ -26,28 +107,10 @@
       "title": "Canva Graphics Design Course For Beginners & Non Designers"
     },
     {
-      "url": "https://www.udemy.com/course/complete-age-gender-detection-using-dnn-opencv-project/?couponCode=7AB6F9D9B472BA930C7F",
-      "coupon_code": "7AB6F9D9B472BA930C7F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6138057_06d3.jpg",
-      "title": "Mastery Age & Gender Detection Using DNN & OPENCV Project"
-    },
-    {
       "url": "https://www.udemy.com/course/complete-end-to-end-chatbot-using-python-streamlit-project/?couponCode=C441647F541C7874B35C",
       "coupon_code": "C441647F541C7874B35C",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6138009_6627.jpg",
       "title": "Ultimate End To End Chatbot Using Python & Streamlit Project"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-goat-detection-and-counting-using-yolov11/?couponCode=9E0E78DDED00E5F8C6B1",
-      "coupon_code": "9E0E78DDED00E5F8C6B1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6289103_b3c5_2.jpg",
-      "title": "Object Detection And Tracking Using Yolov11 : Deep Learning"
-    },
-    {
-      "url": "https://www.udemy.com/course/complete-portfolio-website-using-html-css-netlify-project/?couponCode=6EC6BAE34030E7149E2A",
-      "coupon_code": "6EC6BAE34030E7149E2A",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6064327_f790.jpg",
-      "title": "Responsive Portfolio Website With HTML CSS NETLIFY Project"
     },
     {
       "url": "https://www.udemy.com/course/environment-lighting-design/?couponCode=0763531CA50FBA5AF2FB",
@@ -67,12 +130,6 @@
       "title": "Financial Stewardship for Decision Makers and Leaders"
     },
     {
-      "url": "https://www.udemy.com/course/hate-speech-detection-using-machine-learning-project/?couponCode=B4F50B9374DB50037602",
-      "coupon_code": "B4F50B9374DB50037602",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5908352_576a.jpg",
-      "title": "Hate Speech Detection Using Machine Learning Project"
-    },
-    {
       "url": "https://www.udemy.com/course/markstategy/?couponCode=D60CFDA52B3221363EBC",
       "coupon_code": "D60CFDA52B3221363EBC",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6977579_6a0d_3.jpg",
@@ -83,12 +140,6 @@
       "coupon_code": "LARAVECOFFEE70",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5446348_11b7.jpg",
       "title": "PHP Laravel: Build Coffee Shop Management System"
-    },
-    {
-      "url": "https://www.udemy.com/course/practical-malware-analysis-for-beginners/?couponCode=8DB98C52BE569B4BF7A7",
-      "coupon_code": "8DB98C52BE569B4BF7A7",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5410060_1c96.jpg",
-      "title": "Practical Malware Analysis for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/ai-websites-every-professional-must-know-in-2025/?couponCode=B2BD53F19EDF054E326A",
