@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-07-30T11:14:57Z",
-  "count": 962,
+  "updated_at": "2026-07-30T14:21:44Z",
+  "count": 965,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/artificial-intelligence-and-generative-ai-volume-1/?couponCode=AUGUST_26",
+      "coupon_code": "AUGUST_26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/cours-de-certification-professionnelle-en-ingenierie-de-lia/?couponCode=JULFREE02",
       "coupon_code": "JULFREE02",
@@ -9,16 +14,15 @@
       "title": "Cours de Certification Professionnelle en Ingénierie de l’IA"
     },
     {
-      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JULFREE02",
-      "coupon_code": "JULFREE02",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
-      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
-    },
-    {
       "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=JULFREE02",
       "coupon_code": "JULFREE02",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6602693_dd5d.jpg",
       "title": "[TR] DeepSeek R1 AI: Yeni başlayanlar için 25 AI projesi"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-charts-graphs-master-class-excel-charts-graphs/?couponCode=5500674A10311E7E3869",
+      "coupon_code": "5500674A10311E7E3869",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=JULFREE02",
@@ -45,6 +49,11 @@
       "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ"
     },
     {
+      "url": "https://www.udemy.com/course/hands-on-labs-model-context-protocol/?couponCode=PROMOJULY2026",
+      "coupon_code": "PROMOJULY2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq/?couponCode=JULFREE02",
       "coupon_code": "JULFREE02",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -53,6 +62,12 @@
       "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=JULFREE02",
       "coupon_code": "JULFREE02",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=JULFREE02",
+      "coupon_code": "JULFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602587_42a3.jpg",
+      "title": "[FR] DeepSeek R1 IA: 25 projets concrets en IA pour débutant"
     },
     {
       "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=JULFREE02",
