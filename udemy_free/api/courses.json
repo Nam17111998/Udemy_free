@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-08-02T16:06:12Z",
-  "count": 963,
+  "updated_at": "2026-08-02T18:04:08Z",
+  "count": 968,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/?couponCode=642EA00566C3E89BF043",
+      "coupon_code": "642EA00566C3E89BF043",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-programming-basics-to-advanced-level/?couponCode=72C319F49C55DA706D34",
+      "coupon_code": "72C319F49C55DA706D34",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/c-programming-made-easy-from-basics-to-advanced-concepts/?couponCode=7737F0338944C60B8B6F",
       "coupon_code": "7737F0338944C60B8B6F",
@@ -15,10 +25,14 @@
       "title": "Complete Video Editing BootCamp Beginner to Advanced"
     },
     {
-      "url": "https://www.udemy.com/course/construis-ta-vie/?couponCode=AD569F8751687EF14D88",
-      "coupon_code": "AD569F8751687EF14D88",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/7179908_0827_5.jpg",
-      "title": "Construis ta vie idéale en 30 minutes/jour, étape par étape"
+      "url": "https://www.udemy.com/course/complete-wordpress-elementor-guide-design-build-earn/?couponCode=LEAKCODEONLY60",
+      "coupon_code": "LEAKCODEONLY60",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=996066681410ACE68E80",
+      "coupon_code": "996066681410ACE68E80",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/ekbtfcmd/?couponCode=A6BC8EBA6ECCD1B61784",
@@ -48,16 +62,9 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=AC5C4FE62126D4E71876",
-      "coupon_code": "AC5C4FE62126D4E71876",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
-      "title": "Master PHP Programming: From Beginner to Advanced Developer"
-    },
-    {
-      "url": "https://www.udemy.com/course/sql-mysql-course-ru/?couponCode=2FBC77C7C193D1634B68",
-      "coupon_code": "2FBC77C7C193D1634B68",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5943252_d80f_3.jpg",
-      "title": "SQL практикум на базе MySQL (полный курс)"
+      "url": "https://www.udemy.com/course/supplychainmanagement/?couponCode=161D9C1DB83599F590EA",
+      "coupon_code": "161D9C1DB83599F590EA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/t-shirt-design-for-beginner-to-advanced-with-adobe-photoshop/?couponCode=CBADFEF37F4C562054D3",
@@ -75,6 +82,24 @@
       "coupon_code": "E755EEC85ED3BA1E9EAD",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5427554_4eab_2.jpg",
       "title": "Web Development Bootcamp with HTML CSS PHP MySQL Wordpress"
+    },
+    {
+      "url": "https://www.udemy.com/course/construis-ta-vie/?couponCode=AD569F8751687EF14D88",
+      "coupon_code": "AD569F8751687EF14D88",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7179908_0827_5.jpg",
+      "title": "Construis ta vie idéale en 30 minutes/jour, étape par étape"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=AC5C4FE62126D4E71876",
+      "coupon_code": "AC5C4FE62126D4E71876",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
+      "title": "Master PHP Programming: From Beginner to Advanced Developer"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-mysql-course-ru/?couponCode=2FBC77C7C193D1634B68",
+      "coupon_code": "2FBC77C7C193D1634B68",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5943252_d80f_3.jpg",
+      "title": "SQL практикум на базе MySQL (полный курс)"
     },
     {
       "url": "https://www.udemy.com/course/whatsapp-business-api-integration-with-sap/?couponCode=WHATSAPP",
