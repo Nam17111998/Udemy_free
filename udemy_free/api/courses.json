@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-07T09:07:53Z",
-  "count": 937,
+  "updated_at": "2026-08-07T10:59:17Z",
+  "count": 941,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-101-learn-editing-effects-transitions/?couponCode=4347ED047C1983464DBF",
+      "coupon_code": "4347ED047C1983464DBF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-cybersecurity-masterclass-build-intelligent-security/?couponCode=AUGFREE03",
       "coupon_code": "AUGFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/7183885_872b.jpg",
       "title": "AI for Cybersecurity Masterclass: Build Intelligent Security"
-    },
-    {
-      "url": "https://www.udemy.com/course/azure-sovereignty/?couponCode=3FB1A23511EBEE8EB1A4",
-      "coupon_code": "3FB1A23511EBEE8EB1A4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7101185CF49E67",
@@ -25,14 +25,8 @@
       "title": "Learn React by Building the Simplest App from Scratch"
     },
     {
-      "url": "https://www.udemy.com/course/cursor-ai-build-apps/?couponCode=50898B27BA122B7B9518",
-      "coupon_code": "50898B27BA122B7B9518",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6512287_1625_8.jpg",
-      "title": "Cursor Vibe Coding Pro: Build Any App from Scratch with AI"
-    },
-    {
-      "url": "https://www.udemy.com/course/devenir-freelance-nomade/?couponCode=1D2E1D044AEEF707DCE0",
-      "coupon_code": "1D2E1D044AEEF707DCE0",
+      "url": "https://www.udemy.com/course/deep-learning-a-z-build-neural-networks-tensorflow/?couponCode=CBCB8A5B0F66FF95E688",
+      "coupon_code": "CBCB8A5B0F66FF95E688",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -60,6 +54,11 @@
       "title": "Memento-Skills: Build Self-Evolving AI Agents"
     },
     {
+      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-management-and-visualization/?couponCode=DE524848671C23CFEF2C",
+      "coupon_code": "DE524848671C23CFEF2C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/php-for-beginners-2021-the-complete-php-mysql-pdo-course/?couponCode=FULLSTACK124",
       "coupon_code": "FULLSTACK124",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -77,16 +76,37 @@
       "title": "ShortPixel: Optimiza las Imágenes de tu Web en WordPress"
     },
     {
-      "url": "https://www.udemy.com/course/start-your-freelancing-agency/?couponCode=D5359A51A398BD03C2C4",
-      "coupon_code": "D5359A51A398BD03C2C4",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6269857_b5bf_2.jpg",
-      "title": "Start Your One-Person Freelance Agency"
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-course-master-all-levels-j/?couponCode=E51A6B5B81463A806218",
+      "coupon_code": "E51A6B5B81463A806218",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/vivre-librement/?couponCode=FC3A0B39611F4847AC24",
       "coupon_code": "FC3A0B39611F4847AC24",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg",
       "title": "Le Lifestyle Job : travailler pour vivre comme tu veux"
+    },
+    {
+      "url": "https://www.udemy.com/course/azure-sovereignty/?couponCode=3FB1A23511EBEE8EB1A4",
+      "coupon_code": "3FB1A23511EBEE8EB1A4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cursor-ai-build-apps/?couponCode=50898B27BA122B7B9518",
+      "coupon_code": "50898B27BA122B7B9518",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6512287_1625_8.jpg",
+      "title": "Cursor Vibe Coding Pro: Build Any App from Scratch with AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/devenir-freelance-nomade/?couponCode=1D2E1D044AEEF707DCE0",
+      "coupon_code": "1D2E1D044AEEF707DCE0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/start-your-freelancing-agency/?couponCode=D5359A51A398BD03C2C4",
+      "coupon_code": "D5359A51A398BD03C2C4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6269857_b5bf_2.jpg",
+      "title": "Start Your One-Person Freelance Agency"
     },
     {
       "url": "https://www.udemy.com/course/ai-for-business-leaders-strategy-genai-automation/?couponCode=AUGFREE03",
