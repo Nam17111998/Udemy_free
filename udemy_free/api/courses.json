@@ -1,81 +1,144 @@
 {
-  "updated_at": "2026-08-12T02:30:02Z",
-  "count": 952,
+  "updated_at": "2026-08-12T04:53:11Z",
+  "count": 959,
   "courses": [
-    {
-      "url": "https://www.udemy.com/course/ai-bible-from-beginner-to-builder-in-100-projects/?couponCode=AUGFREE01",
-      "coupon_code": "AUGFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
     {
       "url": "https://www.udemy.com/course/ai-engineer-associate-certificate-course/?couponCode=AUGFREE01",
       "coupon_code": "AUGFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668957_72d1.jpg",
+      "title": "AI Engineer Associate Certificate Course"
     },
     {
       "url": "https://www.udemy.com/course/ai-engineer-explorer-certificate-course/?couponCode=AUGFREE01",
       "coupon_code": "AUGFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6667275_efc1_3.jpg",
+      "title": "AI Engineer Explorer Certificate Course"
     },
     {
       "url": "https://www.udemy.com/course/ai-engineer-professional-certificate-course/?couponCode=AUGFREE01",
       "coupon_code": "AUGFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6668985_b8fe.jpg",
+      "title": "AI Engineer Professional Certificate Course"
     },
     {
       "url": "https://www.udemy.com/course/ai-product-manager-explorer-certificate/?couponCode=AUGFREE03",
       "coupon_code": "AUGFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/chief-ai-officer-program-lead-ai-strategy-governance/?couponCode=AUGFREE01",
-      "coupon_code": "AUGFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6674999_550c.jpg",
+      "title": "[Technical] AI Product Manager Explorer Certificate"
     },
     {
       "url": "https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=AUGFREE01",
       "coupon_code": "AUGFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6647567_0a67_2.jpg",
+      "title": "Certified Chief Technology Officer(CTO) Mastery Program"
     },
     {
-      "url": "https://www.udemy.com/course/ciberseguridad-101-fundamentos-para-principiantes-absolutos/?couponCode=AUGFREE03",
+      "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=AUGFREE03",
       "coupon_code": "AUGFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=AUGFREE03",
-      "coupon_code": "AUGFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
+      "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
     },
     {
       "url": "https://www.udemy.com/course/es-curso-de-certificacion-profesional-en-ingenieria-de-ia/?couponCode=AUGFREE01",
       "coupon_code": "AUGFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6682597_e2a3_2.jpg",
+      "title": "[ES] Curso de Certificación Profesional en Ingeniería de IA"
     },
     {
       "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=AUGFREE03",
       "coupon_code": "AUGFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6685659_66b9_2.jpg",
+      "title": "[FR] Certificat d’Explorateur en Ingénierie de l’IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-de-ingenieria-en-ia-de-cero-a-heroe-de-la-ia/?couponCode=AUGFREE03",
+      "coupon_code": "AUGFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6581483_07d8_2.jpg",
+      "title": "[ES] Masterclass IA: De Cero a Héroe de la IA"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-vba-excel-automation-reports-dashboards-and-task/?couponCode=1B113BF97AB04E5AD562",
+      "coupon_code": "1B113BF97AB04E5AD562",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6995645_866e_4.jpg",
+      "title": "Microsoft VBA Excel Automation: Reports, Dashboards and Task"
+    },
+    {
+      "url": "https://www.udemy.com/course/modern-web-development-with-javascript-jquery-typescript/?couponCode=F77B2A16EF785F7F65FF",
+      "coupon_code": "F77B2A16EF785F7F65FF",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7005833_07b7_3.jpg",
+      "title": "Modern Web Development with JavaScript, jQuery & TypeScript"
+    },
+    {
+      "url": "https://www.udemy.com/course/ncp-aii-nvidia-certified-professional-ai-infrastructure/?couponCode=AUGFREE01",
+      "coupon_code": "AUGFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583073_4e3b_4.jpg",
+      "title": "SoAI-Certified Professional: AI Infrastructure (NCP-AII)"
+    },
+    {
+      "url": "https://www.udemy.com/course/pivot-tables-microsoft-excel-pivot-table-and-data-analysis/?couponCode=07ED0F27B131BA2F4976",
+      "coupon_code": "07ED0F27B131BA2F4976",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6893679_41d3_2.jpg",
+      "title": "Pivot Tables - Microsoft Excel Pivot Table and Data Analysis"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-complete-course-and-flask-framework-html-2024-edition/?couponCode=3E55EA920FA0654463D2",
+      "coupon_code": "3E55EA920FA0654463D2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5865880_9953.jpg",
+      "title": "Python Complete Course And Flask Framework, HTML Essentials"
+    },
+    {
+      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=AUGFREE03",
+      "coupon_code": "AUGFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-bible-from-beginner-to-builder-in-100-projects/?couponCode=AUGFREE01",
+      "coupon_code": "AUGFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6621193_b307.jpg",
+      "title": "AI Bible: From Beginner to Builder in 100 Projects"
+    },
+    {
+      "url": "https://www.udemy.com/course/chief-ai-officer-program-lead-ai-strategy-governance/?couponCode=AUGFREE01",
+      "coupon_code": "AUGFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6630829_511e_5.jpg",
+      "title": "Certified Chief AI Officer Program: AI Strategy & Governance"
+    },
+    {
+      "url": "https://www.udemy.com/course/ciberseguridad-101-fundamentos-para-principiantes-absolutos/?couponCode=AUGFREE03",
+      "coupon_code": "AUGFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6613559_62db.jpg",
+      "title": "[ES] Ciberseguridad 101: Fundamentos para Principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=AUGFREE03",
+      "coupon_code": "AUGFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6681103_07e8_3.jpg",
+      "title": "[ES] Certificado de Explorador en Ingeniería de IA"
     },
     {
       "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=AUGFREE03",
       "coupon_code": "AUGFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619171_7b62.jpg",
+      "title": "[FR] Méga Classe IA & Python : 300+ Projets Pratiques"
     },
     {
       "url": "https://www.udemy.com/course/mcp-for-leaders-architecting-context-driven-ai/?couponCode=AUGFREE01",
       "coupon_code": "AUGFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6622511_c57c_2.jpg",
+      "title": "MCP for Leaders: Architecting Context-Driven AI"
     },
     {
       "url": "https://www.udemy.com/course/quantum-computing-for-decision-makers-executive-essentials/?couponCode=AUGFREE03",
       "coupon_code": "AUGFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6616381_436e_6.jpg",
+      "title": "Quantum Computing for Decision Makers: Executive Essentials"
     },
     {
       "url": "https://www.udemy.com/course/rag-strategy-execution-build-enterprise-knowledge-systems/?couponCode=AUGFREE01",
       "coupon_code": "AUGFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6619523_2f1d.jpg",
+      "title": "RAG Strategy & Execution: Build Enterprise Knowledge Systems"
     },
     {
       "url": "https://www.udemy.com/course/amazon-afiliados-como-crear-una-pagina-web-de-nicho/?couponCode=AGOSTO082026",
@@ -158,7 +221,8 @@
     {
       "url": "https://www.udemy.com/course/programador-web-php8-laravel-symfony-proyectos-reales-tareas/?couponCode=F432EDBA5FF859FC3560",
       "coupon_code": "F432EDBA5FF859FC3560",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3938284_414c.jpg",
+      "title": "Programación Web desde 0 con PHP 8, Mysql, Laravel y Symfony"
     },
     {
       "url": "https://www.udemy.com/course/universidad-de-elementor-pro-desde-cero-hasta-experto/?couponCode=AGOSTO082026",
@@ -169,7 +233,8 @@
     {
       "url": "https://www.udemy.com/course/cybersecurity-fundamentals-key-concepts-and-strategies/?couponCode=045F4737125E345F434F",
       "coupon_code": "045F4737125E345F434F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6071213_a502_2.jpg",
+      "title": "Cybersecurity Fundamentals: Key Concepts and Strategies"
     },
     {
       "url": "https://www.udemy.com/course/hr-business-acumen-master-finance-business-strategy/?couponCode=PAPAHR_AUG_315675",
@@ -2162,12 +2227,6 @@
       "coupon_code": "AUGFREE03",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
       "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
-    },
-    {
-      "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=AUGFREE03",
-      "coupon_code": "AUGFREE03",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
-      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
     },
     {
       "url": "https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=BDCD883A6E586F7941A7",
