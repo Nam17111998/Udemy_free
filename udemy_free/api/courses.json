@@ -1,11 +1,94 @@
 {
-  "updated_at": "2026-08-13T15:03:42Z",
-  "count": 968,
+  "updated_at": "2026-08-13T17:02:27Z",
+  "count": 983,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-foundation-introduction-to-mcp/?couponCode=FREEAUG2026",
+      "coupon_code": "FREEAUG2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E9F7101185CF49E67",
+      "coupon_code": "C11E9F7101185CF49E67",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-age-gender-detection-using-dnn-opencv-project/?couponCode=63538B238ABF830E9025",
+      "coupon_code": "63538B238ABF830E9025",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-data-science-machine-learning-course/?couponCode=2DCE9B12D8C07E2F9226",
+      "coupon_code": "2DCE9B12D8C07E2F9226",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-end-to-end-chatbot-using-python-streamlit-project/?couponCode=041D2E2AF3AA22A3FDA9",
+      "coupon_code": "041D2E2AF3AA22A3FDA9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-face-recognition-attendance-system-using-knn/?couponCode=F432634BF0692EA96AD3",
+      "coupon_code": "F432634BF0692EA96AD3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-machine-learning-project-using-yolov9/?couponCode=701CA9BAABEC25414A38",
+      "coupon_code": "701CA9BAABEC25414A38",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-portfolio-website-using-html-css-netlify-project/?couponCode=CFD517A73D6C86080FCA",
+      "coupon_code": "CFD517A73D6C86080FCA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-security-engineer-megacourse-from-zero-to-hero/?couponCode=98948279D95407451941",
+      "coupon_code": "98948279D95407451941",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6146827_2025_7.jpg",
+      "title": "Cybersecurity Course 2025 : Beginner to Cybersecurity Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-sqlite-crash-course-from-zero-to-hero/?couponCode=34EFBD7C84FCE2FAFC28",
+      "coupon_code": "34EFBD7C84FCE2FAFC28",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5861030_4c1a_3.jpg",
+      "title": "SQLite Ultimate Course 2025 : From Zero to SQL Expert"
+    },
+    {
+      "url": "https://www.udemy.com/course/equilibre-emotionnel/?couponCode=8927F75031A629296EB8",
+      "coupon_code": "8927F75031A629296EB8",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6873669_dd29_2.jpg",
+      "title": "Motivation et Équilibre Émotionnel. Crée ta Journée Parfaite"
+    },
+    {
+      "url": "https://www.udemy.com/course/finance-for-non-finance-anyone-can-learn-finance/?couponCode=FINANCEAUG100",
+      "coupon_code": "FINANCEAUG100",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5870402_3cfb_7.jpg",
+      "title": "Finance for Non-Finance Professionals: Anyone Can Learn"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-labs-model-context-protocol/?couponCode=FREEAUG2026",
+      "coupon_code": "FREEAUG2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7271245_23f0_2.jpg",
+      "title": "Hands-On Labs Model Context Protocol"
+    },
+    {
+      "url": "https://www.udemy.com/course/vie-sensationnelle/?couponCode=757B5A0D80002A762DE1",
+      "coupon_code": "757B5A0D80002A762DE1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7075243_ecb6_5.jpg",
+      "title": "Transforme ta vie en suivant tes humeurs"
+    },
+    {
+      "url": "https://www.udemy.com/course/voyage-du-minimalisme/?couponCode=8441725C124565BA5EC6",
+      "coupon_code": "8441725C124565BA5EC6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6860025_1f3c_3.jpg",
+      "title": "Liberté et Efficacité : vivre du minimalisme en voyageant"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-cc-masterpiece-unleashing-creative-magic/?couponCode=F5A82735545A00049D4E",
       "coupon_code": "F5A82735545A00049D4E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5575870_3173.jpg",
+      "title": "Adobe Illustrator CC Masterpiece: Unleashing Creative Magic"
     },
     {
       "url": "https://www.udemy.com/course/advanced-ms-word-course-from-beginner-to-expert/?couponCode=589602C579CF39197076",
@@ -16,7 +99,8 @@
     {
       "url": "https://www.udemy.com/course/complete-capcut-for-social-media-video-editing-masterclass/?couponCode=A37FDB874A56642A83E6",
       "coupon_code": "A37FDB874A56642A83E6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6705629_f72d_3.jpg",
+      "title": "Complete CapCut for Social Media Video Editing MasterClass"
     },
     {
       "url": "https://www.udemy.com/course/complete-ms-office-course-masterclass-beginner-to-advanced/?couponCode=3A14113BA0314DB571C1",
@@ -33,22 +117,26 @@
     {
       "url": "https://www.udemy.com/course/graphic-design-masterclass-bootcamp-from-beginner-to-expert/?couponCode=925B3980289C2C893656",
       "coupon_code": "925B3980289C2C893656",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5575874_045f_2.jpg",
+      "title": "Graphic Design Masterclass Bootcamp from Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/hydrogen-energy/?couponCode=8F06B3E75AA30AEFE1DE",
       "coupon_code": "8F06B3E75AA30AEFE1DE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6610041_2059_6.jpg",
+      "title": "Hydrogen Energy Masterclass: From Fundamentals to Profession"
     },
     {
       "url": "https://www.udemy.com/course/master-php-programming-from-beginner-to-advanced-developer/?couponCode=265B4D861932E20E34BA",
       "coupon_code": "265B4D861932E20E34BA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689907_6e6e.jpg",
+      "title": "Master PHP Programming: From Beginner to Advanced Developer"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-word-mastery-essential-skill-for-job-and-business/?couponCode=D8B6BF221AB08A26DCE6",
       "coupon_code": "D8B6BF221AB08A26DCE6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6043410_7f4a.jpg",
+      "title": "Microsoft Word Mastery: Essential Skill for Job and Business"
     },
     {
       "url": "https://www.udemy.com/course/php-with-mysql-2023-build-hotel-booking-management-system/?couponCode=PHPHOTEL64",
@@ -83,12 +171,14 @@
     {
       "url": "https://www.udemy.com/course/the-ultimate-filmora-video-editing-course-beginner-to-pro/?couponCode=21ECAC32E90D9C7F7D85",
       "coupon_code": "21ECAC32E90D9C7F7D85",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5906506_1469.jpg",
+      "title": "The Ultimate Filmora Video Editing Course: Beginner to Pro"
     },
     {
       "url": "https://www.udemy.com/course/canva-for-social-media-graphic-design-and-video-editing/?couponCode=8C438AA910F8DADB0CB7",
       "coupon_code": "8C438AA910F8DADB0CB7",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5896370_2474.jpg",
+      "title": "Canva for Social Media Graphic Design and Video Editing"
     },
     {
       "url": "https://www.udemy.com/course/graphic-design-masterclass-adobe-photoshop-illustrator-indesign-canva/?couponCode=25FA5688CACEA49CC8AE",
