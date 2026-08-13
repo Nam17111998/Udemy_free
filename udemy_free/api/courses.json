@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-13T06:23:15Z",
-  "count": 942,
+  "updated_at": "2026-08-13T08:25:50Z",
+  "count": 951,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/adobe-illustrator-cc-masterpiece-unleashing-creative-magic/?couponCode=F5A82735545A00049D4E",
+      "coupon_code": "F5A82735545A00049D4E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=E5FE4C0A0AC2678E32AE",
       "coupon_code": "E5FE4C0A0AC2678E32AE",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/ai-recruitment/?couponCode=PAPAHR_AUG_980709",
-      "coupon_code": "PAPAHR_AUG_980709",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-robots/?couponCode=PAPAHR_AUG_494685",
-      "coupon_code": "PAPAHR_AUG_494685",
+      "url": "https://www.udemy.com/course/advanced-ms-word-course-from-beginner-to-expert/?couponCode=589602C579CF39197076",
+      "coupon_code": "589602C579CF39197076",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -28,13 +28,69 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/knowledge-management-new/?couponCode=PAPAHR_AUG_466869",
-      "coupon_code": "PAPAHR_AUG_466869",
+      "url": "https://www.udemy.com/course/graphic-design-masterclass-bootcamp-from-beginner-to-expert/?couponCode=925B3980289C2C893656",
+      "coupon_code": "925B3980289C2C893656",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=04D0BA2ACCFE1D3801F8",
       "coupon_code": "04D0BA2ACCFE1D3801F8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-international-recruitment/?couponCode=PAPAHR_AUG_564248",
+      "coupon_code": "PAPAHR_AUG_564248",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/organizational-design-structure-matrix-functional-model/?couponCode=PAPAHR_AUG_820322",
+      "coupon_code": "PAPAHR_AUG_820322",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6531361_1b04_6.jpg",
+      "title": "Organizational Structure: Org Design Course for Leaders [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/perplexity-ai-transform-your-research-and-writing-workflow/?couponCode=DCF4ED10651311C88714",
+      "coupon_code": "DCF4ED10651311C88714",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-hotel-booking-management-system/?couponCode=PHPHOTEL64",
+      "coupon_code": "PHPHOTEL64",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-based-professional-photoshop/?couponCode=76D0A8917BB4DA544B3A",
+      "coupon_code": "76D0A8917BB4DA544B3A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/t-shirt-design-for-beginner-to-expert-with-photoshop/?couponCode=1C7A4A1457E654A409DE",
+      "coupon_code": "1C7A4A1457E654A409DE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/tensorflow-course-basic-to-advanced-neural-network-beyond/?couponCode=EC7FDC68EAF74FF7737E",
+      "coupon_code": "EC7FDC68EAF74FF7737E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-sql-course-from-zero-to-data-analyst/?couponCode=06A14E63C664819D704C",
+      "coupon_code": "06A14E63C664819D704C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-recruitment/?couponCode=PAPAHR_AUG_980709",
+      "coupon_code": "PAPAHR_AUG_980709",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-robots/?couponCode=PAPAHR_AUG_494685",
+      "coupon_code": "PAPAHR_AUG_494685",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/knowledge-management-new/?couponCode=PAPAHR_AUG_466869",
+      "coupon_code": "PAPAHR_AUG_466869",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -56,17 +112,6 @@
       "url": "https://www.udemy.com/course/mastering-internal-communication/?couponCode=PAPAHR_AUG_684583",
       "coupon_code": "PAPAHR_AUG_684583",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-international-recruitment/?couponCode=PAPAHR_AUG_564248",
-      "coupon_code": "PAPAHR_AUG_564248",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/organizational-design-structure-matrix-functional-model/?couponCode=PAPAHR_AUG_820322",
-      "coupon_code": "PAPAHR_AUG_820322",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6531361_1b04_6.jpg",
-      "title": "Organizational Structure: Org Design Course for Leaders [EN]"
     },
     {
       "url": "https://www.udemy.com/course/personality-types-new/?couponCode=PAPAHR_AUG_508922",
