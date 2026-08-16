@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-08-16T05:34:08Z",
-  "count": 934,
+  "updated_at": "2026-08-16T06:51:10Z",
+  "count": 949,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/back-pain-between-fact-and-fiction/?couponCode=DF4D090587DAB3A5B991",
+      "coupon_code": "DF4D090587DAB3A5B991",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-and-c-for-beginners-step-by-step-to-mastery/?couponCode=6111F33E185344B5EBAE",
+      "coupon_code": "6111F33E185344B5EBAE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/emergency-medicine-for-medical-professionals/?couponCode=24E8BD15B43B15AB5D5D",
+      "coupon_code": "24E8BD15B43B15AB5D5D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/from-milk-to-magic-the-transformative-power-of-cheesemaking/?couponCode=8AA3AF6EB694159FBA2C",
+      "coupon_code": "8AA3AF6EB694159FBA2C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=F4B15ECCFA684E7841D4",
+      "coupon_code": "F4B15ECCFA684E7841D4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hematology-theory-and-practice-for-medical-students/?couponCode=D508BD831D356C822813",
+      "coupon_code": "D508BD831D356C822813",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/inventory-supply-chain-management-for-warehouse-excellence/?couponCode=385D590DCF9FF4F79561",
+      "coupon_code": "385D590DCF9FF4F79561",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/?couponCode=1CD0780ED5717D9377AE",
+      "coupon_code": "1CD0780ED5717D9377AE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5380132_3dad.jpg",
+      "title": "Learn HTML and CSS from Beginning to Advanced"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=FDE0B4C140F37814846E",
+      "coupon_code": "FDE0B4C140F37814846E",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-t-shirt-design-with-adobe-photoshop-and-illustrator/?couponCode=D573DEFBC5D3FD68AB60",
+      "coupon_code": "D573DEFBC5D3FD68AB60",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-essentials-build-intelligent-models/?couponCode=4FD2576C5DFA88CD099A",
+      "coupon_code": "4FD2576C5DFA88CD099A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/medical-genetics-n/?couponCode=1A36E39B6B12C7914904",
+      "coupon_code": "1A36E39B6B12C7914904",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-with-machine-learning-start-building-ai-models-today/?couponCode=92B59C6C840210A1049B",
+      "coupon_code": "92B59C6C840210A1049B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/safeguarding-adults-vulnerable-people-expert-training/?couponCode=6A9740196961FBBAD8DE",
+      "coupon_code": "6A9740196961FBBAD8DE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/waste-and-environmental-management-for-sustainability/?couponCode=11E982FE669F7646C9C4",
+      "coupon_code": "11E982FE669F7646C9C4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/bases-de-datos-con-mysql-y-mongodb/?couponCode=AUG15-5599966",
       "coupon_code": "AUG15-5599966",
@@ -80,32 +156,38 @@
     {
       "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7101185CF29E67",
       "coupon_code": "C11E7F7101185CF29E67",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7126561_0c10_10.jpg",
+      "title": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course"
     },
     {
       "url": "https://www.udemy.com/course/medical-ethics-for-medical-students-health-care-professional/?couponCode=D12144B70D57E9B1B3A2",
       "coupon_code": "D12144B70D57E9B1B3A2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6231001_39f4_2.jpg",
+      "title": "Medical Ethics, Professionalism & Healthcare Law"
     },
     {
       "url": "https://www.udemy.com/course/oncology-understanding-cancer-biology-diagnosis-treatments/?couponCode=111763D04560BA3F52B3",
       "coupon_code": "111763D04560BA3F52B3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5957986_9be4_3.jpg",
+      "title": "Oncology: Understanding Cancer Biology, Diagnosis  Treatment"
     },
     {
       "url": "https://www.udemy.com/course/abc-of-ear-nose-and-throat-ent-disorders/?couponCode=1134CB522812AEE6C27B",
       "coupon_code": "1134CB522812AEE6C27B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6515889_8540_3.jpg",
+      "title": "Mastering ENT Disorders: Diagnosis & Treatment"
     },
     {
       "url": "https://www.udemy.com/course/dashboards-profesionales-con-microsoft-excel-y-power-bi/?couponCode=AUG15-5599950",
       "coupon_code": "AUG15-5599950",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5599950_2b20_2.jpg",
+      "title": "Dashboards Profesionales con Microsoft Excel y Power BI"
     },
     {
       "url": "https://www.udemy.com/course/graphics-design-video-editing-for-beginner-to-advanced/?couponCode=1F05B140C45727377C3E",
       "coupon_code": "1F05B140C45727377C3E",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4991562_40d9.jpg",
+      "title": "Essential Photoshop Course for Beginner to Advanced"
     },
     {
       "url": "https://www.udemy.com/course/become-a-certified-people-partner-your-path-to-a-rewarding/?couponCode=PAPAHR_AUG_361546",
@@ -230,7 +312,8 @@
     {
       "url": "https://www.udemy.com/course/data-center-design-it-infrastructure-it-fundamentals/?couponCode=EDB9B1EC5AF5356EB08F",
       "coupon_code": "EDB9B1EC5AF5356EB08F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6425259_c28a_6.jpg",
+      "title": "Data Center IT Infrastructure: Data Center IT Fundamentals"
     },
     {
       "url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/?couponCode=26D2DB519674017A3022",
@@ -349,7 +432,8 @@
     {
       "url": "https://www.udemy.com/course/java-programming-masterclass-from-beginner-to-expert-i/?couponCode=C1FB5A76E0408BC0D791",
       "coupon_code": "C1FB5A76E0408BC0D791",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7056365_3441.jpg",
+      "title": "Java Programming Masterclass: From Beginner to Expert"
     },
     {
       "url": "https://www.udemy.com/course/keyword-research-masterclass-2026-find-profitable-keywords/?couponCode=59277A9EFC389EC0FC0D",
@@ -646,7 +730,8 @@
     {
       "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=13THAUG26",
       "coupon_code": "13THAUG26",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6242471_19f3.jpg",
+      "title": "Workplace Productivity - Supporting Others Through Change"
     },
     {
       "url": "https://www.udemy.com/course/assessment-center/?couponCode=PAPAHR_AUG_763762",
@@ -667,7 +752,8 @@
     {
       "url": "https://www.udemy.com/course/employee-experience-mastery/?couponCode=PAPAHR_AUG_503960",
       "coupon_code": "PAPAHR_AUG_503960",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6445931_7779_4.jpg",
+      "title": "Employee Experience Course: EX Journey & Engagement [EN]"
     },
     {
       "url": "https://www.udemy.com/course/hr-metrics-new/?couponCode=PAPAHR_AUG_413804",
@@ -945,7 +1031,8 @@
     {
       "url": "https://www.udemy.com/course/complete-face-recognition-attendance-system-using-knn/?couponCode=F432634BF0692EA96AD3",
       "coupon_code": "F432634BF0692EA96AD3",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5937084_16d3_3.jpg",
+      "title": "Face Recognition Attendance Project Using Machine Learning"
     },
     {
       "url": "https://www.udemy.com/course/complete-security-engineer-megacourse-from-zero-to-hero/?couponCode=98948279D95407451941",
