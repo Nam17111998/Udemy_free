@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-08-16T18:37:39Z",
-  "count": 904,
+  "updated_at": "2026-08-16T19:25:50Z",
+  "count": 919,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/?couponCode=AUG15-5043548",
+      "coupon_code": "AUG15-5043548",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming-y-python/?couponCode=AUG15-5511332",
+      "coupon_code": "AUG15-5511332",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/classroom-management-with-child-psychology-safeguarding/?couponCode=ED3B30DC507819CE177D",
+      "coupon_code": "ED3B30DC507819CE177D",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-workplace-first-aid-skills-for-employee-safety/?couponCode=13F40A7E8E2DCDC4C5E0",
+      "coupon_code": "13F40A7E8E2DCDC4C5E0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/examen-mo-200-microsoft-excel-office-2019/?couponCode=AUG15-5345672",
+      "coupon_code": "AUG15-5345672",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/?couponCode=AUG15-5512766",
+      "coupon_code": "AUG15-5512766",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/gdpr-compliance-eu-data-privacy-rights/?couponCode=590047B387EDF4A101F9",
+      "coupon_code": "590047B387EDF4A101F9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/handling-sensitive-information-in-caregiving/?couponCode=23CE2EFFDC548C94C89C",
+      "coupon_code": "23CE2EFFDC548C94C89C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-access-desde-cero/?couponCode=AUG15-4914458",
+      "coupon_code": "AUG15-4914458",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-desde-cero/?couponCode=AUG15-4960314",
+      "coupon_code": "AUG15-4960314",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mongodb-aprende-los-fundamentos-de-las-bases-de-datos-nosql/?couponCode=AUG15-5107788",
+      "coupon_code": "AUG15-5107788",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-analisis-de-proyectos-reales/?couponCode=AUG15-5179612",
+      "coupon_code": "AUG15-5179612",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-desde-cero-analisis-de-datos/?couponCode=AUG15-4868138",
+      "coupon_code": "AUG15-4868138",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/supporting-autism-dyslexia-in-early-childhood-education/?couponCode=BCEE8D1C279C1790E54F",
+      "coupon_code": "BCEE8D1C279C1790E54F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/trading-de-opciones-manual/?couponCode=AUG15-5593668",
+      "coupon_code": "AUG15-5593668",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/como-crear-un-blog-de-exito-paso-a-paso/?couponCode=AGOSTO082026",
       "coupon_code": "AGOSTO082026",
@@ -576,12 +651,14 @@
     {
       "url": "https://www.udemy.com/course/data-center-design-hvac-engineering-systems/?couponCode=6906D46315B917429EB9",
       "coupon_code": "6906D46315B917429EB9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6310943_b542.jpg",
+      "title": "Data Center HVAC Design & Infrastructure (Dual Certificate)"
     },
     {
       "url": "https://www.udemy.com/course/data-center-infrastructure-design-fire-fighting-basics/?couponCode=62937AD4D610D796F4FA",
       "coupon_code": "62937AD4D610D796F4FA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6573093_e04c.jpg",
+      "title": "Data Center Infrastructure & Design: Fire Fighting Design"
     },
     {
       "url": "https://www.udemy.com/course/web-development-beginners-to-advanced/?couponCode=46F884510214E16E5F42",
@@ -1137,7 +1214,8 @@
     {
       "url": "https://www.udemy.com/course/sphri-certification-exam/?couponCode=PAPAHR_AUG_702259",
       "coupon_code": "PAPAHR_AUG_702259",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6490725_cd1d_5.jpg",
+      "title": "SPHRi Exam Prep: HRCI Senior Professional HR Course [EN]"
     },
     {
       "url": "https://www.udemy.com/course/work-rules-laszlo-bock-amazon-book/?couponCode=PAPAHR_AUG_355499",
