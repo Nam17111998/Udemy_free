@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-18T19:32:49Z",
-  "count": 986,
+  "updated_at": "2026-08-18T20:31:17Z",
+  "count": 995,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/aprende-react-sin-dolor/?couponCode=03F9122E0AEF0C31BAB1",
+      "coupon_code": "03F9122E0AEF0C31BAB1",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4534418_a154.jpg",
+      "title": "Aprende React sin dolor"
+    },
+    {
+      "url": "https://www.udemy.com/course/aprende-sql-desde-cero-curso-con-mas-de-100-ejercicios/?couponCode=AUG15-3756262",
+      "coupon_code": "AUG15-3756262",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/csharp-for-beginner/?couponCode=524744740036885DC4AA",
+      "coupon_code": "524744740036885DC4AA",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6303895_556b.jpg",
+      "title": "C# for Beginner"
+    },
+    {
+      "url": "https://www.udemy.com/course/el-curso-completo-de-google-sheets-desde-cero/?couponCode=AUG15-3694482",
+      "coupon_code": "AUG15-3694482",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduccion-a-bootstrap-5/?couponCode=DECD5FCC509C92854467",
+      "coupon_code": "DECD5FCC509C92854467",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3801926_4984.jpg",
+      "title": "Introducción a Bootstrap 5"
+    },
+    {
+      "url": "https://www.udemy.com/course/introduccion-a-python-d/?couponCode=F0E0113DEDCABE27197F",
+      "coupon_code": "F0E0113DEDCABE27197F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2466476_5d40.jpg",
+      "title": "Introducción a Python"
+    },
+    {
+      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=AUGUSTFREE2026",
+      "coupon_code": "AUGUSTFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6949313_7782_4.jpg",
+      "title": "Language Learning with AI: Practical Skills Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-de-la-a-a-la-z/?couponCode=AUG15-3109394",
+      "coupon_code": "AUG15-3109394",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-intermedio/?couponCode=AUG15-3593486",
+      "coupon_code": "AUG15-3593486",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-2021-proyectos-reales-para-volverte-un-master/?couponCode=AUG15-4004864",
+      "coupon_code": "AUG15-4004864",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/power-bi-desde-cero/?couponCode=AUG15-3944270",
+      "coupon_code": "AUG15-3944270",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-3-analisis-y-visualizacion-de-datos/?couponCode=AUG15-3655814",
+      "coupon_code": "AUG15-3655814",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-3-plus-python-desde-cero-data-analysis-y-matplot/?couponCode=AUG15-3756288",
+      "coupon_code": "AUG15-3756288",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/secure-code-java-spring-boot-learnit/?couponCode=AUGUSTFREE2026",
+      "coupon_code": "AUGUSTFREE2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6705809_864e.jpg",
+      "title": "Secure Code in Java and Spring Boot: Build Resilient Apps"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-creacion-de-bd/?couponCode=AUG15-3456530",
+      "coupon_code": "AUG15-3456530",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-for-customer-experience-learnit/?couponCode=AUGUSTFREE2026",
       "coupon_code": "AUGUSTFREE2026",
@@ -21,46 +102,16 @@
       "title": "AI Security Fundamentals: Risks, Frameworks & Tools"
     },
     {
-      "url": "https://www.udemy.com/course/aprende-react-sin-dolor/?couponCode=03F9122E0AEF0C31BAB1",
-      "coupon_code": "03F9122E0AEF0C31BAB1",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4534418_a154.jpg",
-      "title": "Aprende React sin dolor"
-    },
-    {
       "url": "https://www.udemy.com/course/code-reviews-learnit/?couponCode=AUGUSTFREE2026",
       "coupon_code": "AUGUSTFREE2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5865706_cb98_2.jpg",
       "title": "Code Reviews for Secure, Clean, and Scalable Code"
     },
     {
-      "url": "https://www.udemy.com/course/csharp-for-beginner/?couponCode=524744740036885DC4AA",
-      "coupon_code": "524744740036885DC4AA",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6303895_556b.jpg",
-      "title": "C# for Beginner"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduccion-a-bootstrap-5/?couponCode=DECD5FCC509C92854467",
-      "coupon_code": "DECD5FCC509C92854467",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/3801926_4984.jpg",
-      "title": "Introducción a Bootstrap 5"
-    },
-    {
-      "url": "https://www.udemy.com/course/introduccion-a-python-d/?couponCode=F0E0113DEDCABE27197F",
-      "coupon_code": "F0E0113DEDCABE27197F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/2466476_5d40.jpg",
-      "title": "Introducción a Python"
-    },
-    {
       "url": "https://www.udemy.com/course/java-best-practices-learnit/?couponCode=AUGUSTFREE2026",
       "coupon_code": "AUGUSTFREE2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5853316_3240_4.jpg",
       "title": "Java Best Practices for Efficient, Scalable, and Secure Code"
-    },
-    {
-      "url": "https://www.udemy.com/course/language-learning-with-ai-learnit/?couponCode=AUGUSTFREE2026",
-      "coupon_code": "AUGUSTFREE2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6949313_7782_4.jpg",
-      "title": "Language Learning with AI: Practical Skills Guide"
     },
     {
       "url": "https://www.udemy.com/course/oracle-java-17-ocp-certification-learnit/?couponCode=AUGUSTFREE2026",
@@ -79,12 +130,6 @@
       "coupon_code": "AUGUSTFREE2026",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6643217_e2ee.jpg",
       "title": "Data-Driven Quality Assurance & Quality Control: Metrics/KPI"
-    },
-    {
-      "url": "https://www.udemy.com/course/secure-code-java-spring-boot-learnit/?couponCode=AUGUSTFREE2026",
-      "coupon_code": "AUGUSTFREE2026",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6705809_864e.jpg",
-      "title": "Secure Code in Java and Spring Boot: Build Resilient Apps"
     },
     {
       "url": "https://www.udemy.com/course/securing-ai-applications-learnit/?couponCode=AUGUSTFREE2026",
