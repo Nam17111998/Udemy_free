@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-08-18T03:02:00Z",
-  "count": 915,
+  "updated_at": "2026-08-18T04:42:02Z",
+  "count": 919,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/?couponCode=4C3CBBE8D78FF978C01F",
+      "coupon_code": "4C3CBBE8D78FF978C01F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/curso-basico-de-postgresql/?couponCode=49CB9957D1F7C8D16C88",
       "coupon_code": "49CB9957D1F7C8D16C88",
@@ -23,28 +28,28 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/javascript-desde-cero-con-nodejs/?couponCode=AUG15-4339782",
-      "coupon_code": "AUG15-4339782",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/leadership-in-the-modern-age/?couponCode=AI2026",
       "coupon_code": "AI2026",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/leadershipdiploma/?couponCode=755418BFF06E91FA3B31",
-      "coupon_code": "755418BFF06E91FA3B31",
+      "url": "https://www.udemy.com/course/mastering-microsoft-word-for-everyone-a-step-by-step-guide/?couponCode=1F4528348DD7569C6F93",
+      "coupon_code": "1F4528348DD7569C6F93",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/master-class-de-nft-aprende-todo-sobre-nft/?couponCode=AUG15-4363796",
-      "coupon_code": "AUG15-4363796",
+      "url": "https://www.udemy.com/course/microsoft-excel-master-formulas-functions-and-data-tools/?couponCode=7E6844C095C2A3DCD384",
+      "coupon_code": "7E6844C095C2A3DCD384",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/mongodb-aprende-desde-cero/?couponCode=AUG15-4110700",
       "coupon_code": "AUG15-4110700",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-powerpoint-course-present-with-confidence-creativity/?couponCode=CFB58964B753C5BFE9E9",
+      "coupon_code": "CFB58964B753C5BFE9E9",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -68,13 +73,28 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/python-machine-learning-desde-cero/?couponCode=AUG15-4510728",
-      "coupon_code": "AUG15-4510728",
+      "url": "https://www.udemy.com/course/the-complete-guide-for-goal-achievement-in-21-days-challenge/?couponCode=528AC017B3FFE5CD5A69",
+      "coupon_code": "528AC017B3FFE5CD5A69",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/the-complete-guide-for-goal-achievement-in-21-days-challenge/?couponCode=528AC017B3FFE5CD5A69",
-      "coupon_code": "528AC017B3FFE5CD5A69",
+      "url": "https://www.udemy.com/course/javascript-desde-cero-con-nodejs/?couponCode=AUG15-4339782",
+      "coupon_code": "AUG15-4339782",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/leadershipdiploma/?couponCode=755418BFF06E91FA3B31",
+      "coupon_code": "755418BFF06E91FA3B31",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-class-de-nft-aprende-todo-sobre-nft/?couponCode=AUG15-4363796",
+      "coupon_code": "AUG15-4363796",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-machine-learning-desde-cero/?couponCode=AUG15-4510728",
+      "coupon_code": "AUG15-4510728",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -582,7 +602,8 @@
     {
       "url": "https://www.udemy.com/course/master-tally-prime-basic-to-advance/?couponCode=230328C37657EFE78932",
       "coupon_code": "230328C37657EFE78932",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5416482_4f49_3.jpg",
+      "title": "Tally Prime Basic to Advance with GST, Payroll, TDS & more"
     },
     {
       "url": "https://www.udemy.com/course/sap-ui5-fiori-essentials-beginners-complete-walkthrough/?couponCode=EB770C1725BFF293B0CD",
