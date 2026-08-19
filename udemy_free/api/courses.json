@@ -1,7 +1,86 @@
 {
-  "updated_at": "2026-08-19T17:32:05Z",
-  "count": 931,
+  "updated_at": "2026-08-19T18:44:10Z",
+  "count": 946,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/data-mesh-a-modern-decentralized-data-management-concept/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-sonification-using-two-tone-convert-your-data-to-music/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass-course/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotional-intelligence-for-software-engineers-and-developers/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/essential-non-technical-skills-of-effective-data-scientists/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/google-data-studio-complete-beginners-to-advanced-tutorial/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/most-effective-tips-to-get-your-dream-data-science-job/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/no-code-machine-learning-with-qlik-automl/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/project-and-product-management-frameworks-methodologies-masterclass/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/quantum-computing-fundamentals-with-microsoft-azure-quantum/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4588234_91b1_2.jpg",
+      "title": "Quantum Computing Fundamentals with Microsoft Azure Quantum"
+    },
+    {
+      "url": "https://www.udemy.com/course/scrum-certification-course-based-on-scrum-guide-latest-version/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4498382_befc_2.jpg",
+      "title": "Scrum Certification Course (Based on Scrum Guide 2020)"
+    },
+    {
+      "url": "https://www.udemy.com/course/tibco-spotfire-development-beginners-to-advanced-course/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3989930_92f5.jpg",
+      "title": "TIBCO Spotfire Development : Beginners To Advanced Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/tibco-spotfire-interview-technical-questions-answered-with-explanation/?couponCode=AUGUST_2026",
+      "coupon_code": "AUGUST_2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3829756_90c0_3.jpg",
+      "title": "Spotfire Interview Tech Questions Answered with Explanation"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-indesign-cc-mastery-course/?couponCode=AE2DC1F6AB393D323A92",
       "coupon_code": "AE2DC1F6AB393D323A92",
@@ -23,7 +102,8 @@
     {
       "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=9C537C5EBCA51DA64BA1",
       "coupon_code": "9C537C5EBCA51DA64BA1",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6119481_61ba.jpg",
+      "title": "C, C++ and PHP: Comprehensive Programming Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/code-reviews-learnit/?couponCode=AUGUSTFREE2026",
@@ -46,12 +126,14 @@
     {
       "url": "https://www.udemy.com/course/pgd-fire-safety-management/?couponCode=7BECAA975192771CB497",
       "coupon_code": "7BECAA975192771CB497",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6669417_e4e2_2.jpg",
+      "title": "Postgraduate Diploma in Fire Safety Management (PGDFSM)"
     },
     {
       "url": "https://www.udemy.com/course/pgdinscem/?couponCode=BCBB9C5CD241968870BB",
       "coupon_code": "BCBB9C5CD241968870BB",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6669423_321e_2.jpg",
+      "title": "Postgraduate Diploma in Supply Chain Engineering Management"
     },
     {
       "url": "https://www.udemy.com/course/revenue-operations-intelligence-revops-roi-blueprint/?couponCode=FBDB73BA2BCB2242B0D6",
@@ -62,7 +144,8 @@
     {
       "url": "https://www.udemy.com/course/salesforce-fundamentals-a-complete-guide-for-beginners/?couponCode=2696DD19B99766EE6F95",
       "coupon_code": "2696DD19B99766EE6F95",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5668638_f94e_2.jpg",
+      "title": "Salesforce Fundamentals : A Complete Guide for Beginners"
     },
     {
       "url": "https://www.udemy.com/course/secure-code-java-spring-boot-learnit/?couponCode=AUGUSTFREE2026",
@@ -97,7 +180,8 @@
     {
       "url": "https://www.udemy.com/course/javascript-fundamentals-to-advanced-full-stack-development/?couponCode=4D82DEEE7F1F08F2B1F4",
       "coupon_code": "4D82DEEE7F1F08F2B1F4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6122347_5db0_2.jpg",
+      "title": "JavaScript Fundamentals to Advanced: Full Stack Development"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-office-and-google-workspace-masterclass/?couponCode=B4E6FC300E1D0A2CF354",
