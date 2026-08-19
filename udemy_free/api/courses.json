@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-08-19T11:31:12Z",
-  "count": 920,
+  "updated_at": "2026-08-19T12:59:10Z",
+  "count": 929,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/advanced-capcut-course-learn-professional-video-editing/?couponCode=2ACCB8836F1FB9EB09F4",
+      "coupon_code": "2ACCB8836F1FB9EB09F4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-powerpoint-course-for-professional-and-job-success/?couponCode=01AB6A23E267CA07F6B2",
+      "coupon_code": "01AB6A23E267CA07F6B2",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5182934_d5cc.jpg",
+      "title": "Advanced PowerPoint Course For Professional and Job Success"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-c-and-php-comprehensive-programming-bootcamp/?couponCode=9C537C5EBCA51DA64BA1",
+      "coupon_code": "9C537C5EBCA51DA64BA1",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-ai-masterclass-ai-search-insights-productivity/?couponCode=E024C9861713EACCA5F6",
+      "coupon_code": "E024C9861713EACCA5F6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-analysis-for-professionals-and-analysts/?couponCode=688683D98A5422616F54",
+      "coupon_code": "688683D98A5422616F54",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=A3F9F36F56F46009BFDA",
+      "coupon_code": "A3F9F36F56F46009BFDA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-python-data-science-data-science-bootcamp/?couponCode=2D60243B7FD83B835A7C",
+      "coupon_code": "2D60243B7FD83B835A7C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=8DE3C02479E9736EE697",
+      "coupon_code": "8DE3C02479E9736EE697",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-fundamentals-to-advanced-full-stack-development/?couponCode=4D82DEEE7F1F08F2B1F4",
+      "coupon_code": "4D82DEEE7F1F08F2B1F4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=82FE4385278E02027D5F",
+      "coupon_code": "82FE4385278E02027D5F",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5198550_8207.jpg",
+      "title": "Learn Blockchain and Crypto from Beginning"
+    },
+    {
+      "url": "https://www.udemy.com/course/master-microsoft-word-for-business-and-career-success/?couponCode=003A9CC70A31A37130C7",
+      "coupon_code": "003A9CC70A31A37130C7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-social-media-marketing-a-comprehensive-guide/?couponCode=2935A32E1A6EB8A263A0",
+      "coupon_code": "2935A32E1A6EB8A263A0",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6160915_d7bd_5.jpg",
+      "title": "Mastering Social Media Marketing: A Comprehensive Guide"
+    },
+    {
+      "url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/?couponCode=77212568571C9A435294",
+      "coupon_code": "77212568571C9A435294",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-programming-the-complete-course-for-success/?couponCode=25FD3D2E11BC84EEC2D0",
+      "coupon_code": "25FD3D2E11BC84EEC2D0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/salesforce-fundamentals-a-complete-guide-for-beginners/?couponCode=2696DD19B99766EE6F95",
+      "coupon_code": "2696DD19B99766EE6F95",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/adobe-indesign-cc-mastery-course/?couponCode=AE2DC1F6AB393D323A92",
       "coupon_code": "AE2DC1F6AB393D323A92",
@@ -15,43 +93,10 @@
       "title": "Adobe Premier Pro - Learn the Basics for Free"
     },
     {
-      "url": "https://www.udemy.com/course/advanced-capcut-course-learn-professional-video-editing/?couponCode=2ACCB8836F1FB9EB09F4",
-      "coupon_code": "2ACCB8836F1FB9EB09F4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/advanced-powerpoint-course-for-professional-and-job-success/?couponCode=01AB6A23E267CA07F6B2",
-      "coupon_code": "01AB6A23E267CA07F6B2",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5182934_d5cc.jpg",
-      "title": "Advanced PowerPoint Course For Professional and Job Success"
-    },
-    {
       "url": "https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=673A07C8AF0046C6F851",
       "coupon_code": "673A07C8AF0046C6F851",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5238908_582c.jpg",
       "title": "Essential Lightroom Course for Beginner to Advanced"
-    },
-    {
-      "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=A3F9F36F56F46009BFDA",
-      "coupon_code": "A3F9F36F56F46009BFDA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=8DE3C02479E9736EE697",
-      "coupon_code": "8DE3C02479E9736EE697",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=82FE4385278E02027D5F",
-      "coupon_code": "82FE4385278E02027D5F",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/5198550_8207.jpg",
-      "title": "Learn Blockchain and Crypto from Beginning"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-social-media-marketing-a-comprehensive-guide/?couponCode=2935A32E1A6EB8A263A0",
-      "coupon_code": "2935A32E1A6EB8A263A0",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/6160915_d7bd_5.jpg",
-      "title": "Mastering Social Media Marketing: A Comprehensive Guide"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-office-and-google-workspace-masterclass/?couponCode=B4E6FC300E1D0A2CF354",
