@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-22T11:26:16Z",
-  "count": 934,
+  "updated_at": "2026-08-22T12:51:52Z",
+  "count": 937,
   "courses": [
     {
       "url": "https://www.udemy.com/course/all-in-one-video-editing-master-in-capcut-premiere-pro-canva/?couponCode=4B13A741702A0614D63B",
       "coupon_code": "4B13A741702A0614D63B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=13THAUG26",
+      "coupon_code": "13THAUG26",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -15,6 +20,11 @@
     {
       "url": "https://www.udemy.com/course/concentration-ultime/?couponCode=1D43F18212B5C3876D0A",
       "coupon_code": "1D43F18212B5C3876D0A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-microsoft-excel-formulas-and-functions-for-beginners/?couponCode=8C3E30FED109DD3CBBF2",
+      "coupon_code": "8C3E30FED109DD3CBBF2",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -30,11 +40,6 @@
       "title": "Financial Services - Overview of Retail Banking"
     },
     {
-      "url": "https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-development/?couponCode=2AE928F23A2554B0EF2C",
-      "coupon_code": "2AE928F23A2554B0EF2C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/html-5-with-quizzes-and-python-3-complete-course-2023/?couponCode=ED79A7D541B6130293AE",
       "coupon_code": "ED79A7D541B6130293AE",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -45,8 +50,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/php-codeigniter-4-build-restaurant-management-system-2025/?couponCode=CIRESTURANT54",
-      "coupon_code": "CIRESTURANT54",
+      "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/?couponCode=987C0F56EC11EB00060F",
+      "coupon_code": "987C0F56EC11EB00060F",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -60,13 +65,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/reactjs-the-complete-reactjs-course-for-beginners/?couponCode=D9E68B6B456247F499FF",
-      "coupon_code": "D9E68B6B456247F499FF",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/?couponCode=65D41083EF1B7F714CBA",
-      "coupon_code": "65D41083EF1B7F714CBA",
+      "url": "https://www.udemy.com/course/supporting-autism-dyslexia-in-early-childhood-education/?couponCode=979D0D24917C9D64F195",
+      "coupon_code": "979D0D24917C9D64F195",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -81,13 +81,28 @@
       "title": "Workplace Productivity - Supporting Others Through Change"
     },
     {
-      "url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/?couponCode=E312A66F5E84AB0EA8EC",
-      "coupon_code": "E312A66F5E84AB0EA8EC",
+      "url": "https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-development/?couponCode=2AE928F23A2554B0EF2C",
+      "coupon_code": "2AE928F23A2554B0EF2C",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=13THAUG26",
-      "coupon_code": "13THAUG26",
+      "url": "https://www.udemy.com/course/php-codeigniter-4-build-restaurant-management-system-2025/?couponCode=CIRESTURANT54",
+      "coupon_code": "CIRESTURANT54",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/reactjs-the-complete-reactjs-course-for-beginners/?couponCode=D9E68B6B456247F499FF",
+      "coupon_code": "D9E68B6B456247F499FF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/?couponCode=65D41083EF1B7F714CBA",
+      "coupon_code": "65D41083EF1B7F714CBA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/?couponCode=E312A66F5E84AB0EA8EC",
+      "coupon_code": "E312A66F5E84AB0EA8EC",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
