@@ -1,10 +1,84 @@
 {
-  "updated_at": "2026-08-22T20:30:11Z",
-  "count": 959,
+  "updated_at": "2026-08-22T21:27:59Z",
+  "count": 971,
   "courses": [
     {
       "url": "https://www.udemy.com/course/ab-100-microsoft-certified-agentic-ai-business-solutions-h/?couponCode=831044C5512B7056DDC9",
       "coupon_code": "831044C5512B7056DDC9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/agentic-coding-full-stack-java-apps-with-cursor-and-copilot/?couponCode=AE2B1625DFF794422D1B",
+      "coupon_code": "AE2B1625DFF794422D1B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-visual-design-with-adobe-firefly/?couponCode=311E68756C8F6CCDE773",
+      "coupon_code": "311E68756C8F6CCDE773",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6744653_4b0c_2.jpg",
+      "title": "AI Visual Design with Adobe Firefly"
+    },
+    {
+      "url": "https://www.udemy.com/course/amazon-fba-guide/?couponCode=5F83D3BD6913C4ADFC9E",
+      "coupon_code": "5F83D3BD6913C4ADFC9E",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5936954_f996.jpg",
+      "title": "Amazon FBA Guide: From Zero to Seller"
+    },
+    {
+      "url": "https://www.udemy.com/course/brand-management-with-generative-ai-q/?couponCode=6E40CD879320CAEDF1B4",
+      "coupon_code": "6E40CD879320CAEDF1B4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6770165_5997_2.jpg",
+      "title": "Brand Management with Generative AI"
+    },
+    {
+      "url": "https://www.udemy.com/course/building-ai-integrations-with-model-context-protocol-mcp/?couponCode=07A0287F8074BCEFFED6",
+      "coupon_code": "07A0287F8074BCEFFED6",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7013355_6cd8_3.jpg",
+      "title": "Building AI Integrations with Model Context Protocol (MCP)"
+    },
+    {
+      "url": "https://www.udemy.com/course/building-ai-voice-agents-with-elevenlabs/?couponCode=77CC6AB299896BE74D14",
+      "coupon_code": "77CC6AB299896BE74D14",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/?couponCode=CD15D38E7C9F15CDDFAF",
+      "coupon_code": "CD15D38E7C9F15CDDFAF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/business-analysis-for-executives-with-microsoft-copilot/?couponCode=756571E5F2FE1912CCAF",
+      "coupon_code": "756571E5F2FE1912CCAF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ceo-playbook-generative-ai-/?couponCode=F7EBEE94DA827FFB2B5F",
+      "coupon_code": "F7EBEE94DA827FFB2B5F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-ads-for-beginners-start-advertising-in-ai/?couponCode=8A37D3198D328A2A8AA8",
+      "coupon_code": "8A37D3198D328A2A8AA8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-digital-marketing/?couponCode=37458003CC276B96D268",
+      "coupon_code": "37458003CC276B96D268",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-for-developers-ai-coding-crash-course/?couponCode=19195B8CFBA920F4B5D5",
+      "coupon_code": "19195B8CFBA920F4B5D5",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/?couponCode=4E326EB44E71B18FC98F",
+      "coupon_code": "4E326EB44E71B18FC98F",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cold-marketing-strategy/?couponCode=59A9D4AC621D3D313B32",
+      "coupon_code": "59A9D4AC621D3D313B32",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -15,11 +89,6 @@
     {
       "url": "https://www.udemy.com/course/agent-skills-crash-course-for-beginners/?couponCode=FABBFA7978F2DB0FC92C",
       "coupon_code": "FABBFA7978F2DB0FC92C",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/agentic-coding-full-stack-java-apps-with-cursor-and-copilot/?couponCode=AE2B1625DFF794422D1B",
-      "coupon_code": "AE2B1625DFF794422D1B",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -60,11 +129,6 @@
     {
       "url": "https://www.udemy.com/course/ai-powered-project-management-lead-smarter/?couponCode=E8AE4D279FE35A13AB39",
       "coupon_code": "E8AE4D279FE35A13AB39",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-visual-design-with-adobe-firefly/?couponCode=311E68756C8F6CCDE773",
-      "coupon_code": "311E68756C8F6CCDE773",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
