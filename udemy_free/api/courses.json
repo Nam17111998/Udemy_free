@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-08-29T08:54:41Z",
-  "count": 905,
+  "updated_at": "2026-08-29T14:21:43Z",
+  "count": 911,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/agile-product-management-scrum/?couponCode=290826_FREE",
+      "coupon_code": "290826_FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/basico-de-windows/?couponCode=E2C7865E0BC9703AE10A",
       "coupon_code": "E2C7865E0BC9703AE10A",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/c-programming-language-mastery-learn-c-from-scratch/?couponCode=E227DC1193AEBDE1EACD",
-      "coupon_code": "E227DC1193AEBDE1EACD",
+      "url": "https://www.udemy.com/course/capcut-chatgpt-to-launch-an-influencer-marketing-ad-agency/?couponCode=CF43BA37C7EAD525BF7C",
+      "coupon_code": "CF43BA37C7EAD525BF7C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chatgpt-dall-e2-to-create-a-kdp-storybook-for-children/?couponCode=5ED8B029A3732926ADD0",
+      "coupon_code": "5ED8B029A3732926ADD0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-jquery-course-learn-from-beginner-to-advanced/?couponCode=BD8E239DF95DBAB13075",
+      "coupon_code": "BD8E239DF95DBAB13075",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-python-course-learn-from-beginner-to-advanced/?couponCode=69F2D0A596F72B334095",
+      "coupon_code": "69F2D0A596F72B334095",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -18,43 +38,23 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/curso-completo-de-base-de-datos-mysql-y-postgresql-con-linux/?couponCode=4BF081A591FF848D82B8",
-      "coupon_code": "4BF081A591FF848D82B8",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/curso-python-programacion-numerica-con-numpy/?couponCode=AUG26-6032520",
       "coupon_code": "AUG26-6032520",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/digmarkpsy/?couponCode=82E45323FED904F423E7",
-      "coupon_code": "82E45323FED904F423E7",
+      "url": "https://www.udemy.com/course/frameworks-indices-transacciones-y-mucho-mas-con-mongodb/?couponCode=AUG26-5771254",
+      "coupon_code": "AUG26-5771254",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/machine-learning-ai-neural-networks-a-complete-course/?couponCode=E1EC28A47E178DF2C7D9",
-      "coupon_code": "E1EC28A47E178DF2C7D9",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=82095262775BB030DAA3",
-      "coupon_code": "82095262775BB030DAA3",
+      "url": "https://www.udemy.com/course/learn-php-programming-create-dynamic-websites-with-mysql/?couponCode=B8197A69AFD6569F841F",
+      "coupon_code": "B8197A69AFD6569F841F",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
       "url": "https://www.udemy.com/course/php-laravel-2023-build-coffee-shop-management-system/?couponCode=LARAVECOFFEE71",
       "coupon_code": "LARAVECOFFEE71",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/prompt-engineering-ai-from-scratch-chatgpt/?couponCode=0A8F1799DB94672F1968",
-      "coupon_code": "0A8F1799DB94672F1968",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=AA728746F8DAD805203C",
-      "coupon_code": "AA728746F8DAD805203C",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -78,6 +78,41 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/c-programming-language-mastery-learn-c-from-scratch/?couponCode=E227DC1193AEBDE1EACD",
+      "coupon_code": "E227DC1193AEBDE1EACD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-completo-de-base-de-datos-mysql-y-postgresql-con-linux/?couponCode=4BF081A591FF848D82B8",
+      "coupon_code": "4BF081A591FF848D82B8",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/digmarkpsy/?couponCode=82E45323FED904F423E7",
+      "coupon_code": "82E45323FED904F423E7",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-ai-neural-networks-a-complete-course/?couponCode=E1EC28A47E178DF2C7D9",
+      "coupon_code": "E1EC28A47E178DF2C7D9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=82095262775BB030DAA3",
+      "coupon_code": "82095262775BB030DAA3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/prompt-engineering-ai-from-scratch-chatgpt/?couponCode=0A8F1799DB94672F1968",
+      "coupon_code": "0A8F1799DB94672F1968",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=AA728746F8DAD805203C",
+      "coupon_code": "AA728746F8DAD805203C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/curso-de-prompt-engineering-con-chatgpt/?couponCode=AUG26-5658340",
       "coupon_code": "AUG26-5658340",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -95,11 +130,6 @@
     {
       "url": "https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=5CEBE4FE6447F5C87508",
       "coupon_code": "5CEBE4FE6447F5C87508",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/frameworks-indices-transacciones-y-mucho-mas-con-mongodb/?couponCode=AUG26-5771254",
-      "coupon_code": "AUG26-5771254",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
