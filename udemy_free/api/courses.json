@@ -1,91 +1,188 @@
 {
-  "updated_at": "2026-09-05T15:54:18Z",
-  "count": 984,
+  "updated_at": "2026-09-05T18:05:04Z",
+  "count": 999,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7101185CF49E67",
+      "coupon_code": "C11E7F7101185CF49E67",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-correos-corporativos-con-dominio-propio-en-gmail/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-hostinger-desde-cero/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-para-principiantes/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-chatgpt-desde-cero/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor-pro/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-y-chatgpt/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-y-woocommerce/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-tienda-online-desde-cero-para-principiantes/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-migrar-un-sitio-web-de-wordpress-a-otro-dominio-o-hosting/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5169780_747c.jpg",
+      "title": "Migra un Sitio Web de WordPress a otro Dominio o Hosting"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-hostinger-el-hosting-ideal-para-tu-pagina-web/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5311004_dffe.jpg",
+      "title": "Curso de Hostinger 2026: El Hosting Ideal Para tu Página Web"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-wp-rocket-como-mejorar-la-velocidad-de-una-web-de-wordpress/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4803240_84ca.jpg",
+      "title": "WP Rocket 2026: Mejora la Velocidad de Carga en WordPress"
+    },
+    {
+      "url": "https://www.udemy.com/course/data-analytics-ui-ux-machine-learning-complete-course/?couponCode=2B6776D14AA986969312",
+      "coupon_code": "2B6776D14AA986969312",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5782740_2e74.jpg",
+      "title": "Power BI , UI UX , Machine Learning : From Zero To Hero"
+    },
+    {
+      "url": "https://www.udemy.com/course/how-to-use-chatgpt-effectively/?couponCode=050926_FREE",
+      "coupon_code": "050926_FREE",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7035909_3001.jpg",
+      "title": "ChatGPT Masterclass: Learn How To Use ChatGPT 5 Effectively"
+    },
     {
       "url": "https://www.udemy.com/course/advanced-billing-engineering-in-construction-projectshindi/?couponCode=6E78E0D6485C7646EB82",
       "coupon_code": "6E78E0D6485C7646EB82",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7032645_7c99_2.jpg",
+      "title": "Advanced Billing Engineering in Construction Projects(Hindi)"
     },
     {
       "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=DE31203BB0E7D3F09CD2",
       "coupon_code": "DE31203BB0E7D3F09CD2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6267057_5414_2.jpg",
+      "title": "Advanced Diploma in Depression Counselling"
     },
     {
       "url": "https://www.udemy.com/course/evp-architect-employer-value-proposition-en/?couponCode=PAPAHR_SEP_547025",
       "coupon_code": "PAPAHR_SEP_547025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7145229_b347.jpg",
+      "title": "EVP Course: Employer Value Proposition & Talent Brand [EN]"
     },
     {
       "url": "https://www.udemy.com/course/hr-audit-guide-and-checklist-with-729-point-xlsx-en/?couponCode=PAPAHR_SEP_867881",
       "coupon_code": "PAPAHR_SEP_867881",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7138617_0a5d.jpg",
+      "title": "HR Audit Playbook: 729-Point Checklist & XLSX Template [EN]"
     },
     {
       "url": "https://www.udemy.com/course/hr-strategy-guide-and-checklist-with-174-lines-xlsx-en/?couponCode=PAPAHR_SEP_686696",
       "coupon_code": "PAPAHR_SEP_686696",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7140849_775f.jpg",
+      "title": "HR Strategy Playbook: 174-Line Template & XLSX Document [EN]"
     },
     {
       "url": "https://www.udemy.com/course/implementation-of-occupational-health-and-safety-in-industry/?couponCode=23084CB083F4BCD35E46",
       "coupon_code": "23084CB083F4BCD35E46",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6120939_7b45_3.jpg",
+      "title": "Implementation of Occupational Health and Safety in Industry"
     },
     {
       "url": "https://www.udemy.com/course/introduction-to-occupational-health-and-safety-professional/?couponCode=A4EC0BA488297EAA8662",
       "coupon_code": "A4EC0BA488297EAA8662",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6314837_9642_3.jpg",
+      "title": "Introduction to Occupational Health and Safety Professional"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-project-f/?couponCode=6CAAEACF9F8D737F2F21",
       "coupon_code": "6CAAEACF9F8D737F2F21",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6791305_0f54_5.jpg",
+      "title": "Mastering Microsoft Project"
     },
     {
       "url": "https://www.udemy.com/course/oddjobsdiploma/?couponCode=06ED2C104A4BC5BE6284",
       "coupon_code": "06ED2C104A4BC5BE6284",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6160617_f212_4.jpg",
+      "title": "Professional Diploma in Odd Jobs: Skills for Every Situation"
     },
     {
       "url": "https://www.udemy.com/course/passiveearn/?couponCode=2A6635DB58E849A347CA",
       "coupon_code": "2A6635DB58E849A347CA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6202543_55e1_3.jpg",
+      "title": "Passive Earn with AI Tools: Unlock Automated Income Streams"
     },
     {
       "url": "https://www.udemy.com/course/pdp-master-70-20-10-employee-development-plan-en/?couponCode=PAPAHR_SEP_932005",
       "coupon_code": "PAPAHR_SEP_932005",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7160495_182f.jpg",
+      "title": "PDP Master: 70-20-10 Employee Development Plan [EN]"
     },
     {
       "url": "https://www.udemy.com/course/pip-master-1-day-performance-improvement-plan-en/?couponCode=PAPAHR_SEP_237325",
       "coupon_code": "PAPAHR_SEP_237325",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7160467_2e09.jpg",
+      "title": "PIP Master: 1-Day Performance Improvement Plan [EN]"
     },
     {
       "url": "https://www.udemy.com/course/project-cost-management-estimating-budgeting-earned-value/?couponCode=D77438B353C0777B8666",
       "coupon_code": "D77438B353C0777B8666",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6935619_e729_3.jpg",
+      "title": "Project Cost Management-Estimating"
     },
     {
       "url": "https://www.udemy.com/course/quantity-surveying-for-g11-high-rise-buildings-estimation/?couponCode=E206C25A3313E76DBFF6",
       "coupon_code": "E206C25A3313E76DBFF6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6833151_ef77.jpg",
+      "title": "Building Estimation Masterclass: G+11 High-Rise Projects"
     },
     {
       "url": "https://www.udemy.com/course/the-3cs-to-become-an-ai-ready-project-manager/?couponCode=HAPPYTEACHERSDAY",
       "coupon_code": "HAPPYTEACHERSDAY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6132275_9c0e_2.jpg",
+      "title": "The 3C’s to Become an AI-Ready Project Manager"
     },
     {
       "url": "https://www.udemy.com/course/how-to-add-value-in-the-project-management-role/?couponCode=HAPPYTEACHERSDAY",
       "coupon_code": "HAPPYTEACHERSDAY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5194730_960b_3.jpg",
+      "title": "How to Add Value in the Project Management Role"
     },
     {
       "url": "https://www.udemy.com/course/how-to-jumpstart-your-project-management-career-in-hindi/?couponCode=HAPPYTEACHERDAY",
       "coupon_code": "HAPPYTEACHERDAY",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5406276_f2bb_2.jpg",
+      "title": "How to Jumpstart your Project Management career (Hindi)"
     },
     {
       "url": "https://www.udemy.com/course/master-html-for-modern-web-design-front-end-web-development/?couponCode=1DF6BE500F73036298CD",
@@ -96,27 +193,32 @@
     {
       "url": "https://www.udemy.com/course/the-complete-microsoft-word-course-learn-word-step-by-step/?couponCode=AEB124BEB40DBE229C4F",
       "coupon_code": "AEB124BEB40DBE229C4F",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6847397_14bb_2.jpg",
+      "title": "The Complete Microsoft Word Course: Learn Word Step by Step"
     },
     {
       "url": "https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-ufunc-machine-learning/?couponCode=4BBDBDE66C5FA1FA0E67",
       "coupon_code": "4BBDBDE66C5FA1FA0E67",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7004057_cb53.jpg",
+      "title": "Numpy, Scipy, Matplotlib, Pandas, Ufunc : Machine Learning"
     },
     {
       "url": "https://www.udemy.com/course/the-complete-python-developer-from-zero-to-mastery/?couponCode=316778A598BB1DEB79F2",
       "coupon_code": "316778A598BB1DEB79F2",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6759741_1b39_3.jpg",
+      "title": "The Complete Python Developer: From Zero to Mastery"
     },
     {
       "url": "https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/?couponCode=3AE1C186E8CD503ADA62",
       "coupon_code": "3AE1C186E8CD503ADA62",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6758057_2d7b.jpg",
+      "title": "The Modern JavaScript Course: Build Interactive Websites"
     },
     {
       "url": "https://www.udemy.com/course/the-ultimate-mysql-crash-course-2021/?couponCode=MYSQLCOURSE122",
       "coupon_code": "MYSQLCOURSE122",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3972614_50a0_5.jpg",
+      "title": "The Ultimate MySQL Crash Course"
     },
     {
       "url": "https://www.udemy.com/course/all-in-one-wp-migration-migra-tu-sitio-web-de-wordpress/?couponCode=SEPTIEMBRE202601",
