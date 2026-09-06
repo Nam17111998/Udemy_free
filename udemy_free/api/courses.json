@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T09:16:10Z",
-  "count": 930,
+  "updated_at": "2026-09-06T13:32:00Z",
+  "count": 938,
   "courses": [
     {
       "url": "https://www.udemy.com/course/adobe-illustrator-course-for-graphics-design/?couponCode=19742E5FBA3A3D78FDFB",
@@ -10,6 +10,11 @@
     {
       "url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/?couponCode=F978466CA79F2707B654",
       "coupon_code": "F978466CA79F2707B654",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/advanced-capcut-from-beginner-to-motion-graphics-master/?couponCode=B2C5B543C404C58F0305",
+      "coupon_code": "B2C5B543C404C58F0305",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -23,13 +28,18 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/basic-wordpress-web-development-course-for-beginner-zero-to-hero/?couponCode=32B797D7783BAF313405",
-      "coupon_code": "32B797D7783BAF313405",
+      "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7102185CF49E67",
+      "coupon_code": "C11E7F7102185CF49E67",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/complete-ethical-hacking-bundle/?couponCode=ETH321",
-      "coupon_code": "ETH321",
+      "url": "https://www.udemy.com/course/build-active-listening-positive-thinking-resilience/?couponCode=09FE19E3C642D5862FBD",
+      "coupon_code": "09FE19E3C642D5862FBD",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/excel-data-visualization-and-dashboard-design-masterclass/?couponCode=B3DB9AE0F3AB62AD424F",
+      "coupon_code": "B3DB9AE0F3AB62AD424F",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -38,13 +48,8 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/machine-learning-fundamental-of-python-machine-learning/?couponCode=A092ACCB891B56AC0FA6",
-      "coupon_code": "A092ACCB891B56AC0FA6",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/mastering-javascript-and-jquery-course-beginners-to-advanced/?couponCode=ACB2AC076F3C061BCEB0",
-      "coupon_code": "ACB2AC076F3C061BCEB0",
+      "url": "https://www.udemy.com/course/master-nodejs-from-beginner-to-full-stack-developer/?couponCode=EAB1A3B0FA3C501AFD7C",
+      "coupon_code": "EAB1A3B0FA3C501AFD7C",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -55,6 +60,41 @@
     {
       "url": "https://www.udemy.com/course/php-with-mysql-2023-build-7-php-and-mysql-projects/?couponCode=PHP7PROJECTS77",
       "coupon_code": "PHP7PROJECTS77",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-for-everyone-master-the-basics-of-programming/?couponCode=FE012D8AAEA1E9CBD055",
+      "coupon_code": "FE012D8AAEA1E9CBD055",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/safeguarding-adults-vulnerable-people-expert-training/?couponCode=8A111826F3E90748DA45",
+      "coupon_code": "8A111826F3E90748DA45",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-social-media-video-editing-masterclass/?couponCode=B608DB1AF1602E8AE797",
+      "coupon_code": "B608DB1AF1602E8AE797",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/basic-wordpress-web-development-course-for-beginner-zero-to-hero/?couponCode=32B797D7783BAF313405",
+      "coupon_code": "32B797D7783BAF313405",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-ethical-hacking-bundle/?couponCode=ETH321",
+      "coupon_code": "ETH321",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/machine-learning-fundamental-of-python-machine-learning/?couponCode=A092ACCB891B56AC0FA6",
+      "coupon_code": "A092ACCB891B56AC0FA6",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mastering-javascript-and-jquery-course-beginners-to-advanced/?couponCode=ACB2AC076F3C061BCEB0",
+      "coupon_code": "ACB2AC076F3C061BCEB0",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -186,27 +226,32 @@
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-para-principiantes/?couponCode=SEPTIEMBRE202601",
       "coupon_code": "SEPTIEMBRE202601",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5224044_bb4e.jpg",
+      "title": "Cómo Crear una Página Web con WordPress Para Principiantes"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-chatgpt-desde-cero/?couponCode=SEPTIEMBRE202601",
       "coupon_code": "SEPTIEMBRE202601",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5276404_a7be.jpg",
+      "title": "Cómo Crear una Página Web con WordPress y ChatGPT Desde Cero"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor/?couponCode=SEPTIEMBRE202601",
       "coupon_code": "SEPTIEMBRE202601",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4786282_fbfd_3.jpg",
+      "title": "Cómo Crear una Página web con WordPress y Elementor 2026"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-y-woocommerce/?couponCode=SEPTIEMBRE202601",
       "coupon_code": "SEPTIEMBRE202601",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4907234_5440_3.jpg",
+      "title": "Cómo Crear una Tienda Online con WordPress y WooCommerce"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-una-tienda-online-desde-cero-para-principiantes/?couponCode=SEPTIEMBRE202601",
       "coupon_code": "SEPTIEMBRE202601",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5203736_0e85.jpg",
+      "title": "Cómo Crear Una Tienda Online Desde Cero Para Principiantes"
     },
     {
       "url": "https://www.udemy.com/course/como-migrar-un-sitio-web-de-wordpress-a-otro-dominio-o-hosting/?couponCode=SEPTIEMBRE202601",
