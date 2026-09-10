@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T19:30:58Z",
-  "count": 951,
+  "updated_at": "2026-09-10T22:25:00Z",
+  "count": 958,
   "courses": [
     {
       "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/?couponCode=AUG26-5043548",
@@ -15,16 +15,81 @@
       "title": "Microsoft Excel: Análisis de datos"
     },
     {
-      "url": "https://www.udemy.com/course/analisis-de-datos-con-python/?couponCode=SEP06-4718522",
-      "coupon_code": "SEP06-4718522",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4718522_81b0_2.jpg",
-      "title": "Python: Análisis avanzado para Data Science"
-    },
-    {
       "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming/?couponCode=SEP06-4840036",
       "coupon_code": "SEP06-4840036",
       "image_url": "https://img-c.udemycdn.com/course/480x270/4840036_d757_2.jpg",
       "title": "R Programming: Análisis avanzado para Data Science"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-fundamental-analysis-master-course/?couponCode=7E95B7A080879OLA",
+      "coupon_code": "7E95B7A080879OLA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=C61B72F360F217C8D92L",
+      "coupon_code": "C61B72F360F217C8D92L",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/finops-for-genai/?couponCode=GID0910158245",
+      "coupon_code": "GID0910158245",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/forex-mastery-technical-fundamental-analysis-mega-course/?couponCode=F29334C05525IDS",
+      "coupon_code": "F29334C05525IDS",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/forex-trading-master-course-zero-to-hero/?couponCode=DB7E35F25B9ESC",
+      "coupon_code": "DB7E35F25B9ESC",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/forextradingrobotcreationcourse/?couponCode=B360A99B861ATM",
+      "coupon_code": "B360A99B861ATM",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/implement-ccpacalifornia-consumer-privacy-act-step-by-step/?couponCode=C5B76E375FA9A81D5A1C",
+      "coupon_code": "C5B76E375FA9A81D5A1C",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-access-desde-cero/?couponCode=SEP06-4914458",
+      "coupon_code": "SEP06-4914458",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4914458_056a_2.jpg",
+      "title": "Microsoft Access: Desde cero para principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-desde-cero-y-analisis-de-datos/?couponCode=SEP06-4848640",
+      "coupon_code": "SEP06-4848640",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4848640_40a5_5.jpg",
+      "title": "Microsoft Excel: De Principiante a Avanzado"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-powerpoint-desde-cero/?couponCode=SEP06-4960314",
+      "coupon_code": "SEP06-4960314",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4960314_4ed6_3.jpg",
+      "title": "Microsoft PowerPoint: Crea presentaciones profesionales"
+    },
+    {
+      "url": "https://www.udemy.com/course/r-programming-desde-cero-analisis-de-datos/?couponCode=SEP06-4868138",
+      "coupon_code": "SEP06-4868138",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4868138_e827_3.jpg",
+      "title": "R Programming: De Principiante a Avanzado"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-desde-cero-para-principiantes/?couponCode=SEP06-4778792",
+      "coupon_code": "SEP06-4778792",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4778792_180f_2.jpg",
+      "title": "SQL: Desde cero para principiantes (Linux)"
+    },
+    {
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-python/?couponCode=SEP06-4718522",
+      "coupon_code": "SEP06-4718522",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4718522_81b0_2.jpg",
+      "title": "Python: Análisis avanzado para Data Science"
     },
     {
       "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7221185CF49E67",
@@ -51,46 +116,16 @@
       "title": "ChatGPT für HR: 100+ KI-Prompts für HR und Recruiter [DE]"
     },
     {
-      "url": "https://www.udemy.com/course/microsoft-access-desde-cero/?couponCode=SEP06-4914458",
-      "coupon_code": "SEP06-4914458",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4914458_056a_2.jpg",
-      "title": "Microsoft Access: Desde cero para principiantes"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-excel-desde-cero-y-analisis-de-datos/?couponCode=SEP06-4848640",
-      "coupon_code": "SEP06-4848640",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4848640_40a5_5.jpg",
-      "title": "Microsoft Excel: De Principiante a Avanzado"
-    },
-    {
-      "url": "https://www.udemy.com/course/microsoft-powerpoint-desde-cero/?couponCode=SEP06-4960314",
-      "coupon_code": "SEP06-4960314",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4960314_4ed6_3.jpg",
-      "title": "Microsoft PowerPoint: Crea presentaciones profesionales"
-    },
-    {
       "url": "https://www.udemy.com/course/practical-malware-analysis-for-beginners/?couponCode=4ECCCBA8215BC1A85610",
       "coupon_code": "4ECCCBA8215BC1A85610",
       "image_url": "https://img-c.udemycdn.com/course/480x270/5410060_1c96.jpg",
       "title": "Practical Malware Analysis for Beginners"
     },
     {
-      "url": "https://www.udemy.com/course/r-programming-desde-cero-analisis-de-datos/?couponCode=SEP06-4868138",
-      "coupon_code": "SEP06-4868138",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4868138_e827_3.jpg",
-      "title": "R Programming: De Principiante a Avanzado"
-    },
-    {
       "url": "https://www.udemy.com/course/recruitgpt-master-ai-chatgpt-for-recruiting-sourcing/?couponCode=PAPAHR_SEP_489421",
       "coupon_code": "PAPAHR_SEP_489421",
       "image_url": "https://img-c.udemycdn.com/course/480x270/6778087_287b_3.jpg",
       "title": "RecruitGPT Course: ChatGPT in Recruiting & Sourcing [EN]"
-    },
-    {
-      "url": "https://www.udemy.com/course/sql-desde-cero-para-principiantes/?couponCode=SEP06-4778792",
-      "coupon_code": "SEP06-4778792",
-      "image_url": "https://img-c.udemycdn.com/course/480x270/4778792_180f_2.jpg",
-      "title": "SQL: Desde cero para principiantes (Linux)"
     },
     {
       "url": "https://www.udemy.com/course/ai-hr-agents-no-code-hr-automation-on-chatgpt-and-more-en/?couponCode=PAPAHR_SEP_782565",
