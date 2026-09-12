@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T19:12:48Z",
-  "count": 982,
+  "updated_at": "2026-09-12T22:08:42Z",
+  "count": 983,
   "courses": [
     {
       "url": "https://www.udemy.com/course/aprende-html5-y-css3-de-cero-a-experto/?couponCode=FE22FF52C3DD34802C0B",
@@ -15,6 +15,11 @@
     {
       "url": "https://www.udemy.com/course/aprende-sql-nivel-avanzado-curso-con-mas-de-50-ejercicios/?couponCode=SEP06-2223970",
       "coupon_code": "SEP06-2223970",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/complete-wordpress-elementor-guide-design-build-earn/?couponCode=DOITFAST",
+      "coupon_code": "DOITFAST",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -60,57 +65,68 @@
     {
       "url": "https://www.udemy.com/course/python-3-curso-completo-de-cero-a-experto/?couponCode=SEP06-3586896",
       "coupon_code": "SEP06-3586896",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/securing-genai-systems/?couponCode=6E994C47645EC7FE64A4",
-      "coupon_code": "6E994C47645EC7FE64A4",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3586896_04a0_19.jpg",
+      "title": "Curso Python: De Principiante a Avanzado + Claude"
     },
     {
       "url": "https://www.udemy.com/course/sql-creacion-de-bd/?couponCode=SEP06-3456530",
       "coupon_code": "SEP06-3456530",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3456530_2d96_12.jpg",
+      "title": "SQL: Creación de Bases de Datos (De cero a profesional)"
     },
     {
       "url": "https://www.udemy.com/course/tableau-10-desde-cero/?couponCode=SEP06-2288849",
       "coupon_code": "SEP06-2288849",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2288849_5725_11.jpg",
+      "title": "Curso Tableau - Desde cero para principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/securing-genai-systems/?couponCode=6E994C47645EC7FE64A4",
+      "coupon_code": "6E994C47645EC7FE64A4",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6192675_c151_2.jpg",
+      "title": "Securing GenAI Systems: LLM & AI Security Guide"
     },
     {
       "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=SEPTFREE01",
       "coupon_code": "SEPTFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6496525_b818_3.jpg",
+      "title": "AI & Python Development Megaclass - 300+ Hands-on Projects"
     },
     {
       "url": "https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/?couponCode=SEPTFREE01",
       "coupon_code": "SEPTFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6492625_085b.jpg",
+      "title": "AI & Quantum Computing Mastery: From Zero to Expert Bootcamp"
     },
     {
       "url": "https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=SEPTFREE03",
       "coupon_code": "SEPTFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6584537_9e04_2.jpg",
+      "title": "[AR] دورة ماجستير في هندسة الذكاء الاصطناعي (AI)"
     },
     {
       "url": "https://www.udemy.com/course/de-la-receta-al-chef-conviertete-en-ingeniero-de-llm/?couponCode=SEPTFREE03",
       "coupon_code": "SEPTFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583069_3257.jpg",
+      "title": "[ES] De la Receta al Chef: Conviértete en Ingeniero de LLM"
     },
     {
       "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=SEPTFREE03",
       "coupon_code": "SEPTFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583077_cd56_2.jpg",
+      "title": "[FR] De la Recette au Chef : Devenez Ingénieur en LLM"
     },
     {
       "url": "https://www.udemy.com/course/isoiec-42001-artificial-intelligence-management-system-s/?couponCode=5572C01CB5932E186CD5",
       "coupon_code": "5572C01CB5932E186CD5",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6191049_1567.jpg",
+      "title": "ISO/IEC 42001: AI Management System (AIMS) Implementation"
     },
     {
       "url": "https://www.udemy.com/course/llm-engineer/?couponCode=SEPTFREE01",
       "coupon_code": "SEPTFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6561937_c4ca_4.jpg",
+      "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects"
     },
     {
       "url": "https://www.udemy.com/course/masterclass-de-ingenieria-en-ia-de-cero-a-heroe-de-la-ia/?couponCode=SEPTFREE03",
