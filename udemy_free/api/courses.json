@@ -1,11 +1,99 @@
 {
-  "updated_at": "2026-09-12T10:32:03Z",
-  "count": 940,
+  "updated_at": "2026-09-12T13:58:31Z",
+  "count": 955,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/certified-master-in-agentic-ai/?couponCode=SEPTFREE01",
+      "coupon_code": "SEPTFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-un-blog-de-exito-paso-a-paso/?couponCode=SEPTIEMBRE202602",
+      "coupon_code": "SEPTIEMBRE202602",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-pagina-web-desde-cero-paso-a-paso/?couponCode=SEPTIEMBRE202602",
+      "coupon_code": "SEPTIEMBRE202602",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/create-powerful-stories-in-minutes-storytelling-course/?couponCode=STORYSEPT2026",
+      "coupon_code": "STORYSEPT2026",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/3508024_9e5f_2.jpg",
+      "title": "Full Storytelling Course: Create Powerful Stories in Minutes"
+    },
+    {
+      "url": "https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=6BD6156285651CB139A9",
+      "coupon_code": "6BD6156285651CB139A9",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4435576_a1dc.jpg",
+      "title": "CSS, Bootstrap, JavaScript And PHP Stack Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-wix-como-crear-paginas-web-increibles-paso-a-paso/?couponCode=SEPTIEMBRE202602",
+      "coupon_code": "SEPTIEMBRE202602",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/2304584_8906_9.jpg",
+      "title": "Curso de Wix 2026: Cómo Crear una Página Web Desde Cero"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=SEPTFREE02",
+      "coupon_code": "SEPTFREE02",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602567_4008.jpg",
+      "title": "[ES] DeepSeek R1 IA: 25 proyectos de IA para principiantes"
+    },
+    {
+      "url": "https://www.udemy.com/course/javascript-and-php-programming-complete-course/?couponCode=DB83E40DBAE1CAEF2922",
+      "coupon_code": "DB83E40DBAE1CAEF2922",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4551820_b8ca.jpg",
+      "title": "JavaScript And PHP Programming Complete Course"
+    },
+    {
+      "url": "https://www.udemy.com/course/linkedin-recruiter-busqueda-de-talento-y-candidatos-es/?couponCode=PAPAHR_SEP_143597",
+      "coupon_code": "PAPAHR_SEP_143597",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6670785_04f8_3.jpg",
+      "title": "Curso LinkedIn Recruiter: Sourcing y Búsqueda Talento [ES]"
+    },
+    {
+      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6598857_b57b.jpg",
+      "title": "[FR] Maîtrise de Python : 100 Jours, 100 Projets"
+    },
+    {
+      "url": "https://www.udemy.com/course/nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations/?couponCode=SEPTFREE01",
+      "coupon_code": "SEPTFREE01",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600653_cf7b_3.jpg",
+      "title": "NCA‑AIIO SoAI‑Certified Associate: AI Infrastructure & Ops"
+    },
+    {
+      "url": "https://www.udemy.com/course/planificacion-y-optimizacion-de-la-fuerza-laboral-es/?couponCode=PAPAHR_SEP_388755",
+      "coupon_code": "PAPAHR_SEP_388755",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6670793_f873_3.jpg",
+      "title": "Curso Workforce Planning: Plantilla y Optimización [ES]"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600587_2409.jpg",
+      "title": "[TR] Python Ustalığı: 100 Gün, 100 Proje"
+    },
+    {
+      "url": "https://www.udemy.com/course/sourcing-automation-speed-up-hiring-4x-linkedin-github/?couponCode=PAPAHR_SEP_541325",
+      "coupon_code": "PAPAHR_SEP_541325",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6671177_e728_3.jpg",
+      "title": "Sourcing Automation Course: AI Tools for Recruiters [EN]"
+    },
+    {
+      "url": "https://www.udemy.com/course/yapay-zeka-ile-ise-alm-otomasyon-ve-optimizasyon-tr/?couponCode=PAPAHR_SEP_324398",
+      "coupon_code": "PAPAHR_SEP_324398",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6670429_305e_2.jpg",
+      "title": "AI işe alım: ChatGPT ile sourcing ve işe alım [TR]"
+    },
     {
       "url": "https://www.udemy.com/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert/?couponCode=SEPTFREE02",
       "coupon_code": "SEPTFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6602695_401e_2.jpg",
+      "title": "AI Hero: A 12-Month Journey Taking You from Zero to Expert"
     },
     {
       "url": "https://www.udemy.com/course/certified-nvidia-ai-expert/?couponCode=SEPTFREE02",
@@ -16,12 +104,14 @@
     {
       "url": "https://www.udemy.com/course/ciberseguridad-101-fundamentos-para-principiantes-absolutos/?couponCode=SEPTFREE02",
       "coupon_code": "SEPTFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6613559_62db.jpg",
+      "title": "[ES] Ciberseguridad 101: Fundamentos para Principiantes"
     },
     {
       "url": "https://www.udemy.com/course/curso-completo-de-mikrotik-configuraciones-mucha-practica/?couponCode=62BB4ABBE62FB077A499",
       "coupon_code": "62BB4ABBE62FB077A499",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5449088_93b5.jpg",
+      "title": "Curso Completo de Mikrotik. Configuraciones y mucha Práctica"
     },
     {
       "url": "https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=SEPTFREE02",
@@ -74,7 +164,8 @@
     {
       "url": "https://www.udemy.com/course/ollama-ile-yapay-zeka-llama-deepseek-mistral-qwq/?couponCode=SEPTFREE02",
       "coupon_code": "SEPTFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6605681_69f6.jpg",
+      "title": "[TR] Ollama ile Yapay Zeka: Llama, Deepseek, Mistral, QwQ"
     },
     {
       "url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-tours-and-travel-website/?couponCode=PHPTOURS68",
@@ -199,7 +290,8 @@
     {
       "url": "https://www.udemy.com/course/java-empieza-desde-cero-con-intellij/?couponCode=SEP06-4004902",
       "coupon_code": "SEP06-4004902",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4004902_d281_10.jpg",
+      "title": "JAVA: Empieza desde cero con IntelliJ"
     },
     {
       "url": "https://www.udemy.com/course/javascript-desde-cero-con-nodejs/?couponCode=SEP06-4339782",
@@ -312,17 +404,20 @@
     {
       "url": "https://www.udemy.com/course/formador-corporativo-aprende-facilitacion-efectiva-es/?couponCode=PAPAHR_SEP_621745",
       "coupon_code": "PAPAHR_SEP_621745",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6688781_2df0_3.jpg",
+      "title": "Curso Formador Corporativo: Train the Trainer (T3) [ES]"
     },
     {
       "url": "https://www.udemy.com/course/gestion-de-procesos-de-negocio-bpm-y-mapas-es/?couponCode=PAPAHR_SEP_593444",
       "coupon_code": "PAPAHR_SEP_593444",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6687065_9cb8_3.jpg",
+      "title": "Curso BPM: Diseño de Procesos y BPMN para Negocios [ES]"
     },
     {
       "url": "https://www.udemy.com/course/gestion-de-proyectos-y-certificacion-pmbok-70-pmi-es/?couponCode=PAPAHR_SEP_607974",
       "coupon_code": "PAPAHR_SEP_607974",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6694705_fc22_3.jpg",
+      "title": "Curso PMP: Gestión de Proyectos PMBOK 7 y PMI [ES]"
     },
     {
       "url": "https://www.udemy.com/course/interior-design-for-living-room-simple-fast/?couponCode=CE5ABB4CE359DC05DAE4",
@@ -339,22 +434,26 @@
     {
       "url": "https://www.udemy.com/course/recrutamento-com-ia-automatize-e-otimize-contratacoes-pt/?couponCode=PAPAHR_SEP_814874",
       "coupon_code": "PAPAHR_SEP_814874",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6689919_a958_3.jpg",
+      "title": "Curso AI Recruiting: ChatGPT para Recrutamento [PT]"
     },
     {
       "url": "https://www.udemy.com/course/aphri-asociado-profesional-en-recursos-humanos-hrci-es/?couponCode=PAPAHR_SEP_582342",
       "coupon_code": "PAPAHR_SEP_582342",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6693663_739c_3.jpg",
+      "title": "Curso aPHRi: Asociado Profesional HRCI en RRHH [ES]"
     },
     {
       "url": "https://www.udemy.com/course/certificacion-people-partner-hr-para-futuros-hrbp-y-hrd-es/?couponCode=PAPAHR_SEP_977592",
       "coupon_code": "PAPAHR_SEP_977592",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6695219_18ef_3.jpg",
+      "title": "Curso People Partner: Camino a HRBP y HR Director [ES]"
     },
     {
       "url": "https://www.udemy.com/course/coaching-de-carrera-cv-empleo-y-crecimiento-es/?couponCode=PAPAHR_SEP_504987",
       "coupon_code": "PAPAHR_SEP_504987",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6694687_02c6_3.jpg",
+      "title": "Curso Coach de Carrera: Certificación y CV con LinkedIn [ES]"
     },
     {
       "url": "https://www.udemy.com/course/dominio-de-la-estrategia-de-gestion-del-talento-es/?couponCode=PAPAHR_SEP_818438",
@@ -473,7 +572,8 @@
     {
       "url": "https://www.udemy.com/course/complete-fundamental-analysis-master-course/?couponCode=7E95B7A080879OLA",
       "coupon_code": "7E95B7A080879OLA",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5167766_4b1e.jpg",
+      "title": "Complete Fundamental Analysis In Forex Trading Master Course"
     },
     {
       "url": "https://www.udemy.com/course/construis-ta-vie/?couponCode=RD26-9YFHVQG7Q2",
