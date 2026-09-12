@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-12T16:59:25Z",
-  "count": 970,
+  "updated_at": "2026-09-12T19:12:48Z",
+  "count": 982,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/aprende-html5-y-css3-de-cero-a-experto/?couponCode=FE22FF52C3DD34802C0B",
+      "coupon_code": "FE22FF52C3DD34802C0B",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/aprende-sql-desde-cero-curso-con-mas-de-100-ejercicios/?couponCode=SEP06-3756262",
+      "coupon_code": "SEP06-3756262",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/aprende-sql-nivel-avanzado-curso-con-mas-de-50-ejercicios/?couponCode=SEP06-2223970",
+      "coupon_code": "SEP06-2223970",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/el-curso-completo-de-google-sheets-desde-cero/?couponCode=SEP06-3694482",
+      "coupon_code": "SEP06-3694482",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/masterclass-en-ingenierie-de-lia-de-zero-a-heros-de-lia/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/?couponCode=SEP06-2695676",
+      "coupon_code": "SEP06-2695676",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-de-la-a-a-la-z/?couponCode=SEP06-3109394",
+      "coupon_code": "SEP06-3109394",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-intermedio/?couponCode=SEP06-3593486",
+      "coupon_code": "SEP06-3593486",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-3-analisis-y-visualizacion-de-datos/?couponCode=SEP06-3655814",
+      "coupon_code": "SEP06-3655814",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-3-curso-completo-de-cero-a-experto/?couponCode=SEP06-3586896",
+      "coupon_code": "SEP06-3586896",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/securing-genai-systems/?couponCode=6E994C47645EC7FE64A4",
+      "coupon_code": "6E994C47645EC7FE64A4",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/sql-creacion-de-bd/?couponCode=SEP06-3456530",
+      "coupon_code": "SEP06-3456530",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/tableau-10-desde-cero/?couponCode=SEP06-2288849",
+      "coupon_code": "SEP06-2288849",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=SEPTFREE01",
       "coupon_code": "SEPTFREE01",
@@ -33,27 +108,12 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/?couponCode=SEPTFREE03",
-      "coupon_code": "SEPTFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/llm-engineer/?couponCode=SEPTFREE01",
       "coupon_code": "SEPTFREE01",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/?couponCode=SEPTFREE03",
-      "coupon_code": "SEPTFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/masterclass-de-ingenieria-en-ia-de-cero-a-heroe-de-la-ia/?couponCode=SEPTFREE03",
-      "coupon_code": "SEPTFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/masterclass-en-ingenierie-de-lia-de-zero-a-heros-de-lia/?couponCode=SEPTFREE03",
       "coupon_code": "SEPTFREE03",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
@@ -70,17 +130,20 @@
     {
       "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=SEPTFREE01",
       "coupon_code": "SEPTFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6533119_fd9a_5.jpg",
+      "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing"
     },
     {
       "url": "https://www.udemy.com/course/tariften-sefe-100-projeyle-llm-muhendisi-olun/?couponCode=SEPTFREE03",
       "coupon_code": "SEPTFREE03",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6583071_38ff.jpg",
+      "title": "[TR] Tariften Şefe: 100+ Projeyle LLM Mühendisi Olun"
     },
     {
       "url": "https://www.udemy.com/course/certified-master-in-agentic-ai/?couponCode=SEPTFREE01",
       "coupon_code": "SEPTFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/6600645_d4bb_10.jpg",
+      "title": "Certified Master in Agentic AI: A 52-Week Applied Program"
     },
     {
       "url": "https://www.udemy.com/course/como-crear-un-blog-de-exito-paso-a-paso/?couponCode=SEPTIEMBRE202602",
