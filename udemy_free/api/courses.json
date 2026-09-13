@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-09-13T19:16:41Z",
-  "count": 935,
+  "updated_at": "2026-09-13T22:18:05Z",
+  "count": 950,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert/?couponCode=SEPTFREE01",
+      "coupon_code": "SEPTFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/certified-nvidia-ai-expert/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/como-crear-una-tienda-online-gratis-paso-a-paso-desde-cero/?couponCode=SEPTIEMBRE202601",
+      "coupon_code": "SEPTIEMBRE202601",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-hostgator-el-hosting-ideal-para-wordpress/?couponCode=SEPTIEMBRE202603",
+      "coupon_code": "SEPTIEMBRE202603",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-de-siteground-el-mejor-hosting-para-wordpress/?couponCode=SEPTIEMBRE202603",
+      "coupon_code": "SEPTIEMBRE202603",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/curso-wordpress-como-crear-un-blog-gratis-paso-a-paso/?couponCode=SEPTIEMBRE202602",
+      "coupon_code": "SEPTIEMBRE202602",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-french/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiantes/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/deepseek-turkish/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/docker-fur-einsteiger-apps-bauen-deployen/?couponCode=AFD083DAB21E1C81FCBF",
+      "coupon_code": "AFD083DAB21E1C81FCBF",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/dominio-de-python-100-dias-100-proyectos/?couponCode=SEPTFREE02",
+      "coupon_code": "SEPTFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ia-full-stack-con-ollama-llama-deepseek-mistral-qwq/?couponCode=SEPTFREE03",
+      "coupon_code": "SEPTFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets/?couponCode=SEPTFREE02",
+      "coupon_code": "SEPTFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations/?couponCode=SEPTFREE02",
+      "coupon_code": "SEPTFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/python-ustalg-100-gun-100-proje/?couponCode=SEPTFREE02",
+      "coupon_code": "SEPTFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ab-620-microsoft-copilot-studio-power-automate-exam-prep/?couponCode=SEPTFREE02",
       "coupon_code": "SEPTFREE02",
@@ -35,42 +110,50 @@
     {
       "url": "https://www.udemy.com/course/complete-mysql-crash-course-from-zero-to-hero/?couponCode=621B6C20DF90AF594077",
       "coupon_code": "621B6C20DF90AF594077",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5834162_7cc2_3.jpg",
+      "title": "MySQL Ultimate Course 2025 : From Zero To Hero | Learn Mysql"
     },
     {
       "url": "https://www.udemy.com/course/complete-sql-crash-course-from-zero-to-hero/?couponCode=B05025EC9542C3184991",
       "coupon_code": "B05025EC9542C3184991",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5802976_cfdc_2.jpg",
+      "title": "Oracle Sql 2025 : Beginner to Sql Database Pro"
     },
     {
       "url": "https://www.udemy.com/course/complete-video-editing-course-for-freelancers-from-scratch/?couponCode=F31DD420D63DA5AEF254",
       "coupon_code": "F31DD420D63DA5AEF254",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5787226_0053_2.jpg",
+      "title": "Complete Filmora Video Editing Course : Zero to Pro Editor"
     },
     {
       "url": "https://www.udemy.com/course/face-recognition-using-tensorflow-and-keras-from-scratch/?couponCode=B0EECD5BC78C17F327DC",
       "coupon_code": "B0EECD5BC78C17F327DC",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5707568_7be2_2.jpg",
+      "title": "Facial Recognition Using TensorFlow And Teachable Machine."
     },
     {
       "url": "https://www.udemy.com/course/facial-recognition-using-yolov7-deep-learning-project/?couponCode=3751C976786FD76C1005",
       "coupon_code": "3751C976786FD76C1005",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5759006_ef72_3.jpg",
+      "title": "Facial Recognition with YOLOv7 : Best Deep Learning Project"
     },
     {
       "url": "https://www.udemy.com/course/linux-systemadministrator-6-praxisnahe-projekte/?couponCode=2143CBC0398A467DD07B",
       "coupon_code": "2143CBC0398A467DD07B",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/7159619_d9ee.jpg",
+      "title": "Linux-Systemadministrator: 6 praxisnahe Projekte"
     },
     {
       "url": "https://www.udemy.com/course/master-wordpress-website-development-and-monetization/?couponCode=D095C43FC7EA79EF5025",
       "coupon_code": "D095C43FC7EA79EF5025",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5239510_321d_7.jpg",
+      "title": "Mastering Wordpress: Wordpress Development and Monetization"
     },
     {
       "url": "https://www.udemy.com/course/microsoft-power-automate-with-ai-builder/?couponCode=SEPTFREE02",
       "coupon_code": "SEPTFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+      "image_url": "https://img-c.udemycdn.com/course/480x270/4070756_1f63_2.jpg",
+      "title": "Advanced RPA - Microsoft Power Automate With AI Builder"
     },
     {
       "url": "https://www.udemy.com/course/power-automate-desktop-course-intelligent-automation/?couponCode=SEPTFREE02",
