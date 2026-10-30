@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-30T00:45:03Z",
-  "count": 983,
+  "updated_at": "2026-10-30T06:58:32Z",
+  "count": 992,
   "courses": [
     {
+      "url": "https://www.udemy.com/course/c-modern-c-programming-language-made-easy/?couponCode=024C752059F6147EEDA3",
+      "coupon_code": "024C752059F6147EEDA3",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/c-programming-language-mastery-learn-c-from-scratch/?couponCode=3DDF2B5FA0AF79BEFB21",
+      "coupon_code": "3DDF2B5FA0AF79BEFB21",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/ceo-masterclass/?couponCode=OCTFREE01",
-      "coupon_code": "OCTFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=OCTFREE01",
-      "coupon_code": "OCTFREE01",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ciberseguridad-101-fundamentos-para-principiantes-absolutos/?couponCode=OCTFREE01",
       "coupon_code": "OCTFREE01",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
@@ -23,12 +23,12 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=OCTFREE02",
-      "coupon_code": "OCTFREE02",
+      "url": "https://www.udemy.com/course/cracking-cpp-interview/?couponCode=C61B72F360F217C8D999",
+      "coupon_code": "C61B72F360F217C8D999",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/es-curso-de-certificacion-de-ingeniero-asociado-en-ia/?couponCode=OCTFREE02",
+      "url": "https://www.udemy.com/course/de-la-recette-au-chef-devenez-ingenieur-en-llm/?couponCode=OCTFREE02",
       "coupon_code": "OCTFREE02",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
@@ -48,6 +48,56 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
+      "url": "https://www.udemy.com/course/guia-de-ingresos-pasivos-con-ia-y-automatizacion/?couponCode=OCTFREE01",
+      "coupon_code": "OCTFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-with-formulas-functions/?couponCode=AD107C1C1B499BE238C9",
+      "coupon_code": "AD107C1C1B499BE238C9",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/microsoft-word-google-docs-master-document-creation/?couponCode=D93A9FAD43B56BBFA91A",
+      "coupon_code": "D93A9FAD43B56BBFA91A",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ne-plus-echouer/?couponCode=8BE5733FA0D67F715816",
+      "coupon_code": "8BE5733FA0D67F715816",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/social-media-video-editing-with-canva-capcut-premiere-pro/?couponCode=246068363DC7B37E2DBA",
+      "coupon_code": "246068363DC7B37E2DBA",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-bootcamp/?couponCode=02219336685A7FE5A9ED",
+      "coupon_code": "02219336685A7FE5A9ED",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=OCTFREE01",
+      "coupon_code": "OCTFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ciberseguridad-101-fundamentos-para-principiantes-absolutos/?couponCode=OCTFREE01",
+      "coupon_code": "OCTFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=OCTFREE02",
+      "coupon_code": "OCTFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-curso-de-certificacion-de-ingeniero-asociado-en-ia/?couponCode=OCTFREE02",
+      "coupon_code": "OCTFREE02",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
       "url": "https://www.udemy.com/course/fr-mega-classe-ia-python-300-projets-pratiques/?couponCode=OCTFREE02",
       "coupon_code": "OCTFREE02",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -55,11 +105,6 @@
     {
       "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/?couponCode=OCTFREE02",
       "coupon_code": "OCTFREE02",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/guia-de-ingresos-pasivos-con-ia-y-automatizacion/?couponCode=OCTFREE01",
-      "coupon_code": "OCTFREE01",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
