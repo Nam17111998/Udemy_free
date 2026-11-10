@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-09T15:55:22Z",
-  "count": 975,
+  "updated_at": "2026-11-10T00:06:00Z",
+  "count": 981,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/2-week-ai-for-business-productivity-certification/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/agentic-ai-for-leaders-orchestrating-human-machine-teams/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/agile-coach-certification-aec/?couponCode=D9D53BDE3C68FB122187",
       "coupon_code": "D9D53BDE3C68FB122187",
@@ -13,18 +23,13 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/ai-ethics-governance-other-considerations-for-businesses/?couponCode=9THNOV26",
-      "coupon_code": "9THNOV26",
+      "url": "https://www.udemy.com/course/ai-governance-for-business-leaders-policy-to-practice/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/ai-for-business-analysts-z/?couponCode=B774C5FCA6C1EB228923",
-      "coupon_code": "B774C5FCA6C1EB228923",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ai-recruitment-ru/?couponCode=PAPAHR_NOV_615215",
-      "coupon_code": "PAPAHR_NOV_615215",
+      "url": "https://www.udemy.com/course/ai-in-90-days-a-leadership-bootcamp/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -48,23 +53,13 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/creative-thinking-mastery-problem-solving-innovation/?couponCode=CREATIVE_NOV_FREE",
-      "coupon_code": "CREATIVE_NOV_FREE",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/emotional-intelligence-for-leadership-personal-growth/?couponCode=BA41D198952E0FD6D132",
-      "coupon_code": "BA41D198952E0FD6D132",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/impact-coaching-for-personal-transformation/?couponCode=COACHING_NOV_FREE",
       "coupon_code": "COACHING_NOV_FREE",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/linkedin-ua/?couponCode=PAPAHR_NOV_558708",
-      "coupon_code": "PAPAHR_NOV_558708",
+      "url": "https://www.udemy.com/course/pgd-fire-safety-management/?couponCode=3C8C76DB9D903F41BC50",
+      "coupon_code": "3C8C76DB9D903F41BC50",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -75,6 +70,41 @@
     {
       "url": "https://www.udemy.com/course/scrum-master-course/?couponCode=D8506D9314D482D407B0",
       "coupon_code": "D8506D9314D482D407B0",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/supplychain-procurement-logistics/?couponCode=568DF30E489E1CF8A261",
+      "coupon_code": "568DF30E489E1CF8A261",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-ethics-governance-other-considerations-for-businesses/?couponCode=9THNOV26",
+      "coupon_code": "9THNOV26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-for-business-analysts-z/?couponCode=B774C5FCA6C1EB228923",
+      "coupon_code": "B774C5FCA6C1EB228923",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-recruitment-ru/?couponCode=PAPAHR_NOV_615215",
+      "coupon_code": "PAPAHR_NOV_615215",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/creative-thinking-mastery-problem-solving-innovation/?couponCode=CREATIVE_NOV_FREE",
+      "coupon_code": "CREATIVE_NOV_FREE",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/emotional-intelligence-for-leadership-personal-growth/?couponCode=BA41D198952E0FD6D132",
+      "coupon_code": "BA41D198952E0FD6D132",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/linkedin-ua/?couponCode=PAPAHR_NOV_558708",
+      "coupon_code": "PAPAHR_NOV_558708",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
