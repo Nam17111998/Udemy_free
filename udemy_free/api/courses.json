@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-11-12T18:05:07Z",
-  "count": 980,
+  "updated_at": "2026-11-13T00:04:12Z",
+  "count": 982,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7101185DF49E67",
+      "coupon_code": "C11E7F7101185DF49E67",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/claude-w-finansach-analiza-automatyzacja-i-modelowanie/?couponCode=E6387665EF8C9B04FA17",
       "coupon_code": "E6387665EF8C9B04FA17",
@@ -38,16 +43,6 @@
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
-      "url": "https://www.udemy.com/course/ogrenci-koclugu-kursu/?couponCode=SCHHH414IRKM",
-      "coupon_code": "SCHHH414IRKM",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
-      "url": "https://www.udemy.com/course/ogretim-stratejileri-ve-psikolojisi-birlestirilmis-kurs/?couponCode=SCIGUKSZDK7K",
-      "coupon_code": "SCIGUKSZDK7K",
-      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
-    },
-    {
       "url": "https://www.udemy.com/course/ogretim-yontemleri-ve-teknikleri-kursu/?couponCode=SCWASX2TNZHE",
       "coupon_code": "SCWASX2TNZHE",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
@@ -55,6 +50,11 @@
     {
       "url": "https://www.udemy.com/course/ogretimde-yontemler-ve-teknikler-kursu/?couponCode=SC37L12AQMKI",
       "coupon_code": "SC37L12AQMKI",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/pgd-in-scom/?couponCode=FC7215642ECDB362F2DB",
+      "coupon_code": "FC7215642ECDB362F2DB",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
@@ -75,6 +75,16 @@
     {
       "url": "https://www.udemy.com/course/vowels-for-advanced-chinese-learners-of-american-english/?couponCode=REALDINOV26",
       "coupon_code": "REALDINOV26",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ogrenci-koclugu-kursu/?couponCode=SCHHH414IRKM",
+      "coupon_code": "SCHHH414IRKM",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ogretim-stratejileri-ve-psikolojisi-birlestirilmis-kurs/?couponCode=SCIGUKSZDK7K",
+      "coupon_code": "SCIGUKSZDK7K",
       "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
     },
     {
