@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-11-25T12:30:19Z",
-  "count": 931,
+  "updated_at": "2026-11-25T22:19:57Z",
+  "count": 946,
   "courses": [
+    {
+      "url": "https://www.udemy.com/course/ai-in-60-minutes/?couponCode=NOVFREE01",
+      "coupon_code": "NOVFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ai-product-manager-certificate/?couponCode=NOVFREE01",
+      "coupon_code": "NOVFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/ceo-masterclass/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chief-ai-officer-program-lead-ai-strategy-governance/?couponCode=NOVFREE01",
+      "coupon_code": "NOVFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=NOVFREE01",
+      "coupon_code": "NOVFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/cours-de-certification-professionnelle-en-ingenierie-de-lia/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-certificado-de-explorador-en-ingenieria-de-ia/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-curso-de-certificacion-de-ingeniero-asociado-en-ia/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/es-curso-de-certificacion-profesional-en-ingenieria-de-ia/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-certificat-dexplorateur-en-ingenierie-de-lia/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/fr-cours-de-certification-ingenieur-associe-en-ia/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/mcp-for-leaders-architecting-context-driven-ai/?couponCode=NOVFREE01",
+      "coupon_code": "NOVFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/nca-genl-nvidia-certified-generative-ai-llms-specialization/?couponCode=NOVFREE03",
+      "coupon_code": "NOVFREE03",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/rag-strategy-execution-build-enterprise-knowledge-systems/?couponCode=NOVFREE01",
+      "coupon_code": "NOVFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
+    {
+      "url": "https://www.udemy.com/course/startup-founders-roadmap-from-zero-to-market/?couponCode=NOVFREE01",
+      "coupon_code": "NOVFREE01",
+      "image_url": "https://s.udemycdn.com/meta/default-meta-image-v4.png"
+    },
     {
       "url": "https://www.udemy.com/course/ai-leadership-mastery-for-executives/?couponCode=NOV26-FREE",
       "coupon_code": "NOV26-FREE",
